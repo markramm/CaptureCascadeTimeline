@@ -23,14 +23,17 @@ sources:
   url: https://www.deseret.com/2014/7/15/20468774/criminal-charges-ex-a-g-s-swallow-shurtleff-accepted-bribes-destroyed-evidence/
   outlet: Deseret News
   date: '2014-07-15'
+  tier: 2
 - title: Prosecutors 'stand down' and drop criminal case against Mark Shurtleff
   url: https://www.deseret.com/2016/7/18/20592211/prosecutors-stand-down-and-drop-criminal-case-against-mark-shurtleff/
   outlet: Deseret News
   date: '2016-07-18'
+  tier: 2
 - title: Shurtleff, Swallow and now Reyes - Why so much Utah A.G. turmoil?
   url: https://www.sltrib.com/news/2024/01/07/three-row-why-does-utah-have-so/
   outlet: Salt Lake Tribune
   date: '2024-01-07'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

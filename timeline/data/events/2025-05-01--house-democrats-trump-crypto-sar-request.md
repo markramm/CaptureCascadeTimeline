@@ -3,7 +3,7 @@ id: 2025-05-01--house-democrats-trump-crypto-sar-request
 date: '2025-05-01'
 importance: 6
 title: House Democrats Request Suspicious Activity Reports on Trump Crypto Ventures
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - House Democrats
 - Donald Trump
@@ -19,34 +19,28 @@ tags:
 status: confirmed
 sources:
 - title: Top House Dems Demand All Suspicious Activity Reports Related to Trump Crypto
-    Ventures
-  url: https://oversightdemocrats.house.gov/news/press-releases/top-house-dems-demand-all-suspicious-activity-reports-related-trump-crypto
+  tier: 1
+  url: 'https://oversightdemocrats.house.gov/news/press-releases/top-house-dems-demand-all-suspicious-activity-reports-related-trump-crypto'
   outlet: House Oversight Democrats
   date: '2025-05-14'
-- title: House Democrats Seek Treasury Reports on Trump's Meme Coin, World Liberty
-    Financial
-  url: https://decrypt.co/319837/house-democrats-treasury-reports-trump-crypto
+- title: 'House Democrats Seek Treasury Reports on Trump''s Meme Coin, World Liberty Financial'
+  url: 'https://decrypt.co/319837/house-democrats-treasury-reports-trump-crypto'
   outlet: Decrypt
   date: '2025-05-14'
-- title: Top Democrats Demand Treasury Info on Trump's Crypto Deals, Citing 'Bribery'
-    Risks
-  url: https://www.coindesk.com/policy/2025/05/14/top-democrats-demand-treasury-info-on-trumps-crypto-deals-citing-bribery-risks
+  tier: 2
+- title: 'Top Democrats Demand Treasury Info on Trump''s Crypto Deals, Citing ''Bribery'' Risks'
+  url: 'https://www.coindesk.com/policy/2025/05/14/top-democrats-demand-treasury-info-on-trumps-crypto-deals-citing-bribery-risks'
   outlet: CoinDesk
   date: '2025-05-14'
-- title: Democrats ask Treasury for 'suspicious activity reports' on Trump crypto
-    ventures
-  url: https://www.theblock.co/post/354345/democrats-ask-treasury-for-suspicious-activity-reports-on-trump-crypto-ventures-mention-justin-sun
+  tier: 2
+- title: 'Democrats ask Treasury for ''suspicious activity reports'' on Trump crypto ventures'
+  url: 'https://www.theblock.co/post/354345/democrats-ask-treasury-for-suspicious-activity-reports-on-trump-crypto-ventures-mention-justin-sun'
   outlet: The Block
   date: '2025-05-14'
-notes: This represents Congress grappling with entirely new form of potential presidential
-  corruption through cryptocurrency channels designed to circumvent traditional financial
-  oversight mechanisms. SAR request acknowledgment that traditional anti-corruption
-  mechanisms inadequate for cryptocurrency-enabled influence operations, requiring
-  new investigative approaches for pseudonymous blockchain transactions worth hundreds
-  of millions.
+  tier: 2
+notes: 'This represents Congress grappling with entirely new form of potential presidential corruption through cryptocurrency channels designed to circumvent traditional financial oversight mechanisms. SAR request acknowledgment that traditional anti-corruption mechanisms inadequate for cryptocurrency-enabled influence operations, requiring new investigative approaches for pseudonymous blockchain transactions worth hundreds of millions.'
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 ---
-
 House Democrats filed formal request for all Suspicious Activity Reports related to Trump's cryptocurrency ventures, citing concerns about deceptive practices, potential bribery, corruption, and illicit foreign influence through blockchain transactions worth hundreds of millions from foreign nationals.

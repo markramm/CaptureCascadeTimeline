@@ -19,18 +19,22 @@ sources:
   url: https://www.bloomberg.com/news/articles/2024-07-17/sec-sues-ex-ceo-of-digital-world-alleging-securities-fraud
   outlet: Bloomberg
   date: '2024-07-17'
+  tier: 1
 - title: Patrick Orlando SEC Complaint
   url: https://www.sec.gov/files/litigation/complaints/2024/comp26051.pdf
   outlet: US Securities and Exchange Commission
   date: '2024-07-17'
+  tier: 1
 - title: SEC sues Trump Media SPAC ex-CEO Patrick Orlando for alleged fraud
   url: https://www.cnbc.com/2024/07/18/sec-sues-trump-media-spac-ex-ceo-patrick-orlando.html
   outlet: CNBC
   date: '2024-07-18'
+  tier: 2
 - title: Trump Media Rocked by Securities Fraud Scandal
   url: https://www.newsweek.com/patrick-orlando-accused-securities-fraud-trump-media-truth-social-digital-world-acquisition-corp-1926817
   outlet: Newsweek
   date: '2024-07-18'
+  tier: 2
 importance: 9
 status: confirmed
 capture_lanes:

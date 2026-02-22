@@ -2,7 +2,7 @@
 id: 2025-08-18--texas-democrats-return-redistricting-standoff-ends
 date: '2025-08-18'
 importance: 9
-title: Texas Democrats End 2-Week Standoff, Return for Trump-Ordered Redistricting Vote
+title: 'Texas Democrats End 2-Week Standoff, Return for Trump-Ordered Redistricting Vote'
 location: Texas
 actors:
 - Texas House Democrats
@@ -26,22 +26,24 @@ capture_lanes:
 - Civil Rights Suppression
 sources:
 - title: Texas Democrats return to Austin after redistricting walkout
-  url: https://www.texastribune.org/2025/08/18/texas-democrats-return-redistricting-map-illinois/
+  url: 'https://www.texastribune.org/2025/08/18/texas-democrats-return-redistricting-map-illinois/'
   outlet: Texas Tribune
   date: '2025-08-18'
-  archive_url: https://web.archive.org/web/20250818000000/https://www.texastribune.org/2025/08/18/texas-democrats-return-redistricting-map-illinois/
-- title: Texas Republicans call new special session for redistricting, with Democrats
-  url: https://www.cnn.com/2025/08/15/politics/texas-redistricting-democrats-greg-abbott
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250818000000/https://www.texastribune.org/2025/08/18/texas-democrats-return-redistricting-map-illinois/'
+- title: 'Texas Republicans call new special session for redistricting, with Democrats'
+  url: 'https://www.cnn.com/2025/08/15/politics/texas-redistricting-democrats-greg-abbott'
   outlet: CNN
   date: '2025-08-15'
-  archive_url: https://web.archive.org/web/20250815000000/https://www.cnn.com/2025/08/15/politics/texas-redistricting-democrats-greg-abbott
+  archive_url: 'https://web.archive.org/web/20250815000000/https://www.cnn.com/2025/08/15/politics/texas-redistricting-democrats-greg-abbott'
+  tier: 1
 - title: Texas Republicans push ahead with redistricting after Democrats flee state
-  url: https://www.cnn.com/politics/live-news/texas-democrats-redistricting-quorum-08-04-25
+  url: 'https://www.cnn.com/politics/live-news/texas-democrats-redistricting-quorum-08-04-25'
   outlet: CNN
   date: '2025-08-04'
-  archive_url: https://web.archive.org/web/20250804000000/https://www.cnn.com/politics/live-news/texas-democrats-redistricting-quorum-08-04-25
-notes: Democrats fled to Illinois, New York, Massachusetts to break quorum and block mid-decade redistricting ordered by Trump. Upon return, Speaker Burrows imposed unprecedented surveillance requiring "permission slips" signed by Speaker and mandatory DPS escorts to leave chamber. Collier filed habeas corpus petition calling restraint illegal. Maps would give GOP 30 of 38 Texas congressional seats. Represents escalation to police-state tactics against opposition.
+  archive_url: 'https://web.archive.org/web/20250804000000/https://www.cnn.com/politics/live-news/texas-democrats-redistricting-quorum-08-04-25'
+  tier: 1
+notes: 'Democrats fled to Illinois, New York, Massachusetts to break quorum and block mid-decade redistricting ordered by Trump. Upon return, Speaker Burrows imposed unprecedented surveillance requiring "permission slips" signed by Speaker and mandatory DPS escorts to leave chamber. Collier filed habeas corpus petition calling restraint illegal. Maps would give GOP 30 of 38 Texas congressional seats. Represents escalation to police-state tactics against opposition.'
 status: confirmed
 ---
-
 Texas House Democrats return to Austin after 2-week quorum break in Illinois, ending resistance to Trump-ordered congressional redistricting. Republicans impose 24-hour security surveillance requiring DPS escorts and "permission slips" to leave chamber. Rep. Nicole Collier refuses, remains locked in chamber overnight calling herself "political prisoner."

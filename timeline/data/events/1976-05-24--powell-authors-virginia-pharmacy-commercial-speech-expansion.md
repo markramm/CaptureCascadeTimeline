@@ -24,6 +24,7 @@ sources:
   outlet: Cornell Legal Information Institute
   url: https://www.law.cornell.edu/supremecourt/text/425/748
   date: '1976-05-24'
+  tier: 1
   key_facts_confirmed:
   - Supreme Court ruled commercial speech has First Amendment protections
   - Struck down Virginia law prohibiting prescription drug price advertising
@@ -38,6 +39,7 @@ sources:
   - Justice Harry Blackmun delivered majority opinion
   - Established precedent for commercial speech First Amendment protection
   verified: true
+  tier: 2
 - title: Virginia State Pharmacy Board v. Virginia Citizens Consumer Council
   outlet: First Amendment Encyclopedia
   url: https://firstamendment.mtsu.edu/article/virginia-state-board-of-pharmacy-v-virginia-citizens-consumer-council-inc/
@@ -47,6 +49,7 @@ sources:
   - Challenged state restrictions on price advertising
   - Critical in defining commercial speech rights
   verified: true
+  tier: 2
 status: confirmed
 ---
 

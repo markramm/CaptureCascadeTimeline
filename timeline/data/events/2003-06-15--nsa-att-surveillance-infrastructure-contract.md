@@ -11,12 +11,15 @@ sources:
 - outlet: ProPublica
   title: NSA Spying Relies on AT&T's 'Extreme Willingness to Help'
   url: https://www.propublica.org/article/nsa-spying-relies-on-atts-extreme-willingness-to-help
+  tier: 1
 - outlet: PBS Frontline
   title: How AT&T Helped the NSA Spy on Millions
   url: https://www.pbs.org/wgbh/frontline/article/how-att-helped-the-nsa-spy-on-millions/
+  tier: 1
 - outlet: Electronic Frontier Foundation
   title: New Documents Confirm AT&T and NSA's Longstanding Surveillance Partnership
   url: https://www.eff.org/deeplinks/2015/08/eff-claims-government-spying-atts-help-further-confirmed-new-york-times-article
+  tier: 1
 tags:
 - nsa
 - att

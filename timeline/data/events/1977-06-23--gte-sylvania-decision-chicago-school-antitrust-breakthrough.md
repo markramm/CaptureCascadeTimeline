@@ -22,12 +22,14 @@ sources:
   url: https://lawreview.uchicago.edu/print-archive/chicago-school-and-forgotten-political-dimension-antitrust-law
   outlet: University of Chicago Law Review
   date: '2020-01-01'
+  tier: 1
   verified: true
 - title: Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust
   url: https://www.promarket.org/2019/10/07/aaron-director-and-the-empirical-foundation-for-the-chicago-attitude-on-antitrust/
   outlet: ProMarket
   date: '2019-10-07'
   verified: true
+  tier: 2
 notes: Continental Television v. GTE Sylvania, 433 U.S. 36 (1977), was the first significant Chicago School antitrust success at the Supreme Court. Aaron Director began teaching antitrust economics at University of Chicago in the 1950s, influencing Robert Bork, Henry Manne, Kenneth Dam, Ward Bowman, and Wesley Liebeler. This decision paved the way for Bork's 1978 "Antitrust Paradox."
 status: confirmed
 ---

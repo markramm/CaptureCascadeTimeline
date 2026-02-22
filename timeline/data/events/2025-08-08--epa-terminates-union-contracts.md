@@ -28,14 +28,17 @@ sources:
   url: https://federalnewsnetwork.com/unions/2025/08/epa-terminates-federal-union-contracts-effective-immediately/
   outlet: Federal News Network
   date: '2025-08-08'
+  tier: 2
 - title: EPA becomes the second federal agency to cancel its union contracts
   url: https://www.govexec.com/workforce/2025/08/epa-becomes-second-federal-agency-cancel-its-union-contracts/407364/
   outlet: Government Executive
   date: '2025-08-08'
+  tier: 2
 - title: EPA dissolves union contract, AFGE says
   url: https://thehill.com/policy/energy-environment/5444115-epa-union-fight-court/
   outlet: The Hill
   date: '2025-08-08'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

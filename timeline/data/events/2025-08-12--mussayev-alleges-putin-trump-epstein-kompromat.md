@@ -29,14 +29,17 @@ sources:
   outlet: Morning Truth
   url: https://morningtruth.substack.com/p/ex-kgb-official-claims-putin-has
   date: '2025-08-12'
+  tier: 2
 - title: 'Fact Check: Was Donald Trump Recruited by the KGB?'
   outlet: Euronews
   url: https://www.euronews.com/my-europe/2025/03/13/fact-checking-online-claims-that-donald-trump-was-recruited-by-the-kgb-as-krasnov
   date: '2025-03-13'
+  tier: 1
 - title: WHAT PUTIN HAS ON TRUMP
   outlet: Closer to the Edge
   url: https://www.closertotheedge.net/p/what-putin-has-on-trump
   date: '2025-08-12'
+  tier: 2
 status: reported
 ---
 

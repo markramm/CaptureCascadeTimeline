@@ -33,6 +33,7 @@ sources:
 - title: Rockefeller and the Standard Oil Monopoly
   outlet: Constitutional Rights Foundation
   url: https://www.crf-usa.org/bill-of-rights-in-action/bria-16-2-b-rockefeller-and-the-standard-oil-monopoly.html
+  tier: 2
   year: 2025
 status: confirmed
 capture_lanes:

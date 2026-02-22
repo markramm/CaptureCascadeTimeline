@@ -23,6 +23,7 @@ sources:
 - title: Decline of the Glass–Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
   outlet: Wikipedia
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Federal Reserve systematically eroded Glass-Steagall restrictions
@@ -36,6 +37,7 @@ sources:
   - Fed first allowed 5% of gross revenues from investment banking in 1986
   - Fed voted 3-2 to ease Glass-Steagall in 1987
   - Alan Greenspan accelerated banking deregulation
+  tier: 1
 - title: 'The Glass-Steagall Act: A Legal and Policy Analysis'
   url: https://www.congress.gov/crs_external_products/R/PDF/R44349/R44349.3.pdf
   outlet: Congressional Research Service
@@ -44,6 +46,7 @@ sources:
   - Congressional Research Service documented systematic Fed erosion of Glass-Steagall
   - By 1990, largest banks could participate in almost all securities activities
   - Fed approved applications from JP Morgan and other banks to underwrite securities
+  tier: 1
 status: confirmed
 ---
 

@@ -21,18 +21,22 @@ sources:
   title: Clarida Reveals Large Pre-Pandemic Equities Trades
   outlet: Central Banking
   date: '2021-10-01'
+  tier: 2
 - url: https://www.newsweek.com/federal-reserve-vice-chair-richard-clarida-becomes-third-resign-after-trading-scandal-1667763
   title: Federal Reserve Vice Chair Richard Clarida Resigns After Trading Scandal
   outlet: Newsweek
   date: '2022-01-10'
+  tier: 2
 - url: https://www.bloomberg.com/news/articles/2022-07-14/fed-watchdog-clears-powell-clarida-in-trading-scandal-probe
   title: Fed Watchdog Clears Powell, Clarida in Trading Scandal Probe
   outlet: Bloomberg
   date: '2022-07-14'
+  tier: 1
 - url: https://krdo.com/news/ap-national-news/2022/01/10/fed-vice-chair-richard-clarida-resigns-amid-trading-scandal-2/
   title: Fed Vice Chair Clarida Resigns Amid Trading Scandal
   outlet: Associated Press
   date: '2022-01-10'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Financial Capture

@@ -19,18 +19,22 @@ sources:
   url: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
   outlet: EPA
   date: '2025-07-29'
+  tier: 1
 - title: The EPA proposes gutting its greenhouse gas rules. Here's what it means for cars and pollution
   url: https://www.npr.org/2025/07/29/nx-s1-5463771/epa-greenhouse-gas-regulations-cars-pollution
   outlet: NPR
   date: '2025-07-29'
+  tier: 1
 - title: EPA to revoke 'endangerment finding,' landmark basis for regulating greenhouse gases
   url: https://www.cbsnews.com/news/epa-revoke-endangerment-finding-regulating-greenhouse-gases/
   outlet: CBS News
   date: '2025-07-29'
+  tier: 1
 - title: Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards
   url: https://www.federalregister.gov/documents/2025/08/01/2025-14572/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards
   outlet: Federal Register
   date: '2025-08-01'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

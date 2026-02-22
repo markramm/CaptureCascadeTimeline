@@ -20,6 +20,7 @@ sources:
   url: https://www.fao.org/4/w3646e/w3646e07.htm
   outlet: Food and Agriculture Organization of the United Nations
   date: '1994-01-01'
+  tier: 1
   verified: true
   tier: 1
 - title: Oregon Department of Forestry Forest Practices Act
@@ -45,16 +46,19 @@ sources:
   outlet: New America
   date: '2020-01-01'
   verified: true
+  tier: 2
 - title: Lobbying in the United States - Wikipedia
   url: https://en.wikipedia.org/wiki/Lobbying_in_the_United_States
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: The Business of America is Lobbying
   url: https://www.newamerica.org/weekly/business-america-lobbying/
   outlet: New America
   date: '2020-01-01'
   verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

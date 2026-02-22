@@ -22,14 +22,17 @@ sources:
   url: https://www.ft.com/content/7782f730-3ff2-4a8e-a071-5de8536d382e
   outlet: Financial Times
   date: '2025-05-13'
+  tier: 1
 - title: A group of anonymous traders scored a $100 million payday by buying Melania Trump's memecoin just before it launched publicly
   url: https://fortune.com/2025/05/07/melania-trump-memecoin-anonymous-traders-100-million-payday/
   outlet: Fortune
   date: '2025-05-07'
+  tier: 2
 - title: MELANIA memecoin insiders reportedly make over $150 million including pre-sale trades
   url: https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/
   outlet: CryptoSlate
   date: '2025-05-13'
+  tier: 2
 connections:
 - cryptocurrency insider trading
 - token launch fraud

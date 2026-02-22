@@ -18,18 +18,22 @@ sources:
   url: https://www.brookings.edu/articles/rfk-jr-s-history-of-medical-misinformation-raises-concerns-over-hhs-nomination/
   outlet: Brookings Institution
   date: '2024-11-20'
+  tier: 1
 - title: A running list of RFK Jr.'s controversies
   url: https://theweek.com/1025265/rfk-jr-controversies
   outlet: The Week
   date: '2024-11-15'
+  tier: 2
 - title: RFK Jr. accused of making antisemitic, racist claims about COVID
   url: https://abcnews.go.com/Politics/rfk-jr-accused-making-antisemitic-racist-claims-covid/story?id=101323851
   outlet: ABC News
   date: '2023-07-15'
+  tier: 1
 - title: Debunking RFK Jr.'s Contradictory Statements on Conspiracies
   url: https://www.pbs.org/newshour/politics/debunking-some-of-rfk-jr-s-contradictory-statements
   outlet: PBS News
   date: '2023-08-10'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

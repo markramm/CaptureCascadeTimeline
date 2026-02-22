@@ -16,12 +16,15 @@ sources:
 - title: 'Biden Administration Financial Disclosures: Compliance and Conflicts'
   url: https://www.citizensforethics.org/reports-investigations/crew-reports/biden-administration-financial-disclosures-show-strong-pattern-of-compliance/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+  tier: 2
 - title: 'Executive Branch Financial Disclosures: Potential Conflicts of Interest'
   url: https://therevolvingdoorproject.org/closing-the-revolving-door-public-financial-disclosures-reveal-potential-conflicts-of-interest-facing-biden-appointees/
   outlet: Revolving Door Project
+  tier: 2
 - title: White House Releases Financial Disclosures for Biden, Harris
   url: https://thehill.com/homenews/administration/4005479-white-house-releases-financial-disclosures-for-biden-harris/
   outlet: The Hill
+  tier: 2
 tags:
 - regulatory-capture
 - revolving-door

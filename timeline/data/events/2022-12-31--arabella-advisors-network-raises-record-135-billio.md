@@ -15,25 +15,25 @@ tags:
 - foreign-influence
 status: confirmed
 sources:
-- title: Under Ethics Scrutiny, Liberal Dark Money Behemoth Arabella Advisors Discloses
-    $1.3 Billion Fundraising Haul
-  url: https://freebeacon.com/democrats/under-ethics-scrutiny-liberal-dark-money-behemoth-arabella-advisors-discloses-1-3-billion-fundraising-haul/
+- title: 'Under Ethics Scrutiny, Liberal Dark Money Behemoth Arabella Advisors Discloses'
+  tier: 2
+  url: 'https://freebeacon.com/democrats/under-ethics-scrutiny-liberal-dark-money-behemoth-arabella-advisors-discloses-1-3-billion-fundraising-haul/'
   outlet: Washington Free Beacon
   date: '2023-11-15'
 - title: Meet the Swiss Billionaire Behind Arabella Advisors Dark Money Empire
-  url: https://capitalresearch.org/article/meet-the-swiss-billionaire-behind-arabella-advisors-dark-money-empire/
+  url: 'https://capitalresearch.org/article/meet-the-swiss-billionaire-behind-arabella-advisors-dark-money-empire/'
   outlet: Capital Research Center
   date: '2023-02-08'
-- title: How a Secretive Billionaire Handed His Fortune to the Architect of the 'Dark
-    Money' Political Network
-  url: https://www.theatlantic.com/politics/archive/2021/09/anonymous-big-donor-conservative-nonprofit-16-thirty-fund/620092/
+  tier: 2
+- title: 'How a Secretive Billionaire Handed His Fortune to the Architect of the ''Dark Money'' Political Network'
+  url: 'https://www.theatlantic.com/politics/archive/2021/09/anonymous-big-donor-conservative-nonprofit-16-thirty-fund/620092/'
   outlet: The Atlantic
   date: '2021-09-02'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-
 The Arabella Advisors network, managing five nonprofit funds including the Sixteen Thirty Fund, raised $1.35 billion from anonymous donors in 2022, making it the dominant force in Democratic dark money operations. The Sixteen Thirty Fund alone spent $196 million on political causes including $66 million supporting liberal politicians and ballot initiatives. Swiss billionaire Hansjörg Wyss has contributed $245 million to Arabella entities since 2016, with $208 million going to the Sixteen Thirty Fund. The Atlantic called it 'the indisputable heavyweight of Democratic dark money,' noting it was the second-largest super-PAC donor in 2020. The network faced scrutiny in September 2022 when the D.C. attorney general issued subpoenas seeking information on alleged financial mismanagement.

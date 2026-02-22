@@ -20,14 +20,17 @@ sources:
   url: https://www.nbcnews.com/politics/trump-administration/trump-threatens-federal-control-dc-attack-doge-staffer-coristine-rcna223293
   outlet: NBC News
   date: '2025-08-05'
+  tier: 1
 - title: Trump threatens federal takeover of D.C. after ex-DOGE worker attacked
   url: https://www.washingtonpost.com/dc-md-va/2025/08/05/trump-doge-worker-washington-dc-crime/
   outlet: The Washington Post
   date: '2025-08-05'
+  tier: 1
 - title: Ex-DOGE staffer allegedly injured in attempted carjacking
   url: https://www.cbsnews.com/news/ex-doge-staffer-edward-coristine-injured-in-attempted-carjacking-trump-federal-takeover-of-d-c/
   outlet: CBS News
   date: '2025-08-06'
+  tier: 1
 notes: 'Two 15-year-old suspects from Maryland arrested. Coristine had resigned from government
 
   in June 2025. Trump''s response came within hours of incident. Federal takeover threats

@@ -10,15 +10,19 @@ sources:
 - title: The Rise of Corporate PACs
   url: https://www.opensecrets.org/news/2010/09/corporate-pac-contributions/
   outlet: Center for Responsive Politics
+  tier: 2
 - title: Federal Election Commission PAC Data
   url: https://www.fec.gov/data/browse-data/?tab=raising
   outlet: Federal Election Commission
+  tier: 1
 - title: Corporate PACs as Fundraisers
   url: https://cmr.berkeley.edu/1981/05/23-3-corporate-pacs-as-fundraisers/
   outlet: California Management Review (UC Berkeley)
+  tier: 1
 - title: Buckley v. Valeo Supreme Court Case Analysis
   url: https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/
   outlet: FEC Legal Resources
+  tier: 1
 tags:
 - corporate-pacs
 - campaign-finance

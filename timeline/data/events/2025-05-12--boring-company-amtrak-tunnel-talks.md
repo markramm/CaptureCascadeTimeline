@@ -22,14 +22,17 @@ sources:
   outlet: Newsweek
   date: '2025-05-13'
   url: https://www.newsweek.com/amtrak-elon-musk-help-rail-project-2072207
+  tier: 2
 - title: Elon Musk's The Boring Company might be in line for an Amtrak contract
   outlet: TechCrunch
   date: '2025-05-13'
   url: https://techcrunch.com/2025/05/13/elon-musks-the-boring-company-might-be-in-line-for-an-amtrak-contract/
+  tier: 2
 - title: Elon Musk's Boring Company is in talks with government over Amtrak project
   outlet: The New York Times
   date: '2025-05-12'
   url: https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html
+  tier: 1
 connections:
 - Trump Administration's infrastructure initiatives
 - Musk's government contract strategies

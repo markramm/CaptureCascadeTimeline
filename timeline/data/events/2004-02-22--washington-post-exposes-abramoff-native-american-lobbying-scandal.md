@@ -26,14 +26,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
   outlet: Wikipedia
   date: '2004-02-22'
+  tier: 2
 - title: John McCain and the Abramoff Tribal Lobbying Scandal
   url: https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/
   outlet: Levin Center
   date: '2004-02-22'
+  tier: 1
 - title: Senate Report 109-325 - GIMME FIVE Investigation of Tribal Lobbying Matters
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: U.S. Senate Committee on Indian Affairs
   date: '2006-11-20'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

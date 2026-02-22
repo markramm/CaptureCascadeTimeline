@@ -21,18 +21,22 @@ sources:
   url: https://en.wikipedia.org/wiki/1996_United_States_campaign_finance_controversy
   outlet: Wikipedia
   date: '1996-06-18'
+  tier: 2
 - title: Johnny Chung says Chinese official gave him $300,000 for Clinton campaign
   url: https://www.cnn.com/ALLPOLITICS/stories/1999/04/04/china.clinton.money/
   outlet: CNN
   date: '1999-04-04'
+  tier: 1
 - title: Chung Links '96 Campaign Funds to Beijing
   url: https://www.washingtonpost.com/archive/politics/1999/04/04/chung-links-96-campaign-funds-to-beijing/cef4fa1c-f7a6-4ec3-a63a-c4456f8a7cde/
   outlet: The Washington Post
   date: '1999-04-04'
+  tier: 1
 - title: Campaign finance scandal in the 1990s
   url: https://www.ebsco.com/research-starters/law/campaign-finance-scandal-1990s
   outlet: EBSCO Research Starters
   date: '2024-01-01'
+  tier: 2
 id: 1996-06-18--china-campaign-finance-scandal-johnny-chung
 capture_lanes:
 - Electoral Manipulation

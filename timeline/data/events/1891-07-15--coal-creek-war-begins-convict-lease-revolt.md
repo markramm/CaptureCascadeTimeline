@@ -13,15 +13,18 @@ sources:
 - title: 'Oct. 31, 1891: Coal Creek War'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/coal-creek-war/
+  tier: 2
   year: 2024
 - title: Coal Creek War
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Coal_Creek_War
   year: 2024
+  tier: 2
 - title: On Halloween Night in 1891, Tennessee Miners Made Righteous Mayhem
   outlet: Jacobin
   url: https://jacobin.com/2022/10/coal-creek-war-convict-leasing-miner-rebellion-tennessee
   year: 2022
+  tier: 2
 tags:
 - labor-organizing
 - convict-lease-system

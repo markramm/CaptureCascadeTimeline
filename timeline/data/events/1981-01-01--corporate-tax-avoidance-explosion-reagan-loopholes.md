@@ -21,17 +21,20 @@ sources:
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: 'The Spirit of 86: Real Lessons of Last Big Corporate Tax Overhaul'
   url: https://americansfortaxfairness.org/the-spirit-of-86-real-lessons-of-the-last-big-corporate-tax-overhaul/
   outlet: Americans For Tax Fairness
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: How Corporations Shift Profits to Avoid Taxes
   url: https://time.com/6326583/tax-shelters-multinational-corporations/
   outlet: TIME
   date: '2024-01-01'
   verified: true
+  tier: 1
 capture_lanes:
 - Corporate Capture
 - Financial Capture

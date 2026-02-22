@@ -17,10 +17,13 @@ actors:
 sources:
 - title: senate.gov
   url: https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
+  tier: 1
 - title: aarclibrary.org
   url: https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm
+  tier: 2
 - title: constitutioncenter.org
   url: https://constitutioncenter.org/blog/looking-back-at-the-church-committee
+  tier: 2
 status: confirmed
 capture_lanes:
 - Surveillance Infrastructure

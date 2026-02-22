@@ -22,18 +22,22 @@ sources:
   url: https://www.latimes.com/politics/2025/07/20/california-emergency-redistricting
   outlet: Los Angeles Times
   date: '2025-07-20'
+  tier: 1
 - title: Newsom calls special session for redistricting response
   url: https://www.sacbee.com/politics/2025/07/20/newsom-special-session-redistricting
   outlet: Sacramento Bee
   date: '2025-07-20'
+  tier: 2
 - title: Newsom announces California's own redistricting push to counter Texas
   url: https://www.cnn.com/2025/08/14/politics/california-redistricting-republicans-schwarzenegger
   outlet: CNN
   date: '2025-08-14'
+  tier: 1
 - title: California lawmakers begin passing bills to counter Texas in nationwide fight over election maps
   url: https://www.washingtonpost.com/politics/2025/08/21/california-texas-redistricting-trump/
   outlet: The Washington Post
   date: '2025-08-21'
+  tier: 1
 notes: Escalation of redistricting wars as blue states respond to red state manipulation
 status: confirmed
 source_count: 4

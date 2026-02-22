@@ -11,15 +11,18 @@ sources:
 - title: Who Should Govern Congress? The Salary Grab of 1873 and the Coalition of Reform
   outlet: Northwestern University Institute for Policy Research
   url: https://www.ipr.northwestern.edu/documents/working-papers/2005/IPR-WP-05-07.pdf
+  tier: 1
   year: 2005
 - title: Salary Grab Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Salary_Grab_Act
   year: 2024
+  tier: 2
 - title: The Salary Grab
   outlet: A Strife of Interests
   url: https://kingoffrauds.wordpress.com/2019/09/07/the-salary-grab/
   year: 2019
+  tier: 2
 tags:
 - systematic-corruption
 - legislative-corruption

@@ -23,18 +23,22 @@ sources:
   url: https://www.pbs.org/newshour/politics/trump-administration-ends-biden-era-task-force-aimed-at-seizing-russian-oligarchs-assets
   outlet: PBS News
   date: '2025-02-06'
+  tier: 1
 - title: Trump's Justice Department ends Biden-era task force aimed at seizing assets of Russian oligarchs
   url: https://www.washingtonpost.com/politics/2025/02/06/russia-sanctions-trump-treasury-doj-bondi/504f34fa-e4d8-11ef-ab83-bb30e4340014_story.html
   outlet: The Washington Post
   date: '2025-02-06'
+  tier: 1
 - title: U.S. Disbands Task Forces on Russian Sanctions, Foreign Influence
   url: https://www.themoscowtimes.com/2025/02/07/us-disbands-task-forces-on-russian-sanctions-foreign-influence-a87901
   outlet: The Moscow Times
   date: '2025-02-07'
+  tier: 2
 - title: Pam Bondi Ends Task Force On Russian Oligarchs To Focus On Cartels
   url: https://www.newsweek.com/pam-bondi-ends-task-force-russian-oligarchs-focus-cartels-2027638
   outlet: Newsweek
   date: '2025-02-06'
+  tier: 2
 connections: []
 patterns:
 - foreign-influence

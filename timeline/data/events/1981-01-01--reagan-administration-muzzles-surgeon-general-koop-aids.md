@@ -21,22 +21,26 @@ sources:
   url: https://profiles.nlm.nih.gov/spotlight/qq/feature/aids
   outlet: National Library of Medicine
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: 'C. Everett Koop: Pioneering Surgeon General Spurred Reagan Response to AIDS'
   url: https://www.thedailybeast.com/c-everett-koop-pioneering-surgeon-general-spurred-reagan-response-to-aids/
   outlet: The Daily Beast
   date: '2013-02-26'
   verified: true
+  tier: 2
 - title: C. Everett Koop and the First Surgeon General Report on AIDS
   url: https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/
   outlet: UNT Libraries
   date: '2022-12-01'
   verified: true
+  tier: 1
 - title: 'Shifting Blame: C. Everett Koop AIDS Rhetoric of Guilt and Redemption'
   url: https://kbjournal.org/drummond
   outlet: KB Journal
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Electoral Manipulation
 - Digital & Tech Capture

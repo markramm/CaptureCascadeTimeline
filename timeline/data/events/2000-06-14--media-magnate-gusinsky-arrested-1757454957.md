@@ -21,14 +21,17 @@ sources:
   title: Russian Media Tycoon, Vladimir Gusinsky, Arrested
   url: https://www.pbs.org/newshour/nation/media-jan-june00-russia_06-14
   date: '2000-06-14'
+  tier: 1
 - outlet: U.S. Congressional Record
   title: Arrest of Vladimir Gusinsky in Russia
   url: https://www.govinfo.gov/content/pkg/CRECB-2000-pt8/html/CRECB-2000-pt8-Pg11437-2.htm
   date: '2000-06-14'
+  tier: 1
 - outlet: International Press Institute
   title: 'Letter: Independent Russian media owner Vladimir Gusinsky arrested and detained by authorities'
   url: https://ipi.media/letter-independent-russian-media-owner-vladimir-gusinsky-arrested-and-detained-by-authorities/
   date: '2000-06-14'
+  tier: 2
 status: confirmed
 priority_id: RP-20250909-intelligence-privatization-timeline
 ---

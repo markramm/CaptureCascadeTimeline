@@ -19,21 +19,25 @@ sources:
   outlet: Rolling Stone
   title: How Roger Ailes Built the Fox News Fear Factory
   url: https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/
+  tier: 2
 - archive_url: https://web.archive.org/web/20190204000000/https://theweek.com/articles/880107/why-fox-news-created
   date: '2019-02-04'
   outlet: The Week
   title: Why Fox News was created
   url: https://theweek.com/articles/880107/why-fox-news-created
+  tier: 2
 - date: '2021-07-01'
   outlet: History News Network
   title: Roger Ailes' Secret Nixon-Era Blueprint for Fox News
   url: https://www.historynewsnetwork.org/article/roger-ailes-secret-nixon-era-blueprint-for-fox-new
+  tier: 3
 - date: '2023'
   outlet: University of Chicago
   title: 'Nixon, the New Right, and the Education of Roger Ailes: The Origins of Conservative
     Television'
   url: https://knowledge.uchicago.edu/record/5155
   notes: Academic thesis tracking Ailes' early media strategy
+  tier: 1
 status: confirmed
 tags:
 - media-planning

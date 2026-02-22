@@ -11,15 +11,18 @@ sources:
   title: A Conservative War Room Opens Its Doors
   url: https://www.cbsnews.com/news/a-conservative-war-room-opens-its-doors/
   verified: true
+  tier: 1
 - outlet: Greensboro News
   title: 'Conservatives Pencil In Wednesday Meeting: Grover Norquist''s Weekly Gathering
     Illustrates the Direct Pipeline the Right Has to the White House'
   url: https://greensboro.com/conservatives-pencil-in-wednesday-meeting-grover-norquists-weekly-gathering-illustrates-the-direct-pipeline-the-right/article_21843295-7e0f-5fe0-b6cc-f3d89c7a6df8.html
   verified: true
+  tier: 2
 - outlet: Americans for Tax Reform
   title: About Coalition Meetings
   url: https://atr.org/about/coalition-meetings/
   verified: true
+  tier: 2
 importance: 8
 tags:
 - conservative-coordination

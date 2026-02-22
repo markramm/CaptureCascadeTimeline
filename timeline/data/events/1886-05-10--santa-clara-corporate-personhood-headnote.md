@@ -14,17 +14,22 @@ sources:
 - title: Santa Clara County v. Southern Pacific Railroad Co., 118 U.S. 394 (1886)
   url: https://supreme.justia.com/cases/federal/us/118/394/
   outlet: Justia U.S. Supreme Court Center
+  tier: 1
 - title: Santa Clara County v. Southern Pacific Railroad Co. - Wikipedia
   url: https://en.wikipedia.org/wiki/Santa_Clara_County_v._Southern_Pacific_Railroad_Co.
+  tier: 2
 - title: The History of Corporate Personhood
   url: https://www.brennancenter.org/our-work/analysis-opinion/history-corporate-personhood
   outlet: Brennan Center for Justice
+  tier: 1
 - title: 'Corporate personhood, monopoly capital, and the precedent that wasn''t: The 1886 Santa Clara case'
   url: https://www.liberationschool.org/corporate-personhood-monopoly-capital-and-the-precedent-that-wasnt-the-1866-santa-clara-case/
   outlet: Liberation School
+  tier: 2
 - title: What Is The Basis For Corporate Personhood?
   url: https://www.npr.org/2011/10/24/141663195/what-is-the-basis-for-corporate-personhood
   outlet: NPR
+  tier: 1
 tags:
 - corporate-personhood
 - supreme-court

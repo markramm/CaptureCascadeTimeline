@@ -25,14 +25,17 @@ sources:
   url: https://www.brookings.edu/articles/off-with-their-heads/
   outlet: Brookings Institution
   date: '2002-04-01'
+  tier: 1
 - title: Report alleges politicized appointments to inspector general positions
   url: https://www.govexec.com/federal-news/2004/10/report-alleges-politicized-appointments-to-inspector-general-positions/18434/
   outlet: Government Executive
   date: '2004-10-14'
+  tier: 2
 - title: Inspector General Reform Act of 2008
   url: https://www.congress.gov/110/plaws/publ409/PLAW-110publ409.pdf
   outlet: U.S. Congress
   date: '2008-10-14'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

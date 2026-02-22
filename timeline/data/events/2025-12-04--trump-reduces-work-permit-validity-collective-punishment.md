@@ -27,22 +27,27 @@ sources:
   url: https://www.cbsnews.com/news/immigration-work-permits-uscis/
   outlet: CBS News
   date: '2025-12-04'
+  tier: 1
 - title: USCIS slashes work permit validity from 5 years to 18 months for noncitizens citing security concerns
   url: https://www.foxnews.com/politics/uscis-slashes-work-permit-validity-from-5-years-18-months-noncitizens-citing-security-concerns
   outlet: Fox News
   date: '2025-12-04'
+  tier: 2
 - title: Trump Admin Dramatically Scales Back Work Permits For Asylum Seekers
   url: https://dailycaller.com/2025/12/04/uscis-scales-back-work-permit-timeframe/
   outlet: Daily Caller
   date: '2025-12-04'
+  tier: 2
 - title: US work authorizations for legal immigrants reduced to 18 months
   url: https://ctmirror.org/2025/12/05/work-authorization-slashed-legal-immigrants/
   outlet: CT Mirror
   date: '2025-12-05'
+  tier: 2
 - title: Trump administration limits work permits for asylum seekers following deadly National Guard shooting
   url: https://www.theblaze.com/news/trump-administration-limits-work-permits-for-asylum-seekers-following-deadly-national-guard-shooting
   outlet: The Blaze
   date: '2025-12-04'
+  tier: 2
 connections:
 - USCIS Halts Afghan Asylum Processing (November 2025)
 - National Guard Shooting Near White House (November 26, 2025)

@@ -22,14 +22,17 @@ sources:
   url: https://www.rollingstone.com/politics/politics-news/elon-musk-regulatory-matters-under-trump-1235336699/
   outlet: Rolling Stone
   date: '2025-05-11'
+  tier: 2
 - title: SEC's Case Against Elon Musk Faces Unpredictability in New Administration
   url: https://www.bloomberg.com/news/articles/2025-01-16/musk-facing-sec-claims-in-trump-era-means-all-bets-are-off
   outlet: Bloomberg
   date: '2025-01-16'
+  tier: 1
 - title: Elon Musk's Court Fights to Outlast His Time at White House
   url: https://www.bloomberg.com/news/articles/2025-05-30/elon-musk-s-court-fights-to-outlast-his-time-in-the-white-house
   outlet: Bloomberg
   date: '2025-05-30'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

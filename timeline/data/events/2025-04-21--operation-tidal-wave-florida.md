@@ -22,14 +22,17 @@ sources:
   url: https://www.ice.gov/news/releases/largest-joint-immigration-operation-florida-history-leads-1120-criminal-alien-arrests
   outlet: ICE
   date: '2025-04-27'
+  tier: 1
 - title: Gov. Ron DeSantis, ICE officials laud Operation Tidal Wave as historic immigration enforcement program
   url: https://www.wflx.com/2025/05/01/gov-ron-desantis-ice-officials-laud-operation-tidal-wave-historic-immigration-enforcement-program/
   outlet: WFLX
   date: '2025-05-01'
+  tier: 2
 - title: First-of-its-kind operation with local law enforcement leads to nearly 800 immigrant arrests in Florida
   url: https://www.cnn.com/2025/04/27/us/ice-operation-first-of-its-kind-florida-hnk
   outlet: CNN
   date: '2025-04-27'
+  tier: 1
 notes: 63% of those arrested had existing criminal arrests or convictions, meaning 37% did not. 378 had final removal orders. State officials described the first week as "just a warm up," indicating plans for continued operations. The operation was explicitly framed as a political "model for other states."
 status: confirmed
 ---

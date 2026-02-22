@@ -10,12 +10,15 @@ sources:
 - title: Trump removes civil service protections with Schedule F plan
   url: https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f
   outlet: NPR
+  tier: 1
 - title: Trump administration targets wide range of positions for removing federal job protections
   url: https://federalnewsnetwork.com/workforce/2025/01/trump-administration-targets-wide-range-of-positions-for-removing-federal-job-protections/
   outlet: Federal News Network
+  tier: 2
 - title: 'Fact Sheet: President Donald J. Trump Creates New Federal Employee Category to Enhance Accountability'
   url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/
   outlet: White House
+  tier: 1
 importance: 9
 tags:
 - schedule-f

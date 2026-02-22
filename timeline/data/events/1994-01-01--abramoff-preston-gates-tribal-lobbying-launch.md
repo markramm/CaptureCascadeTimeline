@@ -12,12 +12,15 @@ sources:
 - title: How scheming lobbyist operated in Seattle firm
   url: https://archive.seattletimes.com/archive/20060207/prestongates07m/how-scheming-lobbyist-operated-in-seattle-firm
   outlet: Seattle Times
+  tier: 2
 - title: John McCain and the Abramoff Tribal Lobbying Scandal
   url: https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/
   outlet: Levin Center
+  tier: 1
 - title: Jack Abramoff Indian Lobbying Scandal
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
   outlet: Wikipedia
+  tier: 2
 importance: 7
 tags:
 - abramoff

@@ -3,7 +3,7 @@ id: 2025-12-04--illinois-warns-federal-agents-license-plate-tampering
 date: '2025-12-04'
 importance: 8
 title: Illinois Secretary of State Warns Federal Immigration Agents and Rental Companies That License Plate Tampering Violates State Law
-location: Chicago, Illinois
+location: 'Chicago, Illinois'
 actors:
 - Alexi Giannoulias
 - U.S. Department of Homeland Security
@@ -26,45 +26,51 @@ capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion
 sources:
-- title: License-plate tampering a no-no, Illinois warns fed immigration agents, car rental agencies
-  url: https://chicago.suntimes.com/immigration/2025/12/04/alexi-giannoulias-homeland-security-operation-midway-blitz-state-puts-feds-car-rental-firms-on-notice-for-alleged-license-plate-tampering-during-immigration-crackdown
+- title: 'License-plate tampering a no-no, Illinois warns fed immigration agents, car rental agencies'
+  url: 'https://chicago.suntimes.com/immigration/2025/12/04/alexi-giannoulias-homeland-security-operation-midway-blitz-state-puts-feds-car-rental-firms-on-notice-for-alleged-license-plate-tampering-during-immigration-crackdown'
   outlet: Chicago Sun-Times
   date: '2025-12-04'
+  tier: 2
   archive_url: null
-- title: Enterprise Rent-A-Car license plate revoked after immigration agents illegally swapped it out, records show
-  url: https://www.chicagotribune.com/2025/12/04/immigration-agents-swap-license-plate/
+- title: 'Enterprise Rent-A-Car license plate revoked after immigration agents illegally swapped it out, records show'
+  url: 'https://www.chicagotribune.com/2025/12/04/immigration-agents-swap-license-plate/'
   outlet: Chicago Tribune
   date: '2025-12-04'
   archive_url: null
+  tier: 2
 - title: Illinois officials warn rental car companies that it is illegal for immigration agents to swap license plates
-  url: https://www.nbcnews.com/news/us-news/illinois-rental-car-license-plates-immigration-agents-illegal-rcna246115
+  url: 'https://www.nbcnews.com/news/us-news/illinois-rental-car-license-plates-immigration-agents-illegal-rcna246115'
   outlet: NBC News
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: Sec. of State orders DHS to stop swapping license plates
-  url: https://dailyillini.com/news-stories/world-news/state-news/illinois-state-government/2025/12/07/dhs-swapping-plates/
+  url: 'https://dailyillini.com/news-stories/world-news/state-news/illinois-state-government/2025/12/07/dhs-swapping-plates/'
   outlet: The Daily Illini
   date: '2025-12-07'
   archive_url: null
+  tier: 2
 - title: Illinois is targeting immigration officials who try to hide their license plates
-  url: https://www.nbcnews.com/news/us-news/illinois-targeting-immigration-officials-try-hide-license-plates-rcna239121
+  url: 'https://www.nbcnews.com/news/us-news/illinois-targeting-immigration-officials-try-hide-license-plates-rcna239121'
   outlet: NBC News
   date: '2025-10-22'
   archive_url: null
+  tier: 1
 - title: Gov. JB Pritzker signs Illinois immigration law that curbs courthouse arrests and expands right to sue agents
-  url: https://www.chicagotribune.com/2025/12/09/jb-pritzker-illinois-immigration-law/
+  url: 'https://www.chicagotribune.com/2025/12/09/jb-pritzker-illinois-immigration-law/'
   outlet: Chicago Tribune
   date: '2025-12-09'
   archive_url: null
+  tier: 2
 - title: Illinois aims to crack down on ICE cars with illegal license plates after Sun-Times report
-  url: https://chicago.suntimes.com/immigration/2025/10/22/illinois-crack-down-ice-immigration-cars-illegal-license-plates-hotline-swapping-broadview-deportation-campaign
+  url: 'https://chicago.suntimes.com/immigration/2025/10/22/illinois-crack-down-ice-immigration-cars-illegal-license-plates-hotline-swapping-broadview-deportation-campaign'
   outlet: Chicago Sun-Times
   date: '2025-10-22'
   archive_url: null
-notes: Illinois Secretary of State Alexi Giannoulias revoked an Enterprise Rent-A-Car license plate after federal immigration agents illegally swapped plates during Operation Midway Blitz. Multiple reports document DHS officers driving with blacked-out digits on rear plates or swapping plates across multiple vehicles. State officials created tipline after Chicago Sun-Times investigation revealed systematic plate tampering. DHS invoked Supremacy Clause claiming federal law supersedes state vehicle regulations. Gov. Pritzker signed new law allowing lawsuits against agents who violate rights during immigration arrests, with damages increased for unlicensed vehicle use.
+  tier: 2
+notes: 'Illinois Secretary of State Alexi Giannoulias revoked an Enterprise Rent-A-Car license plate after federal immigration agents illegally swapped plates during Operation Midway Blitz. Multiple reports document DHS officers driving with blacked-out digits on rear plates or swapping plates across multiple vehicles. State officials created tipline after Chicago Sun-Times investigation revealed systematic plate tampering. DHS invoked Supremacy Clause claiming federal law supersedes state vehicle regulations. Gov. Pritzker signed new law allowing lawsuits against agents who violate rights during immigration arrests, with damages increased for unlicensed vehicle use.'
 status: confirmed
 ---
-
 Illinois Secretary of State Alexi Giannoulias issues formal warnings to the Department of Homeland Security and multiple car rental companies that federal immigration agents' practice of tampering with, swapping, or removing license plates during immigration enforcement operations violates Illinois state law. The warnings follow documented incidents of DHS officers participating in "Operation Midway Blitz" and other Chicago-area immigration raids driving vehicles with illegally altered or swapped license plates, apparently attempting to avoid detection or identification during enforcement activities.
 
 According to the Chicago Sun-Times, Giannoulias's office put federal immigration agents and car rental firms "on notice" for alleged license plate tampering during the immigration crackdown. The Secretary of State's warnings came after multiple reports that Department of Homeland Security officers drove vehicles with digits blacked out on rear Illinois license plates—an apparent violation of state law—and instances where the same license plate was observed on multiple different vehicles driven by federal agents.

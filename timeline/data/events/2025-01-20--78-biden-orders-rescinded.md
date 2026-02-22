@@ -3,7 +3,7 @@ id: 2025-01-20--78-biden-orders-rescinded
 date: '2025-01-20'
 importance: 6
 title: Initial Rescissions order revokes 78 Biden-era executive orders
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Donald Trump
 - White House
@@ -15,24 +15,27 @@ capture_lanes:
 - Regulatory Capture
 sources:
 - title: Initial Rescissions Of Harmful Executive Orders And Actions
-  url: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions'
   outlet: WhiteHouse.gov
   date: '2025-01-20'
-  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/'
 - title: President Trump Rescinds 78 Executive Orders and Presidential Memorandums
-  url: https://www.governmentcontractslegalforum.com/2025/01/articles/government-contracts/president-trump-rescinds-78-executive-orders-and-presidential-memorandums/
+  url: 'https://www.governmentcontractslegalforum.com/2025/01/articles/government-contracts/president-trump-rescinds-78-executive-orders-and-presidential-memorandums/'
   outlet: Government Contracts Legal Forum
   date: '2025-01-20'
+  tier: 1
 - title: Trump Administration Rescinds Batch of Biden-Era Executive Orders
-  url: https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders
+  url: 'https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders'
   outlet: Sabin Center for Climate Change Law
   date: '2025-01-21'
+  tier: 1
 - title: President Trump Revokes a Long List of Biden Executive Orders
-  url: https://www.affirmativeactionlawadvisor.com/2025/01/breaking-news-president-trump-revokes-a-long-list-of-biden-executive-orders/
+  url: 'https://www.affirmativeactionlawadvisor.com/2025/01/breaking-news-president-trump-revokes-a-long-list-of-biden-executive-orders/'
   outlet: Affirmative Action Law Advisor
   date: '2025-01-20'
-notes: Comprehensive reversal of Biden-era policies across all federal agencies. March 14, 2025 additional rescissions followed. Orders directed agency heads to immediately end DEI programs. Rescinded climate crisis response, racial equity advancement, LGBTQ protections, ethics commitments, and COVID response coordination.
+  tier: 2
+notes: 'Comprehensive reversal of Biden-era policies across all federal agencies. March 14, 2025 additional rescissions followed. Orders directed agency heads to immediately end DEI programs. Rescinded climate crisis response, racial equity advancement, LGBTQ protections, ethics commitments, and COVID response coordination.'
 status: confirmed
 ---
-
 Trump's Executive Order 14148 "Initial Rescissions of Harmful Executive Orders and Actions" revoked 78 Biden-era orders issued between January 21, 2021 and January 19, 2025. Rescinded climate policies (EO 13990, 14008), equity initiatives (EO 13985, 13988), COVID response (EO 13987), and ethics commitments (EO 13989). Required agency review within 45 days for additional rescissions.

@@ -23,14 +23,17 @@ sources:
   url: https://apnews.com/article/north-america-lawsuits-us-news-elections-georgia-c7d0e8b9c93a4e919eb0c68acc75b0b4
   outlet: Associated Press
   date: '2018-10-12'
+  tier: 1
 - title: How Georgia's Exact-Match Law Could Affect Voters
   url: https://www.npr.org/2018/10/13/657125819/how-georgias-exact-match-law-could-affect-voters
   outlet: NPR
   date: '2018-10-13'
+  tier: 1
 - title: Voting Rights Become a Flashpoint in Georgia Governor's Race
   url: https://www.nytimes.com/2018/11/19/us/politics/georgia-voting-suppression.html
   outlet: The New York Times
   date: '2018-11-19'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

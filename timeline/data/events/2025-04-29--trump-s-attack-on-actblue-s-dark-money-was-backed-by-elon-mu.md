@@ -2,10 +2,10 @@
 id: 2025-04-29--trump-s-attack-on-actblue-s-dark-money-was-backed-by-elon-mu
 date: '2025-04-29'
 title: Trump Orders DOJ Investigation into ActBlue Fundraising Platform
-description: President Trump ordered a DOJ investigation into ActBlue, alleging foreign and fraudulent campaign contributions. The investigation, backed by Elon Musk, claims to have uncovered 237 donations from foreign IP addresses using prepaid cards within a 30-day campaign window.
+description: 'President Trump ordered a DOJ investigation into ActBlue, alleging foreign and fraudulent campaign contributions. The investigation, backed by Elon Musk, claims to have uncovered 237 donations from foreign IP addresses using prepaid cards within a 30-day campaign window.'
 status: confirmed
 importance: 7
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Donald Trump
 - Elon Musk
@@ -21,15 +21,18 @@ sources:
 - outlet: CNN
   title: Trump targets Democratic fundraising powerhouse ActBlue with DOJ probe
   date: '2025-04-24'
-  url: https://www.cnn.com/2025/04/24/politics/actblue-trump-memo-doj-probe
+  url: 'https://www.cnn.com/2025/04/24/politics/actblue-trump-memo-doj-probe'
+  tier: 1
 - outlet: White House
   title: 'Fact Sheet: President Donald J. Trump Investigates Unlawful "Straw Donor" and Foreign Contributions in American Elections'
   date: '2025-04-24'
-  url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-investigates-unlawful-straw-donor-and-foreign-contributions-in-american-elections/
+  url: 'https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-investigates-unlawful-straw-donor-and-foreign-contributions-in-american-elections/'
+  tier: 1
 - outlet: Mother Jones
-  title: Trump's attack on ActBlue's "dark money" was backed by Elon Musk's dark money
+  title: 'Trump''s attack on ActBlue''s "dark money" was backed by Elon Musk''s dark money'
   date: '2025-04-29'
-  url: https://www.motherjones.com/politics/2025/04/trumps-attack-on-actblues-dark-money-was-backed-by-dark-money/
+  url: 'https://www.motherjones.com/politics/2025/04/trumps-attack-on-actblues-dark-money-was-backed-by-dark-money/'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture
@@ -38,5 +41,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-
 President Trump directed the Department of Justice to investigate ActBlue, alleging illegal campaign contributions and foreign donor fraud. The investigation was backed by Elon Musk, who claimed the platform was involved in widespread criminal identity theft.

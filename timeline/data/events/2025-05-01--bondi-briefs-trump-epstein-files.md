@@ -3,7 +3,7 @@ id: 2025-05-01--bondi-briefs-trump-epstein-files
 date: '2025-05-01'
 importance: 6
 title: AG Bondi briefs Trump on his appearances in Epstein files
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Pam Bondi
 - Donald Trump
@@ -17,23 +17,27 @@ capture_lanes:
 - Intelligence Penetration
 sources:
 - title: DOJ briefing on Epstein files
-  url: https://oversight.house.gov/epstein-files-briefing
+  url: 'https://oversight.house.gov/epstein-files-briefing'
   outlet: House Oversight Committee
   date: '2025-05-15'
-  archive_url: https://web.archive.org/web/20250814000000/https://oversight.house.gov/epstein-files-briefing
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250814000000/https://oversight.house.gov/epstein-files-briefing'
 - title: Bondi briefed Trump that his name was in Epstein files
-  url: https://www.cnn.com/2025/07/23/politics/bondi-trump-epstein-list-files
+  url: 'https://www.cnn.com/2025/07/23/politics/bondi-trump-epstein-list-files'
   outlet: CNN
   date: '2025-07-23'
+  tier: 1
 - title: Trump was told by Bondi his name appeared multiple times in Epstein files
-  url: https://abcnews.go.com/US/trump-told-bondi-appeared-multiple-times-epstein-files/story?id=124014441
+  url: 'https://abcnews.go.com/US/trump-told-bondi-appeared-multiple-times-epstein-files/story?id=124014441'
   outlet: ABC News
   date: '2025-07-23'
+  tier: 1
 - title: Trump was told his name was in Jeffrey Epstein files before DOJ withheld documents
-  url: https://www.cnbc.com/2025/07/23/trump-jeffrey-epstein-files-wsj.html
+  url: 'https://www.cnbc.com/2025/07/23/trump-jeffrey-epstein-files-wsj.html'
   outlet: CNBC
   date: '2025-07-23'
-notes: Reveals Trump's awareness of financial crime exposure in Epstein documents
+  tier: 2
+notes: 'Reveals Trump''s awareness of financial crime exposure in Epstein documents'
 status: confirmed
 ---
 Attorney General Pam Bondi privately briefed President Trump in approximately May 2025 that his name appeared multiple times in documents from the Jeffrey Epstein case files, according to reporting by CNN and ABC News published in July 2025. The briefing revealed that Trump was aware his name appeared in the Epstein files before the Department of Justice subsequently withheld significant portions of those documents from public release. The sequence — briefing the president about his own appearance in sensitive files, followed by non-disclosure of those files — raised questions about whether Trump's personal interests influenced the decision about what Epstein-related material to release.

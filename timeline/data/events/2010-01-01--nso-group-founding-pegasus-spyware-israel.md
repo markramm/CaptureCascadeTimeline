@@ -19,14 +19,17 @@ sources:
   url: https://en.wikipedia.org/wiki/NSO_Group
   outlet: Wikipedia
   date: '2024-11-11'
+  tier: 2
 - title: 'The rise and fall of NSO Group'
   url: https://forbiddenstories.org/the-rise-and-fall-of-nso-group/
   outlet: Forbidden Stories
   date: '2024-01-15'
+  tier: 1
 - title: 'Who are NSO Group, the company being sued by Apple?'
   url: https://cybermagazine.com/cyber-security/who-are-nso-group-company-being-sued-apple
   outlet: Cyber Magazine
   date: '2023-08-10'
+  tier: 2
 importance: 8
 status: confirmed
 capture_lanes:

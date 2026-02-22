@@ -20,22 +20,26 @@ sources:
   title: 'Vladimir Putin: Biography'
   url: https://www.britannica.com/biography/Vladimir-Putin
   date_accessed: '2025-10-14'
+  tier: 2
 - outlet: The Moscow Times
   title: Putin's Declassified KGB Record Shows Career Details
   url: https://www.themoscowtimes.com/2019/11/04/putins-kgb-declassified-record-show-that-he-was-no-high-flier-but-a-solid-b-a68024
   date_accessed: '2025-10-14'
+  tier: 2
 - outlet: Wilson Center
   title: Has Vladimir Putin Always Been Corrupt? And Does it Matter?
   url: https://www.wilsoncenter.org/publication/has-vladimir-putin-always-been-corrupt-and-does-it-matter
   date_accessed: '2025-10-15'
   key_details: Highlighted Putin's role in Foreign Economic Relations Committee, issuing
     thousands of licenses with potential irregularities
+  tier: 2
 - outlet: NPR
   title: 'The Rise of Putin: From KGB to Kremlin'
   url: https://www.npr.org/transcripts/798594410
   date_accessed: '2025-10-15'
   key_details: Described Putin as 'the ghost' - a stealthy observer who operated effectively
     in the shadows during his transition from KGB to local government
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -22,27 +22,33 @@ sources:
 - date: '2025-06-20'
   outlet: PBS News
   title: Trump allowed to keep control of National Guard troops deployed to Los Angeles by appeals court
-  url: https://www.pbs.org/newshour/politics/trump-allowed-to-keep-control-of-national-guard-troops-deployed-to-los-angeles-by-appeals-court
+  url: 'https://www.pbs.org/newshour/politics/trump-allowed-to-keep-control-of-national-guard-troops-deployed-to-los-angeles-by-appeals-court'
+  tier: 1
 - date: '2025-06-19'
   outlet: NPR
-  title: Appeals court backs Trump's control of the California National Guard for now
-  url: https://www.npr.org/2025/06/19/g-s1-73050/trump-national-guard-immigration
+  title: 'Appeals court backs Trump''s control of the California National Guard for now'
+  url: 'https://www.npr.org/2025/06/19/g-s1-73050/trump-national-guard-immigration'
+  tier: 1
 - date: '2025-06-20'
   outlet: Reason
-  title: The 9th Circuit rejects Trump's audacious claim that he can use the National Guard however he likes
-  url: https://reason.com/2025/06/20/the-9th-circuit-rejects-trumps-audacious-claim-that-he-can-use-the-national-guard-however-he-likes/
+  title: 'The 9th Circuit rejects Trump''s audacious claim that he can use the National Guard however he likes'
+  url: 'https://reason.com/2025/06/20/the-9th-circuit-rejects-trumps-audacious-claim-that-he-can-use-the-national-guard-however-he-likes/'
+  tier: 2
 - date: '2025-10-09'
   outlet: OPB
-  title: 9th Circuit Court skeptical of order blocking Trump's troop deployment to Portland
-  url: https://www.opb.org/article/2025/10/09/ninth-circuit-court-trump-national-guards-oregon/
+  title: '9th Circuit Court skeptical of order blocking Trump''s troop deployment to Portland'
+  url: 'https://www.opb.org/article/2025/10/09/ninth-circuit-court-trump-national-guards-oregon/'
+  tier: 1
 - date: '2025-09-01'
   outlet: CalMatters
   title: Judge rules Trump broke the law by sending National Guard to LA
-  url: https://calmatters.org/justice/2025/09/trump-national-guard-posse-comitatus/
+  url: 'https://calmatters.org/justice/2025/09/trump-national-guard-posse-comitatus/'
+  tier: 2
 - date: '2025-09-05'
   outlet: TIME
-  title: What the Appeals Court Said About Trump's National Guard Power
-  url: https://time.com/7296221/trump-national-guard-la-protests-appeals-court-authority/
+  title: 'What the Appeals Court Said About Trump''s National Guard Power'
+  url: 'https://time.com/7296221/trump-national-guard-la-protests-appeals-court-authority/'
+  tier: 1
 status: confirmed
 tags:
 - national-guard
@@ -54,5 +60,4 @@ tags:
 - state-federal-conflict
 title: First Major Court Battle Over National Guard Deployment Authority
 ---
-
 Federal District Court in D.C. issued a landmark ruling challenging Trump administration's unilateral National Guard deployment powers. U.S. District Judge Charles Breyer ruled that Trump violated the Posse Comitatus Act by sending National Guard troops to Los Angeles for immigration enforcement, finding troops participated in over 60 operations. The 9th Circuit Court of Appeals provided a nuanced ruling, temporarily allowing Trump to maintain control while questioning the breadth of presidential authority. This represents the first time since 1965 that a president deployed the National Guard against state governors' wishes, highlighting an extraordinary constitutional test. The court acknowledged potential constitutional limits but maintained judicial deference, concluding that while the president has significant deployment powers under Title 10, Section 12406, these are not unlimited. California Governor Newsom and Attorney General Rob Bonta argued the deployment escalated tensions and overstepped state authority. Simultaneous legal challenges emerged in Oregon, with federal judges and the 9th Circuit Court scrutinizing the extent of presidential power in federalizing state National Guard units.

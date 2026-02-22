@@ -27,14 +27,17 @@ sources:
   url: https://www.democracydocket.com/news-alerts/georgia-supreme-court-blocks-state-election-boards-anti-voting-rules/
   outlet: Democracy Docket
   date: '2024-10-22'
+  tier: 2
 - title: Georgia Supreme Court Upholds Block on Hand Counting Rule
   url: https://www.aclu.org/press-releases/georgia-supreme-court-upholds-block-on-hand-counting-rule-in-major-win-for-voters
   outlet: ACLU
   date: '2024-10-22'
+  tier: 1
 - title: Georgia Supreme Court strikes down State Election Board rules
   url: https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/
   outlet: Georgia Recorder
   date: '2024-10-22'
----
+
+  tier: 2---
 
 Georgia Supreme Court unanimously ruled the GOP-led State Election Board exceeded its authority by passing rules requiring hand-counting of ballots at polling places. Chief Justice Nels Peterson wrote the Board "cannot go beyond, change or contradict" state law. The court blocked four rules passed less than 50 days before the 2024 election, including hand counts and "reasonable inquiry" requirements before certification.

@@ -20,26 +20,32 @@ sources:
   url: https://www.wsj.com/finance/currencies/sec-dismisses-lawsuit-against-binance-cce1dcae?mod=hp_listb_pos3
   outlet: The Wall Street Journal
   date: '2025-05-29'
+  tier: 1
 - title: SEC drops Binance lawsuit, ending one of last remaining crypto enforcement actions
   url: https://www.cnbc.com/2025/05/29/sec-drops-binance-lawsuit-ending-one-of-last-remaining-crypto-actions.html
   outlet: CNBC
   date: '2025-05-29'
+  tier: 2
 - title: SEC Files to Dismiss Regulator's Long-Running Lawsuit Against Binance, CZ, Binance.US
   url: https://www.coindesk.com/policy/2025/05/29/sec-files-to-dismiss-regulators-long-running-lawsuit-against-binance
   outlet: CoinDesk
   date: '2025-05-29'
+  tier: 2
 - title: SEC dismisses case against crypto exchange Binance
   url: https://thehill.com/policy/technology/5326171-sec-drops-case-against-binance/
   outlet: The Hill
   date: '2025-05-29'
+  tier: 2
 - title: SEC Drops Binance Lawsuit Weeks After Deal With Trump-Linked WLF
   url: https://dailycoin.com/sec-drops-binance-lawsuit-weeks-after-deal-with-trump-linked-wlf
   outlet: DailyCoin
   date: '2025-05-29'
+  tier: 2
 - title: 'Binance Wins Big: SEC Drops Lawsuit in Trump Era Shakeup'
   url: https://coincodex.com/article/68160/binance-sec-lawsuit-dismissed-trump-crypto-2025/
   outlet: CoinCodex
   date: '2025-05-29'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

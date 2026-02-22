@@ -2,8 +2,8 @@
 id: 2019-07-01--devos-repeals-gainful-employment-rule
 date: '2019-07-01'
 importance: 9
-title: Betsy DeVos Repeals Gainful Employment Rule, Eliminating All Accountability for For-Profit College Job Outcomes Despite $1.3 Billion Projected Cost to Taxpayers
-location: Washington, D.C.
+title: 'Betsy DeVos Repeals Gainful Employment Rule, Eliminating All Accountability for For-Profit College Job Outcomes Despite $1.3 Billion Projected Cost to Taxpayers'
+location: 'Washington, D.C.'
 actors:
 - Betsy DeVos
 - U.S. Department of Education
@@ -24,46 +24,48 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 sources:
-- title: Betsy DeVos's Shameful Repeal of the Gainful Employment Rule
-  url: https://tcf.org/content/commentary/betsy-devoss-shameful-repeal-gainful-employment-rule/
+- title: 'Betsy DeVos''s Shameful Repeal of the Gainful Employment Rule'
+  url: 'https://tcf.org/content/commentary/betsy-devoss-shameful-repeal-gainful-employment-rule/'
   outlet: The Century Foundation
   date: '2019-07-01'
   tier: 2
 - title: Teachers Union Sues Betsy DeVos Over Student Borrower Protections
-  url: https://www.npr.org/2020/01/22/798128256/teachers-union-lawsuit-claims-devos-capriciously-repealed-borrower-protections
+  url: 'https://www.npr.org/2020/01/22/798128256/teachers-union-lawsuit-claims-devos-capriciously-repealed-borrower-protections'
   outlet: NPR
   date: '2020-01-22'
   tier: 1
 - title: DeVos proposes rollback of for-profit college rule
-  url: https://www.pbs.org/newshour/nation/devos-proposes-rollback-of-for-profit-college-rule
+  url: 'https://www.pbs.org/newshour/nation/devos-proposes-rollback-of-for-profit-college-rule'
   outlet: PBS NewsHour
   date: '2018-08-14'
   tier: 1
 - title: Clarence Thomas Acknowledges He Should Have Disclosed Free Trips
-  url: https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
+  url: 'https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow'
   outlet: ProPublica
   date: '2024-08-28'
-  archive_url: https://web.archive.org/web/20240828000000/https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20240828000000/https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow'
 - title: Justice Clarence Thomas formally reports trip to Bali paid for by conservative donor
-  url: https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html
+  url: 'https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html'
   outlet: CNN
   date: '2024-06-07'
-  archive_url: https://web.archive.org/web/20240607000000/https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html
+  archive_url: 'https://web.archive.org/web/20240607000000/https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html'
+  tier: 1
 - title: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor
-  url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  url: 'https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow'
   outlet: ProPublica
   date: '2023-04-06'
-  archive_url: https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  archive_url: 'https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow'
+  tier: 1
 - title: Justice Thomas discloses two 2019 trips paid for by Harlan Crow
-  url: https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/
+  url: 'https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/'
   outlet: The Washington Post
   date: '2024-06-07'
-  archive_url: https://web.archive.org/web/20240607000000/https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/
-notes: Congressional Budget Office estimated repeal would cost taxpayers $1.3 billion over 10 years in increased loan defaults. 800+ programs had failed gainful employment tests, 98% at for-profit colleges. DeVos hired former for-profit college executives including Robert Eitel (Bridgepoint Education) and Julian Schmoke Jr. (DeVry University) to senior Education Dept positions overseeing the industry. 21 state attorneys general sued over repeal. Repeal came despite Education Dept Inspector General warnings.
+  archive_url: 'https://web.archive.org/web/20240607000000/https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/'
+  tier: 1
+notes: 'Congressional Budget Office estimated repeal would cost taxpayers $1.3 billion over 10 years in increased loan defaults. 800+ programs had failed gainful employment tests, 98% at for-profit colleges. DeVos hired former for-profit college executives including Robert Eitel (Bridgepoint Education) and Julian Schmoke Jr. (DeVry University) to senior Education Dept positions overseeing the industry. 21 state attorneys general sued over repeal. Repeal came despite Education Dept Inspector General warnings.'
 status: confirmed
 ---
-
-
 Secretary of Education Betsy DeVos formally repealed the Obama Administration's Gainful Employment Rule on July 1, 2019, eliminating the only federal accountability mechanism that measured whether career training programs at for-profit colleges and non-degree programs at all institutions actually prepared students for jobs with earnings sufficient to repay their student loans. The repeal came despite warnings from the Department of Education's own Inspector General that eliminating the regulation would leave a "vacuum in accountability" with no safeguards to protect students from predatory programs that leave graduates with unmanageable debt, despite Congressional Budget Office estimates that the repeal would cost taxpayers $1.3 billion over ten years in increased student loan defaults, and despite clear evidence that over 800 programs—98 percent of them at for-profit colleges—were failing the gainful employment tests and leaving students worse off financially than if they had never enrolled. The regulatory rollback exemplified the Trump Administration's systematic regulatory capture of the Education Department, where former for-profit college industry executives were hired to senior positions overseeing the very industry they had worked for, conflicts of interest were ignored, and student protection regulations were systematically dismantled to benefit the for-profit education sector at massive cost to students and taxpayers.
 
 The gainful employment rule that DeVos repealed had been finalized in 2014 after years of development, legal challenges, and regulatory proceedings during the Obama Administration. The regulation required career training programs to demonstrate that typical graduates could repay their student loans without the debt consuming more than 20 percent of discretionary income or 8 percent of total earnings. Programs that failed these debt-to-earnings tests for two out of three consecutive years would lose federal financial aid eligibility, creating accountability for programs that charged students for credentials that did not lead to employment with earnings sufficient to justify the debt incurred. The rule was based on the statutory requirement that for-profit colleges receiving federal aid must prepare students for "gainful employment in a recognized occupation"—a requirement that had existed since 1965 but had never been enforced through outcome-based metrics until the Obama Administration developed the regulation.

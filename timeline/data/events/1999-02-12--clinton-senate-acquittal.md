@@ -18,14 +18,17 @@ sources:
   url: https://www.history.com/this-day-in-history/february-12/president-clinton-acquitted
   outlet: History.com
   date: '1999-02-12'
+  tier: 2
 - title: Impeachment of Bill Clinton
   url: https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton
   outlet: Wikipedia
   date: '1999-02-12'
+  tier: 2
 - title: The Clinton impeachment and its fallout
   url: https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout
   outlet: University of Virginia Miller Center
   date: '2024-01-01'
+  tier: 1
 id: 1999-02-12--clinton-senate-acquittal
 capture_lanes:
 - Legislative Capture

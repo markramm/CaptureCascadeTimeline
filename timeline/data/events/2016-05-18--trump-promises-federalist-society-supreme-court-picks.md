@@ -7,28 +7,31 @@ importance: 10
 sources:
 - outlet: Harvard Gazette
   title: How the Federalist Society came to dominate the Supreme Court
-  url: https://news.harvard.edu/gazette/story/2021/03/in-audiobook-takeover-noah-feldman-lidia-jean-kott-explore-how-federalist-society-captured-supreme-court/
+  url: 'https://news.harvard.edu/gazette/story/2021/03/in-audiobook-takeover-noah-feldman-lidia-jean-kott-explore-how-federalist-society-captured-supreme-court/'
   verified: true
   key_facts_confirmed:
   - Trump promised nominees would all be picked by Federalist Society
   - Turned to Federalist people and Heritage Foundation for list
   - Leonard Leo drew up lists of potential justices
+  tier: 1
 - outlet: ProPublica
   title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court Supermajority'
-  url: https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority
+  url: 'https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority'
   verified: true
   key_facts_confirmed:
   - Leo met with Trump and campaign lawyer Don McGahn in March 2016
-  - Trump stated judicial picks would be "conservative, all picked by the Federalist Society"
-  - 86% of Trump's judicial appointees were Federalist Society members
+  - 'Trump stated judicial picks would be "conservative, all picked by the Federalist Society"'
+  - '86% of Trump''s judicial appointees were Federalist Society members'
+  tier: 1
 - outlet: TIME
   title: 'Trump, Federalist Society, and Leonard Leo: Inside the Judicial Nomination Strategy'
-  url: https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/
+  url: 'https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/'
   verified: true
   key_facts_confirmed:
   - Trump consulted Leo for all Supreme Court nominations
   - 'Leo selected all three Supreme Court justices: Gorsuch, Kavanaugh, and Barrett'
-  - Initially praised as "one of the greatest achievements" of his presidency
+  - 'Initially praised as "one of the greatest achievements" of his presidency'
+  tier: 1
 tags:
 - trump-judicial-nominees
 - federalist-society-vetting
@@ -54,7 +57,6 @@ historical_context:
   campaign_strategy: Using judicial nominations to secure conservative voter support and reshape federal judiciary
   long_term_impact: Fundamental transformation of federal court composition through coordinated conservative legal strategy
 ---
-
 During the 2016 campaign, Donald Trump made a pivotal strategic commitment to outsource Supreme Court nominee selection entirely to the Federalist Society, a move that would fundamentally reshape the federal judiciary. In March 2016, Trump, campaign lawyer Don McGahn, and Federalist Society executive Leonard Leo met at the Jones Day law offices to develop a list of 21 potential Supreme Court nominees.
 
 This unprecedented delegation of judicial selection to a private organization served multiple strategic purposes. It secured crucial support from conservative voters, with 77% reporting Supreme Court appointments as "very important". The Federalist Society's ideological screening ensured that 86% of Trump's judicial appointments were Society members, transforming the composition of federal courts.

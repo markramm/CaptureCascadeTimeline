@@ -21,15 +21,19 @@ sources:
   url: https://www.govinfo.gov/content/pkg/CHRG-110hhrg36545/html/CHRG-110hhrg36545.htm
   outlet: House Committee on Oversight
   date: '2007-02-06'
+  tier: 1
 - title: 'Major Findings: DPC Oversight Hearings on Waste, Fraud, and Corruption in
+  tier: 2
     Iraq'
   url: https://www.dpc.senate.gov/documents/dpc-iraq-report.pdf
   outlet: Senate Democratic Policy Committee
   date: '2007-09-25'
+  tier: 1
 - title: 'Iraq: Bremer CPA Lost Track of  Billion in Oil Revenues'
   url: https://corpwatch.org/article/iraq-bremer-cpa-lost-track-9-billion-oil-revenues-meant-rebuilding
   outlet: CorpWatch
   date: '2005-01-30'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

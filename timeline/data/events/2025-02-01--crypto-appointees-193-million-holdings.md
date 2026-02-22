@@ -19,14 +19,17 @@ sources:
   url: https://www.washingtonpost.com/politics/interactive/2025/trump-officials-cryptocurrency-holdings-bitcoin/
   outlet: The Washington Post
   date: '2025-02-01'
+  tier: 1
 - title: Half a dozen members of Trump's cabinet hold Bitcoin assets, disclosures reveal
   url: https://fortune.com/2025/03/13/bitcoin-trump-cabinet-finance-disclosures-digital-crypto-bessent-rfk-gabbard/
   outlet: Fortune
   date: '2025-03-13'
+  tier: 2
 - title: Trump 2.0 A New Era for Cryptocurrency and Digital Assets Regulation
   url: https://www.pillsburylaw.com/en/news-and-insights/cryptocurrency-digital-assets-trump.html
   outlet: Pillsbury Law
   date: '2025-02-01'
+  tier: 2
 notes: Holdings include personal investments and stakes in crypto/blockchain companies. Trump himself reported a $51 million stake in digital asset ventures.
 status: confirmed
 validation_metadata:

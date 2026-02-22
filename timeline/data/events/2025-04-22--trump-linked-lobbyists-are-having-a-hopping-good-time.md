@@ -23,18 +23,22 @@ sources:
   url: https://www.motherjones.com/politics/2025/04/ballard-trump-lobbying-disclosures-wiles-bondi/
   outlet: Mother Jones
   date: '2025-04-22'
+  tier: 1
 - title: 'Trump Allies Cash In: Lobbying Firms With Administration Ties Report Surge in Revenues'
   url: https://readsludge.com/2025/04/22/trump-allies-cash-in-lobbying-firms-with-administration-ties-report-surge-in-revenues/
   outlet: Sludge
   date: '2025-04-22'
+  tier: 2
 - title: Lobbying Firm with Close Ties to Trump Poised to Profit from New Administration
   url: https://abcnews.go.com/US/lobbying-firm-close-ties-trump-poised-profit-new/story?id=116417198
   outlet: ABC News
   date: '2025-04-22'
+  tier: 1
 - title: Trump-connected lobbying firm Ballard Partners rakes in $14M in first quarter
   url: https://finance.yahoo.com/news/trump-connected-lobbying-firm-ballard-172153505.html
   outlet: Yahoo Finance
   date: '2025-04-22'
+  tier: 2
 connections:
 - Trump 2024 Campaign
 - Lobbying Firms Profit

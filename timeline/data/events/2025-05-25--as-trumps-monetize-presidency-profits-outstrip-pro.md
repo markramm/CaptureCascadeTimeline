@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/05/25/us/politics/trump-money-plane-crypto.html
   outlet: The New York Times
   date: '2025-05-25'
+  tier: 1
 - title: 'From crypto to private jets: How Donald Trump and his family have profited from the US presidency'
   url: https://www.irishtimes.com/world/us/2025/05/27/profits-outstrip-protests-as-trumps-monetise-the-presidency/
   outlet: The Irish Times
   date: '2025-05-27'
+  tier: 1
 - title: New Analysis Finds Trump Family Has Raked in .4 Billion Off the Presidency
   url: https://www.rollingstone.com/politics/politics-news/trump-family-billions-presidency-1235405843/
   outlet: Rolling Stone
   date: '2025-11-05'
+  tier: 2
 - title: Inside the Trump family's 100 days of presidential profit
   url: https://www.axios.com/2025/05/02/trump-crypto-world-liberty-business-profit
   outlet: Axios
   date: '2025-05-02'
+  tier: 2
 - title: As guardrails fall, Trump blurs lines between presidency and personal profits
   url: https://www.csmonitor.com/USA/Politics/2025/0408/trump-crypto-money-conflicts-ethics
   outlet: Christian Science Monitor
   date: '2025-04-08'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

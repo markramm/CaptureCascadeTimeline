@@ -14,19 +14,23 @@ sources:
 - title: United States v. Microsoft Corp.
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.
+  tier: 2
   retrieval_date: '2025-12-23'
 - title: U.S. v. Microsoft Corp., 253 F.3d 34 (D.C. Cir. 2001)
   outlet: Justia
   url: https://law.justia.com/cases/federal/appellate-courts/F3/253/34/576095/
   retrieval_date: '2025-12-23'
+  tier: 1
 - title: Microsoft Antitrust Case
   outlet: Corporate Finance Institute
   url: https://corporatefinanceinstitute.com/resources/management/microsoft-antitrust-case/
   retrieval_date: '2025-12-23'
+  tier: 2
 - title: United States v. Microsoft - The Landmark Antitrust Lawsuit
   outlet: LegalClarity
   url: https://legalclarity.org/united-states-v-microsoft-the-landmark-antitrust-lawsuit/
   retrieval_date: '2025-12-23'
+  tier: 2
 tags:
 - antitrust
 - tech-monopoly

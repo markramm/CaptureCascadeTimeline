@@ -25,17 +25,20 @@ sources:
   url: https://en.wikipedia.org/wiki/The_Antitrust_Paradox
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Consumer Welfare and the Legacy of Robert Bork
   url: https://gai.gmu.edu/wp-content/uploads/sites/27/2017/04/Consumer-Welfare-and-the-Legacy-of-Robert-Bork.pdf
   outlet: George Mason University
   date: '2017-04-01'
   verified: true
+  tier: 1
 - title: More than money - Defining American antitrust law, from Bork to Khan
   url: https://www.wbur.org/onpoint/2022/02/17/more-than-money-antitrust-monopolies-are-defined-from-bork-to-khan
   outlet: WBUR On Point
   date: '2022-02-17'
   verified: true
+  tier: 2
 notes: By 1979, the Supreme Court cited Bork in declaring the Sherman Act a "consumer welfare prescription." Bork's use of "consumer welfare" was inconsistent with economists' definition, but the ambiguous term stuck. The book credits Aaron Director and other University of Chicago economists as influences. This ideological transformation enabled the monopolization that followed.
 status: confirmed
 ---

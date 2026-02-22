@@ -30,17 +30,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Red_Channels
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: How the Red Scare shaped American television
   url: https://www.pbs.org/wnet/americanmasters/huac-red-scare-shaped-television/35229/
   outlet: PBS
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: 'Red Channels: The Report of Communist Influence in Radio and Television'
   url: https://broadcast41.uoregon.edu/articles/red-channels-report-communist-influence-radio-and-television
   outlet: University of Oregon
   date: '2024-01-01'
   verified: true
+  tier: 1
 status: confirmed
 ---
 

@@ -23,18 +23,22 @@ sources:
   url: https://www.nbcnews.com/politics/elections/musks-super-pac-jumps-floridas-special-elections-rcna198106
   outlet: NBC News
   date: '2025-03-25'
+  tier: 1
 - title: Elon Musk Gave $45 Million to His Super PAC, Making Him Among Top Donors
   url: https://www.bloomberg.com/news/articles/2025-07-31/elon-musk-gave-45-million-to-his-super-pac-making-him-among-top-donors
   outlet: Bloomberg
   date: '2025-07-31'
+  tier: 1
 - title: Musk's super PAC pours last-minute money into special Florida elections
   url: https://thehill.com/homenews/campaign/5214867-musk-super-pac-florida-special-elections/
   outlet: The Hill
   date: '2025-03-26'
+  tier: 2
 - title: Randy Fine wins special election for U.S. House CD-6
   url: https://mynews13.com/fl/orlando/news/2025/03/31/voters-head-to-the-polls-in-special-elections
   outlet: My News 13
   date: '2025-03-31'
+  tier: 2
 connections:
 - White House advisory role
 - Trump-aligned political spending

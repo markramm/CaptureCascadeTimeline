@@ -21,14 +21,17 @@ sources:
   url: https://www.cbsnews.com/news/marjorie-taylor-greene-stocks-trump-tariffs/
   outlet: CBS News
   date: '2025-04-14'
+  tier: 1
 - title: Marjorie Taylor Greene Faces Calls for Insider Trading Probe Over Stock Buys During Trump Tariffs
   url: https://www.newsweek.com/marjorie-taylor-greene-faces-calls-insider-trading-probe-stock-buys-donald-trump-tariffs-2058469
   outlet: Newsweek
   date: '2025-04-14'
+  tier: 2
 - title: Marjorie Taylor Greene bought thousands of dollars in stock right before Trump's tariff pause sent markets soaring
   url: https://finance.yahoo.com/news/marjorie-taylor-greene-bought-thousands-170244557.html
   outlet: Yahoo Finance
   date: '2025-04-14'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

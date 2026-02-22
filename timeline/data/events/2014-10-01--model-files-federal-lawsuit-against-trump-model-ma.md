@@ -18,14 +18,17 @@ sources:
   url: https://abcnews.go.com/Politics/trump-model-felt-slave-working-donalds-agency/story?id=37313993
   outlet: ABC News
   date: '2016-03-02'
+  tier: 1
 - title: 'Trump model: I felt like a ''slave'''
   url: https://money.cnn.com/2016/03/02/news/trump-model-lawsuit/
   outlet: CNN Money
   date: '2016-03-02'
+  tier: 1
 - title: Former Trump Model Alexia Palmer Claims She Was Treated Like a Slave
   url: https://www.newsweek.com/donald-trump-alexia-palmer-model-432948
   outlet: Newsweek
   date: '2016-03-02'
+  tier: 2
 capture_lanes:
 - Judicial Capture
 - Legislative Capture

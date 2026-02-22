@@ -27,14 +27,17 @@ sources:
   url: https://www.newsweek.com/kash-patel-fbi-russia-film-payment-2028232
   outlet: Newsweek
   date: '2025-02-07'
+  tier: 2
 - title: Kash Patel was paid by Russian filmmaker tied to Kremlin, documents show
   url: https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/
   outlet: The Washington Post
   date: '2025-02-07'
+  tier: 1
 - title: Trump FBI Nominee Kash Patel Pocketed $25K From Filmmaker With Ties to Kremlin
   url: https://www.thedailybeast.com/trump-fbi-nominee-kash-patel-pocketed-25k-from-filmmaker-with-ties-to-kremlin/
   outlet: The Daily Beast
   date: '2025-02-07'
+  tier: 2
 connections: []
 patterns:
 - foreign-influence

@@ -1,7 +1,7 @@
 ---
 id: 2024-01-05--boeing-737-max-scandal-summary-346-deaths-zero-prosecutions
 date: '2024-01-05'
-title: Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
+title: 'Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions'
 actors:
 - Boeing
 - Federal Aviation Administration
@@ -13,21 +13,25 @@ actors:
 - Joshua Dean
 sources:
 - outlet: House Transportation Committee
-  title: The Design, Development & Certification of the Boeing 737 MAX - Final Report
-  url: https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf
+  title: 'The Design, Development & Certification of the Boeing 737 MAX - Final Report'
+  url: 'https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf'
   date: '2020-09-16'
+  tier: 1
 - outlet: U.S. Department of Justice
   title: Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion
-  url: https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion
+  url: 'https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion'
   date: '2021-01-07'
+  tier: 1
 - outlet: NTSB
   title: Alaska Airlines Flight 1282 Investigation
-  url: https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx
+  url: 'https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx'
   date: '2024-01-05'
+  tier: 1
 - outlet: NPR
   title: Boeing Whistleblower John Barnett Found Dead
-  url: https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead
+  url: 'https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead'
   date: '2024-03-12'
+  tier: 1
 importance: 10
 tags:
 - boeing
@@ -44,7 +48,6 @@ capture_lanes:
 - Corporate Capture
 - Judicial Capture
 ---
-
 The Boeing 737 MAX scandal represents the deadliest case of regulatory capture and corporate crime in modern aviation history. Between 2011 and 2024, Boeing's decision to prioritize profit over safety killed 346 people, cost $2.5 billion in fines, and resulted in zero criminal prosecutions of executives. The scandal demonstrates how corporate power has corrupted regulatory agencies, transformed the justice system into a two-tier structure, and created complete impunity for executives who kill through fraud and negligence.
 
 **Timeline of Corporate Crime:**

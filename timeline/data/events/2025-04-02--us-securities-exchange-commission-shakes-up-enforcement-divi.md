@@ -25,14 +25,17 @@ sources:
   url: https://www.reuters.com/world/us/us-securities-exchange-commission-restructures-enforcement-division-memo-says-2025-04-02/
   outlet: Reuters
   date: '2025-04-02'
+  tier: 1
 - title: Regulatory Update and Recent SEC Actions in April 2025
   url: https://natlawreview.com/article/regulatory-update-and-recent-sec-actions-april-2025
   outlet: National Law Review
   date: '2025-04-02'
+  tier: 2
 - title: The Changing Tides of the SEC Under the Second Trump Administration
   url: https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/
   outlet: Harvard Corporate Governance
   date: '2025-03-03'
+  tier: 1
 connections:
 - SEC leadership restructuring
 - Enforcement division consolidation

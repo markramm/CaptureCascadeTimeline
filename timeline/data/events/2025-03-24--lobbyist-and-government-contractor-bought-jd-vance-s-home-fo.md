@@ -26,14 +26,17 @@ sources:
   url: https://www.forbes.com/sites/zacheverson/2025/03/24/jd-vance-house-sale-government-contractor-lobbyist-trump/
   outlet: Forbes
   date: '2025-03-24'
+  tier: 1
 - title: J.D. Vance's Virginia Home Was Bought for More Than $170,000 Over Ask—by Government Contractor
   url: https://www.yahoo.com/lifestyle/j-d-vance-virginia-home-151735389.html
   outlet: Yahoo Lifestyle
   date: '2025-03-24'
+  tier: 2
 - title: Lobbyist Bought Vance's Home For $170K Over Asking
   url: https://www.joemygod.com/2025/03/lobbyist-bought-vances-home-for-170k-over-asking/
   outlet: JoeMyGod
   date: '2025-03-24'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

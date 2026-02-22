@@ -22,18 +22,22 @@ sources:
   url: https://www.afge.org/news/federal-loyalty-tests
   outlet: AFGE
   date: '2025-03-01'
+  tier: 2
 - title: Trump Administration Makes New Federal Employees Write Essays to Prove MAGA Loyalty
   url: https://www.yahoo.com/news/trump-administration-makes-federal-employees-155935637.html
   outlet: Yahoo News
   date: '2025-06-02'
+  tier: 2
 - title: New Federal Employees Must Now Write Essays Praising Trump's Policies
   url: https://www.newsweek.com/trump-administration-federal-employees-merit-hiring-plan-2080139
   outlet: Newsweek
   date: '2025-06-02'
+  tier: 2
 - title: Lynch-OPMs hiring plan includes blatant loyalty test
   url: https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/
   outlet: Government Executive
   date: '2025-06-02'
+  tier: 2
 notes: Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.
 status: confirmed
 validation_metadata:

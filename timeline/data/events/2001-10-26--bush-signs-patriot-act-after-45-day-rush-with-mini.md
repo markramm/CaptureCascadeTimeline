@@ -21,14 +21,17 @@ sources:
   url: https://www.congress.gov/107/plaws/publ56/PLAW-107publ56.htm
   outlet: Library of Congress
   date: '2001-10-26'
+  tier: 1
 - title: Congressional Record House Debate on USA PATRIOT Act
   url: https://sgp.fas.org/congress/2001/h101201.html
   outlet: Federation of American Scientists
   date: '2001-10-12'
+  tier: 1
 - title: Surveillance Under the USA PATRIOT Act
   url: https://www.aclu.org/documents/surveillance-under-usapatriot-act
   outlet: American Civil Liberties Union
   date: '2002-04-03'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

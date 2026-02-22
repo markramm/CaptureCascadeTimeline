@@ -21,14 +21,17 @@ sources:
   url: https://www.cnn.com/2022/08/08/politics/mar-a-lago-search-warrant-fbi-donald-trump/index.html
   outlet: CNN
   date: '2022-08-08'
+  tier: 1
 - title: Trump Mar-a-Lago warrant reveals FBI seized classified documents
   url: https://www.npr.org/2022/08/12/1117151056/fbi-collected-multiple-sets-of-classified-documents-from-trumps-mar-a-lago-home
   outlet: NPR
   date: '2022-08-12'
+  tier: 1
 - title: FBI's Trump Mar-a-Lago search yielded 11 sets of classified documents
   url: https://www.washingtonpost.com/national-security/2022/08/12/trump-warrant-release/
   outlet: The Washington Post
   date: '2022-08-12'
+  tier: 1
 notes: 'FBI seized four sets of top-secret documents, seven other sets of classified information,
 
   and multiple items including binders of photos and information about the President of France.

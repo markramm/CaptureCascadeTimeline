@@ -23,18 +23,22 @@ sources:
   url: https://europa.eu/rapid/press-release_IP-17-1784_en.htm
   outlet: European Commission
   date: '2017-06-27'
+  tier: 2
 - title: Commission fines Google €2.42 billion for abusing dominance
   url: https://ec.europa.eu/newsroom/comp/items/104946/
   outlet: European Commission Competition
   date: '2017-06-27'
+  tier: 2
 - title: Google fined $2.7BN for EU antitrust violations over shopping searches
   url: https://techcrunch.com/2017/06/27/google-fined-e2-42bn-for-eu-antitrust-violations-over-shopping-searches/
   outlet: TechCrunch
   date: '2017-06-27'
+  tier: 2
 - title: Google loses appeal against €2.4 billion EU fine over its shopping service
   url: https://www.euronews.com/my-europe/2021/11/10/google-loses-appeal-against-2-4-billion-eu-fine-over-its-shopping-service
   outlet: Euronews
   date: '2021-11-10'
+  tier: 1
 status: confirmed
 id: 2017-06-27--eu-fines-google-2-42-billion-shopping
 capture_lanes:

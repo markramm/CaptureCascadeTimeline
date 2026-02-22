@@ -22,14 +22,17 @@ sources:
   url: https://www.pbs.org/newshour/politics/mass-layoffs-at-cfpb-put-on-hold-after-judge-blocks-trump-administration
   outlet: PBS News
   date: '2025-04-17'
+  tier: 1
 - title: Mass Layoffs Paused at Consumer Financial Protection Bureau
   url: https://www.govexec.com/management/2025/04/mass-layoffs-paused-consumer-financial-protection-bureau/404690/
   outlet: Government Executive
   date: '2025-04-17'
+  tier: 2
 - title: Nearly 90% of Consumer Financial Protection Bureau Cut as Trump's Government Downsizing Continues
   url: https://federalnewsnetwork.com/workforce/2025/04/layoffs-hit-consumer-financial-protection-bureau-as-trumps-government-downsizing-continues/
   outlet: Federal News Network
   date: '2025-04-17'
+  tier: 2
 connections:
 - systematic-government-capture
 - executive-branch-restructuring

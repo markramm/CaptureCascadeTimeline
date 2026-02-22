@@ -16,6 +16,7 @@ sources:
 - title: 'White House Iraq Group: Strategic Communication Operations'
   outlet: SourceWatch
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
+  tier: 2
   type: research-archive
   credibility: 8
   description: Comprehensive documentation of WHIG's formation, membership, and strategic communication tactics
@@ -25,12 +26,14 @@ sources:
   type: reference
   credibility: 7
   description: Authoritative overview of WHIG's role and activities during the Iraq War buildup
+  tier: 2
 - title: Congressional Research Service Report on WHIG Activities
   outlet: U.S. Congress
   url: https://fas.org/irp/congress/2007_rpt/whig-activities.html
   type: government-report
   credibility: 9
   description: Official government investigation into WHIG's communication and propaganda strategies
+  tier: 1
 constitutional_issues:
 - First Amendment
 - whistleblower protection

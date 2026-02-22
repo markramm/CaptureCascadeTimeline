@@ -21,14 +21,17 @@ sources:
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
   outlet: Senator Warren's Office
   date: '2025-04-29'
+  tier: 1
 - title: Trump Issues Wave of Pardons to Financial Crime Convicts
   url: https://www.reuters.com/legal/trump-pardons-financial-criminals-2025-01-25/
   outlet: Reuters
   date: '2025-01-25'
+  tier: 1
 - title: Congressional Research Service Report on Presidential Pardons in 2025
   url: https://crs.gov/reports/presidential-clemency-2025
   outlet: Congressional Research Service
   date: '2025-02-15'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Legislative Capture

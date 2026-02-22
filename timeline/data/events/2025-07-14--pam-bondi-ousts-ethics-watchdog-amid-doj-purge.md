@@ -2,12 +2,9 @@
 id: 2025-07-14--pam-bondi-ousts-ethics-watchdog-amid-doj-purge
 date: '2025-07-14'
 title: Pam Bondi ousts DOJ ethics director Joseph Tirrell amid mass prosecutor dismissal
-description: Joseph Tirrell, who had served as the DOJ's top ethics official for over
-  15 years, was fired 'effective immediately' in a brief memo citing 'Article II of
-  the United States Constitution', coinciding with the dismissal of approximately
-  20 prosecutors involved in Trump-related cases.
+description: 'Joseph Tirrell, who had served as the DOJ''s top ethics official for over 15 years, was fired ''effective immediately'' in a brief memo citing ''Article II of the United States Constitution'', coinciding with the dismissal of approximately 20 prosecutors involved in Trump-related cases.'
 importance: 9
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Pam Bondi
 - Joseph Tirrell
@@ -28,24 +25,26 @@ status: confirmed
 capture_type: personnel_rewiring
 sources:
 - date: '2025-07-14'
-  outlet: Law & Crime
+  outlet: 'Law & Crime'
   title: 'Hereby Terminated: AG Pam Bondi Just Sent Top DOJ Ethics Lawyer Packing'
-  url: https://lawandcrime.com/high-profile/hereby-terminated-ag-pam-bondi-just-sent-top-doj-ethics-lawyer-packing-and-he-had-a-lot-to-say-about-it/
+  url: 'https://lawandcrime.com/high-profile/hereby-terminated-ag-pam-bondi-just-sent-top-doj-ethics-lawyer-packing-and-he-had-a-lot-to-say-about-it/'
+  tier: 2
 - date: '2025-07-14'
   outlet: ABC News
   title: Attorney General Pam Bondi fires top Justice Department ethics official
-  url: https://abcnews.go.com/US/attorney-general-pam-bondi-fires-top-justice-department/story?id=123746598
+  url: 'https://abcnews.go.com/US/attorney-general-pam-bondi-fires-top-justice-department/story?id=123746598'
+  tier: 1
 - date: '2025-07-14'
   outlet: Axios
   title: Pam Bondi ousts ethics watchdog amid DOJ purge
-  url: https://www.axios.com/2025/07/14/pam-bondi-fires-ethics-chief-doj-purge
+  url: 'https://www.axios.com/2025/07/14/pam-bondi-fires-ethics-chief-doj-purge'
+  tier: 2
 connections:
 - Trump-related investigations
 - DOJ leadership changes
 patterns:
 - kleptocratic-capture
-notes: Event from comprehensive kleptocracy timeline tracking. Detailed examination
-  reveals a systemic effort to remove ethics oversight during ongoing Trump investigations.
+notes: Event from comprehensive kleptocracy timeline tracking. Detailed examination reveals a systemic effort to remove ethics oversight during ongoing Trump investigations.
 new:
 - regulatory-capture
 - ethics-violations
@@ -58,5 +57,4 @@ old:
 - ethics-violations
 - justice-weaponization
 ---
-
 Attorney General Pam Bondi fired Joseph Tirrell, the Department of Justice's top ethics director responsible for advising senior leadership on federal employee ethics, as part of a broader personnel purge affecting investigators of Trump-related cases.

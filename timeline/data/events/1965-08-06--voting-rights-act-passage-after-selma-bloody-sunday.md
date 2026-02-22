@@ -13,19 +13,23 @@ sources:
 - title: Voting Rights Act of 1965
   outlet: The Martin Luther King, Jr. Research and Education Institute
   url: https://kinginstitute.stanford.edu/voting-rights-act-1965
+  tier: 1
   year: 2024
 - title: Voting Rights Act of 1965
   outlet: National Archives
   url: https://www.archives.gov/milestone-documents/voting-rights-act
   year: 2024
+  tier: 1
 - title: The Senate Passes the Voting Rights Act
   outlet: U.S. Senate
   url: https://www.senate.gov/artandhistory/history/minute/Senate_Passes_Voting_Rights_Act.htm
   year: 2024
+  tier: 1
 - title: Selma March
   outlet: Britannica
   url: https://www.britannica.com/event/Selma-March/We-Shall-Overcome-LBJ-and-the-1965-Voting-Rights-Act
   year: 2024
+  tier: 2
 - title: Selma, the Voting Rights Act, and the Freedom to Vote
   url: https://www.lwv.org/blog/selma-voting-rights-act-and-freedom-vote
   outlet: League of Women Voters

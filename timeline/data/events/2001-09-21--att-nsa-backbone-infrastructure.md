@@ -14,14 +14,17 @@ sources:
   outlet: The Intercept
   date: '2018-06-25'
   url: https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/
+  tier: 1
 - title: A Trail of Evidence Leading to AT&T's Partnership with the NSA
   outlet: ProPublica
   date: '2018-07-01'
   url: https://www.propublica.org/article/a-trail-of-evidence-leading-to-atts-partnership-with-the-nsa
+  tier: 1
 - title: NSA Spying and Telecommunications Infrastructure
   outlet: Electronic Frontier Foundation
   date: '2006-12-01'
   url: https://www.eff.org/nsa-spying
+  tier: 1
 capture_lanes:
 - Surveillance Infrastructure
 - Regulatory Capture

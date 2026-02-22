@@ -21,17 +21,20 @@ sources:
   url: https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/
   outlet: London School of Economics
   date: '2014-08-12'
+  tier: 1
   verified: true
 - title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: Trickle-down economics
   url: https://en.wikipedia.org/wiki/Trickle-down_economics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Labor Suppression
 - Legislative Capture

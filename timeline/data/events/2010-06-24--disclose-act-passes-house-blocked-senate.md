@@ -28,18 +28,22 @@ sources:
   url: https://obamawhitehouse.archives.gov/the-press-office/2010/09/18/weekly-address-president-obama-castigates-gop-leadership-blocking-fixes-
   outlet: Obama White House Archives
   date: '2010-09-18'
+  tier: 1
 - title: Obama Was Right About Citizens United
   url: https://www.brennancenter.org/our-work/analysis-opinion/obama-was-right-about-citizens-united
   outlet: Brennan Center for Justice
   date: '2020-01-21'
+  tier: 1
 - title: Citizens United Explained
   url: https://www.brennancenter.org/our-work/research-reports/citizens-united-explained
   outlet: Brennan Center for Justice
   date: '2019-12-12'
+  tier: 1
 - title: How Does the Citizens United Decision Still Affect Us in 2025?
   url: https://campaignlegal.org/update/how-does-citizens-united-decision-still-affect-us-2025
   outlet: Campaign Legal Center
   date: '2025-01-15'
+  tier: 1
 notes: The DISCLOSE Act would have required corporate political advertisers to reveal funding sources and required whoever funds ads to appear and claim responsibility. Obama criticized Republican leadership for hoping 'special interests will reward them by funding attack ads against their opponents.' This legislative failure ensured dark money groups could operate without transparency.
 status: confirmed
 ---

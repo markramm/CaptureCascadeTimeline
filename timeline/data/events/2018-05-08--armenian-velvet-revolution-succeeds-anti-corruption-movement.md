@@ -11,13 +11,16 @@ actors:
 sources:
 - outlet: PBS NewsHour
   title: Armenia protest leader Nikol Pashinyan elected new prime minister
-  url: https://www.pbs.org/newshour/world/armenia-protest-leader-nikol-pashinyan-elected-new-prime-minister
+  url: 'https://www.pbs.org/newshour/world/armenia-protest-leader-nikol-pashinyan-elected-new-prime-minister'
+  tier: 1
 - outlet: Britannica
   title: 'Nikol Pashinyan: Armenia''s Political Transformation'
-  url: https://www.britannica.com/biography/Nikol-Pashinyan
+  url: 'https://www.britannica.com/biography/Nikol-Pashinyan'
+  tier: 2
 - outlet: Global Nonviolent Action Database
-  title: Armenians Protest for Resignation of Prime Minister Serzh Sargsyan, 2018
-  url: https://nvdatabase.swarthmore.edu/content/armenians-protest-resignation-prime-minister-serzh-sargsyan-2018
+  title: 'Armenians Protest for Resignation of Prime Minister Serzh Sargsyan, 2018'
+  url: 'https://nvdatabase.swarthmore.edu/content/armenians-protest-resignation-prime-minister-serzh-sargsyan-2018'
+  tier: 2
 importance: 8
 tags:
 - resistance
@@ -34,5 +37,4 @@ capture_lanes:
 - Judicial Capture
 - Democratic Erosion
 ---
-
 Nikol Pashinyan is elected Prime Minister of Armenia after a nonviolent, grassroots movement forced the resignation of incumbent Prime Minister Serzh Sargsyan. The 'Velvet Revolution' represented a landmark peaceful democratic transition, with mass protests paralyzing the capital Yerevan for 11 days and drawing nearly 100,000 participants. Pashinyan's successful movement demonstrated how coordinated civil resistance could overcome systemic political corruption without violence.

@@ -26,17 +26,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Moral_Majority
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Jerry Falwell Helps Found the Moral Majority
   url: https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=46
   outlet: ARDA
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Moral Majority - Britannica
   url: https://www.britannica.com/topic/Moral-Majority
   outlet: Britannica
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Weyrich coined the phrase "Moral Majority." Founders included three Catholics (Weyrich, Viguerie, Dolan), one Jew (Phillips), and two fundamentalist Baptists (Falwell, Billings). Startup funding from Coors family. Ed McAteer, a Colgate-Palmolive sales executive, introduced Weyrich to Falwell in February 1979. The Moral Majority was credited with helping Reagan win in 1980.
 status: confirmed
 ---

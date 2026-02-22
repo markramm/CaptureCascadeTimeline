@@ -22,22 +22,27 @@ sources:
   url: https://x.com/elonmusk/status/1640345967024504832
   outlet: X/Twitter
   date: '2023-03-27'
+  tier: 2
 - title: Twitter Blue Subscribers Get Boost in For You Timeline
   url: https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost
   outlet: TechCrunch
   date: '2023-03-27'
+  tier: 2
 - title: Musk says Twitter will soon only show verified accounts in "For You" timeline
   url: https://www.axios.com/2023/03/28/musk-twitter-verified-accounts-for-you-timeline
   outlet: Axios
   date: '2023-03-28'
+  tier: 2
 - title: Elon Musk says only verified Twitter users to show up in "For You" tab
   url: https://www.cnbc.com/2023/03/28/elon-musk-says-only-verified-twitter-users-to-show-up-in-for-you-tab.html
   outlet: CNBC
   date: '2023-03-28'
+  tier: 2
 - title: Elon Musk Says Only Verified Twitter Accounts Will Appear in For You Timeline Starting in April
   url: https://variety.com/2023/digital/news/elon-musk-twitter-verified-accounts-for-you-recommendations-1235566031/
   outlet: Variety
   date: '2023-03-28'
+  tier: 1
 status: confirmed
 tags:
 - algorithms

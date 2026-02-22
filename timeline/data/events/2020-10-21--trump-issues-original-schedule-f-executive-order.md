@@ -15,15 +15,18 @@ importance: 9
 sources:
 - outlet: Federal News Network
   title: Trump revives executive order aiming to strip some federal employees of civil service protections
-  url: https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/
+  url: 'https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/'
+  tier: 2
 - outlet: Protect Democracy
-  title: Trump's Schedule F Plan, Explained
-  url: https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/
+  title: 'Trump''s Schedule F Plan, Explained'
+  url: 'https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/'
   date: '2024-02-28'
+  tier: 2
 - outlet: NPR
   title: Trump Moves to Reshape Federal Workforce with Schedule F Executive Order
-  url: https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f
+  url: 'https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f'
   date: '2025-04-18'
+  tier: 1
 status: confirmed
 tags:
 - schedule-f
@@ -34,5 +37,4 @@ tags:
 - executive-power-expansion
 title: 'Trump Issues Original Schedule F Executive Order: Civil Service Protection Elimination'
 ---
-
 President Trump issued an executive order creating Schedule F, a radical reclassification mechanism designed to strip civil service protections from approximately 50,000 federal workers in 'policy-determining, policy-making, or policy-advocating' positions. The order would effectively transform these career civil servants into at-will political appointees, enabling direct presidential control over critical government functions. Despite initial resistance and being initially blocked, Trump has continued to pursue this workforce restructuring strategy, coordinating with the Heritage Foundation's Project 2025 to systematically reshape the federal bureaucracy.

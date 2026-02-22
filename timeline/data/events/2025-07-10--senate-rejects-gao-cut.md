@@ -24,18 +24,22 @@ sources:
   url: https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year/
   outlet: Federal News Network
   date: '2025-07-10'
+  tier: 2
 - title: Appropriators advance Legislative Branch bill without GAO cuts
   url: https://rollcall.com/2025/07/10/appropriators-advance-legislative-branch-bill-without-gao-cuts/
   outlet: Roll Call
   date: '2025-07-10'
+  tier: 2
 - title: House Republicans Advance Plan to Halve GAO's Funding
   url: https://firstbranchforecast.substack.com/p/house-republicans-advance-plan-to
   outlet: First Branch Forecast
   date: '2025-06-27'
+  tier: 2
 - title: House GOP advances bill 'gutting' government watchdog
   url: https://thehill.com/homenews/5372396-house-gop-advances-bill-gutting-government-watchdog/
   outlet: The Hill
   date: '2025-06-27'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

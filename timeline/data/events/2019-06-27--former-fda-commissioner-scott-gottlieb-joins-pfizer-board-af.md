@@ -20,14 +20,17 @@ sources:
   url: https://www.cnbc.com/2019/06/27/former-fda-commissioner-scott-gottlieb-joins-pfizers-board.html
   outlet: CNBC
   date: '2019-06-27'
+  tier: 2
 - title: Pfizer Names Former FDA Chief Gottlieb to Board of Directors
   url: https://www.bloomberg.com/news/articles/2019-06-27/pfizer-names-former-fda-chief-gottlieb-to-board-of-directors
   outlet: Bloomberg
   date: '2019-06-27'
+  tier: 1
 - title: Senator Warren Calls on Former FDA Commissioner to Resign from Pfizer Board
   url: https://www.warren.senate.gov/oversight/letters/-senator-warren-calls-on-former-fda-commissioner-scott-gottlieb-to-resign-from-pharmaceutical-giant-pfizers-board-of-directors
   outlet: Senator Elizabeth Warren Official Website
   date: '2019-06-27'
+  tier: 1
 id: 2019-06-27--former-fda-commissioner-scott-gottlieb-joins-pfizer-board-af
 capture_lanes:
 - Media Capture & Control

@@ -18,22 +18,27 @@ sources:
   url: https://www.wired.com/story/krause-doge-cloud-software-treasury/
   outlet: WIRED
   date: '2025-02-21'
+  tier: 2
 - title: Treasury installs DOGE ally as head of payment system
   url: https://www.washingtonpost.com/business/2025/02/07/treasury-doge-payments-musk/
   outlet: The Washington Post
   date: '2025-02-07'
+  tier: 1
 - title: Reed Calls for Immediate Ouster of Unqualified Partisan Tom Krause at Treasury
   url: https://www.reed.senate.gov/news/releases/reed-calls-for-immediate-ouster-of-unqualified-partisan-tom-krause-at-treasury
   outlet: Senator Jack Reed
   date: '2025-02-21'
+  tier: 1
 - title: Ex-employees say Tom Krause, tapped by Musk to overhaul Treasury, was a hatchet man
   url: https://abcnews.go.com/Business/employees-tom-krause-tapped-musk-overhaul-treasury-hatchet/story?id=118647158
   outlet: ABC News
   date: '2025-02-21'
+  tier: 1
 - title: DOGE associate's company gave $1 million to Trump's inauguration
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/doge-associatess-company-gave-1-million-to-trumps-inauguration/
   outlet: CREW
   date: '2025-02-21'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

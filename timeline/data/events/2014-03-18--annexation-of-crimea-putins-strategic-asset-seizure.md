@@ -10,16 +10,20 @@ actors:
 sources:
 - outlet: United Nations
   title: UN General Assembly Resolution 68/262 - Territorial Integrity of Ukraine
-  url: https://press.un.org/en/2014/ga11493.doc.htm
+  url: 'https://press.un.org/en/2014/ga11493.doc.htm'
+  tier: 2
 - outlet: European Journal of International Law
   title: Annexation of Crimea and Balance of Power in International Law
-  url: https://academic.oup.com/ejil/article/30/1/303/5498082
+  url: 'https://academic.oup.com/ejil/article/30/1/303/5498082'
+  tier: 2
 - outlet: Carnegie Endowment for International Peace
   title: Revisiting the 2014 Annexation of Crimea
-  url: https://carnegieendowment.org/posts/2017/03/revisiting-the-2014-annexation-of-crimea
+  url: 'https://carnegieendowment.org/posts/2017/03/revisiting-the-2014-annexation-of-crimea'
+  tier: 2
 - outlet: United States Naval War College
   title: 'Russia''s Annexation of Crimea: The Mills of International Law'
-  url: https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1377&context=ils
+  url: 'https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1377&context=ils'
+  tier: 1
 importance: 9
 tags:
 - russia
@@ -37,5 +41,4 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 ---
-
 Vladimir Putin orchestrated the illegal annexation of Crimea from Ukraine, violating international law and multiple treaties. The operation involved deploying unmarked Russian special forces, conducting a disputed referendum, and subsequently integrating Crimean territories into Russian control. The UN General Assembly Resolution 68/262, supported by 100 member states, explicitly declared the referendum invalid and called on states not to recognize the territorial change. Strategically, Putin gained control over critical Black Sea naval bases, energy resources, and significant economic assets, while simultaneously challenging post-Cold War international legal norms.

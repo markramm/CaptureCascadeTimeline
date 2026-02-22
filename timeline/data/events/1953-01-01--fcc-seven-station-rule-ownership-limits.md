@@ -18,6 +18,7 @@ sources:
   url: https://www.upi.com/Archives/1984/07/26/FCC-ends-seven-station-rule/3182459662400/
   outlet: UPI Archives
   date: '1984-07-26'
+  tier: 1
   verified: true
   tier: 2
 - title: Review of the Commission's Broadcast Ownership Rules
@@ -37,31 +38,37 @@ sources:
   outlet: ProMarket
   date: '2019-10-07'
   verified: true
+  tier: 2
 - title: Aaron Director - Wikipedia
   url: https://en.wikipedia.org/wiki/Aaron_Director
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Corporations and the Rise of the Chicago Law and Economics Movement
   url: https://www.promarket.org/2020/01/15/corporations-and-the-rise-of-the-chicago-law-and-economics-movement/
   outlet: ProMarket
   date: '2020-01-15'
   verified: true
+  tier: 2
 - title: John M. Olin Foundation - Wikipedia
   url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: John Olin
   url: https://www.philanthropyroundtable.org/almanac/people/hall-of-fame/detail/john-olin
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: John M. Olin Foundation (1953–2005)
   url: https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/
   outlet: Duke University Center for Strategic Philanthropy
   date: '2024-01-01'
   verified: true
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -19,14 +19,17 @@ sources:
   title: Trilateral Commission
   url: https://en.wikipedia.org/wiki/Trilateral_Commission
   date: '2025'
+  tier: 2
 - outlet: Britannica
   title: Trilateral Commission | History & Facts
   url: https://www.britannica.com/topic/Trilateral-Commission
   date: '2025'
+  tier: 2
 - outlet: Rockefeller Archive Center
   title: Trilateral Commission Records
   url: https://dimes.rockarch.org/collections/2KaqPEr3JRZv5WBQsf9mKn
   date: '2025'
+  tier: 2
 status: confirmed
 id: 1973-10-01--trilateral-commission-founded-by-david-rockefeller
 priority_id: RT-EXP-28753E16-trilateral-commission-1973-banking-networks

@@ -24,17 +24,20 @@ sources:
   url: https://archive.thinkprogress.org/flashback-indianas-last-right-to-work-law-failed-so-badly-it-was-repealed-eight-years-later-dcb26e64fd85/
   outlet: ThinkProgress
   date: '2024-01-01'
+  tier: 3
   verified: true
 - title: Right-to-work law - Wikipedia
   url: https://en.wikipedia.org/wiki/Right-to-work_law
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Right-to-Work: Now There Are Twenty-Three'
   url: https://hallrender.com/2012/02/17/right-to-work-now-there-are-twenty-three/
   outlet: Hall Render
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

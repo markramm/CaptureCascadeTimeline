@@ -21,12 +21,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Roe_v._Wade
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: The undoing of Roe v. Wade
   url: https://pursuit.unimelb.edu.au/articles/the-undoing-of-roe-v-wade
   outlet: University of Melbourne
   date: '2022-07-01'
   verified: true
+  tier: 1
 notes: Nellie Gray organized the first March for Life in October 1973, held on January 22, 1974 marking the first anniversary. The inaugural march saw 20,000 protesters. Grassroots anti-abortion organizing, led by activists like Phyllis Schlafly, helped deliver Reagan's 1980 landslide. The religious Right became the bedrock of the emerging conservative coalition.
 status: confirmed
 ---

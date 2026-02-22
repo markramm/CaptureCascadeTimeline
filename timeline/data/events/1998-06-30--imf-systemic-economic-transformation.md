@@ -24,14 +24,17 @@ sources:
   title: 'The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
   date: 1998-06
+  tier: 2
 - outlet: IMF Website
   title: Recovery from the Asian Crisis and the Role of the IMF
   url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
   date: '2000-06-23'
+  tier: 2
 - outlet: Federal Reserve History
   title: Asian Financial Crisis Overview
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
   date: '1998'
+  tier: 1
 status: confirmed
 ---
 

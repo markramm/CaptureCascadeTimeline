@@ -3,7 +3,7 @@ id: 2008-07-01--alito-singer-alaska-fishing-trip
 date: '2008-07-01'
 importance: 8
 title: Samuel Alito Takes Undisclosed Alaska Fishing Trip with Billionaire Paul Singer
-location: Alaska, United States
+location: 'Alaska, United States'
 actors:
 - Samuel Alito
 - Paul Singer
@@ -21,27 +21,30 @@ capture_lanes:
 - Judicial Capture
 sources:
 - title: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer
-  url: https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+  url: 'https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court'
   outlet: ProPublica
   date: '2023-06-20'
-  archive_url: https://web.archive.org/web/20230620000000/https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20230620000000/https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court'
 - title: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor
-  url: https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor
+  url: 'https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor'
   outlet: PBS NewsHour
   date: '2023-06-21'
-  archive_url: https://web.archive.org/web/20230621000000/https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor
-- title: New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny of Supreme Court ethics
-  url: https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/
+  archive_url: 'https://web.archive.org/web/20230621000000/https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor'
+  tier: 1
+- title: 'New report on Justice Samuel Alito''s travel with GOP donor draws more scrutiny of Supreme Court ethics'
+  url: 'https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/'
   outlet: CBS News
   date: '2023-06-21'
-  archive_url: https://web.archive.org/web/20230621000000/https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/
+  archive_url: 'https://web.archive.org/web/20230621000000/https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/'
+  tier: 1
 - title: Samuel Alito is the latest Supreme Court justice to face ethics questions
-  url: https://www.npr.org/2023/06/22/1183653522/samuel-alito-is-the-latest-supreme-court-justice-to-face-ethics-questions
+  url: 'https://www.npr.org/2023/06/22/1183653522/samuel-alito-is-the-latest-supreme-court-justice-to-face-ethics-questions'
   outlet: NPR
   date: '2023-06-22'
-  archive_url: https://web.archive.org/web/20230622000000/https://www.npr.org/2023/06/22/1183653522/samuel-alito-is-the-latest-supreme-court-justice-to-face-ethics-questions
-notes: Trip organized by Leonard Leo of Federalist Society. Singer's hedge fund had business before SCOTUS at least 10 times after trip. In 2014, Alito voted in Singer's favor in case against Argentina worth $2.4 billion.
+  archive_url: 'https://web.archive.org/web/20230622000000/https://www.npr.org/2023/06/22/1183653522/samuel-alito-is-the-latest-supreme-court-justice-to-face-ethics-questions'
+  tier: 1
+notes: 'Trip organized by Leonard Leo of Federalist Society. Singer''s hedge fund had business before SCOTUS at least 10 times after trip. In 2014, Alito voted in Singer''s favor in case against Argentina worth $2.4 billion.'
 status: confirmed
 ---
-
 Justice Samuel Alito accepts private jet flight worth over $100,000 and luxury lodge stay from hedge fund billionaire Paul Singer who later has business before the court, violating disclosure requirements

@@ -17,20 +17,23 @@ actors:
 sources:
 - title: 'U.S. Department of Justice: Bannon Indictment Press Release'
   date: '2021-11-12'
-  url: https://www.justice.gov/opa/pr/stephen-k-bannon-indicted-contempt-congress
+  url: 'https://www.justice.gov/opa/pr/stephen-k-bannon-indicted-contempt-congress'
+  tier: 1
   notes: Official DOJ documentation of the indictment
 - title: 'PBS News: Bannon Indicted for Contempt of Congress'
   date: '2021-11-12'
-  url: https://www.pbs.org/newshour/politics/steve-bannon-indicted-on-contempt-of-congress
+  url: 'https://www.pbs.org/newshour/politics/steve-bannon-indicted-on-contempt-of-congress'
+  tier: 1
 - title: 'CNBC: Details of Bannon''s Indictment'
   date: '2021-11-12'
-  url: https://www.cnbc.com/amp/2021/11/12/trump-ally-steve-bannon-indicted-for-dodging-jan-6-probe-subpoena.html
+  url: 'https://www.cnbc.com/amp/2021/11/12/trump-ally-steve-bannon-indicted-for-dodging-jan-6-probe-subpoena.html'
+  tier: 2
 - title: 'Library of Congress: Legal Analysis of Bannon Contempt Case'
   date: '2021-11-15'
-  url: https://crsreports.congress.gov/product/pdf/LSB/LSB11190
+  url: 'https://crsreports.congress.gov/product/pdf/LSB/LSB11190'
   notes: Congressional Research Service legal overview
+  tier: 1
 capture_lanes:
 - Legislative Capture
 ---
-
 Steve Bannon was indicted on two counts of criminal contempt of Congress after refusing to comply with a subpoena from the House Select Committee investigating the January 6 Capitol attack. He was charged for failing to appear for a deposition and refusing to produce requested documents, which the committee believed contained critical information about the events leading to the insurrection.

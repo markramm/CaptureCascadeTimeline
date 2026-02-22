@@ -20,12 +20,14 @@ sources:
   url: https://nabpac.org/about/
   outlet: NABPAC
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Political action committee - Wikipedia
   url: https://en.wikipedia.org/wiki/Political_action_committee
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: NABPAC is a 501(c)(6) non-profit trade association founded in 1977 to support and coordinate the rapidly growing business PAC infrastructure. Its founding reflects the need to organize and coordinate the explosion of corporate PACs following the 1974 FECA amendments. This adds coordination layer to corporate political infrastructure.
 status: confirmed
 ---

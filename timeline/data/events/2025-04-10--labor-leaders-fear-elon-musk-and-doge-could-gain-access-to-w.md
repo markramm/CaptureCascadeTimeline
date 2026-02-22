@@ -11,10 +11,10 @@ capture_lanes:
 capture_type: monetizing_position
 connections: []
 date: '2025-04-10'
-description: The AFL-CIO and former OSHA officials warn that Elon Musk's operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations
+description: 'The AFL-CIO and former OSHA officials warn that Elon Musk''s operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk''s companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations'
 id: 2025-04-10--labor-leaders-fear-elon-musk-and-doge-could-gain-access-to-w
 importance: 7
-location: Washington, D.C.
+location: 'Washington, D.C.'
 notes: Event from comprehensive kleptocracy timeline tracking.
 patterns:
 - kleptocratic-capture
@@ -22,15 +22,18 @@ sources:
 - date: '2025-04-10'
   outlet: WIRED
   title: Labor leaders fear Elon Musk and DOGE could gain access to whistleblower files
-  url: https://www.wired.com/story/elon-musk-doge-osha-whistleblower-files/
+  url: 'https://www.wired.com/story/elon-musk-doge-osha-whistleblower-files/'
+  tier: 2
 - date: '2025-04-10'
   outlet: The Hill
   title: Government unions sue over DOGE access to Labor Department
-  url: https://thehill.com/business/5128870-afl-cio-lawsuit-against-elon-musk/
+  url: 'https://thehill.com/business/5128870-afl-cio-lawsuit-against-elon-musk/'
+  tier: 2
 - date: '2025-02-05'
   outlet: Confined Space
   title: Musk Comes to DOL and Corporate America Takes Over OSHA
-  url: https://jordanbarab.com/confinedspace/2025/02/05/musk-comes-to-dol-and-corporate-america-takes-over-osha/
+  url: 'https://jordanbarab.com/confinedspace/2025/02/05/musk-comes-to-dol-and-corporate-america-takes-over-osha/'
+  tier: 2
 status: confirmed
 tags:
 - regulatory-capture
@@ -40,5 +43,4 @@ tags:
 - labor-rights
 title: Labor leaders fear Elon Musk and DOGE could gain access to whistleblower files
 ---
-
 The AFL-CIO and former OSHA officials filed a lawsuit warning that Elon Musk's Department of Government Efficiency (DOGE) operatives are embedded at the Department of Labor, potentially gaining access to sensitive whistleblower files. Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations, raising significant concerns about regulatory capture and potential misuse of confidential information.

@@ -22,18 +22,22 @@ sources:
   url: https://www.nytimes.com/2019/08/15/business/mit-media-lab-jeffrey-epstein.html
   outlet: The New York Times
   date: '2019-08-15'
+  tier: 1
 - title: MIT Media Lab director resigns following revelations about Jeffrey Epstein
   url: https://www.washingtonpost.com/education/2019/09/07/mit-media-lab-director-resigns-following-revelations-about-jeffrey-epstein/
   outlet: The Washington Post
   date: '2019-09-07'
+  tier: 1
 - title: How an Elite University Research Center Concealed Its Relationship with Jeffrey Epstein
   url: https://www.newyorker.com/news/news-desk/how-an-elite-university-research-center-concealed-its-relationship-with-jeffrey-epstein
   outlet: The New Yorker
   date: '2019-09-06'
+  tier: 1
 - title: MIT Media Lab kept regulars' Epstein meeting secret
   url: https://www.bostonglobe.com/metro/2019/09/07/mit-media-lab-officials-met-with-epstein-even-after-his-conviction-tried-conceal-extent-relationship/2Ua6qk6pGfqLXHvOg8iuML/story.html
   outlet: Boston Globe
   date: '2019-09-07'
+  tier: 2
 notes: The MIT case demonstrates how Epstein used charitable giving to elite institutions to rehabilitate his reputation and gain access to influential networks after his 2008 conviction.
 capture_lanes:
 - Media Capture & Control

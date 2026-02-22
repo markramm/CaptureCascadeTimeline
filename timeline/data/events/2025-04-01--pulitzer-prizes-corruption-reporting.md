@@ -27,14 +27,17 @@ sources:
   url: https://www.pulitzer.org/news/2025-pulitzer-prizes-announced
   outlet: Pulitzer Prize Board
   date: '2025-04-01'
+  tier: 1
 - title: Reuters wins Pulitzer for systematic regulatory failure investigation
   url: https://www.reuters.com/article/pulitzer-prize-2025-reuters
   outlet: Reuters
   date: '2025-04-01'
+  tier: 1
 - title: WSJ wins for Musk-Putin coordination reporting
   url: https://www.wsj.com/articles/pulitzer-prize-musk-investigation
   outlet: The Wall Street Journal
   date: '2025-04-01'
+  tier: 1
 notes: Multiple major news organizations independently documenting same kleptocratic patterns. Represents validation of systematic corruption framework by journalism's highest honors.
 ---
 

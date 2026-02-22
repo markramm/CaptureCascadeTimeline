@@ -17,22 +17,27 @@ sources:
   url: https://www.nytimes.com/2025/04/05/us/politics/trump-family-saudi-golf.html
   outlet: The New York Times
   date: '2025-04-05'
+  tier: 1
 - title: LIV Golf, Saudi relationships pull Trump to Florida as markets rage
   url: https://www.washingtonpost.com/politics/2025/04/03/liv-golf-saudi-relationships-pull-trump-florida-markets-rage/
   outlet: The Washington Post
   date: '2025-04-03'
+  tier: 1
 - title: Trump Enjoys Big Moneymaking Weekend Amid Market Meltdown
   url: https://www.thedailybeast.com/trump-enjoys-big-moneymaking-weekend-amid-market-meltdown/
   outlet: The Daily Beast
   date: '2025-04-05'
+  tier: 2
 - title: Trump National Doral Golf Club to Host Saudi-Backed LIV Golf Tournament in April
   url: https://www.bloomberg.com/news/articles/2025-01-07/trump-s-doral-resort-to-host-saudi-backed-liv-golf-in-april
   outlet: Bloomberg
   date: '2025-01-07'
+  tier: 1
 - title: 'Trump, schmoozing Saudis, plays two roles: president and mogul'
   url: https://www.washingtonpost.com/politics/2025/02/24/trump-saudi-arabia-liv-golf/
   outlet: The Washington Post
   date: '2025-02-24'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

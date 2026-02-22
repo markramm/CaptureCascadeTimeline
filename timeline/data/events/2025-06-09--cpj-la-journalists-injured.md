@@ -30,18 +30,22 @@ sources:
   url: https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests
   outlet: Committee to Protect Journalists
   date: '2025-06-09'
+  tier: 1
 - title: L.A. sued over attacks on journalists at immigration protests
   url: https://www.npr.org/2025/06/16/nx-s1-5434279/lapd-immigration-protests-journalists-rubber-bullets
   outlet: NPR
   date: '2025-06-16'
+  tier: 1
 - title: Journalists come under fire covering L.A. protests
   url: https://www.washingtonpost.com/style/media/2025/06/09/journalists-injured-la-protests/
   outlet: The Washington Post
   date: '2025-06-09'
+  tier: 1
 - title: Journalists were injured — and maybe even targeted — while covering immigration protests in Los Angeles
   url: https://www.poynter.org/commentary/2025/journalists-shot-injured-los-angeles-protests-press-freedom/
   outlet: Poynter
   date: '2025-06-10'
----
+
+  tier: 2---
 
 Law enforcement shot over 20 journalists with rubber bullets and pepper balls during June 6-9 immigration protests in Los Angeles amid 2,000 National Guard deployment. Nick Stern required emergency surgery from plastic bullet; Lauren Tomasi shot on live TV; Toby Canham struck in forehead. Reporters Without Borders documented 35 attacks (30 by law enforcement). LA Press Club filed federal lawsuit. CPJ, First Amendment Coalition warned DHS that officers appeared to deliberately target journalists.

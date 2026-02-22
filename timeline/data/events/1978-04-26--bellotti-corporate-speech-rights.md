@@ -22,6 +22,7 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/435/765/
   outlet: Supreme Court of the United States
   date: '1978-04-26'
+  tier: 1
   verified: true
   verified_date: '2025-08-19'
   archive_url: https://web.archive.org/web/20240101000000/https://supreme.justia.com/cases/federal/us/435/765/
@@ -35,11 +36,13 @@ sources:
   outlet: The First Amendment Encyclopedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: First National Bank of Boston v. Bellotti
   url: https://www.oyez.org/cases/1977/76-1172
   outlet: Oyez
   date: '2024-01-01'
   verified: true
+  tier: 1
 notes: Powell's majority opinion stated "The proper question therefore is not whether corporations 'have' First Amendment rights... Instead, the question must be whether [the law] abridges expression that the First Amendment was meant to protect." Decision directly implements Powell's 1971 memo recommendation to use judiciary as "most important instrument for social, economic and political change." Laid groundwork for Citizens United v. FEC (2010) which quoted Bellotti extensively. Only Justices White, Brennan, Marshall dissented with Rehnquist. Case involved Massachusetts referendum on graduated income tax that corporations wanted to oppose.
 status: confirmed
 capture_lanes:

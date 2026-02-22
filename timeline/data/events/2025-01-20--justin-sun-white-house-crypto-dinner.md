@@ -29,14 +29,17 @@ sources:
   url: https://www.coindesk.com/policy/2025/01/20/justin-sun-white-house-dinner
   outlet: CoinDesk
   date: '2025-01-20'
+  tier: 2
 - title: A crypto mogul who invested millions into Trump coins is getting a reprieve on civil fraud charges
   url: https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html
   outlet: CNN Business
   date: '2025-02-28'
+  tier: 1
 - title: Who is Justin Sun, the Chinese billionaire at Trump's crypto dinner?
   url: https://www.washingtonpost.com/world/2025/05/23/trump-crypto-dinner-justin-sun/
   outlet: The Washington Post
   date: '2025-05-23'
+  tier: 1
 notes: Sen. Richard Blumenthal called this "an unprecedented, pay-to-play scheme to provide access to the presidency to the highest bidder." Bloomberg analysis showed most top $TRUMP holders used foreign exchanges off-limits to US residents. The Trump family directly earned up to $56 million from Sun's investment through their 75% fee structure. SEC mysteriously paused fraud case after Sun's investment, suggesting quid pro quo.
 ---
 

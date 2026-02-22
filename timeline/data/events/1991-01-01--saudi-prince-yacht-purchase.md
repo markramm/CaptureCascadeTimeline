@@ -20,14 +20,17 @@ sources:
   url: https://finance.yahoo.com/news/saudi-prince-helped-save-trump-170443885.html
   outlet: Yahoo Finance
   date: '2018-11-20'
+  tier: 2
 - title: Trump's Financial Troubles? How About That Yacht
   url: https://www.nytimes.com/1991/07/07/business/trump-s-financial-troubles-how-about-that-yacht.html
   outlet: The New York Times
   date: '1991-07-07'
+  tier: 1
 - title: Trump's Conflicts of Interest in Saudi Arabia
   url: https://www.americanprogress.org/article/trumps-conflicts-interest-saudi-arabia/
   outlet: Center for American Progress
   date: '2018-06-14'
+  tier: 2
 notes: The yacht was originally named "Nabila" and was purchased by Trump from the
   Sultan of Brunei in 1988 for $29 million, then renamed "Trump Princess." Prince
   Alwaleed renamed it "Kingdom 5KR" after purchase. Trump reportedly sailed on it

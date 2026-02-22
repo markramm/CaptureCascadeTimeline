@@ -22,14 +22,17 @@ sources:
   url: https://www.cnn.com/2023/09/05/politics/enrique-tarrio-proud-boys-sentence/index.html
   outlet: CNN
   date: '2023-09-05'
+  tier: 1
 - title: Oath Keepers founder Stewart Rhodes sentenced to 18 years
   url: https://www.npr.org/2023/05/25/1178046912/oath-keepers-founder-stewart-rhodes-sentenced-to-18-years-for-seditious-conspir
   outlet: NPR
   date: '2023-05-25'
+  tier: 1
 - title: Final Report of the Select Committee to Investigate January 6th
   url: https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf
   outlet: House January 6 Committee
   date: '2022-12-22'
+  tier: 1
 capture_lanes:
 - Legislative Capture
 ---

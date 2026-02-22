@@ -13,15 +13,18 @@ sources:
 - title: Star Route scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Star_Route_scandal
+  tier: 2
   year: 2024
 - title: 'When Bad Men Combine: The Star Route Scandal and the Twilight of Gilded Age Politics'
   outlet: Journal of American History, Oxford Academic
   url: https://academic.oup.com/jah/article-abstract/111/2/368/7755822
   year: 2024
+  tier: 2
 - title: 'Star Route Scandal: US History for Kids'
   outlet: American Historama
   url: https://www.american-historama.org/1881-1913-maturation-era/star-route-scandal.htm
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - gilded-age

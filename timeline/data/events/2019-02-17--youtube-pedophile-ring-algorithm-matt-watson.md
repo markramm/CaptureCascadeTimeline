@@ -26,18 +26,22 @@ sources:
   url: https://videoweek.com/2019/02/19/youtube-algorithm-accused-of-facilitating-paedophile-rings/
   outlet: VideoWeek
   date: '2019-02-19'
+  tier: 2
 - title: YouTube under fire for recommending videos of kids with inappropriate comments
   url: https://techcrunch.com/2019/02/18/youtube-under-fire-for-recommending-videos-of-kids-with-inappropriate-comments/
   outlet: TechCrunch
   date: '2019-02-18'
+  tier: 2
 - title: Advertisers Abandon YouTube Over Concerns That Pedophiles Lurk In Comments Section
   url: https://www.npr.org/2019/02/22/696949013/advertisers-abandon-youtube-over-concerns-that-pedophiles-lurk-in-comments-secti
   outlet: NPR
   date: '2019-02-22'
+  tier: 1
 - title: YouTubeWakeUp - How Child Predators Are Sexually Exploiting Children On YouTube
   url: https://sites.suffolk.edu/jhtl/2019/04/08/youtubewakeup-how-child-predators-are-sexually-exploiting-children-on-youtube-and-it-is-being-monetized/
   outlet: Suffolk University Journal of High Technology Law
   date: '2019-04-08'
+  tier: 1
 status: confirmed
 id: 2019-02-17--youtube-pedophile-ring-algorithm-matt-watson
 capture_lanes:

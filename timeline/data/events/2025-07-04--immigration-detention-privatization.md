@@ -24,14 +24,17 @@ sources:
   url: https://www.americanimmigrationcouncil.org/research/budget-detention-expansion
   outlet: American Immigration Council
   date: '2025-07-05'
+  tier: 2
 - title: Private prison stocks soar on $45 billion detention expansion
   url: https://www.reuters.com/business/private-prison-stocks-detention-expansion-2025-07-05/
   outlet: Reuters
   date: '2025-07-05'
+  tier: 1
 - title: How reconciliation bill privatizes immigration enforcement
   url: https://www.brennancenter.org/analysis/reconciliation-immigration-privatization
   outlet: Brennan Center for Justice
   date: '2025-07-06'
+  tier: 1
 notes: Funding structured to flow primarily through private contractors rather than expanding federal capacity, ensuring public funds generate private profits while reducing public control over detention operations.
 ---
 

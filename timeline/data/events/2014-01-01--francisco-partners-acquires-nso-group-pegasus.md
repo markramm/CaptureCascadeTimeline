@@ -18,14 +18,17 @@ sources:
   url: https://en.wikipedia.org/wiki/NSO_Group
   outlet: Wikipedia
   date: '2024-11-11'
+  tier: 2
 - title: Francisco Partners Offloads Israeli Surveillance Company NSO
   url: https://www.calcalistech.com/ctech/articles/0,7340,L-3756381,00.html
   outlet: CTech
   date: '2019-02-11'
+  tier: 2
 - title: What to know about the investors behind embattled spyware firm NSO Group
   url: https://www.axios.com/2021/07/22/nso-group-spying-investors
   outlet: Axios
   date: '2021-07-22'
+  tier: 2
 importance: 7
 status: confirmed
 capture_lanes:

@@ -19,23 +19,25 @@ tags:
 sources:
 - outlet: The Washington Post
   title: Two Senior Judges Appointed by Republicans Speak Out About Threats Against Federal Judiciary
-  url: https://www.washingtonpost.com/politics/2025/03/11/judges-security-threats-impeachment/39317e1e-feb3-11ef-b7a7-d938159de2bc_story.html
+  url: 'https://www.washingtonpost.com/politics/2025/03/11/judges-security-threats-impeachment/39317e1e-feb3-11ef-b7a7-d938159de2bc_story.html'
   access_date: '2025-09-17'
+  tier: 1
 - outlet: Washington Times
   title: Two Senior Judges Speak Out About Threats Against Federal Judiciary
-  url: https://www.washingtontimes.com/news/2025/mar/12/two-senior-judges-appointed-republicans-speak-threats-federal/
+  url: 'https://www.washingtontimes.com/news/2025/mar/12/two-senior-judges-appointed-republicans-speak-threats-federal/'
   access_date: '2025-09-17'
+  tier: 2
 - outlet: Rolling Stone
   title: Federal Judges Consider Their Own Security Force as Threats Rise
-  url: https://www.rollingstone.com/politics/politics-news/judges-consider-own-security-force-threats-1235347919/
+  url: 'https://www.rollingstone.com/politics/politics-news/judges-consider-own-security-force-threats-1235347919/'
   access_date: '2025-09-17'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
-location: Washington, D.C.
+location: 'Washington, D.C.'
 ---
-
 In an unprecedented response to mounting threats and potential constitutional crisis, federal judges convened emergency discussions in March 2025 to address challenges to judicial independence. The Judicial Conference, the national policymaking body for federal courts, held closed-door meetings where judges discussed escalating threats, potential security measures, and strategies to preserve constitutional integrity.
 
 Key Developments:

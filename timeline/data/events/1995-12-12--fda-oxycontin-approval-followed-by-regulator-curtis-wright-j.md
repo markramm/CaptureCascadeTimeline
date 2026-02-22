@@ -16,14 +16,17 @@ sources:
   title: OxyContin Approval Investigation Review Document
   url: https://www.mass.gov/doc/ogrosky-memo/download
   access_date: '2025-09-17'
+  tier: 1
 - outlet: Yahoo News
   title: Dr. Curtis Wright Took A Job At Purdue Pharma After OxyContin's Approval
   url: https://www.yahoo.com/lifestyle/dr-curtis-wright-took-job-161400685.html
   access_date: '2025-09-17'
+  tier: 2
 - outlet: Marketplace
   title: How One Sentence Helped Set Off the Opioid Crisis
   url: https://www.marketplace.org/story/2017/12/13/opioid
   access_date: '2025-09-17'
+  tier: 2
 status: confirmed
 priority_id: claude-priority-regulatory-capture-pharma-fda
 tags:

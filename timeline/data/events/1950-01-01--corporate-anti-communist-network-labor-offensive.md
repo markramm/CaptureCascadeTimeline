@@ -22,6 +22,7 @@ sources:
   url: https://writing.upenn.edu/~afilreis/50s/anticom-network.html
   outlet: University of Pennsylvania
   date: '2024-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: Con-men of the labor movement Communists and labor unions
@@ -40,14 +41,17 @@ sources:
   outlet: Journal of Health Politics, Policy and Law
   url: https://academic.oup.com/jhppl
   date: '2004-01-01'
+  tier: 1
 - title: Voluntary Health Insurance in America
   outlet: Medical Care
   url: https://journals.lww.com/lww-medicalcare
   date: '1965-01-01'
+  tier: 2
 - title: The History of Blue Cross and Blue Shield
   outlet: Blue Cross Blue Shield Association
   url: https://www.bcbs.com/about-us/history
   date: '2024-01-01'
+  tier: 2
 - title: John Paton Davies, 91, diplomat brought down by McCarthy, dies
   url: https://www.baltimoresun.com/1999/12/24/john-paton-davies-91-diplomat-brought-down-by-mccarthy-dies-old-china-hand-driven-from-state-department/
   outlet: Baltimore Sun
@@ -71,16 +75,19 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Industry on Parade: a NAM Television Series'
   url: https://www.hagley.org/research/programs/nam-project-news/industry-parade-nam-television-series
   outlet: Hagley Museum and Library
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: National Association of Manufacturers - Wikipedia
   url: https://en.wikipedia.org/wiki/National_Association_of_Manufacturers
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

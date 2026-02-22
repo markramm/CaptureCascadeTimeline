@@ -23,14 +23,17 @@ sources:
   url: https://www.nytimes.com/2018/12/15/us/politics/ryan-zinke-interior-secretary-resigns.html
   outlet: The New York Times
   date: '2018-12-15'
+  tier: 1
 - title: Interior Secretary Ryan Zinke resigns amid ethics investigations
   url: https://www.washingtonpost.com/politics/interior-secretary-ryan-zinke-resigns-amid-ethics-investigations/2018/12/15/
   outlet: The Washington Post
   date: '2018-12-15'
+  tier: 1
 - title: Ryan Zinke's Corruption Has Finally Caught Up With Him
   url: https://www.motherjones.com/politics/2018/12/ryan-zinke-resigns-interior-secretary-trump/
   outlet: Mother Jones
   date: '2018-12-15'
+  tier: 1
 notes: "Zinke's replacement, David Bernhardt, was an oil and gas lobbyist with so many \nconflicts of interest he carried a card listing them. This exemplified the Trump \nadministration pattern of appointing industry insiders to dismantle the agencies \nmeant to regulate them. Zinke's reduction of national monuments was later found \nto benefit uranium mining companies that had lobbied for the changes. He was the \nfourth Trump Cabinet member to resign under ethics clouds.\n"
 related_events:
 - 2017-03-31--tom-price-resigns-private-jet-scandal

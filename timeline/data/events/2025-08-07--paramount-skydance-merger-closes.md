@@ -22,18 +22,22 @@ sources:
   url: https://www.reuters.com/legal/transactional/paramount-closes-8-billion-merger-with-skydance-after-settling-60-minutes-2025-08-07/
   outlet: Reuters
   date: '2025-08-07'
+  tier: 1
 - title: Paramount and Skydance close their $8B merger
   url: https://apnews.com/article/a030c4f2c1903ed0e7f927782a64fcc0
   outlet: AP News
   date: '2025-08-08'
+  tier: 1
 - title: Skydance Media and Paramount Global Complete Merger
   url: https://www.paramount.com/press/skydance-media-and-paramount-global-complete-merger-creating-next-generation-media-company
   outlet: Paramount Press Release
   date: '2025-08-07'
+  tier: 2
 - title: Paramount-Skydance Merger Closes After FCC Approval
   url: https://www.cnn.com/2025/08/07/media/paramount-skydance-merger-closes
   outlet: CNN
   date: '2025-08-07'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion

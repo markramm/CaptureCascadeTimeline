@@ -21,14 +21,17 @@ sources:
   url: https://ag.ny.gov/press-release/2020/attorney-general-james-files-lawsuit-dissolve-nra
   outlet: New York Attorney General
   date: '2020-08-06'
+  tier: 1
 - title: New York AG seeks to dissolve NRA in lawsuit accusing leaders of self-dealing
   url: https://www.cnbc.com/2020/08/06/new-york-nra-lawsuit-ag-james-accuses-gun-group-execs-of-self-dealing.html
   outlet: CNBC
   date: '2020-08-06'
+  tier: 2
 - title: NRA Lawsuit - Fraud Investigation Moves New York AG To Seek Group's Dissolution
   url: https://www.npr.org/2020/08/06/899712823/new-york-attorney-general-moves-to-dissolve-the-nra-after-fraud-investigation
   outlet: NPR
   date: '2020-08-06'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

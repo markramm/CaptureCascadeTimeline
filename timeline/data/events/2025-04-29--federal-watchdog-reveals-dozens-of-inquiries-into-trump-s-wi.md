@@ -24,14 +24,17 @@ sources:
   url: https://www.nytimes.com/2025/04/29/us/politics/trump-funds-gao.html
   outlet: The New York Times
   date: '2025-04-29'
+  tier: 1
 - title: Trump Blocking $410+ Billion in Funding Owed to Communities Nationwide
   url: https://democrats-appropriations.house.gov/news/press-releases/new-weeks-away-end-fiscal-year-trump-blocking-410-billion-funding-owed
   outlet: House Committee on Appropriations
   date: '2025-09-08'
+  tier: 1
 - title: GAO finds Trump administration's second violation of federal spending law
   url: https://federalnewsnetwork.com/agency-oversight/2025/06/gao-finds-trump-administrations-second-violation-of-federal-spending-law/
   outlet: Federal News Network
   date: '2025-06-15'
+  tier: 2
 connections:
 - Impoundment Control Act violations
 - Congressional budget oversight

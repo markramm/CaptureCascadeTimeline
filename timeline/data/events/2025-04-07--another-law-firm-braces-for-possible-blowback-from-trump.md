@@ -21,18 +21,22 @@ sources:
   url: https://www.nytimes.com/2025/04/07/us/politics/law-firms-trump-cadwalader-wickersham-taft.html
   outlet: The New York Times
   date: '2025-04-07'
+  tier: 1
 - title: 'Trump: 5 law firms commit $600 million in pro bono legal work'
   url: https://www.cnbc.com/2025/04/11/trump-law-firms-pro-bono-work.html
   outlet: CNBC
   date: '2025-04-11'
+  tier: 2
 - title: Cadwalader Is Trump Target as Firm Talks White House Deal
   url: https://news.bloomberglaw.com/business-and-practice/cadwalader-is-trump-target-as-firm-talks-white-house-deal
   outlet: Bloomberg Law
   date: '2025-04-15'
+  tier: 2
 - title: Whitehouse Probes Trump Extortion of Law Firms
   url: https://www.epw.senate.gov/public/index.cfm/2025/5/whitehouse-probes-trump-extortion-of-law-firms
   outlet: U.S. Senate - Environment and Public Works Committee
   date: '2025-05-01'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

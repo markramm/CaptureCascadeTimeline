@@ -31,14 +31,17 @@ sources:
   url: https://www.amazon.com/Conservative-Ascendancy-Right-Political-History/dp/0674016645
   outlet: Harvard University Press
   date: '2005-10-15'
+  tier: 2
 - title: Corporate Networks and the Bush Administration's Iraq War Planning
   url: https://www.jstor.org/stable/25098234
   outlet: Political Science Quarterly
   date: '2004-12-01'
+  tier: 2
 - title: The Infrastructure of Conservative Power in America
   url: https://www.amazon.com/Infrastructure-Conservative-Power-America-Democracy/dp/1560256842
   outlet: Institute for Policy Studies
   date: '2003-06-30'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

@@ -25,14 +25,17 @@ sources:
   url: https://www.theguardian.com/us-news/2026/jan/09/ice-agent-minneapolis-bodycam-footage
   outlet: The Guardian
   date: '2026-01-09'
+  tier: 1
 - title: Minneapolis ICE shooting - A minute-by-minute timeline of how Renee Nicole Good died
   url: https://abcnews.go.com/US/minneapolis-ice-shooting-minute-minute-timeline-renee-nicole/story?id=129021809
   outlet: ABC News
   date: '2026-01-09'
+  tier: 1
 - title: Made of sunshine - Renee Good's wife speaks out following fatal Minneapolis ICE shooting
   url: https://abcnews.go.com/US/renee-good-37-year-woman-killed-minneapolis-ice/story?id=129018464
   outlet: ABC News
   date: '2026-01-09'
+  tier: 1
 capture_lanes:
 - Civil Rights Suppression
 - Democratic Erosion

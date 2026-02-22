@@ -13,12 +13,15 @@ sources:
 - title: Federal Reserve Act Signed into Law
   outlet: Federal Reserve History
   url: https://www.federalreservehistory.org/essays/federal-reserve-act-signed
+  tier: 1
 - title: The Senate Passes the Federal Reserve Act
   outlet: U.S. Senate
   url: https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm
+  tier: 1
 - title: Federal Reserve Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Federal_Reserve_Act
+  tier: 2
 tags:
 - banking-consolidation
 - progressive-era

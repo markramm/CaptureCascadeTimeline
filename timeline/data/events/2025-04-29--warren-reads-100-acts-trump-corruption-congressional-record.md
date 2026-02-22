@@ -21,14 +21,17 @@ sources:
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
   outlet: Senator Warren's Office
   date: '2025-04-29'
+  tier: 1
 - title: Warren Documents 100 Days of Trump Corruption
   url: https://www.politico.com/news/2025/04/29/warren-trump-corruption-100-days
   outlet: Politico
   date: '2025-04-29'
+  tier: 1
 - title: Elizabeth Warren uses Trump's 100-day mark to spotlight 100 acts of corruption
   url: https://www.cryptopolitan.com/elizabeth-warren-on-trumps-100-days/
   outlet: Cryptopolitan
   date: '2025-04-30'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

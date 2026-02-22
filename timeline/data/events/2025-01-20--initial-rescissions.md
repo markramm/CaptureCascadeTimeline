@@ -3,7 +3,7 @@ id: 2025-01-20--initial-rescissions
 date: '2025-01-20'
 importance: 6
 title: Trump signs Executive Order 14148 rescinding 78 Biden directives
-location: White House, Washington DC
+location: 'White House, Washington DC'
 actors:
 - Donald Trump
 - JD Vance
@@ -22,19 +22,21 @@ capture_lanes:
 - Military-Industrial Complex
 sources:
 - title: Initial Rescissions Of Harmful Executive Orders And Actions
-  url: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions'
   outlet: White House
   date: '2025-01-20'
+  tier: 1
   verified: true
   verified_date: '2025-08-17'
-  archive_url: https://web.archive.org/web/20250120000000*/https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/
+  archive_url: 'https://web.archive.org/web/20250120000000*/https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/'
 - title: Executive Order Initial Rescissions of Harmful Executive Orders and Actions
-  url: https://www.hklaw.com/en/insights/publications/2025/01/executive-order-initial-rescissions-of-harmful-executive-orders
-  outlet: Holland & Knight
+  url: 'https://www.hklaw.com/en/insights/publications/2025/01/executive-order-initial-rescissions-of-harmful-executive-orders'
+  outlet: 'Holland & Knight'
   date: '2025-01-20'
   verified: true
+  tier: 2
 - title: Trump Administration Rescinds Batch of Biden-Era Executive Orders
-  url: https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders
+  url: 'https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders'
   outlet: Sabin Center for Climate Change Law
   date: '2025-01-20'
   verified: true
@@ -42,10 +44,10 @@ sources:
   - Executive Order 14148
   - 78 Biden orders and memoranda rescinded
   - First day in office action
-  - Climate, DEI, immigration focus
+  - 'Climate, DEI, immigration focus'
   - 45-day review for additional rescissions
-notes: First of 26 executive orders signed on inauguration day. Rescinded orders included EO 13990 (Protecting Public Health), EO 14008 (Climate Crisis), EO 14074 (Law Enforcement Accountability Database). March 14 follow-up order rescinded additional directives.
+  tier: 1
+notes: 'First of 26 executive orders signed on inauguration day. Rescinded orders included EO 13990 (Protecting Public Health), EO 14008 (Climate Crisis), EO 14074 (Law Enforcement Accountability Database). March 14 follow-up order rescinded additional directives.'
 status: confirmed
 ---
-
 President Donald Trump signed Executive Order 14148 on January 20, 2025, his first day in office, rescinding 78 Biden-era executive orders and memoranda. The order targeted climate policies, DEI initiatives, and immigration enforcement, directing agency heads to end "unlawful and radical DEI ideology" implementation. The order stated "Climate extremism has exploded inflation and overburdened businesses" and mandated a 45-day review to identify additional orders for rescission, followed by a March 14 second wave of rescissions.

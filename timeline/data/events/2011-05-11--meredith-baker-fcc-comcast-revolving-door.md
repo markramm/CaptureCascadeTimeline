@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/blogs/post-tech/post/fcc-commissioner-meredith-baker-to-join-comcast-nbc/2011/05/11/AFYfl1rG_blog.html
   outlet: The Washington Post
   date: '2011-05-11'
+  tier: 1
 - title: Outgoing FCC Commissioner To Lobby For Comcast
   url: https://www.npr.org/2011/05/12/136250400/for-government-employees-revolving-door-continues
   outlet: NPR
   date: '2011-05-12'
+  tier: 1
 - title: 'The FCC''s Revolving Door: From Regulator to Corporate Lobbyist'
   url: https://reason.com/2011/05/11/revolving-door-alert-fcc-commi/
   outlet: Reason Magazine
   date: '2011-05-11'
+  tier: 2
 id: 2011-05-11--meredith-baker-fcc-comcast-revolving-door
 capture_lanes:
 - Corporate Capture

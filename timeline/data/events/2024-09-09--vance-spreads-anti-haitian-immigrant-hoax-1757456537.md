@@ -1,6 +1,6 @@
 ---
 date: '2024-09-09'
-title: Vance Spreads Debunked Anti-Haitian Immigrant Hoax in Springfield, Ohio
+title: 'Vance Spreads Debunked Anti-Haitian Immigrant Hoax in Springfield, Ohio'
 actors:
 - J.D. Vance
 - Haitian immigrants
@@ -11,13 +11,16 @@ importance: 8
 sources:
 - outlet: ABC News
   title: Vance kept up false claims about Haitian migrants after aide was told they were baseless
-  url: https://abcnews.go.com/Politics/vance-false-claims-haitian-migrants-after-aide-told/story?id=113821189
+  url: 'https://abcnews.go.com/Politics/vance-false-claims-haitian-migrants-after-aide-told/story?id=113821189'
+  tier: 1
 - outlet: PolitiFact
-  title: 4 Fact Checks From JD Vance's CNN Interview with Dana Bash
-  url: https://www.politifact.com/article/2024/sep/16/4-fact-checks-from-jd-vances-cnn-interview-with-da/
+  title: '4 Fact Checks From JD Vance''s CNN Interview with Dana Bash'
+  url: 'https://www.politifact.com/article/2024/sep/16/4-fact-checks-from-jd-vances-cnn-interview-with-da/'
+  tier: 1
 - outlet: PolitiFact
   title: 'Lie of the Year: Trump and Vance''s False Claims About Haitian Immigrants'
-  url: https://www.politifact.com/article/2024/dec/17/theyre-eating-the-pets-trump-vance-earn-politifact/
+  url: 'https://www.politifact.com/article/2024/dec/17/theyre-eating-the-pets-trump-vance-earn-politifact/'
+  tier: 1
 tags:
 - anti-immigrant
 - disinformation
@@ -29,11 +32,10 @@ id: 2024-09-09--vance-spreads-anti-haitian-immigrant-hoax-1757456537
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Systematic Corruption
-- Media Capture & Control
+- 'Media Capture & Control'
 - Intelligence Penetration
 geographical_focus:
   city: Springfield
   state: Ohio
 ---
-
 VP nominee J.D. Vance amplified a baseless conspiracy theory claiming Haitian immigrants in Springfield, Ohio were 'abducting and eating' pets. Despite being informed by city manager Bryan Heck that the claims were unfounded, Vance continued to spread misinformation, leading to community disruption including bomb threats at city hall, schools, and local hospitals. The original claim by Anna Kilgore was based on unsubstantiated Facebook and TikTok rumors, which she later retracted after her cat returned home.

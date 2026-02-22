@@ -23,18 +23,22 @@ sources:
   url: https://www.propublica.org/article/doge-elon-musk-chris-young-cfpb-tesla-x
   outlet: ProPublica
   date: '2025-05-14'
+  tier: 1
 - title: Musk's team takes control of key systems at Consumer Financial Protection Bureau
   url: https://www.npr.org/2025/02/07/g-s1-47322/musks-team-takes-control-of-key-systems-at-consumer-financial-protection-bureau
   outlet: NPR
   date: '2025-02-07'
+  tier: 1
 - title: Musk's DOGE Descends on CFPB With Eyes on Shutting It Down
   url: https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-descends-on-cfpb-with-eyes-on-shutting-it-down
   outlet: Bloomberg
   date: '2025-02-07'
+  tier: 1
 - title: 'Revolving Door Project: DOGE Agent Chris Young'
   url: https://therevolvingdoorproject.org/young-chris-doge-agent/
   outlet: Revolving Door Project
   date: '2025-02-15'
+  tier: 2
 connections:
 - connection: Department of Government Efficiency
   description: Young was dispatched from this agency to the CFPB

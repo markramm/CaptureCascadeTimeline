@@ -20,14 +20,17 @@ sources:
   url: https://cis.org/North/EB5-Middleman-Bendas-Death-Ruled-Suicide-South-Dakota-AG
   outlet: Center for Immigration Studies
   date: '2013-10-20'
+  tier: 2
 - title: Death of former state official Richard Benda ruled a suicide
   url: https://www.mitchellrepublic.com/news/death-of-former-state-official-richard-benda-ruled-a-suicide
   outlet: Mitchell Republic
   date: '2013-10-20'
+  tier: 2
 - title: Jackley tells lawmakers he was prepared to charge Benda in EB-5 case
   url: https://rapidcityjournal.com/news/local/jackley-tells-lawmakers-he-was-prepared-to-charge-benda-in-eb-5-case/article_e73a8677-0e08-5c06-a969-d5f9ad4227e5.html
   outlet: Rapid City Journal
   date: '2014-07-29'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

@@ -22,14 +22,17 @@ sources:
   url: https://www.aclu.org/press-releases/aclu-launches-multi-state-legal-action-voting-rights
   outlet: American Civil Liberties Union
   date: '2025-03-10'
+  tier: 1
 - title: 'State Supreme Court Initiative: Expanding Rights Through State Litigation'
   url: https://www.aclu.org/campaigns-initiatives/state-supreme-court-initiative
   outlet: American Civil Liberties Union
   date: '2025-03-10'
+  tier: 1
 - title: 'Civil Liberties Defense Center: Strategic Litigation Report'
   url: https://cldc.org/strategic-litigation-2025
   outlet: Civil Liberties Defense Center
   date: '2025-03-15'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Financial Capture

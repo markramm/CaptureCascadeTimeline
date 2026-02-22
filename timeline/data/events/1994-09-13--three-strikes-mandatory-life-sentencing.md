@@ -18,14 +18,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Violent_Crime_Control_and_Law_Enforcement_Act
   outlet: Wikipedia
   date: '1994-09-13'
+  tier: 2
 - title: The 1994 Crime Bill and Beyond
   url: https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice
   outlet: Brennan Center for Justice
   date: '2019-02-14'
+  tier: 1
 - title: Bill Clinton and the 1994 Crime Bill
   url: https://www.factcheck.org/2016/04/bill-clinton-and-the-1994-crime-bill/
   outlet: FactCheck.org
   date: '2016-04-12'
+  tier: 1
 id: 1994-09-13--three-strikes-mandatory-life-sentencing
 capture_lanes:
 - Judicial Capture

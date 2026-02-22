@@ -16,23 +16,28 @@ sources:
 - date: '2025-08-20'
   outlet: International Criminal Court
   title: ICC Strongly Rejects New US Sanctions Against Judges and Deputy Prosecutors
-  url: https://www.icc-cpi.int/news/icc-strongly-rejects-new-us-sanctions-against-judges-and-deputy-prosecutors
+  url: 'https://www.icc-cpi.int/news/icc-strongly-rejects-new-us-sanctions-against-judges-and-deputy-prosecutors'
+  tier: 2
 - date: '2025-08-20'
   outlet: United Nations
-  title: UN Rights Chief Decries 'Relentless Intensification' of US Sanctions Against ICC Staff
-  url: https://news.un.org/en/story/2025/08/1165696
+  title: 'UN Rights Chief Decries ''Relentless Intensification'' of US Sanctions Against ICC Staff'
+  url: 'https://news.un.org/en/story/2025/08/1165696'
+  tier: 2
 - date: '2025-08-20'
   outlet: US State Department
-  title: Imposing Sanctions in Response to the ICC's Actions Targeting the United States and Israel
-  url: https://www.state.gov/releases/office-of-the-spokesperson/2025/08/imposing-further-sanctions-in-response-to-the-iccs-ongoing-threat-to-americans-and-israelis
+  title: 'Imposing Sanctions in Response to the ICC''s Actions Targeting the United States and Israel'
+  url: 'https://www.state.gov/releases/office-of-the-spokesperson/2025/08/imposing-further-sanctions-in-response-to-the-iccs-ongoing-threat-to-americans-and-israelis'
+  tier: 1
 - date: '2025-08-20'
   outlet: The Washington Post
-  title: US Sanctions More ICC Judges, Prosecutors for Probes into Alleged American, Israeli War Crimes
-  url: https://www.washingtonpost.com/politics/2025/08/20/us-icc-trump-israel-rubio-sanctions/3d76b038-7de4-11f0-971c-6c8e53bd2f21_story.html
+  title: 'US Sanctions More ICC Judges, Prosecutors for Probes into Alleged American, Israeli War Crimes'
+  url: 'https://www.washingtonpost.com/politics/2025/08/20/us-icc-trump-israel-rubio-sanctions/3d76b038-7de4-11f0-971c-6c8e53bd2f21_story.html'
+  tier: 1
 - date: '2025-08-20'
   outlet: Axios
   title: '''Threat to Americans and Israelis'': Trump Admin Imposes Fresh Sanctions on ICC Officials'
-  url: https://www.axios.com/2025/08/21/trump-icc-sanctions-israel-rubio-us-israel-afghanistan
+  url: 'https://www.axios.com/2025/08/21/trump-icc-sanctions-israel-rubio-us-israel-afghanistan'
+  tier: 2
 tags:
 - icc-sanctions
 - international-law
@@ -50,7 +55,6 @@ capture_lanes:
 - Democratic Erosion
 validation_status: pending
 ---
-
 On August 20, 2025, the United States imposed targeted sanctions on four International Criminal Court (ICC) officials, escalating an ongoing campaign to obstruct international judicial proceedings into potential war crimes.
 
 Key Details:

@@ -3,7 +3,7 @@ id: 2025-12-04--supreme-court-reinstates-texas-mid-decade-redistricting-map
 date: '2025-12-04'
 importance: 9
 title: Supreme Court Reinstates Texas Mid-Decade Congressional Map Designed for Republican Advantage Despite Racial Gerrymandering Findings
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Supreme Court of the United States
 - Greg Abbott
@@ -32,44 +32,50 @@ capture_lanes:
 - Civil Rights Suppression
 sources:
 - title: Supreme Court allows Texas to use redistricting map challenged as racially discriminatory
-  url: https://www.scotusblog.com/2025/12/supreme-court-allows-texas-to-use-redistricting-map-challenged-as-racially-discriminatory/
+  url: 'https://www.scotusblog.com/2025/12/supreme-court-allows-texas-to-use-redistricting-map-challenged-as-racially-discriminatory/'
   outlet: SCOTUSblog
   date: '2025-12-04'
+  tier: 1
   archive_url: null
 - title: Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats
-  url: https://www.npr.org/2025/12/04/nx-s1-5619692/supreme-court-texas-redistricting-map
+  url: 'https://www.npr.org/2025/12/04/nx-s1-5619692/supreme-court-texas-redistricting-map'
   outlet: NPR
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: Supreme Court allows Texas to use new congressional district map drawn to favor Republicans
-  url: https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-texas-use-new-congressional-district-map-drawn-fa-rcna244696
+  url: 'https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-texas-use-new-congressional-district-map-drawn-fa-rcna244696'
   outlet: NBC News
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: Supreme Court orders Texas to use 2025 map amid legal battle
-  url: https://www.texastribune.org/2025/12/04/texas-redistricting-map-us-supreme-court-2026-midterms/
+  url: 'https://www.texastribune.org/2025/12/04/texas-redistricting-map-us-supreme-court-2026-midterms/'
   outlet: Texas Tribune
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: Supreme Court allows Texas GOP to use new redistricted map for now
-  url: https://www.cbsnews.com/news/supreme-court-texas-map-republicans/
+  url: 'https://www.cbsnews.com/news/supreme-court-texas-map-republicans/'
   outlet: CBS News
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: NAACP Condemns Supreme Court Decision Allowing Racially Motivated Gerrymandering in Texas
-  url: https://naacp.org/articles/naacp-condemns-supreme-court-decision-allowing-racially-motivated-gerrymandering-texas
+  url: 'https://naacp.org/articles/naacp-condemns-supreme-court-decision-allowing-racially-motivated-gerrymandering-texas'
   outlet: NAACP
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: Supreme Court Hammers Away at Democracy
-  url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-hammers-away-democracy
+  url: 'https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-hammers-away-democracy'
   outlet: Brennan Center for Justice
   date: '2025-12-04'
   archive_url: null
-notes: Supreme Court 6-3 conservative majority overrules three-judge district court finding of racial gerrymandering. Lower court found substantial evidence Texas racially gerrymandered 2025 map at Trump's direction. Mid-decade redistricting designed to add 5 GOP House seats despite Black and Latino communities accounting for 95% of Texas population growth. Trump appointee Judge Brown wrote 160-page opinion documenting racial discrimination.
+  tier: 1
+notes: 'Supreme Court 6-3 conservative majority overrules three-judge district court finding of racial gerrymandering. Lower court found substantial evidence Texas racially gerrymandered 2025 map at Trump''s direction. Mid-decade redistricting designed to add 5 GOP House seats despite Black and Latino communities accounting for 95% of Texas population growth. Trump appointee Judge Brown wrote 160-page opinion documenting racial discrimination.'
 status: confirmed
 ---
-
 The Supreme Court's conservative majority allows Texas to implement a new congressional map that a federal district court had blocked as unconstitutionally racially gerrymandered, granting an emergency stay application from Texas Republicans just days before the December 8 candidate filing deadline for the 2026 midterm elections. The Supreme Court's December 4 decision overrules a November 18 preliminary injunction by a three-judge federal district court that found "substantial evidence" Texas racially gerrymandered the 2025 map and ordered the state to revert to its existing 2021 map.
 
 The extraordinary mid-decade redistricting was conducted at the explicit direction of President Donald Trump, who demanded Texas redraw its congressional map to "squeeze out five extra seats for Republicans" despite no census or significant population changes that would normally trigger redistricting. According to the Texas Tribune, the new map is engineered to give Republicans control of 30 of Texas's 38 congressional districts, up from the 25 seats they currently hold under the 2021 map—a dramatic expansion of Republican advantage achieved through racial manipulation of district boundaries.

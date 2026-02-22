@@ -18,22 +18,27 @@ sources:
   url: https://www.reuters.com/world/vietnam-approves-15-billion-investment-plan-by-trump-organization-partner-2025-05-16/
   outlet: Source:REUTERS
   date: '2025-05-16'
+  tier: 1
 - title: The Trump Organization has been approved for a 1.5 billion golf resort in Vietnam
   url: https://fortune.com/2025/05/16/trump-organization-vietnam-golf-resort/
   outlet: Fortune
   date: '2025-05-16'
+  tier: 2
 - title: Trump Organization breaks ground on 1.5 billion golf club in Vietnam
   url: https://www.nbcnews.com/world/asia/trump-organization-breaks-ground-15-billion-golf-club-vietnam-rcna208169
   outlet: NBC News
   date: '2025-05-21'
+  tier: 1
 - title: Trade war and Vietnam's 1.5 billion deal with the Trump Organization
   url: https://www.npr.org/2025/06/17/1254291430/vietnam-trump-organization-golf-resort-deal-trade-war
   outlet: NPR
   date: '2025-06-17'
+  tier: 1
 - title: Vietnam approves a 1.5 billion Trump golf resort project as tariff talks loom
   url: https://finance.yahoo.com/news/vietnam-approves-1-5-billion-183500461.html
   outlet: Yahoo Finance
   date: '2025-05-16'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

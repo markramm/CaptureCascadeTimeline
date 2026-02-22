@@ -16,18 +16,22 @@ sources:
   outlet: Wikipedia
   title: 1999 New York City nightclub shooting
   url: https://en.wikipedia.org/wiki/1999_New_York_City_nightclub_shooting
+  tier: 2
 - date: '2025-04-01'
   outlet: Unlimited Hangout
   title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
+  tier: 3
 - date: '2024-04-01'
   outlet: Mercury News
   title: 'Jennifer Lopez''s ''nightmare'': Diddy probes renew look at 1999 shooting'
   url: https://www.mercurynews.com/2024/04/01/jennifer-lopezs-nightmare-diddy-investigations-renew-questions-about-1999-shooting/
+  tier: 2
 - date: '2024-02-15'
   outlet: ABC News
   title: 'Driver: Lopez Said Shyne Fired Gun'
   url: https://abcnews.go.com/Entertainment/story?id=109455
+  tier: 1
 status: confirmed
 tags:
 - criminal-case

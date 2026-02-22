@@ -16,10 +16,13 @@ actors:
 sources:
 - title: en.wikipedia.org
   url: https://en.wikipedia.org/wiki/Rupert_Murdoch
+  tier: 2
 - title: pewresearch.org
   url: https://www.pewresearch.org/journalism/2007/08/01/publisher-murdochs-u-s-track-record/
+  tier: 2
 - title: cnn.com
   url: https://www.cnn.com/interactive/2011/07/world/interactive.rupert.murdoch/index.html
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

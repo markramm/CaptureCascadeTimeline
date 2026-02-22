@@ -27,33 +27,37 @@ tags:
 sources:
 - date: '2025-08-22'
   outlet: NBC News
-  title: FBI searches former national security adviser John Bolton's home in a probe to find classified records
-  url: https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503
-  archive_url: https://web.archive.org/web/20250822000000/https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503
+  title: 'FBI searches former national security adviser John Bolton''s home in a probe to find classified records'
+  url: 'https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503'
+  archive_url: 'https://web.archive.org/web/20250822000000/https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503'
+  tier: 1
 - date: '2025-08-22'
   outlet: CNN
-  title: FBI conducts search at John Bolton's home as part of resumed national security investigation
-  url: https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search
-  archive_url: https://web.archive.org/web/20250822000000/https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search
+  title: 'FBI conducts search at John Bolton''s home as part of resumed national security investigation'
+  url: 'https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search'
+  archive_url: 'https://web.archive.org/web/20250822000000/https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search'
+  tier: 1
 - date: '2025-08-22'
   outlet: The Washington Post
   title: FBI raids home of former Trump national security adviser John Bolton
-  url: https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/
-  archive_url: https://web.archive.org/web/20250822000000/https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/
+  url: 'https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/'
+  archive_url: 'https://web.archive.org/web/20250822000000/https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/'
+  tier: 1
 - date: '2025-08-22'
   outlet: Newsweek
   title: 'John Bolton FBI Raid Update: Here''s What Was Seized'
-  url: https://www.newsweek.com/john-bolton-fbi-raid-update-donald-trump-memoir-strikes-2124675
-  archive_url: https://web.archive.org/web/20250822000000/https://www.newsweek.com/john-bolton-fbi-raid-update-donald-trump-memoir-strikes-2124675
+  url: 'https://www.newsweek.com/john-bolton-fbi-raid-update-donald-trump-memoir-strikes-2124675'
+  archive_url: 'https://web.archive.org/web/20250822000000/https://www.newsweek.com/john-bolton-fbi-raid-update-donald-trump-memoir-strikes-2124675'
+  tier: 2
 - date: '2025-08-22'
   outlet: NPR
-  title: FBI conducts search at John Bolton's home in classified documents investigation
-  url: https://www.npr.org/2025/08/22/g-s1-84546/fbi-home-john-bolton
-  archive_url: https://web.archive.org/web/20250822000000/https://www.npr.org/2025/08/22/g-s1-84546/fbi-home-john-bolton
+  title: 'FBI conducts search at John Bolton''s home in classified documents investigation'
+  url: 'https://www.npr.org/2025/08/22/g-s1-84546/fbi-home-john-bolton'
+  archive_url: 'https://web.archive.org/web/20250822000000/https://www.npr.org/2025/08/22/g-s1-84546/fbi-home-john-bolton'
+  tier: 1
 validation_status: enhanced
 quality_score: 9
 ---
-
 On August 22, 2025, the FBI executed simultaneous, court-authorized searches of John Bolton's Maryland home and Washington, D.C. office, seizing electronic devices and documents related to potential classified information mishandling. The raid stems from an ongoing investigation into Bolton's 2020 memoir, 'The Room Where It Happened', and represents a significant escalation in political tensions.
 
 Key Details:

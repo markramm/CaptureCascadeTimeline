@@ -35,22 +35,27 @@ sources:
   url: https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles
   outlet: USNI News
   date: '2025-06-09'
+  tier: 2
 - title: The Marines Are in Los Angeles
   url: https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html
   outlet: Military.com
   date: '2025-06-13'
+  tier: 2
 - title: Trump says more National Guard troops would be deployed in California if needed
   url: https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/
   outlet: Reuters
   date: '2025-06-09'
+  tier: 1
 - title: Department of Defense Security for the Protection of Department of Homeland Security Functions
   url: https://www.whitehouse.gov/presidential-actions/2025/06/department-of-defense-security-for-the-protection-of-department-of-homeland-security-functions
   outlet: White House
   date: '2025-06-07'
+  tier: 1
 - title: How can the president put soldiers on the streets of Los Angeles?
   url: https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
   outlet: Brookings Institution
   date: '2025-06-09'
+  tier: 1
 monitoring_status: active
 followup_schedule: weekly
 search_keywords:

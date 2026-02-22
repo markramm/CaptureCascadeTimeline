@@ -19,6 +19,7 @@ tags:
 - cold-war
 sources:
 - title: Project MKULTRA, The CIA's Program of Research in Behavioral Modification
+  tier: 2
   author: U.S. Senate Select Committee on Intelligence
   year: 1977
   url: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf
@@ -28,16 +29,19 @@ sources:
   year: 1975
   url: https://www.cia.gov/readingroom/document/00163357
   outlet: CIA FOIA Reading Room
+  tier: 1
 - title: 'Pre-Emption: The Church Committee Hearings & The FISA Court'
   author: PBS Frontline
   year: 2006
   url: https://www.pbs.org/wgbh/pages/frontline/homefront/preemption/churchfisa.html
   outlet: PBS
+  tier: 1
 - title: 'The Work of Donald Ewen Cameron: From Psychic Driving to MK Ultra'
   author: National Center for Biotechnology Information
   year: 2023
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10443815/
   outlet: Academic Research
+  tier: 1
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

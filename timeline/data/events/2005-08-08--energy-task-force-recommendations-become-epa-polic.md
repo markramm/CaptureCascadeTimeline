@@ -26,16 +26,19 @@ sources:
   url: https://www.judicial-watch.org/maps-and-charts-and-executive-privilege/
   outlet: Judicial Watch
   date: '2005-07-18'
+  tier: 2
 - date: '2005-11-16'
   outlet: The Spokesman-Review
   title: Cheney Task Force Met With Oil Executives
   url: https://www.spokesman.com/stories/2005/nov/16/cheney-task-force-met-with-oil-execs/
   key_details: Documented direct meetings between Cheney's task force and oil company executives
+  tier: 2
 - date: '2005-05-16'
   outlet: Global Energy Monitor
   title: 'National Energy Policy Development Group: Regulatory Capture Analysis'
   url: https://www.gem.wiki/Cheney_Energy_Task_Force
   key_details: Detailed analysis of task force's composition and industry influence on policy-making
+  tier: 2
 id: 2005-08-08--energy-task-force-recommendations-become-epa-polic
 created_from: research-priority-RT-022-media-regulatory-capture-coordination
 created_date: '2025-09-06T03:41:26.657370'

@@ -11,21 +11,25 @@ actors:
 - 346 crash victims
 sources:
 - outlet: House Transportation Committee
-  title: After 18-Month Investigation, Chairs DeFazio and Larsen Release Final Committee Report on Boeing 737 MAX
-  url: https://democrats-transportation.house.gov/news/press-releases/after-18-month-investigation-chairs-defazio-and-larsen-release-final-committee-report-on-boeing-737-max
+  title: 'After 18-Month Investigation, Chairs DeFazio and Larsen Release Final Committee Report on Boeing 737 MAX'
+  url: 'https://democrats-transportation.house.gov/news/press-releases/after-18-month-investigation-chairs-defazio-and-larsen-release-final-committee-report-on-boeing-737-max'
   date: '2020-09-16'
+  tier: 1
 - outlet: U.S. Government Publishing Office
-  title: The Design, Development & Certification of the Boeing 737 MAX
-  url: https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf
+  title: 'The Design, Development & Certification of the Boeing 737 MAX'
+  url: 'https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf'
   date: '2020-09-16'
+  tier: 1
 - outlet: CNBC
-  title: Boeing, FAA Slammed in House Report Over Deadly 737 Max Failures
-  url: https://www.cnbc.com/2020/09/16/boeing-slammed-in-house-report-over-737-max-failures-as-company-tries-to-return-the-plane-to-service.html
+  title: 'Boeing, FAA Slammed in House Report Over Deadly 737 Max Failures'
+  url: 'https://www.cnbc.com/2020/09/16/boeing-slammed-in-house-report-over-737-max-failures-as-company-tries-to-return-the-plane-to-service.html'
   date: '2020-09-16'
+  tier: 2
 - outlet: Esquire
   title: House Transportation Committee Finds Boeing 737 Was Case of Regulatory Capture
-  url: https://www.esquire.com/news-politics/politics/a34045023/boeing-737-max-regulatory-capture/
+  url: 'https://www.esquire.com/news-politics/politics/a34045023/boeing-737-max-regulatory-capture/'
   date: '2020-09-16'
+  tier: 2
 importance: 10
 tags:
 - boeing
@@ -40,7 +44,6 @@ capture_lanes:
 - Legislative Capture
 - Systematic Corruption
 ---
-
 The House Committee on Transportation and Infrastructure released its final 238-page report on the Boeing 737 MAX disasters, concluding that the crashes "were the horrific culmination of a series of faulty technical assumptions by Boeing's engineers, a lack of transparency on the part of Boeing's management, and grossly insufficient oversight by the FAA—the pernicious result of regulatory capture on the part of the FAA with respect to its responsibilities to perform robust oversight of Boeing and to ensure the safety of the flying public."
 
 The 18-month investigation, led by Chair Peter DeFazio (D-OR) and Aviation Subcommittee Chair Rick Larsen (D-WA), reviewed an estimated 600,000 pages of documents, held five public hearings with more than 20 witnesses, and interviewed dozens of whistleblowers and current and former Boeing and FAA employees. The investigation documented systematic regulatory capture where the FAA had effectively surrendered its safety oversight function to Boeing through the Organization Designation Authorization (ODA) program.

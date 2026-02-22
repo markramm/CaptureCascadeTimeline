@@ -25,15 +25,19 @@ sources:
   url: https://www.intelligence.senate.gov/sites/default/files/publications/iraqreport2.pdf
   outlet: Senate Intelligence Committee
   date: '2004-07-07'
+  tier: 1
 - title: 'The Italian Letter: How the Bush Administration Used a Fake Letter to Build
+  tier: 2
     the Case for War in Iraq'
   url: https://www.newyorker.com/magazine/2003/10/27/the-stovepipe
   outlet: The New Yorker
   date: '2003-10-27'
+  tier: 1
 - title: 'Dead Certain: The Presidency of George W. Bush'
   url: https://www.amazon.com/Dead-Certain-Presidency-George-Bush/dp/0307394433
   outlet: Crown Publishers
   date: '2007-08-28'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

@@ -11,12 +11,15 @@ sources:
 - title: 17th Amendment to the U.S. Constitution - Direct Election of U.S. Senators (1913)
   outlet: National Archives
   url: https://www.archives.gov/milestone-documents/17th-amendment
+  tier: 1
 - title: Seventeenth Amendment to the United States Constitution
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution
+  tier: 2
 - title: 'Landmark Legislation: The Seventeenth Amendment to the Constitution'
   outlet: U.S. Senate
   url: https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm
+  tier: 1
 tags:
 - progressive-era
 - electoral-reform

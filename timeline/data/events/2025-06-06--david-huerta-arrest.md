@@ -25,14 +25,17 @@ sources:
   url: https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/
   outlet: CBS News
   date: '2025-06-06'
+  tier: 1
 - title: SEIU president charged
   url: https://laist.com/brief/news/la-immigration-raids-protests-huerta-charged
   outlet: LAist
   date: '2025-06-06'
+  tier: 2
 - title: Who is David Huerta, the union leader arrested while protesting in Los Angeles?
   url: https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679
   outlet: ABC News
   date: '2025-06-10'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

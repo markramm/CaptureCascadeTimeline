@@ -21,14 +21,17 @@ sources:
   url: https://www.nytimes.com/2005/06/08/politics/bush-aide-softened-greenhouse-gas-links-to-global-warming.html
   outlet: The New York Times
   date: '2005-06-08'
+  tier: 1
 - title: Political Interference with Climate Change Science Under the Bush Administration
   url: https://oversight.house.gov/sites/democrats.oversight.house.gov/files/documents/20071201121618.pdf
   outlet: House Committee on Oversight
   date: '2007-12-01'
+  tier: 1
 - title: 'Atmosphere of Pressure: Political Interference in Federal Climate Science'
   url: https://www.ucsusa.org/sites/default/files/2019-09/atmosphere-of-pressure.pdf
   outlet: Union of Concerned Scientists
   date: '2007-01-30'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

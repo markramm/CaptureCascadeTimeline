@@ -31,26 +31,32 @@ sources:
   url: https://www.france24.com/en/europe/20251204-france-and-germany-warn-us-could-betray-ukraine-in-push-for-peace-speigel-reports
   outlet: France 24
   date: '2025-12-04'
+  tier: 2
 - title: Macron warned Ukraine of potential US betrayal in peace talks, German media claims
   url: https://www.aa.com.tr/en/europe/macron-warned-ukraine-of-potential-us-betrayal-in-peace-talks-german-media-claims/3762247
   outlet: Anadolu Agency
   date: '2025-12-04'
+  tier: 2
 - title: Macron Reportedly Warns US Might 'Betray' Ukraine
   url: https://www.newser.com/story/379822/on-call-macron-reportedly-worries-us-will-betray-ukraine.html
   outlet: Newser
   date: '2025-12-04'
+  tier: 2
 - title: Macron warns US may 'betray' Ukraine in peace talks, leak reveals
   url: https://english.almayadeen.net/news/politics/macron-warns-us-may--betray--ukraine-in-peace-talks--leak-re
   outlet: Al Mayadeen English
   date: '2025-12-04'
+  tier: 2
 - title: France's Macron Warned Other Leaders About Potential Trump Betrayal
   url: https://newrepublic.com/post/203995/france-macron-warned-european-leaders-trump-betrayal-ukraine-leaked-call
   outlet: The New Republic
   date: '2025-12-04'
+  tier: 2
 - title: Zelenskyy heads to London for more Ukraine peace talks. Here's what to know
   url: https://www.npr.org/2025/12/08/nx-s1-5636699/zelenskyy-ukraine-uk-russia-france-germany-europe-peace-trump
   outlet: NPR
   date: '2025-12-08'
+  tier: 1
 connections:
 - Trump-Putin Direct Negotiations (2025 ongoing)
 - Ukraine Peace Proposals (2025)

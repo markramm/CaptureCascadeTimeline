@@ -13,19 +13,23 @@ sources:
 - title: The Legacy of the 1968 Fair Housing Act
   outlet: National Center for Biotechnology Information
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4808815/
+  tier: 1
   year: 2016
 - title: Civil Rights Act of 1968
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1968
   year: 2024
+  tier: 2
 - title: A Brief History Lesson on REALTORS and Race
   outlet: NotoriousROB
   url: https://notoriousrob.com/2020/07/a-brief-history-lesson-on-realtors-and-race/
   year: 2020
+  tier: 2
 - title: Fair Housing Act
   outlet: History.com
   url: https://www.history.com/articles/fair-housing-act
   year: 2024
+  tier: 2
 tags:
 - housing
 - civil-rights

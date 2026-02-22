@@ -21,14 +21,17 @@ sources:
   url: https://apnews.com/article/0a01b5f9edca4e5c9e5f3a7c9f3d8e7f
   outlet: Associated Press
   date: '2017-04-19'
+  tier: 1
 - title: China grants 18 trademarks to companies linked to Trump, Ivanka
   url: https://www.nytimes.com/2018/11/06/business/trump-trademarks-china.html
   outlet: The New York Times
   date: '2018-11-06'
+  tier: 1
 - title: Ivanka Trump gets initial approval from China for 16 new trademarks
   url: https://www.cnbc.com/2018/11/06/ivanka-trump-gets-initial-approval-from-china-for-16-trademarks.html
   outlet: CNBC
   date: '2018-11-06'
+  tier: 2
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration

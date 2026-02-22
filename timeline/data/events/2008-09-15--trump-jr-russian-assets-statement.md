@@ -15,23 +15,23 @@ tags:
 status: confirmed
 sources:
 - title: Donald Trump Jr. admitted a decade ago that many family assets come from
-    Russia
-  url: https://www.aol.com/article/news/2018/02/21/donald-trump-jr-admitted-a-decade-ago-that-many-family-assets-come-from-russia/23367534/
+  tier: 2
+  url: 'https://www.aol.com/article/news/2018/02/21/donald-trump-jr-admitted-a-decade-ago-that-many-family-assets-come-from-russia/23367534/'
   outlet: AOL News
   date: '2018-02-21'
-- title: How Russian Money Boosted Trump's Business Empire
-  url: https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/
+- title: 'How Russian Money Boosted Trump''s Business Empire'
+  url: 'https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/'
   outlet: Foreign Policy
   date: '2018-12-21'
+  tier: 2
 - title: Trump Jr. Russians make up disproportionate cross-section
-  url: https://russia-gate.net/index.php/announcement/donald-trump-jr-russians-make-up-a-pretty-disproportionate-cross-section-of-a-lot-of-our-assets/
+  url: 'https://russia-gate.net/index.php/announcement/donald-trump-jr-russians-make-up-a-pretty-disproportionate-cross-section-of-a-lot-of-our-assets/'
   outlet: Russia-Gate
   date: '2008-09-15'
-notes: 'Statement made at "Bridging U.S. and Emerging Markets Real Estate" conference
-  in New York.
+  tier: 2
+notes: 'Statement made at "Bridging U.S. and Emerging Markets Real Estate" conference in New York.
 
-  Trump Jr. also noted "a lot of money coming for new-builds and resale reflecting
-  a trend
+  Trump Jr. also noted "a lot of money coming for new-builds and resale reflecting a trend
 
   in the Russian economy and, of course, the weak dollar versus the ruble." This occurred
 
@@ -41,7 +41,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-
 At a New York real estate conference, Donald Trump Jr. stated: "Russians make up a pretty
 disproportionate cross-section of a lot of our assets. We see a lot of money pouring in
 from Russia." He specifically mentioned Dubai, Trump SoHo, and New York properties. This

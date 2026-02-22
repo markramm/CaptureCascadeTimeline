@@ -18,22 +18,27 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/05/11/trump-air-force-one-qatar/
   outlet: The Washington Post
   date: '2025-05-11'
+  tier: 1
 - title: Unwrapping Qatar's 400 Million Winged Gift to Trump
   url: https://www.factcheck.org/2025/05/unwrapping-qatars-400-million-winged-gift-to-trump/
   outlet: FactCheck.org
   date: '2025-05-11'
+  tier: 1
 - title: Trump administration officially accepts jet from Qatar for use as Air Force One
   url: https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one
   outlet: NPR
   date: '2025-05-21'
+  tier: 1
 - title: Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar
   url: https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511
   outlet: ABC News
   date: '2025-05-11'
+  tier: 1
 - title: Trump says US government plans to accept luxury jet following reports of multimillion-dollar gift from Qatar
   url: https://www.cnn.com/2025/05/11/politics/trump-luxury-jet-qatar-air-force-one
   outlet: CNN
   date: '2025-05-11'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

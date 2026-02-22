@@ -23,6 +23,7 @@ actors:
 sources:
 - url: https://muse.jhu.edu/article/671508/summary
   title: 'Operation Coffeecup: Ronald Reagan, Rugged Individualism, and the Debate
+  tier: 1
     over "Socialized Medicine"'
   outlet: Project MUSE / Journal of Policy History
   tier: 1
@@ -62,6 +63,7 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Chemical Warriors, Part 3: Over the Rainbow'
   outlet: UCLA Center for the Study of Women
   url: https://csw.ucla.edu/2017/03/07/chemical-warriors-part-3-rainbow/

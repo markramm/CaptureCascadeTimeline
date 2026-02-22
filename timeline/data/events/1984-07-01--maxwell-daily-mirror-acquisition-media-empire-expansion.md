@@ -24,6 +24,7 @@ sources:
 - title: Robert Maxwell - Wikipedia
   url: https://en.wikipedia.org/wiki/Robert_Maxwell
   outlet: Wikipedia
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Maxwell acquired MGN from Reed International for £113 million in July 1984
@@ -37,6 +38,7 @@ sources:
   - Purchased Mirror Group Newspapers in 1984
   - Acquired publishers of six newspapers, including the Daily Mirror
   - Part of broader media empire expansion strategy
+  tier: 2
 - title: 'From wooden shack to global media magnate: The rise and fall of Robert Maxwell'
   url: https://www.timesofisrael.com/from-wooden-shack-to-global-media-magnate-the-rise-and-fall-of-robert-maxwell/
   outlet: Times of Israel
@@ -45,6 +47,7 @@ sources:
   - Maxwell's media empire grew substantially in the 1980s
   - Rivalry with Rupert Murdoch dominated media landscape
   - Acquisition part of ambitious media consolidation strategy
+  tier: 2
 status: confirmed
 ---
 

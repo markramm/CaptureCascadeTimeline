@@ -10,14 +10,17 @@ actors:
 - League of Women Voters
 sources:
 - outlet: ACLU Press Release
-  title: Voting Rights Groups Challenge Trump's Recent Executive Order
-  url: https://www.aclu.org/press-releases/voting-rights-groups-challenge-trumps-recent-executive-order
+  title: 'Voting Rights Groups Challenge Trump''s Recent Executive Order'
+  url: 'https://www.aclu.org/press-releases/voting-rights-groups-challenge-trumps-recent-executive-order'
+  tier: 1
 - outlet: ACLU Press Release
   title: Groups File Nationwide Class-Action Lawsuit Over Birthright Citizenship Order
-  url: https://www.aclu.org/press-releases/groups-file-nationwide-class-action-lawsuit-over-trump-birthright-citizenship-order
+  url: 'https://www.aclu.org/press-releases/groups-file-nationwide-class-action-lawsuit-over-trump-birthright-citizenship-order'
+  tier: 1
 - outlet: ACLU Legal Case Information
   title: League of Women Voters Education Fund v. Trump
-  url: https://www.aclu.org/cases/league-of-women-voters-education-fund-v-trump
+  url: 'https://www.aclu.org/cases/league-of-women-voters-education-fund-v-trump'
+  tier: 2
 tags:
 - litigation
 - constitutional-defense
@@ -30,5 +33,4 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-
 Legal resistance network files simultaneous federal lawsuits in multiple jurisdictions challenging recent executive orders that potentially violate constitutional separation of powers. The ACLU and Protect Democracy lead a coalition challenging executive orders related to voting rights and birthright citizenship, arguing these orders violate fundamental constitutional principles of separation of powers and due process.

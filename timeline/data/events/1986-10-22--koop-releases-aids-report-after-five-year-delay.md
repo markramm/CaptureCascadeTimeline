@@ -20,17 +20,20 @@ sources:
   url: https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/
   outlet: UNT Libraries
   date: '2022-12-01'
+  tier: 1
   verified: true
 - title: AIDS, the Surgeon General, and Politics of Public Health
   url: https://profiles.nlm.nih.gov/spotlight/qq/feature/aids
   outlet: National Library of Medicine
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: 'C. Everett Koop: Pioneering Surgeon General'
   url: https://www.thedailybeast.com/c-everett-koop-pioneering-surgeon-general-spurred-reagan-response-to-aids/
   outlet: The Daily Beast
   date: '2013-02-26'
   verified: true
+  tier: 2
 capture_lanes:
 - Electoral Manipulation
 - Digital & Tech Capture

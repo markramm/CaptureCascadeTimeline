@@ -9,7 +9,7 @@ actors:
 - Clark Construction
 - AECOM
 importance: 8
-location: Washington, D.C.
+location: 'Washington, D.C.'
 tags:
 - white-house-renovation
 - government-infrastructure
@@ -20,20 +20,22 @@ capture_type: infrastructure_manipulation
 sources:
 - outlet: ABC News
   title: Trump is building a new $200 million ballroom at the White House
-  url: https://abcnews.go.com/Politics/trump-building-new-200-million-ballroom-white-house/story?id=124254902
+  url: 'https://abcnews.go.com/Politics/trump-building-new-200-million-ballroom-white-house/story?id=124254902'
   date: '2025-07-31'
+  tier: 1
 - outlet: NPR
-  title: Trump's dream of building a ballroom at the White House is becoming a reality
-  url: https://www.npr.org/2025/07/31/nx-s1-5487590/trump-ballroom-white-house
+  title: 'Trump''s dream of building a ballroom at the White House is becoming a reality'
+  url: 'https://www.npr.org/2025/07/31/nx-s1-5487590/trump-ballroom-white-house'
   date: '2025-07-31'
-- outlet: U.S. News & World Report
-  title: White House Announces New $200M Ballroom as Part of Trump's Latest Makeover of 'The People's House'
-  url: https://www.usnews.com/news/us/articles/2025-07-31/construction-on-200-million-white-house-ballroom-to-begin-in-september
+  tier: 1
+- outlet: 'U.S. News & World Report'
+  title: 'White House Announces New $200M Ballroom as Part of Trump''s Latest Makeover of ''The People''s House'''
+  url: 'https://www.usnews.com/news/us/articles/2025-07-31/construction-on-200-million-white-house-ballroom-to-begin-in-september'
   date: '2025-07-31'
+  tier: 2
 status: confirmed
 connections:
-- Trump's Pattern of Personal Infrastructure Modifications
+- 'Trump''s Pattern of Personal Infrastructure Modifications'
 - Presidential Property Expansion
 ---
-
 President Trump announced a $200 million State Ballroom project for the White House, designed as a 90,000 sq ft event space with gold and crystal features, marking the first significant structural addition to the Executive Mansion since the 1948 Truman balcony.

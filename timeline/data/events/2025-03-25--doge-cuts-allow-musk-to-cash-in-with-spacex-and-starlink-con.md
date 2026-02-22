@@ -23,14 +23,17 @@ sources:
   url: https://www.theguardian.com/technology/2025/mar/25/doge-musk-spacex-starlink-contracts
   outlet: The Guardian
   date: '2025-03-25'
+  tier: 1
 - title: Musk's Government Contract Expansion Raises Concerns of Systemic Conflicts
   url: https://peer.org/doge-cuts-allow-musk-cash-in-spacex-starlink-contracts/
   outlet: PEER.org
   date: '2025-03-25'
+  tier: 2
 - title: Elon Musk's Starlink has a growing footprint in the federal government
   url: https://www.nbcnews.com/tech/elon-musk/elon-musk-starlink-growing-footprint-federal-government-rcna195400
   outlet: NBC News
   date: '2025-03-06'
+  tier: 1
 connections:
 - Federal agency privatization
 - Project 2025 infrastructure capture

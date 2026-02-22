@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/immigration/2025/02/21/ice-director-removed-caleb-vitello/
   outlet: The Washington Post
   date: '2025-02-21'
+  tier: 1
 - title: Acting head of ICE reassigned amid frustrations over deportation efforts
   url: https://www.cbsnews.com/news/acting-head-immigration-customs-enforcement-reassigned-frustrations-deportation-efforts-trump/
   outlet: CBS News
   date: '2025-02-21'
+  tier: 1
 - title: Trump administration reassigning acting ICE director
   url: https://www.nbcnews.com/politics/national-security/trump-administration-reassigning-acting-ice-director-rcna193225
   outlet: NBC News
   date: '2025-02-21'
+  tier: 1
 notes: White House demanded ICE "defy the math" with unrealistic quotas. Also reassigned were Russell Hott and Peter Berg from enforcement division. Officers struggled because immigrants refused to open doors when ICE knocked.
 status: confirmed
 ---

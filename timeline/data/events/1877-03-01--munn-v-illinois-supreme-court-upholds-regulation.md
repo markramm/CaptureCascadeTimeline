@@ -13,21 +13,26 @@ sources:
 - title: Munn v. Illinois
   outlet: Britannica
   url: https://www.britannica.com/event/Munn-v-Illinois
+  tier: 2
   year: 2025
 - title: Munn v. Illinois
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Munn_v._Illinois
   year: 2025
+  tier: 2
 - title: Granger Laws
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Granger_Laws
   year: 2025
+  tier: 2
 - title: Munn v. Illinois, 94 U.S. 113 (1877)
   url: https://www.law.cornell.edu/supremecourt/text/94/113
   outlet: Legal Information Institute, Cornell Law School
+  tier: 1
 - title: Munn v. Illinois
   url: https://www.oyez.org/cases/1850-1900/94us113
   outlet: Oyez Project
+  tier: 2
 tags:
 - regulatory-framework
 - supreme-court

@@ -32,14 +32,17 @@ sources:
   url: https://www.acluga.org/en/press-releases/press-release-advocacy-groups-send-guidance-mass-voter-challenges-elections-officials
   outlet: ACLU of Georgia
   date: '2024-09-30'
+  tier: 2
 - title: Civil Rights Groups File Lawsuit to Stop Georgia Law's Outrageous New Pathway to Purging Eligible Voters
   url: https://www.lawyerscommittee.org/civil-rights-groups-file-lawsuit-to-stop-georgia-laws-outrageous-new-pathway-to-purging-eligible-voters/
   outlet: Lawyers' Committee for Civil Rights Under Law
   date: '2024-09-25'
+  tier: 2
 - title: New Georgia Law Spurs Bogus Challenges to Voter Eligibility
   url: https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility
   outlet: Brennan Center for Justice
   date: '2024-07-09'
----
+
+  tier: 1---
 
 A coalition led by Campaign Legal Center, ACLU of Georgia, and other civil rights groups sent guidance to Georgia election officials on handling mass voter challenges under SB 189. The letter outlined legal concerns about baseless challenges based on unreliable data, reminded officials of federal NVRA limitations on voter purges, and provided best practices to prevent erroneous removal of eligible voters. This followed over 34,000 challenges filed immediately after SB 189 took effect July 1, 2024, with lawsuits subsequently filed to block the law's provisions.

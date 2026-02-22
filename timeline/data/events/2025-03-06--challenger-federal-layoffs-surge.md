@@ -14,18 +14,22 @@ sources:
   url: https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/
   outlet: Challenger, Gray & Christmas
   date: '2025-03-06'
+  tier: 2
 - title: Layoff announcements soar to the highest since 2020 as DOGE slashes federal staff
   url: https://www.cnbc.com/2025/03/06/layoff-announcements-soar-to-the-highest-since-2020-as-doge-slashes-federal-staff-.html
   outlet: CNBC
   date: '2025-03-06'
+  tier: 2
 - title: DOGE layoffs may 'overwhelm' unemployment system for federal workers, report finds
   url: https://www.cnbc.com/2025/03/07/doge-layoffs-may-overwhelm-unemployment-system-for-federal-workers.html
   outlet: CNBC
   date: '2025-03-07'
+  tier: 2
 - title: 'Federal Government Layoffs Tracker 2025: Latest DOGE Cuts So Far'
   url: https://www.newsweek.com/doge-layoffs-federal-government-tracker-2025-dod-cuts-2042525
   outlet: Newsweek
   date: '2025-03-06'
+  tier: 2
 notes: DOGE targeting 75% federal workforce reduction impacting Education (50% cuts), VA (80K positions), HHS (25% cuts), and USAID shutdown
 status: confirmed
 tags:

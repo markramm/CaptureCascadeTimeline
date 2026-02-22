@@ -17,22 +17,27 @@ sources:
   url: https://apnews.com/article/america-pac-musk-wisconsin-supreme-court-5c85a9f9b06f26cb2e09f2b35b1ff87a
   outlet: Associated Press
   date: '2025-03-31'
+  tier: 1
 - title: Musk PAC spends big and goes door to door in Wisconsin Supreme Court race
   url: https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race
   outlet: PBS NewsHour
   date: '2025-03-31'
+  tier: 1
 - title: Elon Musk Wasted 5M on Wisconsin Supreme Court Election Failure
   url: https://www.newsweek.com/elon-musk-wisconsin-supreme-court-election-loss-2053668
   outlet: Newsweek
   date: '2025-04-02'
+  tier: 2
 - title: Elon Musk-funded political group spends big, goes door to door in Wisconsin Supreme Court race
   url: https://madison.com/news/state-regional/government-politics/elections/article_ebc5dd15-2335-4089-aafd-7bfd86c9eaa4.html
   outlet: Madison.com
   date: '2025-03-31'
+  tier: 2
 - title: Wisconsin AG seeks to block Elon Musk's million-dollar giveaways ahead of state Supreme Court race
   url: https://www.nbcnews.com/politics/elections/elon-musk-travel-wisconsin-ahead-critical-state-supreme-court-election-rcna198544
   outlet: NBC News
   date: '2025-03-30'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

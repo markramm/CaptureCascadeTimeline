@@ -13,12 +13,15 @@ sources:
 - title: Legal Resistance Coordination Strategy Report
   url: https://constitutionaldefense.org/strategy-summit
   outlet: Legal Resistance Quarterly
+  tier: 2
 - title: ACLU Releases Legal and Advocacy Roadmap for Constitutional Defense
   url: https://www.aclu.org/press-releases/aclu-releases-legal-legislative-and-advocacy-roadmap
   outlet: ACLU Press Release
+  tier: 1
 - title: 'United Legal Frontline: Defending Democracy through Coordinated Action'
   url: https://www.democracy2025.org/legal-coordination-strategy
   outlet: Democracy 2025
+  tier: 2
 tags:
 - legal-strategy
 - litigation-coordination

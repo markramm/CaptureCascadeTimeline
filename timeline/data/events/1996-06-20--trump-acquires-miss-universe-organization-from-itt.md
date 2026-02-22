@@ -17,18 +17,22 @@ sources:
   url: https://variety.com/1996/tv/news/donald-trump-miss-universe-117335723/
   outlet: Variety
   date: '1996-06-20'
+  tier: 1
 - title: Trump Acquires Miss Universe Pageants
   url: https://www.forbes.com/sites/noahkirsch/2016/10/12/this-is-how-donald-trump-owned-miss-universe/
   outlet: Forbes
   date: '2016-10-12'
+  tier: 1
 - title: Donald Trump Buys the Miss Universe Organization from ITT Corp
   url: https://trumpfile.org/donald-trump-buys-the-miss-universe-pageant/
   outlet: Trump File
   date: '1996-06-20'
+  tier: 2
 - title: NBC and Donald Trump's Miss Universe Business Relationship Explained
   url: https://money.cnn.com/2015/09/11/media/donald-trump-miss-universe/
   outlet: CNN Money
   date: '2015-09-11'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration

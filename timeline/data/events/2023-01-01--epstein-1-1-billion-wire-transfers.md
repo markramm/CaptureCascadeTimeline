@@ -22,14 +22,17 @@ sources:
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
   outlet: Senate Finance Committee
   date: '2025-07-23'
+  tier: 1
 - title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed Epstein File
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: Senate Finance Committee
   date: '2025-07-17'
+  tier: 1
 - title: A Democratic Senator was already investigating Jeffrey Epstein's finances
   url: https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances
   outlet: NPR
   date: '2025-07-25'
+  tier: 1
 notes: Massive financial flows correlated with international trafficking operations
 status: confirmed
 ---

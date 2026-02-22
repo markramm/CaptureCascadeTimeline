@@ -2,8 +2,8 @@
 id: 2025-12-05--acip-chair-milhoan-admits-members-puppets-on-string
 date: '2025-12-05'
 importance: 9
-title: ACIP Chair Admits Vaccine Panel Members Feel Like "Puppets on a String," Exposing Political Manipulation
-location: Atlanta, Georgia
+title: 'ACIP Chair Admits Vaccine Panel Members Feel Like "Puppets on a String," Exposing Political Manipulation'
+location: 'Atlanta, Georgia'
 actors:
 - Dr. Kirk Milhoan
 - Advisory Committee on Immunization Practices
@@ -28,44 +28,50 @@ capture_lanes:
 - Democratic Erosion
 sources:
 - title: '''Puppets on a string'': ACIP chair airs independence concerns'
-  url: https://www.yahoo.com/news/articles/puppets-string-acip-chair-airs-204933381.html
+  url: 'https://www.yahoo.com/news/articles/puppets-string-acip-chair-airs-204933381.html'
   outlet: Yahoo News (POLITICO)
   date: '2025-12-05'
+  tier: 2
   archive_url: null
 - title: CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns
-  url: https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/
+  url: 'https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/'
   outlet: CBS News
   date: '2025-12-05'
   archive_url: null
-- title: RFK Jr.'s vaccine advisory panel is beset by incompetence, bias, and procedural chaos
-  url: https://www.statnews.com/2025/12/06/acip-vaccine-advisory-panel-incompetence-bias-expert/
+  tier: 1
+- title: 'RFK Jr.''s vaccine advisory panel is beset by incompetence, bias, and procedural chaos'
+  url: 'https://www.statnews.com/2025/12/06/acip-vaccine-advisory-panel-incompetence-bias-expert/'
   outlet: STAT News
   date: '2025-12-06'
   archive_url: null
-- title: CDC's ACIP changes recommendations for hepatitis B vaccination for infants
-  url: https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting
+  tier: 1
+- title: 'CDC''s ACIP changes recommendations for hepatitis B vaccination for infants'
+  url: 'https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting'
   outlet: NPR
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: CDC advisory panel rolls back hepatitis B vaccine guidelines
-  url: https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482
+  url: 'https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482'
   outlet: NBC News
   date: '2025-12-05'
   archive_url: null
-- title: RFK Jr. removes all members of the CDC's vaccine advisory committee
-  url: https://www.npr.org/sections/shots-health-news/2025/06/09/nx-s1-5428533/rfk-jr-vaccine-advisory-committee-acip
+  tier: 1
+- title: 'RFK Jr. removes all members of the CDC''s vaccine advisory committee'
+  url: 'https://www.npr.org/sections/shots-health-news/2025/06/09/nx-s1-5428533/rfk-jr-vaccine-advisory-committee-acip'
   outlet: NPR
   date: '2025-06-09'
   archive_url: null
-- title: Latest ACIP move is dangerous to nation's health
-  url: https://www.ama-assn.org/public-health/prevention-wellness/latest-acip-move-dangerous-nation-s-health
+  tier: 1
+- title: 'Latest ACIP move is dangerous to nation''s health'
+  url: 'https://www.ama-assn.org/public-health/prevention-wellness/latest-acip-move-dangerous-nation-s-health'
   outlet: American Medical Association
   date: '2025-12-05'
   archive_url: null
+  tier: 2
 notes: Extraordinary admission of political control over scientific advisory process. First public acknowledgment by ACIP leadership that committee lacks independence. Occurred same day as hepatitis B vote reversing 34-year policy. Multiple medical organizations boycotted meeting citing lack of credibility.
 status: confirmed
 ---
-
 Dr. Kirk Milhoan, the newly appointed chair of the CDC's Advisory Committee on Immunization Practices (ACIP), tells fellow panel member Dr. Cody Meissner during a lunch break that committee members feel like "puppets on a string" rather than an independent advisory group, according to a transcript captured on the meeting's audio feed. The extraordinary admission, overheard by medical associations and health care providers attending the December 4-5 meeting remotely, publicly exposes concerns about political manipulation of the nation's premier vaccine advisory panel under HHS Secretary Robert F. Kennedy Jr.'s control.
 
 According to a transcript obtained by The Washington Post and confirmed by POLITICO, Milhoan stated: "You know, I feel like, you know, it's, sort of like we feel like a little bit like puppets on a string as opposed to really being an independent advisory panel." The comment was made on what participants believed was a private conversation but was actually broadcast over the videoconferencing sound feed used by liaison representatives from medical associations, pharmaceutical industry representatives, and health care providers participating remotely in the meeting.

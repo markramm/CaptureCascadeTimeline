@@ -24,17 +24,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Cato_Institute
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Cato Institute - InfluenceWatch
   url: https://www.influencewatch.org/non-profit/cato-institute/
   outlet: InfluenceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Cato Institute - SourceWatch
   url: https://www.sourcewatch.org/index.php/Cato_Institute
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Cato was initially headquartered in San Francisco with a staff of three and $500,000 in financial backing from Charles Koch. The organization later moved to Washington D.C. Cato represents the libertarian wing of the Powell Memo implementation, focusing on deregulation, privatization, and limiting government. Charles Koch would later expand this into a much larger network of organizations.
 status: confirmed
 ---

@@ -18,21 +18,25 @@ sources:
   title: Savings and Loan Crisis
   url: https://www.federalreservehistory.org/essays/savings-and-loan-crisis
   verified: true
+  tier: 1
 - date: '2024-01-01'
   outlet: Federal Deposit Insurance Corporation
   title: 'The S&L Crisis: A Chrono-Bibliography'
   url: https://www.fdic.gov/publications/sl-crisis-chrono-bibliography
   verified: true
+  tier: 1
 - date: '1984-07-26'
   outlet: United Press International
   title: Empire Savings and Loan Association of Mesquite, Texas Fails
   url: https://www.upi.com/Archives/1984/07/26/Empire-Savings-and-Loan-Association-of-Mesquite-Texas-failed/6570459662400/
   verified: true
+  tier: 2
 - date: '1989-02-04'
   outlet: The Washington Post
   title: S&L Fraud Seen Going Largely Unpunished
   url: https://www.washingtonpost.com/archive/politics/1989/02/04/sl-fraud-seen-going-largely-unpunished/753ffc90-25e7-4db8-b83e-99f57cbe798c/
   verified: true
+  tier: 1
 status: confirmed
 tags:
 - empire-savings

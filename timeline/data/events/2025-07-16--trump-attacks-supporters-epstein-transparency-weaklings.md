@@ -1,7 +1,7 @@
 ---
 id: 2025-07-16--trump-attacks-supporters-epstein-transparency-weaklings
 date: '2025-07-16'
-title: Trump Calls Own Supporters "Weaklings" and "Selfish People" After Demanding Epstein File Transparency
+title: 'Trump Calls Own Supporters "Weaklings" and "Selfish People" After Demanding Epstein File Transparency'
 importance: 8
 tags:
 - donald-trump
@@ -26,67 +26,72 @@ actors:
 - Pam Bondi
 - Department of Justice
 sources:
-- title: Border Patrol commander admitted he lied about tear gas incident, judge says
-  url: https://abcnews.go.com/US/border-patrol-commander-admitted-lied-tear-gas-incident/story?id=127283392
+- title: 'Border Patrol commander admitted he lied about tear gas incident, judge says'
+  url: 'https://abcnews.go.com/US/border-patrol-commander-admitted-lied-tear-gas-incident/story?id=127283392'
   date: '2025-11-06'
   tier: 1
   outlet: ABC News
-- title: Federal Judge Imposes Strict Restrictions on Immigration Agents' Use of Force
-  url: https://news.wttw.com/2025/11/06/federal-judge-says-border-patrol-chief-greg-bovino-lied-about-being-hit-rock-deploying
+- title: 'Federal Judge Imposes Strict Restrictions on Immigration Agents'' Use of Force'
+  url: 'https://news.wttw.com/2025/11/06/federal-judge-says-border-patrol-chief-greg-bovino-lied-about-being-hit-rock-deploying'
   date: '2025-11-06'
   tier: 1
   outlet: WTTW Chicago
-- title: Judge grants preliminary injunction against Bovino, federal agents over use of force
-  url: https://www.cbsnews.com/chicago/news/chicago-immigration-gregory-bovino-preliminary-injunction-judge-sara-ellis/
+- title: 'Judge grants preliminary injunction against Bovino, federal agents over use of force'
+  url: 'https://www.cbsnews.com/chicago/news/chicago-immigration-gregory-bovino-preliminary-injunction-judge-sara-ellis/'
   date: '2025-11-06'
   tier: 1
   outlet: CBS Chicago
 - title: Pam Bondi Drops Surgeons COVID-19 Fraud Charges Emboldens Others
-  url: https://www.propublica.org/article/pam-bondi-fake-covid-vaccine-cards-kirk-moore
+  url: 'https://www.propublica.org/article/pam-bondi-fake-covid-vaccine-cards-kirk-moore'
   outlet: ProPublica
   tier: 1
 - title: Charges dropped against doctor accused of destroying 28000 in Covid vaccines
-  url: https://www.nbcnews.com/news/us-news/charges-dropped-doctor-accused-destroying-28k-covid-vaccines-rcna218483
+  url: 'https://www.nbcnews.com/news/us-news/charges-dropped-doctor-accused-destroying-28k-covid-vaccines-rcna218483'
   outlet: NBC News
   tier: 1
 - title: Attorney General Pam Bondi announces dismissal of charges against plastic surgeon
-  url: https://www.cbsnews.com/news/pam-bondi-dismissal-charges-against-utah-plastic-surgeon-michael-kirk-moore-faking-covid-19-vaccine/
+  url: 'https://www.cbsnews.com/news/pam-bondi-dismissal-charges-against-utah-plastic-surgeon-michael-kirk-moore-faking-covid-19-vaccine/'
   outlet: CBS News
   tier: 1
 - date: '2025-07-12'
   outlet: NPR
   title: Layoffs at the Department of Justice are transforming its workforce
-  url: https://www.npr.org/2025/07/31/nx-s1-5484932/layoffs-at-the-department-of-justice-are-transforming-its-workforce
+  url: 'https://www.npr.org/2025/07/31/nx-s1-5484932/layoffs-at-the-department-of-justice-are-transforming-its-workforce'
+  tier: 1
 - date: '2025-07-12'
   outlet: ABC News
   title: Attorney General Bondi fired at least 20 officials with ties to Jack Smith investigation
-  url: https://abcnews.go.com/Politics/attorney-general-bondi-fired-20-officials-ties-jack/story?id=123707683
+  url: 'https://abcnews.go.com/Politics/attorney-general-bondi-fired-20-officials-ties-jack/story?id=123707683'
+  tier: 1
 - date: '2025-07-12'
   outlet: NPR
   title: How Attorney General Pam Bondi has reshaped the Justice Department to suit Trump
-  url: https://www.npr.org/2025/08/20/nx-s1-5507021/how-attorney-general-pam-bondi-has-reshaped-the-justice-department-to-suit-trump
+  url: 'https://www.npr.org/2025/08/20/nx-s1-5507021/how-attorney-general-pam-bondi-has-reshaped-the-justice-department-to-suit-trump'
+  tier: 1
 - date: '2025-07-12'
   outlet: Bloomberg
   title: Trump Organization expands Balkan connection with Romania deal
-  url: https://www.bloomberg.com/news/articles/2025-07-12/trump-organization-expands-balkan-connection-with-romania-deal
+  url: 'https://www.bloomberg.com/news/articles/2025-07-12/trump-organization-expands-balkan-connection-with-romania-deal'
+  tier: 1
 - date: '2025-07-12'
   outlet: Romania Insider
   title: Trump Organization Luxury Project in Romania Announced
-  url: https://www.romania-insider.com/trump-organization-luxury-project-romania-2025
+  url: 'https://www.romania-insider.com/trump-organization-luxury-project-romania-2025'
+  tier: 2
 - date: '2025-07-12'
   outlet: CNBC
   title: Trump Organization plans to build tower block with luxury apartments in Romanian capital
-  url: https://www.cnbc.com/2025/07/12/trump-organization-luxury-apartments-bucharest.html
+  url: 'https://www.cnbc.com/2025/07/12/trump-organization-luxury-apartments-bucharest.html'
+  tier: 2
 - date: '2025-07-12'
-  outlet: U.S. News & World Report
+  outlet: 'U.S. News & World Report'
   title: Trump Organization Plans to Build Tower Block in Romanian Capital
-  url: https://www.usnews.com/news/top-news/articles/2025-07-12/trump-organization-plans-to-build-tower-block-in-romanian-capital
+  url: 'https://www.usnews.com/news/top-news/articles/2025-07-12/trump-organization-plans-to-build-tower-block-in-romanian-capital'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 ---
-
-
 On July 12, 2025, five days after the Department of Justice released a memo stating no Jeffrey Epstein "client list" existed—contradicting Attorney General Pam Bondi's February claim that the list was "sitting on my desk"—President Donald Trump attacked his own supporters who demanded transparency about the contradiction. In posts to Truth Social, Trump called them **"selfish people,"** **"weaklings,"** **"stupid Republicans,"** and **"foolish Republicans,"** declaring **"I don't want their support anymore!"** The episode demonstrated how troll culture's combination of aggression and ironic distance enables attacks in all directions, including toward one's own base, while maintaining that critics are the real problem.
 
 ## July 7: DOJ Reveals No "Client List" Exists

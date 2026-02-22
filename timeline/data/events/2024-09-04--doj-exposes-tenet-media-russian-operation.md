@@ -25,25 +25,29 @@ capture_lanes:
 - International Kleptocracy
 sources:
 - title: DOJ alleges Russia funded company linked to Tim Pool
-  url: https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html
+  url: 'https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html'
   outlet: CNN
   date: '2024-09-04'
-  archive_url: https://web.archive.org/web/20240904000000/https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20240904000000/https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html'
 - title: 2024 Tenet Media investigation Wikipedia
-  url: https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation
+  url: 'https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation'
   outlet: Wikipedia
   date: '2024-09-05'
-  archive_url: https://web.archive.org/web/20240905000000/https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation
+  archive_url: 'https://web.archive.org/web/20240905000000/https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation'
+  tier: 2
 - title: 'DOJ Press Release: Two RT Employees Indicted for Covert US Media Funding'
-  url: https://www.justice.gov/archives/opa/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published-thousands
+  url: 'https://www.justice.gov/archives/opa/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published-thousands'
   outlet: U.S. Department of Justice
   date: '2024-09-04'
   type: official_document
+  tier: 1
 - title: RT Russian Media Funding Scheme Exposed by DOJ
-  url: https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube
+  url: 'https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube'
   outlet: NPR
   date: '2024-09-05'
-notes: RT funneled $9.7 million to Tenet Media (90% of company's bank deposits). Influencers like Tim Pool received up to $100,000 per video. Two RT employees (Kostya and Lena) indicted for covert funding. Scheme used shell companies in Turkey, UAE, and Mauritius. Over 2,000 videos produced with 16 million YouTube views. Demonstrates sophisticated foreign influence operation targeting 2024 election.
+  tier: 1
+notes: 'RT funneled $9.7 million to Tenet Media (90% of company''s bank deposits). Influencers like Tim Pool received up to $100,000 per video. Two RT employees (Kostya and Lena) indicted for covert funding. Scheme used shell companies in Turkey, UAE, and Mauritius. Over 2,000 videos produced with 16 million YouTube views. Demonstrates sophisticated foreign influence operation targeting 2024 election.'
 status: confirmed
 ---
 The Department of Justice unsealed a federal indictment on September 4, 2024, revealing that RT (Russia Today) employees had covertly funneled nearly $10 million through Tenet Media, a Tennessee-based company, to pay prominent American conservative influencers for content advancing Russian interests. The indictment charged two RT employees—Kostya Kalashnikov and Elena Afanasyeva—with conspiracy to violate foreign agent registration requirements and money laundering. The DOJ simultaneously sanctioned RT and its parent company, describing the network as a key tool of Russian state influence operations rather than a genuine journalistic outlet.

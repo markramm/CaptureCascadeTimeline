@@ -8,20 +8,24 @@ importance: 9
 sources:
 - outlet: Current Affairs
   title: The Horrifying Fascist Manifesto Endorsed By J.D. Vance
-  url: https://www.currentaffairs.org/news/the-horrifying-fascist-manifesto-endorsed-by-j.d.-vance
+  url: 'https://www.currentaffairs.org/news/the-horrifying-fascist-manifesto-endorsed-by-j.d.-vance'
   date: '2024-07-31'
-- outlet: Lawyers, Guns & Money
+  tier: 2
+- outlet: 'Lawyers, Guns & Money'
   title: Why do all these authoritarian-misogynist policy manifestoes keep getting endorsed by JD Vance?
-  url: https://www.lawyersgunsmoneyblog.com/2024/09/why-do-all-these-authoritarian-misogynist-policy-manifestoes-keep-getting-endorsed-by-jd-vance
+  url: 'https://www.lawyersgunsmoneyblog.com/2024/09/why-do-all-these-authoritarian-misogynist-policy-manifestoes-keep-getting-endorsed-by-jd-vance'
   date: '2024-09-03'
+  tier: 2
 - outlet: WBUR On Point
-  title: JD Vance and the rise of the 'New Right'
-  url: https://www.wbur.org/onpoint/2025/04/05/jd-vance-new-right-curtis-yarvin
+  title: 'JD Vance and the rise of the ''New Right'''
+  url: 'https://www.wbur.org/onpoint/2025/04/05/jd-vance-new-right-curtis-yarvin'
   date: '2025-04-05'
+  tier: 2
 - outlet: The New Republic
   title: 'The Claremont Institute: The Anti-Democracy Think Tank'
-  url: https://newrepublic.com/article/174656/claremont-institute-think-tank-trump
+  url: 'https://newrepublic.com/article/174656/claremont-institute-think-tank-trump'
   date: '2024-12-01'
+  tier: 2
 tags:
 - claremont-institute
 - authoritarianism
@@ -35,5 +39,4 @@ capture_lanes:
 - Legislative Capture
 - Democratic Erosion
 ---
-
 Senator J.D. Vance continues to endorse Claremont Institute publications advocating for authoritarian governance approaches, part of a broader pattern of promoting right-wing ideological frameworks that challenge democratic norms. During a December 2023 speaking engagement, Vance aligned with the institute's controversial political philosophy, suggesting a deep ideological connection to their anti-democratic policy proposals.

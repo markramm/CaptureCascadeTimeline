@@ -19,12 +19,16 @@ tags:
 sources:
 - title: nftpricefloor.com
   url: https://nftpricefloor.com/trump-nft-digital-trading-cards
+  tier: 2
 - title: cryptoslam.io
   url: https://www.cryptoslam.io/trumpdigitaltradingcards
+  tier: 2
 - title: coindesk.com
   url: https://www.coindesk.com/web3/2022/12/16/trump-nft-collection-sells-out-price-surges
+  tier: 2
 - title: finance.yahoo.com
   url: https://finance.yahoo.com/news/trump-nft-prices-nosedive-then-soar-185015789.html
+  tier: 2
 importance_score: 8
 status: confirmed
 id: 2022-12-15--trump-nft-collection-launch

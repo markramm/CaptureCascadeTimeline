@@ -18,18 +18,20 @@ capture_lanes:
 - Democratic Erosion
 sources:
 - outlet: Yahoo Finance
-  title: Peter Thiel Launched J.D. Vance's Venture Capital Career
-  url: https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html
+  title: 'Peter Thiel Launched J.D. Vance''s Venture Capital Career'
+  url: 'https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html'
   access_date: '2025-10-06'
+  tier: 2
 - outlet: CBS News
-  title: The billionaire who fueled JD Vance's rapid rise to the Trump VP spot
-  url: https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/
+  title: 'The billionaire who fueled JD Vance''s rapid rise to the Trump VP spot'
+  url: 'https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/'
   access_date: '2025-10-06'
+  tier: 1
 - outlet: Fortune
-  title: A colleague who worked with J.D. Vance at Mithril doesn't remember seeing him in the office
-  url: https://fortune.com/2024/07/26/jd-vance-peter-thiel-venture-capital-mithril/
+  title: 'A colleague who worked with J.D. Vance at Mithril doesn''t remember seeing him in the office'
+  url: 'https://fortune.com/2024/07/26/jd-vance-peter-thiel-venture-capital-mithril/'
   access_date: '2025-10-06'
+  tier: 2
 status: confirmed
 ---
-
 Peter Thiel brings J.D. Vance into his global investment firm Mithril Capital as an investor, marking a significant moment in Vance's early professional career. This relationship positioned Vance within Thiel's influential tech and venture capital network, setting the stage for Vance's future political trajectory.

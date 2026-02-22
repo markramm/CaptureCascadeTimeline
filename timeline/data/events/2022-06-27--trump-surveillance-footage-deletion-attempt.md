@@ -20,14 +20,17 @@ sources:
   url: https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment/
   outlet: The Washington Post
   date: '2023-07-27'
+  tier: 1
 - title: 'Trump allegedly attempted to have surveillance video deleted: Special counsel'
   url: https://abcnews.go.com/US/mar-lago-staffer-charged-special-counsels-classified-documents/story?id=101741061
   outlet: ABC News
   date: '2023-07-27'
+  tier: 1
 - title: Trump charged with trying to delete Mar-a-Lago surveillance footage in new indictment
   url: https://thehill.com/regulation/court-battles/4123941-trump-charged-with-trying-to-delete-mar-a-lago-surveillance-footage-in-new-indictment/
   outlet: The Hill
   date: '2023-07-27'
+  tier: 2
 notes: 'De Oliveira, a 20-year Trump employee who became property manager in January 2022, asked
 
   about server retention period (45 days) before requesting deletion. He later lied to FBI

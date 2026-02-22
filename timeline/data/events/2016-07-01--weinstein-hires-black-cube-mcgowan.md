@@ -9,7 +9,7 @@ actors:
 - David Boies
 - Ronan Farrow
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Regulatory Capture
 - Intelligence Penetration
 date: '2016-07-01'
@@ -18,24 +18,28 @@ importance: 9
 location: United States
 notes: Systematic intelligence operation to suppress sexual misconduct allegations. Sophisticated psychological manipulation and surveillance using former intelligence operatives.
 sources:
-- archive_url: https://web.archive.org/web/20171107000000/https://abcnews.go.com/Entertainment/harvey-weinstein-hired-elite-intelligence-agency-target-accuser/story?id=50981068
+- archive_url: 'https://web.archive.org/web/20171107000000/https://abcnews.go.com/Entertainment/harvey-weinstein-hired-elite-intelligence-agency-target-accuser/story?id=50981068'
   date: '2017-11-07'
   outlet: ABC News
   title: Weinstein hired elite agency to target McGowan
-  url: https://abcnews.go.com/Entertainment/harvey-weinstein-hired-elite-intelligence-agency-target-accuser/story?id=50981068
-- archive_url: https://web.archive.org/web/20171107000000/https://www.washingtonpost.com/news/morning-mix/wp/2017/11/07/harvey-weinstein-hired-private-spies-to-silence-accusers-journalists-report-says/
+  url: 'https://abcnews.go.com/Entertainment/harvey-weinstein-hired-elite-intelligence-agency-target-accuser/story?id=50981068'
+  tier: 1
+- archive_url: 'https://web.archive.org/web/20171107000000/https://www.washingtonpost.com/news/morning-mix/wp/2017/11/07/harvey-weinstein-hired-private-spies-to-silence-accusers-journalists-report-says/'
   date: '2017-11-07'
   outlet: The Washington Post
   title: Weinstein hired private spies
-  url: https://www.washingtonpost.com/news/morning-mix/wp/2017/11/07/harvey-weinstein-hired-private-spies-to-silence-accusers-journalists-report-says/
+  url: 'https://www.washingtonpost.com/news/morning-mix/wp/2017/11/07/harvey-weinstein-hired-private-spies-to-silence-accusers-journalists-report-says/'
+  tier: 1
 - date: '2017-11-07'
   outlet: NPR
   title: Weinstein Hired Agents To Investigate And Suppress Accusations
-  url: https://www.npr.org/sections/thetwo-way/2017/11/07/562631069/report-weinstein-hired-agents-to-investigate-and-suppress-accusations-against-hi
+  url: 'https://www.npr.org/sections/thetwo-way/2017/11/07/562631069/report-weinstein-hired-agents-to-investigate-and-suppress-accusations-against-hi'
+  tier: 1
 - date: '2017-11-07'
   outlet: CBS News
   title: 'Weinstein''s Army of Spies: Tracking Actresses and Journalists'
-  url: https://www.cbsnews.com/news/harvey-weinstein-spies-black-cube-track-actresses-journalists/
+  url: 'https://www.cbsnews.com/news/harvey-weinstein-spies-black-cube-track-actresses-journalists/'
+  tier: 1
 status: confirmed
 tags:
 - black-cube
@@ -47,5 +51,4 @@ tags:
 - media-suppression
 title: Harvey Weinstein Hires Black Cube to Suppress Rose McGowan Allegations
 ---
-
 In July 2016, Harvey Weinstein contracted Black Cube, an Israeli private intelligence firm with former Mossad agents, to suppress sexual misconduct allegations. The operation targeted Rose McGowan and other potential accusers, using sophisticated psychological manipulation tactics like false identities and secret recordings to prevent publication of abuse allegations.

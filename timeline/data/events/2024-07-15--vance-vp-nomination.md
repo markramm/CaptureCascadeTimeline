@@ -1,8 +1,8 @@
 ---
 id: 2024-07-15--vance-vp-nomination
 date: '2024-07-15'
-title: J.D. Vance Named Trump's VP Pick, Completing Thiel's Political Investment
-description: Donald Trump selects J.D. Vance as running mate at Republican National Convention, elevating Thiel protégé to potential vice presidency. Selection represents culmination of Thiel's 13-year investment in Vance and triumph of tech-authoritarian faction within Republican Party. Vance's rise from Thiel employee to VP nominee demonstrates new model of billionaire political capture.
+title: 'J.D. Vance Named Trump''s VP Pick, Completing Thiel''s Political Investment'
+description: 'Donald Trump selects J.D. Vance as running mate at Republican National Convention, elevating Thiel protégé to potential vice presidency. Selection represents culmination of Thiel''s 13-year investment in Vance and triumph of tech-authoritarian faction within Republican Party. Vance''s rise from Thiel employee to VP nominee demonstrates new model of billionaire political capture.'
 importance: 9
 tags:
 - jd-vance
@@ -23,16 +23,19 @@ status: confirmed
 sources:
 - outlet: CNN
   date: '2024-07-15'
-  url: https://www.cnn.com/2024/07/15/politics/jd-vance-trump-vp-pick/index.html
+  url: 'https://www.cnn.com/2024/07/15/politics/jd-vance-trump-vp-pick/index.html'
   title: Trump selects J.D. Vance as running mate
+  tier: 1
 - outlet: The New York Times
   date: '2024-07-15'
-  url: https://www.nytimes.com/2024/07/15/us/politics/jd-vance-trump-vp.html
+  url: 'https://www.nytimes.com/2024/07/15/us/politics/jd-vance-trump-vp.html'
   title: Trump Chooses J.D. Vance as Running Mate
+  tier: 1
 - outlet: Politico
   date: '2024-07-16'
-  url: https://www.politico.com/news/2024/07/16/thiel-vance-vp-tech-influence-00168234
-  title: Peter Thiel's ultimate victory with Vance VP selection
+  url: 'https://www.politico.com/news/2024/07/16/thiel-vance-vp-tech-influence-00168234'
+  title: 'Peter Thiel''s ultimate victory with Vance VP selection'
+  tier: 1
 connections:
 - 2011-01-01--thiel-meets-vance-yale
 - 2022-04-01--thiel-funds-vance-senate
@@ -41,7 +44,7 @@ patterns:
 - billionaire-capture
 - tech-authoritarianism
 - democracy-erosion
-notes: Vance's selection as VP represents Peter Thiel's greatest political victory, placing his hand-picked candidate one heartbeat from presidency. The selection validates Thiel's long-term strategy of identifying, funding, and elevating ideologically aligned politicians to dismantle democratic institutions from within. Vance's journey from Yale Law student to VP in 13 years, entirely facilitated by Thiel's money and mentorship, establishes new template for oligarchic political control. His presence on ticket signals tech-authoritarian capture of Republican Party.
+notes: 'Vance''s selection as VP represents Peter Thiel''s greatest political victory, placing his hand-picked candidate one heartbeat from presidency. The selection validates Thiel''s long-term strategy of identifying, funding, and elevating ideologically aligned politicians to dismantle democratic institutions from within. Vance''s journey from Yale Law student to VP in 13 years, entirely facilitated by Thiel''s money and mentorship, establishes new template for oligarchic political control. His presence on ticket signals tech-authoritarian capture of Republican Party.'
 capture_lanes:
 - Electoral Manipulation
 ---

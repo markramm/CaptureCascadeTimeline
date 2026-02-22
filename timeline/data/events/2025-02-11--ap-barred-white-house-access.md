@@ -29,18 +29,22 @@ sources:
   url: https://www.ap.org/the-definitive-source/announcements/ap-statement-on-oval-office-access
   outlet: Associated Press
   date: '2025-02-11'
+  tier: 1
 - title: Associated Press wins court order restoring White House access
   url: https://www.theguardian.com/us-news/2025/apr/08/associated-press-white-house-access-court-ruling
   outlet: The Guardian
   date: '2025-04-08'
+  tier: 1
 - title: Associated Press banned from White House press pool
   url: https://www.theguardian.com/us-news/2025/feb/14/white-house-ap-ban-oval-office
   outlet: The Guardian
   date: '2025-02-14'
+  tier: 1
 - title: Associated Press White House ban lifted by court
   url: https://www.washingtonpost.com/style/media/2025/04/08/associated-press-white-house-ban-lifted
   outlet: The Washington Post
   date: '2025-04-08'
----
+
+  tier: 1---
 
 The White House blocked AP reporters from pooled access on Feb. 11 amid a naming dispute over the Gulf of Mexico ("Gulf of America"), with administration stating it has the right to punish AP reporters. On Apr. 8, a federal district court ordered access restored, finding viewpoint discrimination.

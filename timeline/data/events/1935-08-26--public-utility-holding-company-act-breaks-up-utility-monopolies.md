@@ -12,19 +12,23 @@ sources:
 - title: Public Utility Holding Company Act of 1935
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Public_Utility_Holding_Company_Act_of_1935
+  tier: 2
   retrieval_date: '2024-12-24'
 - title: Repeal of PUHCA 1935 and Enactment of PUHCA 2005
   outlet: Federal Register
   url: https://www.federalregister.gov/documents/2005/12/20/05-24116/repeal-of-the-public-utility-holding-company-act-of-1935-and-enactment-of-the-public-utility-holding
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: The Repeal of PUHCA 1935 and Its Impact
   outlet: Congressional Research Service
   url: https://www.everycrsreport.com/reports/RL33739.html
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: Public Utility Holding Company Act of 1935 - 1935-1992
   outlet: U.S. Energy Information Administration
   url: https://www.eia.gov/electricity/pdfpages/puhca/index.php
   retrieval_date: '2024-12-24'
+  tier: 1
 tags:
 - utility-regulation
 - new-deal

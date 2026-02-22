@@ -17,14 +17,17 @@ sources:
   title: White House Iraq Group (WHIG) Overview
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   access_date: '2025-09-17'
+  tier: 2
 - outlet: The Washington Post
   title: Records Could Shed Light on Iraq Group
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
   access_date: '2025-09-17'
+  tier: 1
 - outlet: Senate Intelligence Committee
   title: Report on Pre-war Intelligence Failures
   url: https://www.intelligence.senate.gov/publications/committee-activities-2003-2004-november-16-2006
   access_date: '2025-09-17'
+  tier: 1
 constitutional_issues:
 - separation of powers
 - war powers

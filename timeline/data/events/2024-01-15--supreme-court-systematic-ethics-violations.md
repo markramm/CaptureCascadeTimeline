@@ -1,8 +1,7 @@
 ---
 id: 2024-01-15--supreme-court-systematic-ethics-violations
 date: '2024-01-15'
-title: 'Systematic Supreme Court Ethics Violations Exposed: Thomas-Crow Revelations
-  Reveal Institutional Corruption'
+title: 'Systematic Supreme Court Ethics Violations Exposed: Thomas-Crow Revelations Reveal Institutional Corruption'
 importance: 9
 actors:
 - Clarence Thomas
@@ -12,17 +11,19 @@ actors:
 sources:
 - outlet: ProPublica
   title: 'Friends of the Court: How Billionaires Influence Supreme Court Justices'
-  url: https://www.propublica.org/series/supreme-court-scotus
+  url: 'https://www.propublica.org/series/supreme-court-scotus'
   date: '2024-01-15'
+  tier: 1
 - outlet: Axios
   title: 'Clarence Thomas: Supreme Court ethics criticism grows louder with investigation'
-  url: https://www.axios.com/2023/04/06/clarence-thomas-harlan-crow-propublica-investigation
+  url: 'https://www.axios.com/2023/04/06/clarence-thomas-harlan-crow-propublica-investigation'
   date: '2024-01-15'
+  tier: 2
 - outlet: Texas Tribune
-  title: Texas billionaire Harlan Crow provided Clarence Thomas previously undisclosed
-    private jet trips, Senate probe finds
-  url: https://www.texastribune.org/2024/06/13/texas-billionaire-harlan-crow-clarence-thomas/
+  title: 'Texas billionaire Harlan Crow provided Clarence Thomas previously undisclosed private jet trips, Senate probe finds'
+  url: 'https://www.texastribune.org/2024/06/13/texas-billionaire-harlan-crow-clarence-thomas/'
   date: '2024-01-15'
+  tier: 1
 tags:
 - supreme-court
 - judicial-ethics
@@ -36,5 +37,4 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-
 A comprehensive investigation by ProPublica revealed systematic ethics violations by Supreme Court Justice Clarence Thomas, documenting decades of undisclosed luxury gifts from billionaire donor Harlan Crow. These gifts included private jet flights, yacht vacations, property purchases, and boarding school tuition for Thomas's grandnephew. Senate investigators confirmed at least three previously undisclosed private jet trips, raising serious questions about judicial independence and conflict of interest. The Supreme Court adopted its first-ever code of conduct in late 2023, but the code lacks meaningful enforcement mechanisms.

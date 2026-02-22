@@ -18,14 +18,17 @@ sources:
   url: https://www.nytimes.com/2004/05/19/business/marsh-to-acquire-kroll-for-19-billion.html
   outlet: The New York Times
   date: '2004-05-19'
+  tier: 1
 - title: MMC to Buy Kroll for $1.9 Billion
   url: https://www.insurancejournal.com/news/national/2004/05/19/42403.htm
   outlet: Insurance Journal
   date: '2004-05-19'
+  tier: 2
 - title: Marsh & McLennan to acquire risk consulting firm Kroll
   url: https://money.cnn.com/2004/05/18/news/fortune500/marsh_kroll/
   outlet: CNN Money
   date: '2004-05-18'
+  tier: 1
 notes: The $1.9 billion sale price reflects the massive commercial value of intelligence
   capabilities that had been pushed into private hands by post-Watergate reforms,
   creating a shadow intelligence industry serving the highest bidders. Sale demonstrates

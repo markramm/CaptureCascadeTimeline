@@ -21,14 +21,17 @@ sources:
   url: https://www.nytimes.com/2017/08/11/us/politics/scott-pruitt-epa.html
   outlet: The New York Times
   date: '2017-08-11'
+  tier: 1
 - title: All of Scott Pruitt scandals — a complete guide
   url: https://www.vox.com/policy-and-politics/2018/7/5/17535910/scott-pruitt-resigns-epa-scandals-list
   outlet: Vox
   date: '2018-07-05'
+  tier: 2
 - title: EPA enforcement under Trump drops to 30-year low
   url: https://www.nbcnews.com/news/us-news/trump-s-epa-made-criminal-prosecution-polluters-hit-30-year-n1140916
   outlet: NBC News
   date: '2020-01-15'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

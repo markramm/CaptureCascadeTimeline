@@ -12,15 +12,18 @@ sources:
 - title: The Rise and Fall of William M. Tweed and the Tweed Ring
   outlet: New York Spaces
   url: https://newyorkspaces.com/the-rise-and-fall-of-william-m-tweed-and-the-tweed-ring/
+  tier: 2
   year: 2024
 - title: William "Boss" Tweed and Political Machines
   outlet: Bill of Rights Institute
   url: https://billofrightsinstitute.org/essays/william-boss-tweed-and-political-machines
   year: 2024
+  tier: 1
 - title: William M. Tweed
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/William_M._Tweed
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - institutional-capture

@@ -27,14 +27,17 @@ sources:
   url: https://www.npr.org/2024/10/15/georgia-election-board-rules-struck-down
   outlet: NPR
   date: '2024-10-15'
+  tier: 1
 - title: State election board passed illegal rules in coordination with RNC
   url: https://americanoversight.org/investigation/georgia-election-board-2024/
   outlet: American Oversight
   date: '2024-09-20'
+  tier: 2
 - title: Court finds election board violated procedural requirements
   url: https://www.ajc.com/politics/georgia-supreme-court-election-rules/
   outlet: Atlanta Journal-Constitution
   date: '2024-10-15'
+  tier: 2
 notes: Board attempted to create chaos through hand-counting requirements and certification delays. Rules coordinated with national Republican strategy to contest elections. Court intervention prevented disruption of 2024 election.
 ---
 

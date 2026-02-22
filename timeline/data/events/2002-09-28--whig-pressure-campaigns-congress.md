@@ -22,6 +22,7 @@ sources:
 - title: 'White House Iraq Group: Strategic Communications and Political Pressure'
   outlet: The New York Times
   url: https://en.wikipedia.org/wiki/White_House_Iraq_Group
+  tier: 1
   description: Comprehensive overview of WHIG's formation, tactics, and role in Iraq War buildup
   type: secondary-analysis
   credibility: 9
@@ -33,6 +34,7 @@ sources:
   type: investigative-report
   credibility: 8
   date: 2002-09
+  tier: 2
 - title: Inside the White House Iraq Group's Propaganda Campaign
   outlet: The Washington Post
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
@@ -40,6 +42,7 @@ sources:
   type: investigative-report
   credibility: 9
   date: '2008-06-08'
+  tier: 1
 constitutional_issues:
 - separation of powers
 - legislative independence

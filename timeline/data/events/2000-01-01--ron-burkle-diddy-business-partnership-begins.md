@@ -15,19 +15,23 @@ sources:
   title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein
     Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
+  tier: 3
 - date: '2025-01-27'
   outlet: Wikipedia
   title: Ron Burkle
   url: https://en.wikipedia.org/wiki/Ronald_Burkle
+  tier: 2
 - date: '2025-05-07'
   outlet: Bloomberg
   title: How Sean 'Diddy' Combs Helped Convince Business to Invest in Hip-Hop
   url: https://www.bloomberg.com/news/newsletters/2025-05-07/how-sean-diddy-combs-helped-convinced-business-to-invest-in-hip-hop
+  tier: 1
 - date: '2025-07-15'
   outlet: The Daily Beast
   title: Who Is Ron Burkle? The Billionaire Friend of Diddy, Bill Clinton and Michael
     Jackson
   url: https://www.thedailybeast.com/who-is-ron-burkle-the-billionaire-friend-of-diddy-bill-clinton-and-michael-jackson/
+  tier: 2
 status: confirmed
 tags:
 - ron-burkle

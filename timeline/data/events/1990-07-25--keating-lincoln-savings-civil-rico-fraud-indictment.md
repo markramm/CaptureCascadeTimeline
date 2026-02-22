@@ -17,12 +17,15 @@ sources:
 - title: Chicago Tribune - Keating Guilty in Fraud Case
   date: '1993-01-06'
   url: https://www.chicagotribune.com/1993/01/06/keating-son-guilty-in-fraud-racketeering-case/
+  tier: 2
 - title: FDIC Publication - Charles Keating and Lincoln Savings and Loan
   date: '2023'
   url: https://www.fdic.gov/publications/charles-keating-and-lincoln-savings-and-loan
+  tier: 1
 - title: 'NPR: Keating Case Legal Proceedings Update'
   date: '1996-12-03'
   url: https://www.npr.org/1996/12/03/1041592/keating
+  tier: 1
 capture_lanes:
 - Corporate Capture
 - Systematic Corruption

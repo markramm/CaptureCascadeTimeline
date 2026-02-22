@@ -21,14 +21,17 @@ sources:
   url: https://www.gao.gov/products/b-302911
   outlet: GAO
   date: '2004-05-04'
+  tier: 1
 - title: Medicare actuary details threats over estimates
   url: https://www.govexec.com/federal-news/2004/03/medicare-actuary-details-threats-over-estimates/16317/
   outlet: Government Executive
   date: '2004-03-24'
+  tier: 2
 - title: Statement on Thomas Scully and Richard Foster Investigation
   url: https://oig.hhs.gov/newsroom/news-releases/2004/scully-foster-investigation/
   outlet: HHS Inspector General
   date: '2004-07-06'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

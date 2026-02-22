@@ -13,19 +13,23 @@ sources:
 - title: The Hamburg Massacre (1876)
   outlet: BlackPast
   url: https://blackpast.org/african-american-history/hamburg-massacre-1876/
+  tier: 2
   year: 2024
 - title: Hamburg Massacre
   outlet: South Carolina Encyclopedia
   url: https://www.scencyclopedia.org/sce/entries/hamburg-massacre/
   year: 2024
+  tier: 2
 - title: The Hamburg "Red Shirt" Election Massacre in 1876
   outlet: Brewminate
   url: https://brewminate.com/the-south-carolina-hamburg-red-shirt-election-massacre-in-1876/
   year: 2024
+  tier: 2
 - title: Red Shirts
   outlet: South Carolina Encyclopedia
   url: https://www.scencyclopedia.org/sce/entries/red-shirts/
   year: 2024
+  tier: 2
 tags:
 - racial-terrorism
 - reconstruction-sabotage

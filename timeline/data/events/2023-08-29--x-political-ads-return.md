@@ -21,18 +21,22 @@ sources:
   url: https://business.x.com/en/blog/causes-based-advertising-policy.html
   outlet: X Business
   date: '2023-08-29'
+  tier: 2
 - title: X Reverses Ban on Political Ads After Musk Takeover
   url: https://www.wsj.com/articles/x-twitter-political-ads-return-musk
   outlet: The Wall Street Journal
   date: '2023-08-29'
+  tier: 1
 - title: X to allow paid political ads, lifting Twitter's earlier ban
   url: https://techcrunch.com/2023/08/30/x-to-allow-paid-political-ads-lifting-twitters-earlier-ban/
   outlet: TechCrunch
   date: '2023-08-30'
+  tier: 2
 - title: X/Twitter Will Accept Political Ads Again, Reversing Pre-Musk Ban
   url: https://variety.com/2023/digital/news/x-twitter-musk-political-adverstising-reverse-ban-1235707123/
   outlet: Variety
   date: '2023-08-29'
+  tier: 1
 citations:
 - url: https://blog.x.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x
   archived: https://web.archive.org/web/20240101000000/https://blog.x.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x

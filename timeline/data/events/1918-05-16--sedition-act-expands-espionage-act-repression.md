@@ -27,6 +27,7 @@ sources:
 - title: Espionage Act of 1917 and Sedition Act of 1918 (1917-1918)
   outlet: Constitution Center
   url: https://constitutioncenter.org/the-constitution/historic-document-library/detail/espionage-act-of-1917-and-sedition-act-of-1918-1917-1918
+  tier: 2
 status: confirmed
 capture_lanes:
 - Judicial Capture

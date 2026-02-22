@@ -8,18 +8,22 @@ sources:
   url: https://www.tigta.gov/sites/default/files/reports/2025-07/2025ier027fr.pdf
   outlet: Treasury Inspector General for Tax Administration
   date: '2025-05-02'
+  tier: 1
 - title: IRS Has Slashed 11% of Its Workforce as of March, TIGTA Says
   url: https://www.cpapracticeadvisor.com/2025/05/05/irs-has-slashed-11-of-its-workforce-as-of-march-tigta-says/160223/
   outlet: CPA Practice Advisor
   date: '2025-05-05'
+  tier: 2
 - title: IRS reduced workforce 11% so far, TIGTA reports
   url: https://www.accountingtoday.com/news/irs-reduced-workforce-11-so-far-tigta-reports
   outlet: Accounting Today
   date: '2025-05-05'
+  tier: 2
 - title: Some IRS employees required to work longer under deferred resignation offer
   url: https://federalnewsnetwork.com/workforce/2025/05/some-irs-employees-required-to-work-longer-under-deferred-resignation-offer/
   outlet: Federal News Network
   date: '2025-05-02'
+  tier: 2
 status: confirmed
 tags:
 - taxation

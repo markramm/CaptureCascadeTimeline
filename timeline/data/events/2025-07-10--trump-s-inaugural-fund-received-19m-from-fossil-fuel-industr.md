@@ -1,13 +1,11 @@
 ---
 id: 2025-07-10--trump-s-inaugural-fund-received-19m-from-fossil-fuel-industr
 date: '2025-07-10'
-title: Trump's Inaugural Fund Received $19M from Fossil Fuel Industry
-description: Trump slashed environmental rules and expanded oil drilling sites early
-  into his second term–after fossil fuel companies donated $19 million to Trump's
-  inauguration fund
+title: 'Trump''s Inaugural Fund Received $19M from Fossil Fuel Industry'
+description: 'Trump slashed environmental rules and expanded oil drilling sites early into his second term–after fossil fuel companies donated $19 million to Trump''s inauguration fund'
 status: confirmed
 importance: 8
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Donald Trump
 - Trump Administration
@@ -25,26 +23,28 @@ sources:
 - outlet: NPR
   date: '2025-07-10'
   title: 'Trump''s Energy Emergency: Oil Industry Donations and Regulatory Rollbacks'
-  url: https://www.npr.org/2025/07/10/trump-energy-fossil-fuel-donations
+  url: 'https://www.npr.org/2025/07/10/trump-energy-fossil-fuel-donations'
+  tier: 1
 - outlet: Global Witness
   date: '2025-07-10'
-  title: Fossil Fuel Donors Contributed $19 Million to Trump's Inaugural Fund
-  url: https://globalwitness.org/en/campaigns/fossil-fuels/fossil-fuel-donors-contributed-19-million-to-donald-trumps-inaugural-fund/
+  title: 'Fossil Fuel Donors Contributed $19 Million to Trump''s Inaugural Fund'
+  url: 'https://globalwitness.org/en/campaigns/fossil-fuels/fossil-fuel-donors-contributed-19-million-to-donald-trumps-inaugural-fund/'
+  tier: 1
 - outlet: Inside Climate News
   date: '2025-07-10'
-  title: Fossil Fuel Industries Pumped Millions Into Trump's Inauguration
-  url: https://insideclimatenews.org/news/19042017/fossil-fuels-oil-coal-gas-exxon-chevron-bp-donald-trump-inauguration-donations/
+  title: 'Fossil Fuel Industries Pumped Millions Into Trump''s Inauguration'
+  url: 'https://insideclimatenews.org/news/19042017/fossil-fuels-oil-coal-gas-exxon-chevron-bp-donald-trump-inauguration-donations/'
+  tier: 1
 - outlet: Bloomberg
   date: '2025-07-10'
-  title: Trump's US Fossil Fuel Revival Boosts Industry Donations
-  url: https://www.bloomberg.com/news/articles/2025-08-28/trump-s-us-fossil-fuel-revival-nudges-global-emissions-higher
+  title: 'Trump''s US Fossil Fuel Revival Boosts Industry Donations'
+  url: 'https://www.bloomberg.com/news/articles/2025-08-28/trump-s-us-fossil-fuel-revival-nudges-global-emissions-higher'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture
-notes: Inaugural fund contributions tied to promised regulatory rollbacks and expanded
-  drilling permits.
+notes: Inaugural fund contributions tied to promised regulatory rollbacks and expanded drilling permits.
 capture_lanes:
 - Regulatory Capture
 ---
-
 Donald Trump's second inaugural fund received over $19 million from fossil fuel companies, including $2 million from Chevron and $1 million donations from ExxonMobil, ConocoPhillips, and Occidental Petroleum. These donations came after Trump promised oil executives at a Mar-a-Lago meeting significant regulatory rollbacks in exchange for campaign support.

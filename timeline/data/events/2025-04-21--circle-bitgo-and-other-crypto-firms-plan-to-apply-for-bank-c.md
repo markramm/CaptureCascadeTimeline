@@ -25,14 +25,17 @@ sources:
   url: https://www.wsj.com/finance/currencies/crypto-knocks-on-the-door-of-a-banking-world-that-shut-it-out-082b3968?mod=hp_lead_pos10
   outlet: The Wall Street Journal
   date: '2025-04-21'
+  tier: 1
 - title: Circle Applies for US National Trust Bank Charter After IPO
   url: https://www.bloomberg.com/news/articles/2025-06-30/circle-applies-for-us-national-trust-bank-charter-after-mega-ipo-crcl
   outlet: Bloomberg
   date: '2025-06-30'
+  tier: 1
 - title: BitGo Joins Wave of Firms Applying for US Bank Charters
   url: https://www.bloomberg.com/news/articles/2025-07-02/ripple-joins-wave-of-firms-applying-for-national-bank-charters
   outlet: Bloomberg
   date: '2025-07-02'
+  tier: 1
 connections:
 - Trump's pro-bitcoin agenda
 - Emerging stablecoin regulatory framework

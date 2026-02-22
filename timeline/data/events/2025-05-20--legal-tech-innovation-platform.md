@@ -11,14 +11,17 @@ actors:
 - MIT Initiative on the Digital Economy
 sources:
 - title: Legal Tech Innovation Platform Overview
-  url: https://legaltech-innovation.org/2025-platform
+  url: 'https://legaltech-innovation.org/2025-platform'
   outlet: Legal Technology Network
+  tier: 2
 - outlet: Harvard Law School Center on the Legal Profession
   title: Legal Informatics and AI Transformation
-  url: https://clp.law.harvard.edu/knowledge-hub/magazine/issues/legal-informatics/legal-informatics/
+  url: 'https://clp.law.harvard.edu/knowledge-hub/magazine/issues/legal-informatics/legal-informatics/'
+  tier: 1
 - outlet: Harvard Law School
   title: The Promise and Peril of AI Legal Services to Equalize Justice
-  url: https://jolt.law.harvard.edu/digest/the-promise-and-peril-of-ai-legal-services-to-equalize-justice
+  url: 'https://jolt.law.harvard.edu/digest/the-promise-and-peril-of-ai-legal-services-to-equalize-justice'
+  tier: 1
 tags:
 - legal-tech
 - ai-legal-research
@@ -28,9 +31,8 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 Advanced legal technology platform launched, integrating AI-powered research tools to enhance legal resistance networks. Developed by interdisciplinary teams from Harvard and MIT, the platform offers automated document analysis, real-time constitutional threat monitoring, and AI-assisted legal research. Aims to democratize access to sophisticated legal technology while addressing potential technological disparities in legal service delivery.
 
 Key features include specialized AI models trained on legal materials, interactive legal information systems, and tools designed to provide accessible legal support across different socioeconomic contexts. The platform represents a significant advancement in using technology to support legal and constitutional research infrastructure.

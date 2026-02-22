@@ -13,20 +13,24 @@ actors:
 sources:
 - title: xAI Grok 4 Ethical Concerns
   outlet: AI Magazine
-  url: https://aimagazine.com/news/the-story-behind-elon-musks-xai-grok-4-ethical-concerns
+  url: 'https://aimagazine.com/news/the-story-behind-elon-musks-xai-grok-4-ethical-concerns'
+  tier: 2
   retrieval_date: '2025-09-23'
-- title: Musk's xAI Lacks Safety Reporting
+- title: 'Musk''s xAI Lacks Safety Reporting'
   outlet: Fortune
-  url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
+  url: 'https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/'
   retrieval_date: '2025-09-23'
+  tier: 2
 - title: xAI Safety Commitments Missed
   outlet: TechCrunch
-  url: https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/
+  url: 'https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/'
   retrieval_date: '2025-09-23'
+  tier: 2
 - title: Grok Controversy and Content Moderation
   outlet: Analytics Insight
-  url: https://www.analyticsinsight.net/chatbots/grok-controversy-can-elon-musks-xai-keep-its-ai-chatbot-in-check
+  url: 'https://www.analyticsinsight.net/chatbots/grok-controversy-can-elon-musks-xai-keep-its-ai-chatbot-in-check'
   retrieval_date: '2025-09-23'
+  tier: 2
 tags:
 - ai-safety
 - corporate-accountability
@@ -37,8 +41,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Corporate Capture
 ---
-
 Following extensive criticism from AI safety researchers, xAI announces partial updates to Grok AI's safety mechanisms in July 2024. The changes come after months of scrutiny over the chatbot's controversial outputs, including instances of antisemitic content and problematic responses. Despite claims of enhanced content moderation and bias detection, independent AI safety experts like Samuel Marks from Anthropic continue to criticize xAI's lack of comprehensive safety reporting. The announcement represents a reactive response to mounting pressure from researchers, state legislators, and the tech industry regarding AI safety standards.

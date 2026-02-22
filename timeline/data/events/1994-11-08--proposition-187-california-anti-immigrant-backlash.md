@@ -35,28 +35,34 @@ sources:
   url: https://www.history.com/this-day-in-history/november-8/the-republican-revolution
   retrieved: '2025-10-06'
   type: historical-analysis
+  tier: 2
 - outlet: Heritage Foundation
   title: 'The Contract with America: Implementing New Ideas in the U.S.'
   url: https://www.heritage.org/political-process/report/the-contract-america-implementing-new-ideas-the-us
   retrieved: '2025-10-06'
   type: primary-source-analysis
+  tier: 2
 - outlet: Britannica
   title: Contract with America Political Strategy
   url: https://www.britannica.com/event/Contract-with-America
   retrieved: '2025-10-06'
   type: encyclopedic-reference
+  tier: 2
 - title: 'The 1994 Midterms: Republican Revolution Overview'
   outlet: History.com
   date: '2021-11-08'
   url: https://www.history.com/articles/midterm-elections-1994-republican-revolution-gingrich-contract-with-america
+  tier: 2
 - title: 'Contract with America: Historical Analysis'
   outlet: Teaching American History
   date: '2022-01-15'
   url: https://teachingamericanhistory.org/document/republican-contract-with-america/
+  tier: 2
 - title: 'Republican Revolution: Political Transformation'
   outlet: JSTOR Daily
   date: '2020-11-01'
   url: https://daily.jstor.org/the-midterms-that-changed-america/
+  tier: 2
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

@@ -21,14 +21,17 @@ sources:
   url: https://www.cnn.com/2020/07/10/politics/trump-stone-prison-clemency/index.html
   outlet: CNN
   date: '2020-07-10'
+  tier: 1
 - title: Romney calls Stone commutation 'unprecedented historic corruption'
   url: https://www.npr.org/2020/07/11/889862748/trump-commutes-sentence-of-adviser-roger-stone
   outlet: NPR
   date: '2020-07-11'
+  tier: 1
 - title: Stone threatened to expose Trump before commutation
   url: https://www.axios.com/roger-stone-howard-stern-trump-commutation-8a2c45c8.html
   outlet: Axios
   date: '2020-07-13'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

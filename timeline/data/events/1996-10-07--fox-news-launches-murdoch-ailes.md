@@ -20,14 +20,17 @@ sources:
   url: https://www.theguardian.com/media/2019/mar/20/fox-news-rupert-murdoch-roger-ailes-trump
   outlet: The Guardian
   date: '2019-03-20'
+  tier: 1
 - title: How Roger Ailes Built the Fox News Fear Factory
   url: https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/
   outlet: Rolling Stone
   date: '2011-05-25'
+  tier: 2
 - title: The Birth of Fox News
   url: https://www.washingtonpost.com/news/act-four/wp/2017/05/18/before-roger-ailes-created-fox-news-he-made-richard-nixon-the-star/
   outlet: The Washington Post
   date: '2017-05-18'
+  tier: 1
 notes: Ailes hired February 1996. Used slogan "Fair and Balanced" to mask partisan
   agenda. Quickly established right-wing identity. Became template for conservative
   media ecosystem.

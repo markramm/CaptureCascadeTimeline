@@ -28,15 +28,18 @@ sources:
   title: Pentagon Office Produced 'Alternative' Intelligence on Iraq
   url: https://www.theguardian.com/world/2004/jul/17/usa.iraq1
   type: news_report
+  tier: 1
 - outlet: Center for Public Integrity
   title: Pentagon Office's Misleading Intelligence
   url: https://publicintegrity.org/politics/pentagon-offices-misleading-intelligence/
   date: '2023'
   type: investigative_report
+  tier: 1
 - outlet: History Commons
   title: Context of White House Iraq Group Intelligence Coordination
   url: http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group
   type: historical_analysis
+  tier: 2
 importance: 9
 significance: Represents a critical moment in the systematic manipulation of intelligence to support a predetermined political agenda, demonstrating how executive branch offices can undermine traditional intelligence assessment processes.
 category: intelligence_corruption

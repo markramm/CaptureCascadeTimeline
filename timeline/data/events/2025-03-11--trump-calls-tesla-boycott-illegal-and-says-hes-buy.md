@@ -17,22 +17,27 @@ sources:
   url: https://www.theguardian.com/us-news/2025/mar/11/trump-tesla-boycott-musk
   outlet: The Guardian
   date: '2025-03-11'
+  tier: 1
 - title: Trump declares Tesla boycott illegal and vows to buy a new car from Elon Musk in solidarity
   url: https://fortune.com/2025/03/11/president-trump-elon-musk-tesla-boycott-illegal-evs/
   outlet: Fortune
   date: '2025-03-11'
+  tier: 2
 - title: Trump calls Tesla boycott illegal and says he's buying one to support Elon Musk
   url: https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html
   outlet: CNBC
   date: '2025-03-11'
+  tier: 2
 - title: Donald Trump Calls Tesla Boycotts Illegal
   url: https://www.newsweek.com/donald-trump-tesla-boycott-illegal-2042647
   outlet: Newsweek
   date: '2025-03-11'
+  tier: 2
 - title: Trump Cries for Elon, Blames Illegal Liberal Boycott for Tanking Tesla
   url: https://www.rollingstone.com/politics/politics-news/trump-cries-elon-illegal-liberal-boycott-tesla-1235293465/
   outlet: Rolling Stone
   date: '2025-03-11'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

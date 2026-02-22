@@ -22,22 +22,27 @@ sources:
   url: https://www.cnn.com/2025/08/23/us/immigrant-bystander-rights-ice-raid
   outlet: CNN
   date: '2025-08-23'
+  tier: 1
 - title: The ICE Raids — What You Need to Know
   url: https://hias.org/news/ice-raids-what-you-need-know/
   outlet: HIAS
   date: '2025-08-01'
+  tier: 2
 - title: Immigrants with no criminal convictions represent sharpest growth in ICE detention population
   url: https://www.npr.org/2025/07/03/nx-s1-5456246/immigrants-no-criminal-convictions-growth-ice-detention-population
   outlet: NPR
   date: '2025-07-03'
+  tier: 1
 - title: 'ICE Capacity and Contracts: A FOIA Litigation Expose'
   url: https://www.aclu.org/press-releases/aclu-foia-litigation-reveals-information-about-ice-capacity-contracts-in-facilities-nationwide
   outlet: ACLU
   date: '2025-08-15'
+  tier: 1
 - title: 'ICE Detention 59,000: Record Levels, Horrible Overcrowding, Dwindling Due Process'
   url: https://www.americanimmigrationcouncil.org/event/ice-detention-59000-record-levels-horrible-overcrowding-dwindling-due-process
   outlet: American Immigration Council
   date: '2025-08-24'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

@@ -23,18 +23,22 @@ sources:
   url: https://www.gao.gov/products/gao-21-149
   outlet: GAO
   date: '2021-01-13'
+  tier: 1
 - title: DHS Should Define Goals and Measures to Assess Facility Inspection Programs (GAO-25-107580)
   url: https://www.gao.gov/products/gao-25-107580
   outlet: GAO
   date: '2025-05-21'
+  tier: 1
 - title: ICE Contractual Capacity and Number Detained
   url: https://tracreports.org/reports/762/
   outlet: TRAC Syracuse
   date: '2025-07-08'
+  tier: 2
 - title: 'Oversight of Immigration Detention: An Overview'
   url: https://www.americanimmigrationcouncil.org/fact-sheet/oversight-immigration-detention-overview/
   outlet: American Immigration Council
   date: '2022-05-16'
+  tier: 2
 notes: Replace unsourced '1,000+ undisclosed sites' language with verifiable counts and official oversight findings. Short‑term hoteling of children under Title 42 (2020) should be handled as a separate entry (see 102).
 status: confirmed
 capture_lanes:

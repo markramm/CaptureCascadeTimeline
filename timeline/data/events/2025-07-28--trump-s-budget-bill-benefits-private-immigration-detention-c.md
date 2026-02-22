@@ -18,14 +18,17 @@ sources:
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/
   outlet: Citizens for Ethics
   date: '2025-07-28'
+  tier: 2
 - title: The Private Prison Industry Looks Forward to Soaring Profits Thanks to Trump's Budget
   url: https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/
   outlet: The Intercept
   date: '2025-07-10'
+  tier: 1
 - title: Budget Bill Massively Increases Funding for Immigration Detention
   url: https://www.brennancenter.org/our-work/analysis-opinion/budget-bill-massively-increases-funding-immigration-detention
   outlet: Brennan Center
   date: '2025-07-28'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

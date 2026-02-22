@@ -22,14 +22,17 @@ sources:
   url: https://www.wired.com/story/department-of-labor-doge-usds-payment/
   outlet: WIRED
   date: '2025-04-09'
+  tier: 2
 - title: DOGE's $455 Million in Labor Savings Carry Costs for US Workers
   url: https://news.bloomberglaw.com/daily-labor-report/doges-455-million-in-labor-savings-carry-costs-for-us-workers
   outlet: Bloomberg Law
   date: '2025-04-09'
+  tier: 2
 - title: DOGE released data about federal contract savings. It doesn't add up
   url: https://www.npr.org/2025/02/19/nx-s1-5302705/doge-overstates-savings-federal-contracts
   outlet: NPR
   date: '2025-02-19'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

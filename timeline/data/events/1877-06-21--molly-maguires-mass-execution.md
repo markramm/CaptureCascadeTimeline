@@ -13,15 +13,19 @@ sources:
 - title: Molly Maguires
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Molly_Maguires
+  tier: 2
 - title: The Legend of the Molly Maguires
   outlet: Pennsylvania Center for the Book
   url: https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/legend-molly-maguires
+  tier: 1
 - title: Molly Maguires Executed
   outlet: Irish Central
   url: https://www.irishcentral.com/roots/history/molly-maguires-executed
+  tier: 2
 - title: Introduction - Molly Maguires
   outlet: Library of Congress
   url: https://guides.loc.gov/chronicling-america-molly-maguires
+  tier: 1
 tags:
 - labor-suppression
 - corporate-power

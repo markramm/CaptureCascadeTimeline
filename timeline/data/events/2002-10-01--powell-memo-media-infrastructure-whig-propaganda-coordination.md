@@ -31,14 +31,17 @@ sources:
   url: https://www.amazon.com/Republican-Noise-Machine-Right-Wing-Corrupts/dp/0307237664
   outlet: Crown Publishers
   date: '2004-07-13'
+  tier: 2
 - title: 'Manufacturing Consent: The Political Economy of the Mass Media'
   url: https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499
   outlet: Pantheon Books
   date: '2002-12-17'
+  tier: 2
 - title: Corporate Media and the Threat to Democracy
   url: https://monthlyreview.org/2002/04/01/corporate-media-threat-democracy/
   outlet: Monthly Review
   date: '2002-04-01'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

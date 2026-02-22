@@ -18,12 +18,16 @@ tags:
 sources:
 - title: newsweek.com
   url: https://www.newsweek.com/melania-trump-launches-nft-sale-melanias-vision-1660090
+  tier: 2
 - title: artnews.com
   url: https://www.artnews.com/art-news/news/melania-trump-nft-platform-1234613890/
+  tier: 2
 - title: cbsnews.com
   url: https://www.cbsnews.com/news/former-first-lady-melania-trump-launches-her-own-nft-endeavor/
+  tier: 1
 - title: prnewswire.com
   url: https://www.prnewswire.com/news-releases/the-former-first-lady-of-the-united-states-mrs-melania-trump-to-launch-a-new-nft-and-blockchain-technology-venture-301446348.html
+  tier: 2
 importance_score: 7
 status: confirmed
 id: 2021-12-16--melania-trump-launches-nft-platform-with-"melania'

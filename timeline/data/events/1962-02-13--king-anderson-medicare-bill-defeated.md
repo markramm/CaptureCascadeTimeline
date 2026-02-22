@@ -30,17 +30,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Social_Security_Amendments_of_1965
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Prescription for success
   url: https://millercenter.org/issues-policy/us-domestic-policy/prescription-for-success
   outlet: Miller Center
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: Medicare Signed into Law
   url: https://www.senate.gov/artandhistory/history/minute/Medicare_Signed_Into_Law.htm
   outlet: U.S. Senate
   date: '2024-01-01'
   verified: true
+  tier: 1
 notes: Bill introduced February 13, 1961 by Representative Cecil King (D-California) and Senator Clinton Anderson (D-New Mexico). Covered hospital and nursing home expenses for Social Security and disability recipients but not physicians' fees. Though public opinion polls showed strong support, powerful opponents included House Ways and Means chairman Wilbur Mills, AMA, and Senate Finance Committee chairman Harry Byrd. Ways and Means held hearings but never voted. Bill defeated narrowly in committee 12-11, signaling attitude shift. Reintroduced in 1963 but again stalled. Finally passed after Johnson's 1964 landslide as Social Security Amendments of 1965, signed July 30, 1965.
 status: confirmed
 ---

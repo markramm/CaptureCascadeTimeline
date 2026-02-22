@@ -20,17 +20,20 @@ sources:
   url: https://www.newamerica.org/weekly/there-wasnt-always-much-corporate-lobbying/
   outlet: New America
   date: '2020-01-01'
+  tier: 2
   verified: true
 - title: Lobbying in the United States - Wikipedia
   url: https://en.wikipedia.org/wiki/Lobbying_in_the_United_States
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'The Business of America is Lobbying'
   url: https://www.newamerica.org/weekly/business-america-lobbying/
   outlet: New America
   date: '2020-01-01'
   verified: true
+  tier: 2
 notes: Before the 1970s, very few corporations had Washington lobbyists. Studies from the 1950s and 1960s describe corporate lobbying as "threadbare, reactive, and not particularly influential." The Powell Memo explicitly called for aggressive political engagement, triggering this dramatic expansion. By early 1980s, a Harris Poll described corporate leaders as "purring" about their Washington influence.
 status: confirmed
 ---

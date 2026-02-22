@@ -23,20 +23,24 @@ sources:
   url: https://www.propublica.org/article/harlan-crow-slashed-tax-bill-clarence-thomas-superyacht
   outlet: ProPublica
   date: '2023-08-10'
+  tier: 1
   archive_url: https://web.archive.org/web/20230810000000/https://www.propublica.org/article/harlan-crow-slashed-tax-bill-clarence-thomas-superyacht
 - title: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor
   url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
   outlet: ProPublica
   date: '2023-04-06'
   archive_url: https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  tier: 1
 - date: '2024-06-07'
   outlet: CNN
   title: Justice Clarence Thomas took more trips on GOP megadonor's private plane than previously known
   url: https://www.cnn.com/2024/06/13/politics/clarence-thomas-harlan-crow-private-plane-ethics-supreme-court/index.html
+  tier: 1
 - date: '2024-06-07'
   outlet: NBC News
   title: Justice Clarence Thomas discloses trips paid for by billionaire Harlan Crow
   url: https://www.nbcnews.com/politics/supreme-court/justice-clarence-thomas-discloses-trips-paid-billionaire-harlan-crow-rcna102539
+  tier: 1
 notes: ProPublica data shows Crow's yacht company operated from 2003-2015, reporting $8 million in losses that helped reduce Crow's taxes. Pattern of trips continued for over 20 years.
 status: confirmed
 ---

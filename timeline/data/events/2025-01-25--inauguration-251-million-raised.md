@@ -25,14 +25,17 @@ sources:
   url: https://www.opensecrets.org/trump/2025-inauguration-donors
   outlet: OpenSecrets
   date: '2025-01-25'
+  tier: 1
 - title: Million-Dollar Donors Flooded Trump's Second Inauguration
   url: https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration
   outlet: Brennan Center for Justice
   date: '2025-01-25'
+  tier: 1
 - title: Major corporate interests and megadonors gave $239 million to fund Trump's inauguration
   url: https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074
   outlet: NBC News
   date: '2025-04-16'
+  tier: 1
 notes: Clear donor-to-appointee pipeline. Donors received VIP tickets and access. Most corporate donors only gave after Trump won, not during campaign, suggesting transactional nature.
 status: confirmed
 ---

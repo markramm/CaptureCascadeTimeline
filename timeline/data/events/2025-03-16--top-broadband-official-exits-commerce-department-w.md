@@ -18,22 +18,27 @@ sources:
   url: https://www.politico.com/news/2025/03/16/official-exits-commerce-department-musk-warning-00232278
   outlet: Politico
   date: '2025-03-16'
+  tier: 1
 - title: Outgoing Commerce Official Shreds Elon Musk's Starlink in Final Email
   url: https://newrepublic.com/post/192819/commerce-official-elon-musk-starlink
   outlet: The New Republic
   date: '2025-03-16'
+  tier: 2
 - title: Outgoing Broadband Chief Issues Stark Warning Against Elon Musk
   url: https://www.rollingstone.com/politics/politics-news/outgoing-broadband-chief-warning-elon-musk-1235297425/
   outlet: Rolling Stone
   date: '2025-03-16'
+  tier: 2
 - title: Commerce Department Director Leaves Job With a Scathing Warning About Elon Musk
   url: https://www.thedailybeast.com/commerce-department-director-leaves-job-with-a-scathing-warning-about-elon-musk/
   outlet: The Daily Beast
   date: '2025-03-16'
+  tier: 2
 - title: Trump's changes to a 42 billion broadband program could be a win for Musk's Starlink
   url: https://www.npr.org/2025/03/28/nx-s1-5338963/musk-starlink-broadband-commerce
   outlet: NPR
   date: '2025-03-28'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

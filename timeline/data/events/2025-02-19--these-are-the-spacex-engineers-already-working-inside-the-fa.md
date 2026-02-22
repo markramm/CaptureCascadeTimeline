@@ -25,14 +25,17 @@ sources:
   url: https://www.jalopnik.com/1795093/spacex-engineers-working-inside-us-faa-details/
   outlet: Jalopnik
   date: '2025-02-19'
+  tier: 2
 - title: Trump fires hundreds of air traffic support staff as SpaceX visits FAA command center
   url: https://techcrunch.com/2025/02/17/trump-fires-hundreds-of-air-traffic-support-staff-as-spacex-visits-faa-command-center/
   outlet: TechCrunch
   date: '2025-02-19'
+  tier: 2
 - title: These are the SpaceX engineers already working Inside the FAA
   url: https://www.wired.com/story/faa-doge-elon-musk-space-x/?utm_content=bufferce958&utm_medium=social&utm_source=twitter&utm_campaign=aud-dev
   outlet: WIRED
   date: '2025-02-19'
+  tier: 2
 connections:
 - Trump administration's deregulation efforts
 - SpaceX's influence in government agencies

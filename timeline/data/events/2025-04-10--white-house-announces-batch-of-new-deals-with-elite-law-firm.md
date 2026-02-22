@@ -33,14 +33,17 @@ sources:
   url: https://www.wsj.com/us-news/law/latham-watkins-simpson-thacher-near-deals-with-white-house-aadfa172?mod=hp_lead_pos4
   outlet: The Wall Street Journal
   date: '2025-04-10'
+  tier: 1
 - title: Trump Floats Asking Top Law Firms to Do Trade Deal Work Pro Bono
   url: https://www.bloomberg.com/news/articles/2025-04-10/trump-floats-asking-top-law-firms-to-do-trade-deal-work-pro-bono
   outlet: Bloomberg
   date: '2025-04-10'
+  tier: 1
 - title: Trump Cuts Pro Bono Deals With Law Firms as He Seeks Trade Help
   url: https://www.bloomberg.com/news/articles/2025-04-11/trump-cuts-pro-bono-deals-with-law-firms-as-he-seeks-trade-help
   outlet: Bloomberg
   date: '2025-04-11'
+  tier: 1
 notes: Event from comprehensive kleptocracy timeline tracking. Enhanced with additional Bloomberg sources detailing pro bono legal service negotiations.
 connections: []
 ---

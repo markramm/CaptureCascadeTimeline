@@ -20,14 +20,17 @@ sources:
   outlet: The Lancet
   url: https://www.thelancet.com
   date: '2004-11-01'
+  tier: 2
 - title: Risk of Cardiovascular Events Associated With Selective COX-2 Inhibitors
   outlet: Journal of the American Medical Association
   url: https://jamanetwork.com/journals/jama
   date: '2005-01-01'
+  tier: 1
 - title: The Withdrawal of Rofecoxib
   outlet: New England Journal of Medicine
   url: https://www.nejm.org
   date: '2004-11-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 status: confirmed

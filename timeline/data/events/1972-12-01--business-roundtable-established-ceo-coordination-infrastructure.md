@@ -25,17 +25,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Business_Roundtable
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: The Business Roundtable and the politics of U.S. manufacturing decline
   url: https://www.tandfonline.com/doi/abs/10.1080/00076791.2020.1863949
   outlet: Business History Journal
   date: '2021-01-01'
   verified: true
+  tier: 1
 - title: The State Organizes the Capitalist Class
   url: https://jacobin.com/2022/05/capitalism-neoliberalism-state-ge-business-roundtable
   outlet: Jacobin
   date: '2022-05-01'
   verified: true
+  tier: 2
 notes: The Roundtable was formed through merger of three organizations - the March Group, Construction Users Anti-Inflation Roundtable, and Labor Law Study Committee. Treasury Secretary Connally and Federal Reserve Chair Burns urged GE's Jones and Alcoa's Harper to create a high-level CEO organization to collaborate with government. Unlike the Chamber of Commerce, BRT members are exclusively CEOs, enabling direct coordination.
 status: confirmed
 ---

@@ -19,14 +19,17 @@ sources:
   url: https://home.treasury.gov/news/press-releases/sb0057
   outlet: Treasury Department
   date: '2025-03-21'
+  tier: 1
 - title: U.S. Government Removes Tornado Cash Sanctions
   url: https://www.coindesk.com/policy/2025/03/21/u-s-government-removes-tornado-cash-sanctions
   outlet: CoinDesk
   date: '2025-03-21'
+  tier: 2
 - title: U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe
   url: https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html
   outlet: The Hacker News
   date: '2025-03-21'
+  tier: 2
 notes: Benefits illicit finance networks and reduces crypto transaction transparency
 status: confirmed
 ---

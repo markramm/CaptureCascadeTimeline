@@ -11,24 +11,31 @@ sources:
 - title: Supreme Court Ducks an Opportunity on Trump Emoluments Cases
   url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases
   outlet: Brennan Center for Justice
+  tier: 1
 - title: The Intensifying Threat of Donald Trump's Emoluments
   url: https://www.citizensforethics.org/reports-investigations/crew-reports/the-intensifying-threat-of-donald-trumps-emoluments/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+  tier: 2
 - title: Supreme Court Won't Revive Congressional Emoluments Case Against Trump
   url: https://www.theusconstitution.org/news/supreme-court-wont-revive-congressional-emoluments-case-against-trump/
   outlet: Constitutional Accountability Center
+  tier: 2
 - title: What Is The Emoluments Clause? Appellate Court Throws Out Suit Against Trump
   url: https://www.theusconstitution.org/news/what-is-the-emoluments-clause-appellate-court-throws-out-suit-against-trump/
   outlet: Constitutional Accountability Center
+  tier: 2
 - title: Supreme Court Dismisses Emoluments Lawsuits Against Trump as Moot
   url: https://thehill.com/regulation/court-battles/535668-supreme-court-dismisses-emoluments-lawsuits-against-trump-as-moot/
   outlet: The Hill
+  tier: 2
 - title: Supreme Court dismisses challenges to Trump's business profits
   url: https://www.nbcnews.com/politics/supreme-court/supreme-court-dismisses-challenges-trump-s-business-profits-n1255524
   outlet: NBC News
+  tier: 1
 - title: Supreme Court Dismisses Trump Emoluments Lawsuits
   url: https://lawandcrime.com/supreme-court/scotus-deals-final-blow-to-emoluments-lawsuits-that-were-filed-against-trump/
   outlet: Law & Crime
+  tier: 2
 tags:
 - supreme-court
 - emoluments

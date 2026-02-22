@@ -14,14 +14,17 @@ sources:
   title: American Enterprise Institute
   url: https://www.sourcewatch.org/index.php/American_Enterprise_Institute
   access_date: '2025-10-07'
+  tier: 2
 - outlet: Carnegie Endowment for International Peace
   title: The War in Iraq
   url: https://carnegieendowment.org/posts/2007/09/the-war-in-iraq
   access_date: '2025-10-07'
+  tier: 2
 - outlet: Council on Foreign Relations
   title: 'Timeline: The Iraq War'
   url: https://www.cfr.org/timeline/iraq-war
   access_date: '2025-10-07'
+  tier: 1
 tags:
 - think-tank-coordination
 - powell-memo-implementation

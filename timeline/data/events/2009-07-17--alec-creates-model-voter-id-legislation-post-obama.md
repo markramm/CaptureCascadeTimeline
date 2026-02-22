@@ -22,14 +22,17 @@ sources:
   url: https://www.alecexposed.org/wiki/Voter_ID_Act_Exposed
   outlet: ALEC Exposed
   date: 2009-07-17
+  tier: 2
 - title: Voter ID drive part of quiet, well-funded national conservative effort
   url: https://www.mprnews.org/story/2012/03/04/voter-id-alec
   outlet: MPR News
   date: 2012-03-04
+  tier: 1
 - title: Flurry of Voter ID laws tied to conservative group ALEC
   url: https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652
   outlet: NBC News
   date: 2012-08-10
+  tier: 1
 capture_lanes:
 - Democratic Erosion
 - Electoral Manipulation

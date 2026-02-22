@@ -19,14 +19,17 @@ sources:
   title: Judge orders release of more Jeffrey Epstein-related documents
   outlet: Reuters
   date: '2023-01-04'
+  tier: 1
 - url: https://www.miamiherald.com/news/local/article270935462.html
   title: Judge orders release of sealed Jeffrey Epstein documents
   outlet: Miami Herald
   date: '2023-01-03'
+  tier: 2
 - url: https://apnews.com/article/jeffrey-epstein-documents-unsealed-ghislaine-maxwell-fa79d83aafd5c66b30d56ee6c05ba726
   title: Judge orders unsealing of documents in Jeffrey Epstein case
   outlet: Associated Press
   date: '2023-01-03'
+  tier: 1
 importance: 8
 status: confirmed
 capture_lanes:

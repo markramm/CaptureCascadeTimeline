@@ -7,23 +7,28 @@ sources:
 - date: '2025-07-25'
   outlet: Texas Tribune
   title: Texas passes new maps despite Democratic absence
-  url: https://www.texastribune.org/2025/07/25/texas-redistricting-passes-no-democrats
+  url: 'https://www.texastribune.org/2025/07/25/texas-redistricting-passes-no-democrats'
+  tier: 1
 - date: '2025-07-25'
   outlet: Texas Tribune
   title: Federal court allows Texas maps during appeal
-  url: https://www.texastribune.org/2025/07/25/federal-court-texas-maps-appeal
+  url: 'https://www.texastribune.org/2025/07/25/federal-court-texas-maps-appeal'
+  tier: 1
 - date: '2025-08-04'
   outlet: CNN Politics
   title: Texas House votes to issue arrest warrants for absent Democrats
-  url: https://www.cnn.com/2025/08/04/politics/texas-democrats-redistricting
+  url: 'https://www.cnn.com/2025/08/04/politics/texas-democrats-redistricting'
+  tier: 2
 - date: '2025-08-11'
   outlet: NBC News
   title: Texas Senate passes new Republican-drawn congressional map
-  url: https://www.nbcnews.com/politics/elections/texas-senate-passes-new-republican-drawn-congressional-map-rcna226278
+  url: 'https://www.nbcnews.com/politics/elections/texas-senate-passes-new-republican-drawn-congressional-map-rcna226278'
+  tier: 1
 - date: '2025-08-12'
   outlet: Democracy Docket
   title: Two Democrats Allow Texas Senate to Pass Redistricting Map
-  url: https://www.democracydocket.com/news-alerts/two-democrats-allow-texas-senate-to-pass-redistricting-map-as-house-holds-out/
+  url: 'https://www.democracydocket.com/news-alerts/two-democrats-allow-texas-senate-to-pass-redistricting-map-as-house-holds-out/'
+  tier: 2
 notes: Unprecedented mid-decade redistricting that bypasses traditional legislative procedures. Highlights growing tensions in state-level electoral manipulation.
 validation_priority: 10
 importance: 10
@@ -42,10 +47,9 @@ tags:
 - electoral-manipulation
 - voter-suppression
 - state-legislature-power-grab
-location: Austin, Texas
+location: 'Austin, Texas'
 capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-
 In a controversial move, the Texas Legislature voted to change quorum rules and pass a new congressional map creating five additional safe Republican seats without Democratic members present. The legislature modified procedural rules to allow passage despite the absence of Democratic lawmakers, who had fled the state to prevent a vote. The map was designed to redraw district boundaries in Houston, Austin, and Dallas-Fort Worth, potentially flipping several Democratic-held seats to Republican control. Governor Greg Abbott and Republican leadership pushed the map through, imposing daily fines and threats of arrest for absent Democrats. The redistricting effort represents an unprecedented mid-decade redrawing of political boundaries with significant implications for national congressional representation.

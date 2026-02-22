@@ -17,18 +17,22 @@ sources:
   url: https://www.justice.gov/opa/pr/ten-russian-agents-plead-guilty-and-are-be-removed-russia
   outlet: U.S. Department of Justice
   date: '2010-07-08'
+  tier: 1
 - title: Operation Ghost Stories (case history)
   url: https://www.fbi.gov/history/famous-cases/operation-ghost-stories
   outlet: FBI
   date: '2010-07-01'
+  tier: 1
 - title: 'The SoHo Spy: Stunning Anna Chapman Accused in Russian Spy Ring'
   url: https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883
   outlet: ABC News
   date: '2010-06-29'
+  tier: 1
 - title: FBI Releases Video, Documents on Russian Spy Ring, Including Anna Chapman
   url: https://www.nbcnewyork.com/news/local/russian-spy-videos-anna-chapman-fbi-sexy-spy-photos/2123873/
   outlet: NBC New York
   date: '2010-06-30'
+  tier: 1
 notes: Event framed with primary DOJ/FBI sources. Added supplemental media coverage. Expanded summary with operational context.
 capture_lanes:
 - Regulatory Capture

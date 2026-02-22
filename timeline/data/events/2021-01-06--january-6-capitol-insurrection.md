@@ -28,14 +28,17 @@ sources:
   url: https://www.govinfo.gov/app/details/GPO-J6-REPORT
   outlet: U.S. Government Publishing Office
   date: '2022-12-22'
+  tier: 1
 - title: Trump's Role in January 6 Represents Culmination of Constitutional Crisis Template
   url: https://www.justsecurity.org/74138/trumps-role-in-january-6-represents-culmination-of-constitutional-crisis/
   outlet: Just Security
   date: '2021-01-07'
+  tier: 1
 - title: 'January 6 Committee: Trump orchestrated systematic attack on constitutional governance'
   url: https://www.washingtonpost.com/politics/2022/12/19/jan-6-committee-final-report-trump-insurrection/
   outlet: The Washington Post
   date: '2022-12-19'
+  tier: 1
 importance: 10
 status: confirmed
 triggered_by:

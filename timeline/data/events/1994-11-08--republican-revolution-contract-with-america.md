@@ -16,14 +16,17 @@ sources:
   outlet: History.com
   date: '2021-11-08'
   url: https://www.history.com/articles/midterm-elections-1994-republican-revolution-gingrich-contract-with-america
+  tier: 2
 - title: 'Contract with America: Historical Analysis'
   outlet: Teaching American History
   date: '2022-01-15'
   url: https://teachingamericanhistory.org/document/republican-contract-with-america/
+  tier: 2
 - title: 'Republican Revolution: Political Transformation'
   outlet: JSTOR Daily
   date: '2020-11-01'
   url: https://daily.jstor.org/the-midterms-that-changed-america/
+  tier: 2
 capture_lanes:
 - Democratic Erosion
 - Electoral Manipulation

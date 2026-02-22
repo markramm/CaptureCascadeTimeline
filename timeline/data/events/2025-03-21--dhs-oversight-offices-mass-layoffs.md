@@ -23,14 +23,17 @@ sources:
   url: https://www.npr.org/2025/03/21/nx-s1-5336738/homeland-security-rif-cuts-dhs
   outlet: NPR
   date: '2025-03-21'
+  tier: 1
 - title: Department of Homeland Security guts civil rights team
   url: https://www.axios.com/2025/03/21/dhs-layoffs-homeland-security-civil-rights
   outlet: Axios
   date: '2025-03-21'
+  tier: 2
 - title: Trump administration closes three DHS offices focused on civil rights and oversight
   url: https://www.epi.org/policywatch/trump-administration-closes-three-dhs-offices-focused-on-civil-rights-and-oversight/
   outlet: Economic Policy Institute
   date: '2025-03-22'
+  tier: 1
 notes: Senators warned eliminating CRCL would violate statutory requirements. Federal judge ordered offices must continue statutorily required functions. Cuts left offices unable to investigate civil rights violations or detention conditions.
 status: confirmed
 ---

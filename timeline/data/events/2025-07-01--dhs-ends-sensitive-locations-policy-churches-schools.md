@@ -22,22 +22,27 @@ sources:
   url: https://www.nbcnews.com/news/investigations/trump-mass-deportations-ice-raids-executive-immigration-rcna188620
   outlet: NBC News
   date: '2025-07-01'
+  tier: 1
 - title: Trump says ICE can arrest people at churches and schools, directs agency to use common sense
   url: https://www.cnn.com/2025/01/21/politics/ice-can-arrest-people-at-churches-and-schools/index.html
   outlet: CNN
   date: '2025-01-21'
+  tier: 1
 - title: Trump officials revoke Biden policy that barred ICE arrests near sensitive locations like schools and churches
   url: https://www.cbsnews.com/news/trump-immigration-ice-arrests-sensitive-locations/
   outlet: CBS News
   date: '2025-01-21'
+  tier: 1
 - title: ICE can raid churches and schools to arrest immigrants under new policy
   url: https://www.axios.com/2025/01/21/trump-deportation-ice-churches-schools-raids
   outlet: Axios
   date: '2025-01-21'
+  tier: 2
 - title: Trump lifts protections against immigration enforcement at schools, churches, hospitals and other sensitive areas
   url: https://elpasomatters.org/2025/01/21/border-patrol-ice-enforcement-near-schools-hospitals-churches/
   outlet: El Paso Matters
   date: '2025-01-21'
+  tier: 2
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-07-01--dhs-ends-sensitive-locations-policy-allowing-ice-a'
 _merge_timestamp: '2025-09-05T23:46:55.901872'

@@ -20,18 +20,22 @@ sources:
   url: https://www.theguardian.com/us-news/2025/mar/27/epa-trump-email-fossil-fuel-exemptions
   outlet: The Guardian
   date: '2025-03-27'
+  tier: 1
 - title: Trump administration sets up portal for polluters to request exemptions to clean air rules
   url: https://thehill.com/policy/energy-environment/5217667-epa-polluters-exemptions-clean-air/
   outlet: The Hill
   date: '2025-03-27'
+  tier: 2
 - title: Clean Air Act Section 112 Presidential Exemption Information
   url: https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-section-112-presidential-exemption-information
   outlet: EPA.gov
   date: '2025-03-27'
+  tier: 1
 - title: Trump and his EPA Sued for Creating Email Shortcut Around Clean Air Protections
   url: https://earthjustice.org/press/2025/trump-and-his-epa-sued-for-creating-email-shortcut-around-clean-air-protections
   outlet: Earthjustice
   date: '2025-04-15'
+  tier: 2
 connections:
 - Clean Air Act regulatory exemptions
 - Fossil fuel industry influence

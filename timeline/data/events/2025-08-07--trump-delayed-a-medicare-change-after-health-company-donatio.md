@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/08/07/us/politics/trump-medicare-bandages-donors.html
   outlet: The New York Times
   date: '2025-08-07'
+  tier: 1
 - title: Days after 5 million donation to MAGA Inc., Trump freezes Medicare waste crackdown
   url: https://popular.info/p/days-after-5-million-donation-to
   outlet: Popular Information
   date: '2025-08-07'
+  tier: 2
 - title: Trump Delayed a Medicare Change After Health Companies Donations
   url: https://dnyuz.com/2025/08/07/trump-delayed-a-medicare-change-after-health-companies-donations/
   outlet: Dnyuz
   date: '2025-08-07'
+  tier: 2
 - title: NYT Echoes Public Citizen Findings that Trump Delayed a Medicare Price Change Following Health Company 5 million Donation
   url: https://www.citizen.org/news/icymi-nyt-echoes-public-citizen-findings-that-trump-delayed-a-medicare-price-change-following-health-companys-5-million-donation/
   outlet: Public Citizen
   date: '2025-08-07'
+  tier: 2
 - title: Trump pushed major change to Medicare after 5 million donation to MAGA Inc
   url: https://www.rawstory.com/trump-2673867349/
   outlet: Raw Story
   date: '2025-08-07'
+  tier: 3
 connections: []
 patterns:
 - kleptocratic-capture

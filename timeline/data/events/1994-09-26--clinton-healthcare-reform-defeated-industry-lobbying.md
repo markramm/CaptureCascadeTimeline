@@ -21,18 +21,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Clinton_health_care_plan_of_1993
   outlet: Wikipedia
   date: '1994-09-26'
+  tier: 2
 - title: What Happened to Health Care Reform?
   url: https://www.princeton.edu/~starr/20starr.html
   outlet: Princeton University
   date: '1996-01-01'
+  tier: 1
 - title: Health Care Reform - The Collapse of a Quest
   url: https://www.washingtonpost.com/archive/politics/1994/10/11/health-care-reform-the-collapse-of-a-quest/038a045b-3eef-4063-be19-5aa0bc090348/
   outlet: The Washington Post
   date: '1994-10-11'
+  tier: 1
 - title: Learning from Failure in Health Care Reform
   url: https://www.nejm.org/doi/full/10.1056/NEJMp078201
   outlet: New England Journal of Medicine
   date: '2008-01-10'
+  tier: 1
 id: 1994-09-26--clinton-healthcare-reform-defeated-industry-lobbying
 capture_lanes:
 - Legislative Capture

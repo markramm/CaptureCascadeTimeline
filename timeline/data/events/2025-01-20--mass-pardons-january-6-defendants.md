@@ -26,14 +26,17 @@ sources:
   url: https://www.npr.org/2025/01/20/trump-pardons-january-6-defendants
   outlet: NPR
   date: '2025-01-20'
+  tier: 1
 - title: Pardoned Proud Boys leaders return to activism, hailed as heroes at CPAC
   url: https://www.cbsnews.com/news/proud-boys-cpac-pardons-trump/
   outlet: CBS News
   date: '2025-02-24'
+  tier: 1
 - title: Multiple pardoned Jan 6 defendants re-arrested for new crimes
   url: https://www.washingtonpost.com/national-security/2025/02/15/january-6-pardons-rearrested/
   outlet: The Washington Post
   date: '2025-02-15'
+  tier: 1
 notes: Represents unprecedented normalization of political violence by highest office. Immediate re-offending by pardoned defendants proved critics' fears about consequences of removing accountability for attacking democratic institutions.
 ---
 

@@ -9,11 +9,11 @@ actors:
 - Justin Sun
 capture_lanes:
 - International Kleptocracy
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 date: '2025-05-02'
 id: 2025-05-02--abu-dhabi-2-billion-crypto
 importance: 9
-location: Dubai, UAE
+location: 'Dubai, UAE'
 title: Abu Dhabi sovereign fund commits $2 billion to Trump-linked crypto venture
 tags:
 - foreign-influence
@@ -26,26 +26,29 @@ tags:
 sources:
 - date: '2025-05-01'
   outlet: Bloomberg
-  title: Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal
-  url: https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal
-  archive_url: https://web.archive.org/web/20250815000000/https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal
+  title: 'Trump-Tied Stablecoin Used for MGX''s $2 Billion Binance Deal'
+  url: 'https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal'
+  archive_url: 'https://web.archive.org/web/20250815000000/https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal'
+  tier: 1
 - date: '2025-05-02'
   outlet: ABC News
   title: Trump family crypto venture tapped as part of $2B Emirati-backed investment deal
-  url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
-  archive_url: https://web.archive.org/web/20250815000000/https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
+  url: 'https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842'
+  archive_url: 'https://web.archive.org/web/20250815000000/https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842'
+  tier: 1
 - date: '2025-05-01'
   outlet: CoinDesk
-  title: World Liberty's USD1 Will Integrate With Tron; WLFI's Witkoff Teases More Partnerships
-  url: https://www.coindesk.com/business/2025/05/01/world-liberty-s-stablecoin-will-be-used-to-close-mgx-s-usd2b-binance-investment-eric-trump
+  title: 'World Liberty''s USD1 Will Integrate With Tron; WLFI''s Witkoff Teases More Partnerships'
+  url: 'https://www.coindesk.com/business/2025/05/01/world-liberty-s-stablecoin-will-be-used-to-close-mgx-s-usd2b-binance-investment-eric-trump'
   archive_url: ''
+  tier: 2
 - date: '2025-03-25'
   outlet: CNBC
-  title: Trump's World Liberty Financial jumps into stablecoin game with USD1 reveal
-  url: https://www.cnbc.com/2025/03/25/trumps-world-liberty-financial-jumps-into-stablecoin-game-with-usd1-reveal.html
+  title: 'Trump''s World Liberty Financial jumps into stablecoin game with USD1 reveal'
+  url: 'https://www.cnbc.com/2025/03/25/trumps-world-liberty-financial-jumps-into-stablecoin-game-with-usd1-reveal.html'
   archive_url: ''
+  tier: 2
 status: confirmed
-notes: Massive foreign sovereign investment in Trump family crypto business, revealed at Dubai crypto conference
+notes: 'Massive foreign sovereign investment in Trump family crypto business, revealed at Dubai crypto conference'
 ---
-
 At the Token2049 crypto conference in Dubai, World Liberty Financial (WLF) announced a landmark $2 billion investment from Abu Dhabi's MGX sovereign fund, using their USD1 stablecoin. The deal involves Binance and features Eric Trump and Zach Witkoff as key participants, highlighting complex intersections of foreign sovereign wealth, cryptocurrency, and Trump family business interests. USD1, launched in March 2025, became the seventh-largest stablecoin globally with a $2.125 billion market valuation.

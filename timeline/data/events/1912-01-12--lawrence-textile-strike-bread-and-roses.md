@@ -12,12 +12,15 @@ sources:
 - title: 1912 Lawrence textile strike
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/1912_Lawrence_textile_strike
+  tier: 2
 - title: The 1912 Bread and Roses Strike
   outlet: New England Historical Society
   url: https://newenglandhistoricalsociety.com/flashback-photo-the-1912-bread-and-roses-strike/
+  tier: 2
 - title: The Industrial Workers of the World
   outlet: PBS American Experience
   url: https://www.pbs.org/wgbh/americanexperience/features/goldman-industrial-workers-world/
+  tier: 1
 tags:
 - labor-organizing
 - progressive-era

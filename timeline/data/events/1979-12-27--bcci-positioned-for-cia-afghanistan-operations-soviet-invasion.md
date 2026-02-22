@@ -24,18 +24,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Operation_Cyclone
   outlet: Wikipedia
   date: '1979-12-27'
+  tier: 2
 - title: The CIA and BCCI
   url: https://www.newsweek.com/cia-and-bcci-202850
   outlet: Newsweek
   date: '1991-08-12'
+  tier: 2
 - title: 'What We Won: America''s Covert War in Afghanistan, 1979-1989'
   url: https://www.brookings.edu/books/what-we-won/
   outlet: Brookings Institution
   date: '2024'
+  tier: 1
 - title: CIA Activities in Afghanistan during Soviet Invasion
   url: https://www.cia.gov/readingroom/search/site/afghanistan
   outlet: CIA Freedom of Information Archive
   date: '2024'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

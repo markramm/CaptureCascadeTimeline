@@ -14,12 +14,15 @@ sources:
 - title: Senate Report 109-325 - GIMME FIVE Investigation
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: Senate Indian Affairs Committee
+  tier: 1
 - title: Senate Tribal Lobbying Investigation - Full Report Details Abramoff-Reed Scheme
   url: https://www.indian.senate.gov/wp-content/uploads/upload/files/Report.pdf
   outlet: U.S. Government Publishing Office
+  tier: 1
 - title: 'Abramoff: Lobbying Congress Case Study'
   url: https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress
   outlet: University of Texas Ethics Unwrapped
+  tier: 1
 importance: 8
 tags:
 - abramoff

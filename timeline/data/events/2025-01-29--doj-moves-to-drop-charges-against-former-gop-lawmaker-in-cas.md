@@ -22,14 +22,17 @@ sources:
   url: https://www.politico.com/news/2025/01/29/jeff-fortenberry-dismiss-charges-00201274
   outlet: Politico
   date: '2025-01-29'
+  tier: 1
 - title: Justice Department Drops Case Against Ex-Rep. Jeff Fortenberry
   url: https://rollcall.com/2025/01/29/justice-department-drops-case-against-ex-rep-jeff-fortenberry/
   outlet: Roll Call
   date: '2025-01-29'
+  tier: 2
 - title: Trump Justice Department Files to Drop Charges Against Former Nebraska U.S. Rep. Jeff Fortenberry
   url: https://nebraskaexaminer.com/2025/01/29/trump-justice-department-files-to-drop-charges-against-former-nebraska-u-s-rep-jeff-fortenberry/
   outlet: Nebraska Examiner
   date: '2025-01-29'
+  tier: 2
 connections:
 - DOJ political interference
 - Campaign finance violations

@@ -22,14 +22,17 @@ sources:
   url: https://www.cbsnews.com/news/the-prosecution-of-don-siegelman/
   outlet: 60 Minutes
   date: '2008-02-24'
+  tier: 1
 - title: Is Don Siegelman the Victim of a Political Witch Hunt?
   url: https://harpers.org/archive/2007/12/is-don-siegelman-the-victim-of-a-political-witch-hunt/
   outlet: Harper's Magazine
   date: '2007-12-01'
+  tier: 2
 - title: House Judiciary Committee Testimony of Dana Jill Simpson
   url: https://judiciary.house.gov/sites/democrats.judiciary.house.gov/files/documents/SimpsonTestimony070913.pdf
   outlet: House Judiciary Committee
   date: '2007-09-13'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

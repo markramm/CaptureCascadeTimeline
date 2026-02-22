@@ -7,20 +7,24 @@ significance: Democratic process fundamentally corrupted by systematic executive
 sources:
 - url: https://www.congress.gov/bill/107th-congress/house-joint-resolution/114
   title: Authorization for Use of Military Force Against Iraq Resolution
+  tier: 1
   type: legislative_document
   outlet: U.S. Congress
 - title: Intelligence, Policy, and the War in Iraq
   url: https://ciaotest.cc.columbia.edu/olj/fa/fa_marapr06/fa_marapr06b.html
   type: academic_analysis
   outlet: Foreign Affairs
+  tier: 2
 - title: White House Iraq Group and Pre-War Intelligence Manipulation
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB80/
   type: historical_research
   outlet: National Security Archive
+  tier: 1
 - title: 'Trapped by a Mindset: The Iraq WMD Intelligence Failure'
   url: https://www.airuniversity.af.edu/Portals/10/ASPJ/journals/Chronicles/tracey.pdf
   type: academic_research
   outlet: Air University Press
+  tier: 1
 tags:
 - iraq-authorization
 - congressional-vote

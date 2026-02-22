@@ -21,14 +21,17 @@ sources:
   url: https://campaignlegal.org/update/trumps-nominees-and-conflicts-they-carry
   outlet: Campaign Legal Center
   date: '2025-02-01'
+  tier: 1
 - title: Campaign Legal Center Partners With The New York Times for Exclusive on Trump Cabinet Conflicts of Interest
   url: https://campaignlegal.org/update/campaign-legal-center-partners-new-york-times-exclusive-trump-cabinet-conflicts-interest
   outlet: Campaign Legal Center
   date: '2025-02-01'
+  tier: 1
 - title: Tracker Trump Appointees' Corporate Conflicts of Interest
   url: https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/
   outlet: Public Citizen
   date: '2025-02-01'
+  tier: 2
 notes: Unprecedented scale of conflicts compared to all previous administrations
 status: confirmed
 ---

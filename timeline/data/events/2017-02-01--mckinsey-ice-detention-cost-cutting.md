@@ -33,14 +33,17 @@ sources:
   url: https://www.nytimes.com/2016/12/12/us/politics/rex-tillerson-secretary-of-state-trump.html
   outlet: The New York Times
   date: '2016-12-12'
+  tier: 1
 - title: 'Tillerson Out: The Disastrous Legacy of Rex Tillerson'
   url: https://www.vox.com/world/2018/3/13/17112764/rex-tillerson-fired-state-department
   outlet: Vox
   date: '2018-03-13'
+  tier: 2
 - title: Rex Tillerson
   url: https://en.wikipedia.org/wiki/Rex_Tillerson
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Corporate Capture

@@ -24,17 +24,20 @@ sources:
   url: https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm
   outlet: The Washington Post
   date: '1999-05-02'
+  tier: 1
   verified: true
 - title: Richard Mellon Scaife - Wikipedia
   url: https://en.wikipedia.org/wiki/Richard_Mellon_Scaife
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Scaife Foundations - SourceWatch
   url: https://www.sourcewatch.org/index.php/Scaife_Foundations
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Joseph Coors provided the initial $250,000 in 1973, but Scaife became the primary long-term funder. Washington Post called Scaife "the leading financial supporter of the movement that reshaped American politics in the last quarter of the 20th century." Edwin Meese III described him as "the unseen hand" of the conservative movement. Scaife contributed over $23 million to Heritage between 1975-1998.
 status: confirmed
 ---

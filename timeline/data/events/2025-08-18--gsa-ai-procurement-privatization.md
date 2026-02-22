@@ -2,7 +2,7 @@
 id: 2025-08-18--gsa-ai-procurement-privatization
 date: '2025-08-18'
 title: GSA Seeks to Outsource $110 Billion Federal Procurement to AI Systems
-description: General Services Administration issues Request for Information to create AI-driven procurement ecosystem, seeking private industry control over GSA's $110 billion in federal contracts. Plan would allow AI systems to make procurement decisions, vendor selections, and contract awards with minimal human oversight.
+description: 'General Services Administration issues Request for Information to create AI-driven procurement ecosystem, seeking private industry control over GSA''s $110 billion in federal contracts. Plan would allow AI systems to make procurement decisions, vendor selections, and contract awards with minimal human oversight.'
 importance: 8
 tags:
 - artificial-intelligence
@@ -24,16 +24,19 @@ status: confirmed
 sources:
 - outlet: GSA
   date: '2025-08-18'
-  url: https://sam.gov/opp/gsa-ai-procurement-rfi
+  url: 'https://sam.gov/opp/gsa-ai-procurement-rfi'
   title: Request for Information - AI-Driven Federal Procurement Ecosystem
+  tier: 1
 - outlet: Federal News Network
   date: '2025-08-19'
-  url: https://federalnewsnetwork.com/procurement/2025/08/gsa-ai-procurement
+  url: 'https://federalnewsnetwork.com/procurement/2025/08/gsa-ai-procurement'
   title: GSA explores AI control of $110B in federal contracts
+  tier: 2
 - outlet: Government Executive
   date: '2025-08-19'
-  url: https://www.govexec.com/technology/2025/08/gsa-artificial-intelligence-procurement
-  title: GSA's radical plan to automate federal procurement decisions
+  url: 'https://www.govexec.com/technology/2025/08/gsa-artificial-intelligence-procurement'
+  title: 'GSA''s radical plan to automate federal procurement decisions'
+  tier: 2
 connections:
 - 2025-01-20--trump-ai-deregulation
 - 2025-02-01--doge-efficiency-initiatives
@@ -42,7 +45,7 @@ patterns:
 - privatize-state-functions
 - regulatory-capture
 - corporate-capture
-notes: This represents a fundamental privatization of core government functions. Allowing AI systems to control $110 billion in procurement decisions effectively hands over a key governmental power to private tech companies who build and control these systems. The lack of transparency in AI decision-making, combined with the potential for bias and manipulation, creates massive opportunities for corruption. This could allow contractors to game the system through data manipulation, while removing human accountability for spending decisions. It's outsourcing not just work, but governmental decision-making authority itself.
+notes: 'This represents a fundamental privatization of core government functions. Allowing AI systems to control $110 billion in procurement decisions effectively hands over a key governmental power to private tech companies who build and control these systems. The lack of transparency in AI decision-making, combined with the potential for bias and manipulation, creates massive opportunities for corruption. This could allow contractors to game the system through data manipulation, while removing human accountability for spending decisions. It''s outsourcing not just work, but governmental decision-making authority itself.'
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

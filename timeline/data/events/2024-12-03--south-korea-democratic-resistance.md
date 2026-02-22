@@ -20,14 +20,17 @@ sources:
   outlet: Dem-Dec
   url: https://www.demoptimism.org/martial-law-south-korea
   date: '2024-12-03'
+  tier: 2
 - title: South Korean president faces impeachment calls after martial law attempt
   outlet: The Washington Post
   url: https://www.washingtonpost.com/world/2024/12/03/south-korea-yoon-martial-law/
   date: '2024-12-03'
+  tier: 1
 - title: South Korea martial law lifted, president urged to resign
   outlet: CBS News
   url: https://www.cbsnews.com/news/south-korea-president-martial-law-emergency/
   date: '2024-12-03'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion

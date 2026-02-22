@@ -21,16 +21,19 @@ sources:
   - Detailed documentation of intelligence community pressure
   - Comprehensive analysis of White House Iraq Group's role in WMD narrative
   verified: true
+  tier: 1
 - outlet: NPR
   title: 'White House Iraq Group: Marketing the War Narrative'
   url: https://www.npr.org/2002/09/02/1357754/white-house-iraq-group-war-marketing-strategy
   date: '2002-09-02'
   description: Analysis of the White House Iraq Group's strategic communication efforts to build public support for the Iraq War, revealing the group's coordinated narrative manipulation
+  tier: 1
 - outlet: ProPublica
   title: Intelligence Suppression and the Iraq War Prelude
   url: https://www.propublica.org/article/intelligence-suppression-iraq-war-white-house-iraq-group
   date_accessed: '2025-10-17'
   description: Investigative report exploring how the White House Iraq Group pressured intelligence agencies to suppress contradictory information about Iraq's weapons capabilities
+  tier: 1
 tags:
 - whig
 - intelligence-suppression

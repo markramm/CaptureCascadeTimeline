@@ -26,14 +26,17 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/542/367/
   outlet: Supreme Court
   date: '2004-06-24'
+  tier: 1
 - title: Supreme Court Sets Aside Cheney Energy Task Force Case
   url: https://www.pbs.org/newshour/politics/law-jan-june04-cheney_06-24
   outlet: PBS NewsHour
   date: '2004-06-24'
+  tier: 1
 - title: Cheney v. U.S. District Court
   url: https://ethicsunwrapped.utexas.edu/case-study/cheney-v-u-s-district-court
   outlet: University of Texas
   date: '2004-06-24'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

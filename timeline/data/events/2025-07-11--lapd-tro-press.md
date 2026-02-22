@@ -3,7 +3,7 @@ id: 2025-07-11--lapd-tro-press
 title: Federal court restrains LAPD use of less-lethal force against journalists
 date: '2025-07-11'
 importance: 6
-location: Los Angeles, CA
+location: 'Los Angeles, CA'
 actors:
 - U.S. District Court
 - LAPD
@@ -17,27 +17,29 @@ tags:
 - journalist-protection
 - lapd
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Judicial Capture
 citations:
-- https://www.latimes.com/california/story/2025-07-11/federal-judge-lapd-journalists-order
-- https://www.politico.com/news/2025/07/11/lapd-weapons-journalists-00448476
+- 'https://www.latimes.com/california/story/2025-07-11/federal-judge-lapd-journalists-order'
+- 'https://www.politico.com/news/2025/07/11/lapd-weapons-journalists-00448476'
 notes: This TRO came after journalists were injured covering the June LA protests during military deployment to the city. Part of broader pattern of press suppression during 2025 protests.
 status: confirmed
 sources:
 - title: Federal Court Decisions
-  url: https://www.uscourts.gov/court-records
+  url: 'https://www.uscourts.gov/court-records'
   outlet: US Courts
   date: '2025-01-01'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records'
 - title: Federal judge issues order prohibiting LAPD from using weapons on journalists
-  url: https://www.latimes.com/california/story/2025-07-11/federal-judge-lapd-journalists-order
+  url: 'https://www.latimes.com/california/story/2025-07-11/federal-judge-lapd-journalists-order'
   outlet: Los Angeles Times
   date: '2025-07-11'
+  tier: 1
 - title: LAPD barred from using less-lethal weapons on journalists
-  url: https://www.politico.com/news/2025/07/11/lapd-weapons-journalists-00448476
+  url: 'https://www.politico.com/news/2025/07/11/lapd-weapons-journalists-00448476'
   outlet: Politico
   date: '2025-07-11'
+  tier: 1
 ---
-
 A federal judge issued a temporary restraining order on July 11, 2025, prohibiting LAPD from using less-lethal munitions, rubber bullets, and chemical agents against clearly identified journalists covering protests in Los Angeles. The order also bars police from forcibly removing journalists from protest areas. This followed multiple incidents of journalists being injured during coverage of immigration and political protests in LA.

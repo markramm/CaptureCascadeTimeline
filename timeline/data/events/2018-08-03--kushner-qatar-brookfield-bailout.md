@@ -23,14 +23,17 @@ sources:
   url: https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html
   outlet: The New York Times
   date: '2018-05-17'
+  tier: 1
 - title: Kushner Cos. gets $1.1B from Brookfield for 666 Fifth lease
   url: https://therealdeal.com/new-york/2018/08/03/kushner-cos-finalizes-deal-with-brookfield-for-666-fifth-avenue-lease/
   outlet: The Real Deal
   date: '2018-08-03'
+  tier: 2
 - title: The Kushners Get a Billion-Dollar Bailout
   url: https://www.vanityfair.com/news/2018/08/kushner-666-fifth-avenue-brookfield-qatar
   outlet: Vanity Fair
   date: '2018-08-03'
+  tier: 2
 notes: Timeline of Qatar financing rejection, blockade support, then bailout raises
   questions of foreign policy being influenced by personal financial interests. Deal
   effectively eliminated Kushner family's biggest financial liability while Jared

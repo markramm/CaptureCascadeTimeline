@@ -8,18 +8,22 @@ sources:
   url: https://fedscoop.com/doge-lawsuit-cfpb-hhs-labor-data/
   outlet: FedScoop
   date: '2025-04-17'
+  tier: 2
 - title: Judge Declines to Block DOGE Access to Labor, Health, CFPB Data
   url: https://news.bloomberglaw.com/us-law-week/judge-declines-to-block-doge-access-to-labor-health-cfpb-data
   outlet: Bloomberg Law
   date: '2025-04-17'
+  tier: 2
 - title: Unions Expand Suit to Block Elon Musk from Accessing Private Data at DOL, HHS and CFPB
   url: https://www.afscme.org/press/releases/2025/unions-expand-suit-to-block-elon-musk-from-accessing-private-data-at-dol-hhs-and-cfpb
   outlet: AFSCME
   date: '2025-04-10'
+  tier: 2
 - title: Labor and Economic Organizations Ask Judge to Stop DOGE Access to Three Federal Agencies
   url: https://democracyforward.org/updates/labor-and-economic-organizations-ask-judge-to-stop-doge-access-to-three-federal-agencies/
   outlet: Democracy Forward
   date: '2025-04-15'
+  tier: 2
 status: confirmed
 tags:
 - doge

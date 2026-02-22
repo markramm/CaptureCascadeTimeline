@@ -2,7 +2,7 @@
 id: 2025-08-25--trump-national-guard-specialized-units
 date: '2025-08-25'
 title: Trump Creates Specialized National Guard Units for Domestic Deployment
-description: Trump signs executive order establishing specialized National Guard units trained for "public order issues," expanding military role in domestic law enforcement. Builds on earlier federal takeover of DC police and deployment of 2,274 National Guardsmen, creating quick reaction forces for nationwide deployment.
+description: 'Trump signs executive order establishing specialized National Guard units trained for "public order issues," expanding military role in domestic law enforcement. Builds on earlier federal takeover of DC police and deployment of 2,274 National Guardsmen, creating quick reaction forces for nationwide deployment.'
 importance: 9
 tags:
 - military-deployment
@@ -21,20 +21,24 @@ status: confirmed
 sources:
 - outlet: The White House
   date: '2025-08-25'
-  url: https://www.whitehouse.gov/presidential-actions/2025/08/additional-measures-to-address-the-crime-emergency-in-the-district-of-columbia/
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/08/additional-measures-to-address-the-crime-emergency-in-the-district-of-columbia/'
   title: Additional Measures to Address the Crime Emergency in the District of Columbia
+  tier: 1
 - outlet: CNN Politics
   date: '2025-08-25'
-  url: https://www.cnn.com/2025/08/25/politics/trump-executive-order-national-guard-units-crime
+  url: 'https://www.cnn.com/2025/08/25/politics/trump-executive-order-national-guard-units-crime'
   title: Trump signs executive order establishing specialized National Guard units to address crime in cities
+  tier: 2
 - outlet: Axios
   date: '2025-08-25'
-  url: https://www.axios.com/2025/08/25/trump-dc-executive-order-national-guard
+  url: 'https://www.axios.com/2025/08/25/trump-dc-executive-order-national-guard'
   title: Trump signs executive order for specialized public order National Guard unit
+  tier: 2
 - outlet: ABC News
   date: '2025-08-25'
-  url: https://abcnews.go.com/Politics/trumps-calls-guard-units-tasked-quell-civil-unrest/story?id=124962350
-  title: Trump's plan to create Guard units to quell civil unrest alarms experts
+  url: 'https://abcnews.go.com/Politics/trumps-calls-guard-units-tasked-quell-civil-unrest/story?id=124962350'
+  title: 'Trump''s plan to create Guard units to quell civil unrest alarms experts'
+  tier: 1
 connections:
 - 2025-01-23--trump-dc-federal-takeover
 - 2025-01-20--trump-military-deployment-plans
@@ -43,7 +47,7 @@ patterns:
 - exploit-crises
 - domestic-militarization
 - authoritarian-consolidation
-notes: This represents a significant expansion of military involvement in domestic law enforcement, traditionally restricted by the Posse Comitatus Act. The creation of "specialized units" specifically for public order issues suggests preparation for widespread civil unrest suppression. The combination with federal control of DC police creates a centralized force answerable directly to the executive branch, bypassing local civilian control. The "quick reaction force" language echoes military counterinsurgency doctrine being applied domestically.
+notes: 'This represents a significant expansion of military involvement in domestic law enforcement, traditionally restricted by the Posse Comitatus Act. The creation of "specialized units" specifically for public order issues suggests preparation for widespread civil unrest suppression. The combination with federal control of DC police creates a centralized force answerable directly to the executive branch, bypassing local civilian control. The "quick reaction force" language echoes military counterinsurgency doctrine being applied domestically.'
 capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion

@@ -13,12 +13,15 @@ sources:
 - title: Ex-White House lawyer Don McGahn defies House subpoena for Mueller docs
   url: https://www.pbs.org/newshour/politics/white-house-tells-former-counsel-mcghan-not-to-comply-with-subpoena
   outlet: PBS NewsHour
+  tier: 1
 - title: White House Directs Don McGahn Not To Comply With Jerry Nadler Subpoena
   url: https://www.npr.org/2019/05/07/721053127/white-house-directed-ex-counsel-mcgahn-not-to-comply-with-congressional-subpoena
   outlet: NPR
+  tier: 1
 - title: White House orders McGahn not to comply with congressional subpoena
   url: https://www.nbcnews.com/politics/white-house/white-house-orders-mcgahn-not-comply-congressional-subpoena-n1002846
   outlet: NBC News
+  tier: 1
 importance: 8
 tags:
 - don-mcgahn

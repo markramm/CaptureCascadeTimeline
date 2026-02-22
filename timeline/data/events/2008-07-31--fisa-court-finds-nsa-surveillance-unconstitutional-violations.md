@@ -20,14 +20,17 @@ sources:
   title: FISA Court Opinion and Order
   outlet: Foreign Intelligence Surveillance Court
   date: '2008-07-31'
+  tier: 1
 - url: https://www.washingtonpost.com/world/national-security/court-nsa-program-exceeded-legal-authority/2013/09/10/f1c204ae-19b8-11e3-8685-5021e0c41964_story.html
   title: 'Court: NSA Program Exceeded Legal Authority'
   outlet: The Washington Post
   date: '2013-09-10'
+  tier: 1
 - url: https://www.nytimes.com/2013/08/22/us/2011-ruling-found-an-nsa-program-unconstitutional.html
   title: 2011 Ruling Found an N.S.A. Program Unconstitutional
   outlet: The New York Times
   date: '2013-08-21'
+  tier: 1
 importance: 9
 status: confirmed
 capture_lanes:

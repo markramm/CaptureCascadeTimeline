@@ -24,14 +24,17 @@ sources:
   url: https://www.npr.org/2024/10/30/virginia-voter-purge-supreme-court
   outlet: NPR
   date: '2024-10-30'
+  tier: 1
 - title: Court permits Virginia voter purge targeting naturalized citizens
   url: https://www.democracydocket.com/cases/virginia-voter-purge-2024/
   outlet: Democracy Docket
   date: '2024-10-30'
+  tier: 2
 - title: Virginia purges 1,600 voters in violation of federal quiet period
   url: https://www.virginiamercury.com/2024/10/30/supreme-court-voter-purge/
   outlet: Virginia Mercury
   date: '2024-10-30'
+  tier: 2
 notes: Purge violated clear federal law protecting voters from systematic removal within 90 days of election. Targeted naturalized citizens based on outdated DMV records. Set dangerous precedent for ignoring NVRA protections.
 ---
 

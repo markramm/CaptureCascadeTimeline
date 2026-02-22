@@ -26,18 +26,22 @@ sources:
   url: https://oig.justice.gov/reports/report-presidents-surveillance-program-unclassified-prepared-offices-inspectors-general
   outlet: US Department of Justice Office of Inspector General
   date: '2009-07-10'
+  tier: 1
 - title: 'NSA Stellar Wind Program: Declassified Oversight Report'
   url: https://irp.fas.org/eprint/psp.pdf
   outlet: Federation of American Scientists
   date: '2009-07-10'
+  tier: 1
 - title: Secrecy and Legal Questions in NSA's Stellar Wind Program
   url: https://www.ibtimes.com/secrecy-legal-questions-hurt-nsas-stellar-wind-spy-program-us-watchdogs-1897087
   outlet: International Business Times
   date: '2015-09-18'
+  tier: 2
 - title: Legal Memos on Bush-Era Warrantless Wiretapping
   url: https://www.washingtonpost.com/world/national-security/legal-memos-released-on-bush-era-justification-for-warrantless-wiretapping/2014/09/05/91b86c52-356d-11e4-9e92-0899b306bbea_story.html
   outlet: The Washington Post
   date: '2014-09-05'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Judicial Capture

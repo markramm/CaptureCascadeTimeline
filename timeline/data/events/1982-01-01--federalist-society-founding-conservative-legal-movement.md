@@ -30,6 +30,7 @@ sources:
   - Founded by Steven Calabresi, David McIntosh, Lee Liberman Otis in 1982
   - First event held in April 1982 at Yale Law School
   - Initial funding of $24,000 from John M. Olin Foundation and Institute for Educational Affairs
+  tier: 2
 - outlet: Yale University News
   title: Federalist Society Annual Symposium Details
   url: https://news.yale.edu/2002/02/13/federalist-society-hold-annual-symposium-law-and-truth
@@ -38,6 +39,7 @@ sources:
   - Founded by five individuals including Calabresi, McIntosh, Liberman Otis, Abraham, Keisler
   - 'Purpose: Create forum for conservatives and libertarians to reform legal order'
   - Grew to 5,000+ student members across 145 law schools
+  tier: 1
 - title: Federalist Society - Wikipedia
   url: https://en.wikipedia.org/wiki/Federalist_Society
   outlet: Wikipedia
@@ -46,6 +48,7 @@ sources:
   - Founded in 1982 by Yale Law School students
   - Founded by Steven Calabresi, David McIntosh, and Lee Liberman Otis
   - Aimed to challenge liberal ideology in elite law schools
+  tier: 2
 status: confirmed
 ---
 

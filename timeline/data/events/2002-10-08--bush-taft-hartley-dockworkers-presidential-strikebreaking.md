@@ -21,6 +21,7 @@ sources:
   url: https://www.nytimes.com/2002/10/09/business/bush-invokes-taft-hartley-act-to-open-west-coast-ports.html
   outlet: New York Times
   date: '2002-10-09'
+  tier: 1
   verified: true
   tier: 1
 - title: The West Coast Lockout
@@ -39,14 +40,17 @@ sources:
   title: Report on the U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq
   url: https://www.intelligence.senate.gov/publications/committee-activities-2003-2004-november-16-2006
   type: government_report
+  tier: 1
 - outlet: National Archives - WMD Commission Report
   title: Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction
   url: https://georgewbush-whitehouse.archives.gov/wmd/text/report.html
   type: government_investigation
+  tier: 1
 - outlet: National Security Archive
   title: CIA Intelligence Estimates on Iraq Weapons Program
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB129/index.htm
   type: historical_archive
+  tier: 1
 status: confirmed
 capture_lanes:
 - Labor Suppression

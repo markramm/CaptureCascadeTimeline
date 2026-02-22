@@ -17,22 +17,27 @@ sources:
   url: https://www.reuters.com/world/indias-modi-holds-meeting-with-billionaire-tesla-ceo-musk-2025-02-13/
   outlet: Reuters
   date: '2025-02-13'
+  tier: 1
 - title: President Trump doesn't know if Elon Musk met Narendra Modi as a CEO or White House employee
   url: https://fortune.com/2025/02/14/president-trump-musk-modi-conflicts-interest-meeting/
   outlet: Fortune
   date: '2025-02-14'
+  tier: 2
 - title: 'PM Modi meets Elon Musk during US visit: AI, space, technology, and business on agenda'
   url: https://www.businesstoday.in/technology/news/story/pm-modi-meets-elon-musk-during-us-visit-ai-space-technology-and-business-on-agenda-464598-2025-02-14
   outlet: Business Today
   date: '2025-02-14'
+  tier: 2
 - title: WTF Was Elon Musk Doing Meeting With India's Modi?
   url: https://newrepublic.com/post/191521/elon-musk-meeting-india-narendra-modi
   outlet: The New Republic
   date: '2025-02-13'
+  tier: 2
 - title: Airtel, Starlink announce India deal weeks after Musk met Modi
   url: https://restofworld.org/2025/airtel-starlink-india-deal-modi-musk/
   outlet: Rest of World
   date: '2025-03-01'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

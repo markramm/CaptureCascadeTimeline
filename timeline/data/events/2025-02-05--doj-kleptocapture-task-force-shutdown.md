@@ -20,27 +20,30 @@ tags:
 - trump-administration
 - doj
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Executive Power Expansion
 - Judicial Capture
 sources:
 - outlet: Rolling Stone
   title: Pam Bondi Disbands Anti-Corruption Task Forces
-  url: https://www.rollingstone.com/politics/politics-news/pam-bondi-disbands-anti-corruption-task-force-1235259073/
+  url: 'https://www.rollingstone.com/politics/politics-news/pam-bondi-disbands-anti-corruption-task-force-1235259073/'
   date: '2025-02-06'
+  tier: 2
 - outlet: The Hill
   title: DOJ Disbands Foreign Influence Task Force
-  url: https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/
+  url: 'https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/'
   date: '2025-02-05'
+  tier: 2
 - outlet: Transparency International
   title: Attorney General Memorandum Raises Questions Around Enforcement of Transnational Anti-Corruption Laws
-  url: https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/
+  url: 'https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/'
   date: '2025-02-06'
+  tier: 2
 - outlet: AML Intelligence
-  title: Pam Bondi Shuts U.S. Anti-Corruption Task Force, Redirects Seized Funds
-  url: https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/
+  title: 'Pam Bondi Shuts U.S. Anti-Corruption Task Force, Redirects Seized Funds'
+  url: 'https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/'
   date: '2025-02-05'
+  tier: 2
 status: confirmed
 ---
-
 On February 5, 2025, Attorney General Pam Bondi announced the immediate dissolution of the KleptoCapture Task Force, a critical anti-corruption initiative established in 2022 to enforce sanctions on Russian oligarchs following Russia's invasion of Ukraine. The shutdown marks a significant policy reversal, redirecting resources from tracking transnational financial crimes to focusing on cartels and border enforcement. Transparency International warned that this move would 'significantly diminish the U.S.'s ability to counter transnational corruption'.

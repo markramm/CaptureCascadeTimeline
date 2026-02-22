@@ -24,18 +24,22 @@ sources:
   url: https://www.cbc.ca/radio/day6/episode-331-barkley-marathons-youtube-boycott-debit-cards-for-famine-aid-2004-red-sox-champs-and-more-1.4045494/companies-are-boycotting-youtube-because-their-ads-are-showing-up-next-to-hate-filled-and-extremist-videos-1.4045499
   outlet: CBC Radio
   date: '2017-03-25'
+  tier: 2
 - title: Google to Revamp Ad Policies After U.K., Big Brands Boycott
   url: https://www.bloomberg.com/news/articles/2017-03-17/u-k-pulls-ads-from-youtube-citing-failures-in-policing-content
   outlet: Bloomberg
   date: '2017-03-17'
+  tier: 1
 - title: After YouTube boycott, Google pulls ads from more types of offensive content
   url: https://techcrunch.com/2017/03/21/after-youtube-boycott-google-pulls-ads-from-more-types-of-offensive-content/
   outlet: TechCrunch
   date: '2017-03-21'
+  tier: 2
 - title: '#Adpocalypse / YouTube Advertiser Boycott'
   url: https://knowyourmeme.com/memes/events/adpocalypse-youtube-advertiser-boycott
   outlet: Know Your Meme
   date: '2017-03-20'
+  tier: 2
 status: confirmed
 id: 2017-03-20--youtube-ads-on-terrorism-hate-content
 capture_lanes:

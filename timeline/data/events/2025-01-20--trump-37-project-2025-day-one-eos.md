@@ -16,14 +16,17 @@ sources:
   url: https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders
   outlet: CNN
   date: '2025-01-31'
+  tier: 1
 - title: Project 2025 Implementation Report – June 2025
   url: https://whitehousereportcard.com/project-2025-implementation-report-june-2025/
   outlet: White House Report Card
   date: '2025-06-15'
+  tier: 2
 - title: 'Executive Orders Tracker: Trump''s Project 2025 Implementation'
   url: https://progressivereform.org/tracking-trump-2/project-2025-executive-action-tracker/
   outlet: Center for Progressive Reform
   date: '2025-07-01'
+  tier: 2
 tags:
 - project-2025-implementation
 - executive-order

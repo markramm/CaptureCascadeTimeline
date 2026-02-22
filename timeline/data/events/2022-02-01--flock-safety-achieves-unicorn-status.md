@@ -2,8 +2,8 @@
 id: 2022-02-01--flock-safety-achieves-unicorn-status
 date: '2022-02-01'
 importance: 8
-title: Flock Safety Reaches $3.5 Billion Valuation with 1,000+ Police Departments Using Surveillance Network
-location: Atlanta, Georgia
+title: 'Flock Safety Reaches $3.5 Billion Valuation with 1,000+ Police Departments Using Surveillance Network'
+location: 'Atlanta, Georgia'
 actors:
 - Flock Safety
 - Tiger Global
@@ -21,24 +21,26 @@ capture_lanes:
 - Financial Capture
 sources:
 - title: Flock Safety Raises $150M in Series E Funding
-  url: https://builtin.com/articles/flock-safety-raises-150m-series-e-hiring-021622
+  url: 'https://builtin.com/articles/flock-safety-raises-150m-series-e-hiring-021622'
   outlet: Built In
   date: '2022-02-16'
+  tier: 2
   archive_url: null
-- title: One of Atlanta's Latest Unicorns Lands Series E Funding
-  url: https://hypepotamus.com/feature/flock-safety-atlanta-series-e/
+- title: 'One of Atlanta''s Latest Unicorns Lands Series E Funding'
+  url: 'https://hypepotamus.com/feature/flock-safety-atlanta-series-e/'
   outlet: Hypepotamus
   date: '2022-02-01'
   archive_url: null
+  tier: 2
 - title: Flock Raises Another $150 Million Valuation Now At $3.5 Billion
-  url: https://ipvm.com/reports/flock-e
+  url: 'https://ipvm.com/reports/flock-e'
   outlet: IPVM
   date: '2022-02-01'
   archive_url: null
+  tier: 2
 notes: Series E led by Tiger Global. Partners with 1000+ law enforcement agencies. Creates national surveillance network with minimal oversight.
 status: confirmed
 ---
-
 Flock Safety announces $150 million Series E funding round led by Tiger Global, achieving a post-money valuation of $3.5 billion and cementing its status as a surveillance unicorn. Additional investors include Andreessen Horowitz, Spark Capital, Meritech, and Initialized Capital, bringing total funding to $380 million.
 
 By this point, Flock has pivoted from its initial HOA neighborhood focus to partnering with over 1,000 law enforcement agencies nationwide, creating an interconnected automated license plate recognition (ALPR) network that performs billions of scans monthly. The company's rapid expansion demonstrates how venture capital has accelerated the deployment of warrantless surveillance infrastructure across American communities.

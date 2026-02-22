@@ -11,18 +11,23 @@ sources:
 - title: How Trump's Justice Department has gutted the government's ability to chase public corruption
   url: https://amp.cnn.com/cnn/2025/02/14/politics/corruption-justice-department-trump-new-york
   outlet: CNN Politics
+  tier: 2
 - title: Federal judge drops corruption case against New York City Mayor Eric Adams
   url: https://www.npr.org/2025/04/02/g-s1-57386/judge-new-york-eric-adams
   outlet: NPR
+  tier: 1
 - title: Justice Department moves to dismiss Eric Adams case after extraordinary internal revolt
   url: https://www.nbcnews.com/politics/justice-department/justice-department-moves-dismiss-eric-adams-case-extraordinary-interna-rcna192294
   outlet: NBC News
+  tier: 1
 - title: DOJ files motion to dismiss charges in Mayor Eric Adams' case after several prosecutors resign
   url: https://abcnews.go.com/US/doj-files-motion-dismiss-charges-mayor-eric-adams/story?id=118847473
   outlet: ABC News
+  tier: 1
 - title: Whitehouse Demands Answers from Justice Department on Dismantling of Public Integrity Section
   url: https://www.whitehouse.senate.gov/news/release/whitehouse-demands-answers-from-justice-department-on-dismantling-of-public-integrity-section/
   outlet: Senator Sheldon Whitehouse Official Website
+  tier: 1
 importance: 10
 tags:
 - public-corruption

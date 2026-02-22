@@ -24,14 +24,17 @@ sources:
   url: https://www.justice.gov/archive/opa/pr/2006/January/06_crm_002.html
   outlet: U.S. Department of Justice
   date: '2006-01-03'
+  tier: 1
 - title: The Fast Rise and Steep Fall of Jack Abramoff
   url: https://www.washingtonpost.com/archive/politics/2005/12/29/the-fast-rise-and-steep-fall-of-jack-abramoff/
   outlet: The Washington Post
   date: '2005-12-29'
+  tier: 1
 - title: GIMME FIVE Investigation of Tribal Lobbying Matters
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: U.S. Senate Committee on Indian Affairs
   date: '2006-11-20'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

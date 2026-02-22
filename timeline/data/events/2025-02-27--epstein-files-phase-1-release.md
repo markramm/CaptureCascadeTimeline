@@ -19,14 +19,17 @@ sources:
   outlet: PBS NewsHour
   date: '2025-02-27'
   url: https://www.pbs.org/newshour/politics/trump-epstein-files-release
+  tier: 1
 - title: White House stages 'Phase 1' Epstein documents release with influencers
   outlet: ABC News
   date: '2025-02-27'
   url: https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story
+  tier: 1
 - title: Trump's theatrical Epstein files release contains mostly old material
   outlet: NPR
   date: '2025-02-28'
   url: https://www.npr.org/2025/02/28/trump-epstein-files-theatrical-release
+  tier: 1
 notes: The theatrical nature of this release with no new information foreshadowed the administration's eventual reversal.
 monitoring_status: active
 followup_schedule: weekly

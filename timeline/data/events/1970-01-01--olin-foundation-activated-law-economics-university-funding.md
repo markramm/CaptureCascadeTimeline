@@ -22,17 +22,20 @@ sources:
   url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Olin Brings Law and Economics to Campus
   url: https://www.philanthropyroundtable.org/almanac/olin-brings-law-and-economics-to-campus/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: The Olin Foundation and Support for Law and Economics Research
   url: https://www.law.uchicago.edu/news/olin-foundation-and-support-law-and-economics-research
   outlet: University of Chicago Law School
   date: '2024-01-01'
   verified: true
+  tier: 1
 notes: Foundation funds remained largely dormant until 1969 when John Olin, disturbed by Willard Straight Hall takeover at Cornell, decided to "preserve the free market system." William Simon became president in 1977, intensifying strategic focus. Foundation ultimately disbursed $370 million before closing in 2005, with most notable grants supporting law and economics programs.
 status: confirmed
 ---

@@ -22,14 +22,17 @@ sources:
   url: https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html
   outlet: The New York Times
   date: '2018-05-17'
+  tier: 1
 - title: The Kushners' Troubled Tower
   url: https://www.newyorker.com/news/news-desk/jared-kushners-business-dealings-and-the-qatar-blockade
   outlet: The New Yorker
   date: '2018-03-02'
+  tier: 1
 - title: Qatar-linked firm bails out Kushner property
   url: https://www.theguardian.com/us-news/2018/aug/03/qatar-linked-company-bails-out-jared-kushner-property
   outlet: The Guardian
   date: '2018-08-03'
+  tier: 1
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration

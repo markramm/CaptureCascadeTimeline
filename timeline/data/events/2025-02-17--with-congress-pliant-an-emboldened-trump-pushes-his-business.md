@@ -22,14 +22,17 @@ sources:
   url: https://www.pbs.org/newshour/nation/trump-meets-with-pga-tour-commissioner-after-saying-he-can-fix-professional-golfs-division
   outlet: PBS News
   date: '2025-02-13'
+  tier: 1
 - title: 'Trump involvement helps PGA Tour get closer to LIV Golf deal: Commissioner'
   url: https://www.aljazeera.com/sports/2025/2/6/trump-involvement-helps-pga-tour-get-closer-to-liv-golf-deal-commissioner
   outlet: Al Jazeera
   date: '2025-02-06'
+  tier: 1
 - title: Donald Trump gives short update on PGA Tour and LIV Golf merger
   url: https://www.irishstar.com/sport/golf/donald-trump-pga-liv-merger-34735059
   outlet: Irish Star
   date: '2025-02-17'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

@@ -22,18 +22,22 @@ sources:
   url: https://judiciary.house.gov/media/press-releases/testimony-reveals-fbi-employees-who-warned-social-media-companies-about-hack
   outlet: House Judiciary Committee
   date: '2023-07-10'
+  tier: 1
 - title: Former Twitter execs tell House committee that removal of Hunter Biden laptop story was a mistake
   url: https://abcnews.go.com/US/former-twitter-execs-house-committee-removal-hunter-biden/story?id=96979014
   outlet: ABC News
   date: '2023-02-08'
+  tier: 1
 - title: Twitter execs acknowledge mistakes with Hunter Biden laptop story but say no government involvement
   url: https://www.cnn.com/2023/02/08/politics/twitter-hearing-house-oversight/index.html
   outlet: CNN
   date: '2023-02-08'
+  tier: 1
 - title: FBI Spent a Year Preparing Platforms to Censor Biden Story
   url: https://www.nationalreview.com/news/fbi-spent-a-year-preparing-platforms-to-censor-biden-story-withheld-info-on-laptops-authenticity/
   outlet: National Review
   date: '2023-07-10'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

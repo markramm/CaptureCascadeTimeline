@@ -25,18 +25,22 @@ sources:
   url: https://www.govexec.com/workforce/2025/06/trump-planning-slash-107000-federal-jobs-next-year-see-where/405758/
   outlet: Government Executive
   date: '2025-06-15'
+  tier: 2
 - title: 2025 United States federal mass layoffs
   url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
   outlet: Wikipedia
   date: '2025-06-26'
+  tier: 2
 - title: Trump says 'a lot' of federal workers are being laid off during government shutdown
   url: https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html
   outlet: CNBC
   date: '2025-10-10'
+  tier: 2
 - title: '''Substantial'' layoffs begin at federal agencies, White House says'
   url: https://www.nextgov.com/people/2025/10/substantial-layoffs-begin-federal-agencies-white-house-says/408766/
   outlet: Nextgov/FCW
   date: '2025-10-10'
+  tier: 1
 notes: The 2025 federal mass layoffs exceed 275,000 civil service positions announced, not including federal contractors. Multiple agencies saw cuts exceeding 50% of workforce, with some like USAID and GSA regions experiencing 90%+ reductions.
 status: confirmed
 ---

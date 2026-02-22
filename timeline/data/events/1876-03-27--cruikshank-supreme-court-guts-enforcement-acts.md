@@ -11,19 +11,23 @@ sources:
 - title: United States v. Cruikshank
   outlet: History of the Supreme Court
   url: https://civics.supremecourthistory.org/article/united-states-v-cruikshank/
+  tier: 2
   year: 2024
 - title: U.S. v. Cruikshank
   outlet: Federal Judicial Center
   url: https://www.fjc.gov/history/timeline/us-v-cruikshank
   year: 2024
+  tier: 1
 - title: United States v. Cruikshank
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_v._Cruikshank
   year: 2024
+  tier: 2
 - title: United States v. Cruikshank (1876)
   outlet: First Amendment Encyclopedia
   url: https://firstamendment.mtsu.edu/article/united-states-v-cruikshank/
   year: 2024
+  tier: 2
 tags:
 - judicial-capture
 - reconstruction-sabotage

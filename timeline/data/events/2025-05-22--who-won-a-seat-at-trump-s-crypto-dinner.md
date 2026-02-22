@@ -26,18 +26,22 @@ sources:
   title: Trump is hosting a dinner for the biggest buyers of his memecoin. The guest list is now set—and many of the winners are foreign nationals
   outlet: Fortune Crypto
   date: '2025-05-12'
+  tier: 2
 - url: https://www.pbs.org/newshour/show/private-event-with-crypto-customers-fuels-accusations-of-trump-profiting-off-presidency
   title: Private event with crypto customers fuels accusations of Trump profiting off presidency
   outlet: PBS News
   date: '2025-05-23'
+  tier: 1
 - url: https://www.coindesk.com/policy/2025/05/22/democrats-threaten-lawsuits-join-protests-ahead-of-trump-memecoin-dinner
   title: Democrats Threaten Lawsuits, Join Protests Ahead of Trump Memecoin Dinner
   outlet: CoinDesk
   date: '2025-05-22'
+  tier: 2
 - url: https://www.nbcnews.com/tech/crypto/trumps-crypto-dinner-cost-1-million-seat-average-rcna207802
   title: Trump's crypto dinner cost over $1 million per seat, on average
   outlet: NBC News
   date: '2025-05-23'
+  tier: 1
 connections:
 - Foreign national cryptocurrency investors
 - SEC lawsuit against Justin Sun

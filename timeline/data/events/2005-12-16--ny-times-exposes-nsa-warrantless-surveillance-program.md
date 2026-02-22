@@ -29,22 +29,27 @@ sources:
   url: https://www.nytimes.com/2005/12/16/politics/bush-lets-us-spy-on-callers-without-courts.html
   outlet: The New York Times
   date: '2005-12-16'
+  tier: 1
 - title: How the NSA Started Investigating the New York Times' Warrantless Wiretapping Story
   url: https://theintercept.com/2015/06/26/nsa-started-investigating-new-york-times-original-warrantless-wiretapping-story/
   outlet: The Intercept
   date: '2015-06-26'
+  tier: 1
 - title: 'James Risen: My Life as a New York Times Reporter in the Shadow of the War on Terror'
   url: https://theintercept.com/2018/01/03/my-life-as-a-new-york-times-reporter-in-the-shadow-of-the-war-on-terror/
   outlet: The Intercept
   date: '2018-01-03'
+  tier: 1
 - title: Report on the President's Surveillance Program
   url: https://oig.justice.gov/sites/default/files/archive/special/s0907.pdf
   outlet: DOJ Inspector General
   date: '2009-07-10'
+  tier: 1
 - title: Bush Acknowledges Approving U.S. Surveillance
   url: https://www.washingtonpost.com/wp-dyn/content/article/2005/12/17/AR2005121700005.html
   outlet: The Washington Post
   date: '2005-12-17'
+  tier: 1
 notes: This article marked a turning point in public awareness of domestic surveillance programs. The Bush administration had warned that revealing the program would have 'grave consequences for national security,' but the reporting exposed constitutional violations that had been occurring in secret for over four years. The FBI launched an aggressive leak investigation, and the NSA recommended DOJ investigate the source of the story.
 _merge_note: 'Enhanced with information from duplicate event: 2005-12-16--nyt-reveals-bush-nsa-warrantless-surveillance-prog'
 _merge_timestamp: '2025-09-05T23:46:55.899063'

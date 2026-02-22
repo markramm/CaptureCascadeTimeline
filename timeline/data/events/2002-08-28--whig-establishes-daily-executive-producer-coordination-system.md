@@ -22,14 +22,17 @@ sources:
   title: George W. Bush didn't just lie about the Iraq War
   url: https://theweek.com/articles/555921/george-w-bush-didnt-just-lie-about-iraq-war-what-did-much-worse
   type: analysis
+  tier: 2
 - outlet: SourceWatch
   title: White House Iraq Group
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   type: reference
+  tier: 2
 - outlet: History Commons
   title: 'Domestic Propaganda and the News Media: White House Iraq Group'
   url: http://www.historycommons.org/timeline.jsp?military_analysts_tmln_general_events=military_analysts_tmln_white_house_iraq_group&timeline=military_analysts_tmln
   type: timeline
+  tier: 2
 tags:
 - whig
 - media-manipulation

@@ -27,14 +27,17 @@ sources:
   url: https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF
   outlet: Pentagon Inspector General
   date: '2007-02-09'
+  tier: 1
 - title: Senate Report on Pre-war Intelligence on Iraq
   url: https://www.intelligence.senate.gov/sites/default/files/publications/iraqreport2.pdf
   outlet: Senate Intelligence Committee
   date: '2004-07-09'
+  tier: 1
 - title: Pentagon Created Phantom Cell to Push Iraq Intelligence
   url: https://www.nytimes.com/2004/10/25/politics/pentagon-created-phantom-cell-to-push-iraq-intelligence.html
   outlet: The New York Times
   date: '2004-10-25'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

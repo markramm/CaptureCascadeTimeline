@@ -27,18 +27,22 @@ sources:
   url: https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
   outlet: Brookings Institution
   date: '2025-06-26'
+  tier: 1
 - title: What to Know About the Los Angeles Military Deployment
   url: https://www.brennancenter.org/our-work/research-reports/what-know-about-los-angeles-military-deployment
   outlet: Brennan Center for Justice
   date: '2025-06-25'
+  tier: 1
 - title: Is Donald Trump's Troop Deployment to Los Angeles Legal?
   url: https://www.rollingstone.com/politics/politics-features/trump-troop-deployment-los-angeles-is-it-legal-1235364017/
   outlet: Rolling Stone
   date: '2025-06-10'
+  tier: 2
 - title: 5 things to know as Newsom and Trump go back to court over the National Guard in LA
   url: https://calmatters.org/justice/2025/08/newsom-vs-trump-national-guard/
   outlet: CalMatters
   date: '2025-08-11'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

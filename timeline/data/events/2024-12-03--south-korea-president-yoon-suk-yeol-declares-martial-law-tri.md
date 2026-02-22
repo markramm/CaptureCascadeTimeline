@@ -25,14 +25,17 @@ sources:
   url: https://www.asiapacific.ca/publication/explainer-yoons-failed-martial-law-decree-future-impacts
   outlet: Asia Pacific Institute
   date: '2024-12-03'
+  tier: 2
 - title: Yoon's Failed Political Coup and South Korea's Crisis
   url: https://carnegieendowment.org/research/2024/12/yoons-failed-political-coup-and-south-koreas-mounting-crisis?lang=en
   outlet: Carnegie Endowment for International Peace
   date: '2024-12-03'
+  tier: 2
 - title: South Korea Martial Law Lifted, Democracy Tarnished
   url: https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/
   outlet: CBS News
   date: '2024-12-03'
+  tier: 1
 id: 2024-12-03--south-korea-president-yoon-suk-yeol-declares-martial-law-tri
 priority_id: RP-20250909-capture-cascade-part-7-the-new-normal
 connections: []

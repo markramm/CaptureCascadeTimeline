@@ -22,14 +22,17 @@ sources:
   url: https://www.nextgov.com/cybersecurity/2025/02/doge-employee-edward-coristine-lands-cisa-dhs-email/403126/
   outlet: Nextgov/FCW
   date: '2025-02-14'
+  tier: 1
 - title: Teen on Musk's DOGE Team Graduated from 'The Com'
   url: https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/
   outlet: KrebsOnSecurity
   date: '2025-02-01'
+  tier: 2
 - title: Edward Coristine
   url: https://en.wikipedia.org/wiki/Edward_Coristine
   outlet: Wikipedia
   date: '2025-08-01'
+  tier: 2
 notes: 'Coristine reported directly to Amanda Scales, former xAI employee appointed as OPM chief
 
   of staff. Was among youngest DOGE members without prior government experience. Given

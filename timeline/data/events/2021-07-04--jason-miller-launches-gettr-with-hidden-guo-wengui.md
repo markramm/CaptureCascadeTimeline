@@ -25,14 +25,17 @@ sources:
   url: https://www.thedailybeast.com/trumpworld-app-is-bankrolled-by-fugitive-chinese-billionaire/
   outlet: The Daily Beast
   date: '2021-07-04'
+  tier: 2
 - title: Chinese Mogul Funneled Millions to Bannon, Fox, Gettr, Documents Show
   url: https://www.thedailybeast.com/chinese-mogul-guo-wengui-funneled-millions-to-bannon-fox-gettr-docs-show/
   outlet: The Daily Beast
   date: '2022-01-15'
+  tier: 2
 - title: Gettr Controlled by Guo Wengui, Ex-Employees Reveal
   url: https://www.washingtonpost.com/technology/2023/03/26/gettr-guo-wengui-social-media/
   outlet: The Washington Post
   date: '2023-03-26'
+  tier: 1
 status: confirmed
 id: 2021-07-04--jason-miller-launches-gettr-with-hidden-guo-wengui
 priority_id: RT-EXP-2E557553-gettr-jason-miller-chinese-funding

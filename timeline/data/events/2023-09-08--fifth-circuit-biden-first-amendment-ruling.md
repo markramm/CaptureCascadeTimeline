@@ -22,18 +22,22 @@ sources:
   url: https://www.npr.org/2023/09/08/1197971952/biden-administration-fifth-circuit-ruling-social-media-injunction
   outlet: NPR
   date: '2023-09-08'
+  tier: 1
 - title: Missouri v. Biden Fifth Circuit Opinion
   url: https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf
   outlet: U.S. Court of Appeals for the Fifth Circuit
   date: '2023-09-08'
+  tier: 1
 - title: Missouri Attorney General Obtains Court Order Blocking Biden Administration
   url: https://ago.mo.gov/home/news/2023/07/05/missouri-attorney-general-andrew-bailey-obtains-court-order-blocking-the-biden-administration-from-violating-first-amendment
   outlet: Missouri Attorney General
   date: '2023-07-05'
+  tier: 1
 - title: Murthy v. Missouri (Formerly Missouri v. Biden)
   url: https://www.brennancenter.org/our-work/court-cases/murthy-v-missouri-formerly-missouri-v-biden
   outlet: Brennan Center for Justice
   date: '2024-06-26'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

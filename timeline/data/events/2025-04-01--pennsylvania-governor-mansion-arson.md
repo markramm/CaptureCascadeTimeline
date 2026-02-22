@@ -21,14 +21,17 @@ sources:
   url: https://www.pennlive.com/news/2025/04/governor-shapiro-mansion-arson-attack.html
   outlet: PennLive
   date: '2025-04-01'
+  tier: 2
 - title: FBI investigating attack on Pennsylvania Governor's residence
   url: https://www.pbs.org/newshour/politics/fbi-pennsylvania-governor-mansion-attack
   outlet: PBS NewsHour
   date: '2025-04-01'
+  tier: 1
 - title: Shapiro family safe after targeted arson attack on governor's mansion
   url: https://www.inquirer.com/politics/pennsylvania/shapiro-mansion-arson-attack-20250401.html
   outlet: Philadelphia Inquirer
   date: '2025-04-01'
+  tier: 2
 notes: Attack occurred amid broader surge in threats against state officials. Gubernatorial
   mansions becoming high-profile targets as political violence expands from federal
   to state level institutions.

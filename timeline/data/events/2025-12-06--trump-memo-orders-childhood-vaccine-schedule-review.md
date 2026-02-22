@@ -2,7 +2,7 @@
 id: 2025-12-06--trump-memo-orders-childhood-vaccine-schedule-review
 date: '2025-12-06'
 importance: 9
-title: Trump Issues Memo Ordering Comprehensive Review of Childhood Vaccine Schedule, Elevating Political Control Over Medical Science
+title: 'Trump Issues Memo Ordering Comprehensive Review of Childhood Vaccine Schedule, Elevating Political Control Over Medical Science'
 location: United States
 actors:
 - Donald Trump
@@ -28,40 +28,45 @@ capture_lanes:
 - Democratic Erosion
 - Federal Workforce Capture
 sources:
-- title: Fact Sheet - President Donald J. Trump Begins Process to Align U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries
-  url: https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-begins-process-to-align-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/
+- title: 'Fact Sheet - President Donald J. Trump Begins Process to Align U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries'
+  url: 'https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-begins-process-to-align-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/'
   outlet: The White House
   date: '2025-12-06'
+  tier: 1
   archive_url: null
-- title: Fact-checking the CDC panel's reasons for dropping universal newborn hepatitis B vaccine recommendation
-  url: https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation
+- title: 'Fact-checking the CDC panel''s reasons for dropping universal newborn hepatitis B vaccine recommendation'
+  url: 'https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation'
   outlet: PBS NewsHour
   date: '2025-12-06'
   archive_url: null
-- title: The CDC, RFK Jr., And Childhood Vaccine Schedules
-  url: https://www.npr.org/2025/12/10/nx-s1-5640175/the-cdc-rfk-jr-and-childhood-vaccine-schedules
+  tier: 1
+- title: 'The CDC, RFK Jr., And Childhood Vaccine Schedules'
+  url: 'https://www.npr.org/2025/12/10/nx-s1-5640175/the-cdc-rfk-jr-and-childhood-vaccine-schedules'
   outlet: NPR
   date: '2025-12-10'
   archive_url: null
+  tier: 1
 - title: CDC advisory panel rolls back hepatitis B vaccine guidelines
-  url: https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482
+  url: 'https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482'
   outlet: NBC News
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns
-  url: https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/
+  url: 'https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/'
   outlet: CBS News
   date: '2025-12-05'
   archive_url: null
-- title: Trump points to other countries on childhood vaccines. The U.S. isn't comparable
-  url: https://19thnews.org/2025/12/trump-childhood-vaccines-comparison-countries/
+  tier: 1
+- title: 'Trump points to other countries on childhood vaccines. The U.S. isn''t comparable'
+  url: 'https://19thnews.org/2025/12/trump-childhood-vaccines-comparison-countries/'
   outlet: The 19th
   date: '2025-12-06'
   archive_url: null
-notes: Presidential memo issued one day after RFK Jr.'s reconstituted ACIP panel voted to end universal hepatitis B vaccination at birth. Memo relies on misleading comparison with European countries that have fundamentally different healthcare systems, universal healthcare coverage, and paid parental leave. AAP and major medical organizations continue to publish their own vaccine recommendations independent of CDC due to loss of trust in politicized process.
+  tier: 2
+notes: 'Presidential memo issued one day after RFK Jr.''s reconstituted ACIP panel voted to end universal hepatitis B vaccination at birth. Memo relies on misleading comparison with European countries that have fundamentally different healthcare systems, universal healthcare coverage, and paid parental leave. AAP and major medical organizations continue to publish their own vaccine recommendations independent of CDC due to loss of trust in politicized process.'
 status: confirmed
 ---
-
 President Donald Trump issues a Presidential Memorandum ordering the Secretary of Health and Human Services and the Acting Director of the Centers for Disease Control and Prevention to conduct a comprehensive review of the U.S. childhood vaccine schedule and align it with "best practices from peer, developed countries." The memo, announced via Truth Social with Trump directing HHS to "FAST TRACK" the evaluation, follows by one day the controversial Advisory Committee on Immunization Practices vote to end universal hepatitis B vaccination at birth—a vote orchestrated by HHS Secretary Robert F. Kennedy Jr.'s hand-picked vaccine-skeptical panel.
 
 The Presidential Memorandum frames the United States as a "high outlier in the number of vaccinations recommended for all children," claiming the U.S. recommends vaccinations for 18 diseases while Denmark recommends 10, Japan recommends 14, and Germany recommends 15. The White House fact sheet cites specific examples including that "the United States currently recommends yearly influenza vaccines starting at six months, while many peer countries do not" and that hepatitis B vaccination at birth is "uncommon in most developed countries."

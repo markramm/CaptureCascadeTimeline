@@ -13,15 +13,18 @@ sources:
 - title: Mugwumps
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Mugwumps
+  tier: 2
   year: 2024
 - title: 'Mugwumps and Mudslinging: The Bitter Election of 1884'
   outlet: Dickinson College
   url: https://blogs.dickinson.edu/hist-211pinsker/2010/10/11/mugwumps-and-mudslinging-the-bitter-election-of-1884/
   year: 2024
+  tier: 1
 - title: United States presidential election of 1884
   outlet: Britannica
   url: https://www.britannica.com/event/United-States-presidential-election-of-1884
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - political-realignment

@@ -11,15 +11,18 @@ sources:
 - title: Money-in-Politics Timeline
   outlet: OpenSecrets
   url: https://www.opensecrets.org/resources/learn/timeline
+  tier: 1
   year: 2024
 - title: The Surprising Survival—So Far—of the Corporate Contribution Ban
   outlet: University of Chicago Business Law Review
   url: https://businesslawreview.uchicago.edu/print-archive/surprising-survival-so-far-corporate-contribution-ban
   year: 2024
+  tier: 1
 - title: 'George Washington to Citizens United: A History of Campaign Finance Reform'
   outlet: Common Cause
   url: https://www.commoncause.org/articles/george-washington-to-citizens-united-a-history-of-campaign-finance-reform/
   year: 2024
+  tier: 2
 tags:
 - campaign-finance
 - corporate-influence

@@ -21,6 +21,7 @@ sources:
   url: https://en.wikipedia.org/wiki/In_re_Debs
   outlet: Wikipedia
   date: '2025-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: In re Debs
@@ -38,9 +39,11 @@ sources:
 - title: The Debs Case - Labor, Capital, and the Federal Courts of the 1890s
   outlet: Federal Judicial Center
   url: https://www.fjc.gov/sites/default/files/trials/debs.pdf
+  tier: 1
 - title: In re Debs
   outlet: Teaching American History
   url: https://teachingamericanhistory.org/document/in-re-debs/
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

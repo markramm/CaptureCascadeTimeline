@@ -18,26 +18,32 @@ sources:
   url: https://www.elle.com/culture/news/a44516/trump-models-shutting-down/
   outlet: Elle
   date: '2017-04-08'
+  tier: 2
 - title: Trump Model Management to Close
   url: https://www.nytimes.com/2017/04/08/fashion/trump-models-agency-closes.html
   outlet: The New York Times
   date: '2017-04-08'
+  tier: 1
 - title: Trump's modeling agency broke immigration laws, attorneys say
   url: https://money.cnn.com/2016/03/10/news/trump-model-visas/index.html
   outlet: CNN Money
   date: '2016-03-10'
+  tier: 1
 - title: 'Former Trump Models: We Were Told to Lie About Immigration Status'
   url: https://www.thedailybeast.com/former-trump-models-we-were-told-to-lie-about-immigration-status/
   outlet: The Daily Beast
   date: '2016-08-31'
+  tier: 2
 - title: Trump Organization Says It Is Closing Its Modeling Agency
   url: https://www.npr.org/sections/thetwo-way/2017/04/11/523422686/trump-organization-says-its-closing-its-modeling-agency
   outlet: NPR
   date: '2017-04-11'
+  tier: 1
 - title: 'Trump Model: Felt Like ''Slave'' Working for Donald''s Agency'
   url: https://abcnews.go.com/Politics/trump-model-felt-slave-working-donalds-agency/story?id=37313993
   outlet: ABC News
   date: '2016-04-14'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Financial Capture

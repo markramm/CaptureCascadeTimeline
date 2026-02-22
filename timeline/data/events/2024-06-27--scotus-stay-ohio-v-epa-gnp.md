@@ -34,14 +34,17 @@ sources:
   url: https://www.supremecourt.gov/opinions/23pdf/23a349_0813.pdf
   outlet: Supreme Court
   date: '2024-06-27'
+  tier: 1
 - title: Supreme Court blocks EPA's Good Neighbor air pollution rule
   url: https://www.scotusblog.com/2024/06/supreme-court-blocks-epas-good-neighbor-air-pollution-rule/
   outlet: SCOTUSblog
   date: '2024-06-27'
+  tier: 1
 - title: Supreme Court blocks EPA's "good neighbor" rule aimed at combating air pollution
   url: https://www.cbsnews.com/news/supreme-court-epa-good-neighbor-rule/
   outlet: CBS News
   date: '2024-06-27'
----
+
+  tier: 1---
 
 The Supreme Court granted a 5-4 stay on June 27, 2024, blocking the EPA's Good Neighbor Plan addressing interstate ozone pollution while litigation proceeds. Justice Gorsuch's majority opinion found EPA failed to reasonably explain its methodology after some states left the program. The stay affects enforcement in 11 states including California, Illinois, Indiana, Maryland, Michigan, New Jersey, New York, Ohio, Pennsylvania, Virginia, and Wisconsin. Justice Barrett's dissent warned this leaves upwind states free to contribute to downwind neighbors' ozone problems for years.

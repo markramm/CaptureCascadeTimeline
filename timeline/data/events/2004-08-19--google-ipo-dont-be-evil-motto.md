@@ -21,18 +21,22 @@ sources:
   url: https://caseworks.business.columbia.edu/caseworks/dont-be-evil-googles-2004-dutch-auction-initial-public-offering
   outlet: Columbia Business School CaseWorks
   date: '2004-08-19'
+  tier: 1
 - title: Google's Motto Was 'Don't Be Evil'?
   url: https://www.snopes.com/fact-check/google-motto-dont-be-evil/
   outlet: Snopes
   date: '2019-06-04'
+  tier: 2
 - title: Google went public 20 years ago—what your $1000 investment would be worth today
   url: https://finance.yahoo.com/news/google-went-public-20-years-165744013.html
   outlet: Yahoo Finance
   date: '2024-08-19'
+  tier: 2
 - title: That was then The worst Google IPO calls
   url: https://www.cnbc.com/2014/08/19/that-was-then-the-worst-google-ipo-calls.html
   outlet: CNBC
   date: '2014-08-19'
+  tier: 2
 status: confirmed
 id: 2004-08-19--google-ipo-dont-be-evil-motto
 capture_lanes:

@@ -10,12 +10,15 @@ sources:
 - outlet: Britannica
   title: Vladimir Putin - Biography
   url: https://www.britannica.com/biography/Vladimir-Putin
+  tier: 2
 - outlet: Russia Matters (Belfer Center)
   title: 'Experts on Putin: 20 Years in Power'
   url: https://www.russiamatters.org/analysis/experts-putin-20-years-power
+  tier: 2
 - outlet: U.S. Russia Relations Timeline
   title: Yeltsin Appoints Vladimir Putin as Prime Minister
   url: https://usrussiarelations.org/2/timeline/after-the-fall/63
+  tier: 2
 tags:
 - putin
 - power-consolidation

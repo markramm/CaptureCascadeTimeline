@@ -16,31 +16,35 @@ tags:
 - ai-powered-platforms
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 sources:
 - title: Digital Transformation in Law and Technology Revolution
   outlet: Leaders in Law
-  url: https://www.leaders-in-law.com/digital-transformation-in-law-and-how-technology-is-revolutionizing-legal-practices/
+  url: 'https://www.leaders-in-law.com/digital-transformation-in-law-and-how-technology-is-revolutionizing-legal-practices/'
+  tier: 2
   date_accessed: '2025-10-07'
-  description: Explores emerging legal technology platforms, collaboration initiatives, and cybersecurity trends in 2025
+  description: 'Explores emerging legal technology platforms, collaboration initiatives, and cybersecurity trends in 2025'
 - title: Cross-Border Digital Regulation Collaboration Report
   outlet: International Network of Digital Regulation Cooperation
-  url: https://www.lexology.com/library/detail.aspx?g=85d61d18-04ca-478c-a07b-906af9c16464
+  url: 'https://www.lexology.com/library/detail.aspx?g=85d61d18-04ca-478c-a07b-906af9c16464'
   date_accessed: '2025-10-07'
   description: Highlights emerging cross-network digital collaboration platforms and regulatory technologies
+  tier: 2
 - title: Cybersecurity 2025 Legislation Overview
   outlet: National Conference of State Legislatures
-  url: https://www.ncsl.org/technology-and-communication/cybersecurity-2025-legislation
+  url: 'https://www.ncsl.org/technology-and-communication/cybersecurity-2025-legislation'
   date_accessed: '2025-10-07'
+  tier: 2
 - title: 10 Cyber Security Trends For 2025
   outlet: SentinelOne
-  url: https://www.sentinelone.com/cybersecurity-101/cybersecurity/cyber-security-trends/
+  url: 'https://www.sentinelone.com/cybersecurity-101/cybersecurity/cyber-security-trends/'
   date_accessed: '2025-10-07'
+  tier: 2
 - title: 'Intersection of Legal Tech & Cybersecurity: Risks & Opportunities'
   outlet: Lexzur
-  url: https://www.lexzur.com/intersection-between-legal-tech-and-cybersecurity/
+  url: 'https://www.lexzur.com/intersection-between-legal-tech-and-cybersecurity/'
   date_accessed: '2025-10-07'
+  tier: 2
 status: confirmed
 ---
-
 Legal technology networks launch a secure, encrypted digital platform to facilitate rapid coordination, document sharing, and strategic planning among resistance lawyers nationwide. Leveraging AI-powered cybersecurity tools and emerging legal technology trends, the platform enables cross-functional collaboration and secure communication in an increasingly complex digital landscape.

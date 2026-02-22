@@ -21,6 +21,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Council_of_Conservative_Citizens
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
   tier: 3
 - title: White Citizens' Council and the Council of Conservative Citizens
@@ -80,16 +81,19 @@ sources:
   outlet: London School of Economics
   date: '2014-08-12'
   verified: true
+  tier: 1
 - title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: Trickle-down economics
   url: https://en.wikipedia.org/wiki/Trickle-down_economics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - key_facts_confirmed:
   - Maxwell sold PROMIS to Chinese Military Intelligence for $9 million in 1985
   - Worked with Israeli Mossad operative Rafi Eitan
@@ -98,6 +102,7 @@ sources:
   title: Robert Maxwell, Promisgate, and the advent of the Israeli cybersecurity industry
   url: https://www.exposetheenemy.com/robert-maxwell-promisgate-and-the-advent-of-the-israeli-cybersecurity-industry
   verified: true
+  tier: 2
 - key_facts_confirmed:
   - Maxwell sold over $500 million in PROMIS software to multiple countries
   - Countries included UK, Australia, South Korea, Canada, Soviet KGB
@@ -106,6 +111,7 @@ sources:
   title: 'Dirtier than Watergate: The PROMIS Software Scandal'
   url: https://www.newstatesman.com/politics/2011/04/promis-government-inslaw
   verified: true
+  tier: 2
 - key_facts_confirmed:
   - PROMIS software had NSA-enabled back doors for covert electronic surveillance
   - Sold to governments including Iraq, Libya, Korea, UK, Australia, Canada
@@ -114,6 +120,7 @@ sources:
   title: 'The Inslaw Case: Dirtier than Watergate'
   url: https://www.rjgallagher.co.uk/2011/04/inslaw-case-dirtier-than-watergate.html
   verified: true
+  tier: 2
 - title: 'Renegades of Junk: The Rise and Fall of the Drexel Empire'
   url: https://www.bloomberg.com/graphics/2015-drexel-burnham-oral-history/
   outlet: Bloomberg
@@ -143,6 +150,7 @@ sources:
   - CIA was aware of PROMIS software as early as 1981
   - Evidence of early intelligence community interest in software
   - Confirms potential for technological espionage
+  tier: 2
 - title: 'The Inslaw Affair: House Judiciary Committee Investigation'
   url: https://www.archives.gov/files/research/kavanaugh/releases/docid-70105136.pdf
   outlet: U.S. House Judiciary Committee
@@ -152,40 +160,50 @@ sources:
   - Government officials permitted PROMIS software distribution
   - Software used for intelligence and foreign policy objectives
   - Detailed investigation of software misappropriation
+  tier: 1
 - outlet: The Washington Post
   title: Phillips, Icahn Settle Their Corporate Takeover Battle
   url: https://www.washingtonpost.com/archive/business/1985/03/05/phillips-icahn-settle/7bc631ac-ab1d-4646-8a25-570333be3c33/
   access_date: '2025-10-06'
   importance_score: 9
+  tier: 1
 - outlet: Chicago Tribune
   title: Phillips Counterattacks to Repulse Takeover
   url: https://www.chicagotribune.com/1985/02/08/phillips-counterattacks-to-repulse-takeover/
   access_date: '2025-10-06'
   importance_score: 8
+  tier: 2
 - outlet: Princeton Alumni Weekly
   title: 'Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn
     ''57'
   url: https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57
   access_date: '2025-10-06'
   importance_score: 7
+  tier: 1
 - title: en.wikipedia.org
   url: https://en.wikipedia.org/wiki/Rupert_Murdoch
+  tier: 2
 - title: pewresearch.org
   url: https://www.pewresearch.org/journalism/2007/08/01/publisher-murdochs-u-s-track-record/
+  tier: 2
 - title: cnn.com
   url: https://www.cnn.com/interactive/2011/07/world/interactive.rupert.murdoch/index.html
+  tier: 1
 - outlet: Connie Bruck, The Predators' Ball
   title: The Inside Story of Drexel Burnham and the Rise of the Junk Bond Raiders
   url: https://www.penguinrandomhouse.com/books/298264/the-predators-ball-by-connie-bruck/
   type: book
+  tier: 2
 - outlet: Encyclopedia.com
   title: Ronald Perelman Business Profile
   url: https://www.encyclopedia.com/education/economics-magazines/perelman-ronald-owen
   type: reference
+  tier: 2
 - outlet: FundingUniverse
   title: History of MacAndrews & Forbes Holdings Inc.
   url: https://www.fundinguniverse.com/company-histories/macandrews-forbes-holdings-inc-history/
   type: historical source
+  tier: 2
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

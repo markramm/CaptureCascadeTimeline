@@ -21,14 +21,17 @@ sources:
   url: https://www.washingtonpost.com/politics/pences-doonbeg-detour-cost-nearly-600000-in-limousines-and-thats-just-the-start/2019/09/25/d346e4f8-dd8f-11e9-b199-f638bf2c340f_story.html
   outlet: The Washington Post
   date: '2019-09-25'
+  tier: 1
 - title: Mike Pence's stay at Trump's Doonbeg resort in Ireland cost taxpayers nearly $600K
   url: https://www.usatoday.com/story/news/politics/2019/09/24/mike-pence-stay-trump-doonbeg-ireland-cost-taxpayers/2431922001/
   outlet: USA Today
   date: '2019-09-24'
+  tier: 2
 - title: Pence's controversial Ireland trip cost taxpayers nearly $600,000 in limo bills alone
   url: https://www.nbcnews.com/politics/white-house/pence-s-controversial-ireland-trip-cost-taxpayers-nearly-600-000-n1058711
   outlet: NBC News
   date: '2019-09-25'
+  tier: 1
 notes: Pence claimed Trump suggested the property. The 181-mile detour from Dublin meetings demonstrated prioritizing Trump's financial benefit over government efficiency and taxpayer interests.
 capture_lanes:
 - Intelligence Penetration

@@ -17,18 +17,22 @@ sources:
   url: https://www.politifact.com/factchecks/2016/aug/28/reince-priebus/did-hillary-clinton-call-african-american-youth-su/
   outlet: PolitiFact
   date: '2016-08-28'
+  tier: 1
 - title: Hillary Clinton Still Haunted by Discredited Rhetoric on Superpredators
   url: https://theintercept.com/2016/02/25/activists-want-hillary-clinton-apologize-hyping-myth-superpredators-1996/
   outlet: The Intercept
   date: '2016-02-25'
+  tier: 1
 - title: Clinton regrets using term 'superpredator' in 1996 crime speech
   url: https://thehill.com/blogs/blog-briefing-room/news/270811-clinton-i-shouldnt-have-used-the-superpredator-remark/
   outlet: The Hill
   date: '2016-02-25'
+  tier: 2
 - title: Hillary Clinton on "superpredators" remark - I shouldn't have used those words
   url: https://www.cbsnews.com/news/hillary-clinton-on-superpredators-remark-i-shouldnt-have-used-those-words/
   outlet: CBS News
   date: '2016-02-25'
+  tier: 1
 id: 1996-01-28--hillary-clinton-super-predators-speech-keene-state
 capture_lanes:
 - Civil Rights Suppression

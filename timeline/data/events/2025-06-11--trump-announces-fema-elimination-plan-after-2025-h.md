@@ -23,18 +23,22 @@ sources:
   url: https://www.cnn.com/2025/06/11/politics/fema-hurricane-season-phase-out-trump
   outlet: CNN
   date: '2025-06-11'
+  tier: 1
 - title: The Trump administration says it wants to eliminate FEMA. Here's what we know
   url: https://www.npr.org/2025/06/26/nx-s1-5430469/faq-fema-elimination
   outlet: NPR
   date: '2025-06-26'
+  tier: 1
 - title: FEMA set for elimination, Noem says, amid bipartisan House reform proposal
   url: https://www.govexec.com/management/2025/03/fema-set-elimination-noem-says-amid-bipartisan-house-reform-proposal/404008/
   outlet: Government Executive
   date: '2025-03-26'
+  tier: 2
 - title: Trump Moves to Abolish FEMA, Shift Disaster Response to States
   url: https://www.governing.com/resilience/trump-moves-to-abolish-fema-shift-disaster-response-to-states
   outlet: Governing
   date: '2025-03-21'
+  tier: 2
 notes: Elimination announced despite active hurricane season and disaster responses. 10% of staff left since January 2025. States expected to work with private partners as "performance enhancing drugs of emergency response." DHS officials aim to eliminate FEMA's disaster recovery role by October 1, 2025.
 status: confirmed
 ---

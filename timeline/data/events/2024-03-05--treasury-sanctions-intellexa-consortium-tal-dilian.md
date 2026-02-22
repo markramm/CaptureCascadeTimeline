@@ -21,18 +21,22 @@ sources:
   url: https://home.treasury.gov/news/press-releases/jy2155
   outlet: US Treasury Department
   date: '2024-03-05'
+  tier: 1
 - title: U.S. sanctions maker of Predator spyware
   url: https://cyberscoop.com/predator-intellexa-cytrox-sanctions/
   outlet: CyberScoop
   date: '2024-03-05'
+  tier: 2
 - title: US sanctions founder of spyware maker Intellexa for targeting Americans
   url: https://techcrunch.com/2024/03/05/us-sanctions-founder-of-spyware-maker-intellexa-for-targeting-americans/
   outlet: TechCrunch
   date: '2024-03-05'
+  tier: 2
 - title: Treasury sanctions Predator spyware operator in unprecedented move
   url: https://www.axios.com/2024/03/05/treasury-spyware-sanctions-intellexa
   outlet: Axios
   date: '2024-03-05'
+  tier: 2
 importance: 9
 status: confirmed
 capture_lanes:

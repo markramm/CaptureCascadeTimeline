@@ -12,15 +12,18 @@ sources:
 - title: '6 January 1873: Crédit Mobilier of America scandal investigated'
   outlet: MoneyWeek
   url: https://moneyweek.com/371410/6-january-1873-credit-mobilier-of-america-scandal-investigated
+  tier: 2
   year: 2024
 - title: Crédit Mobilier scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Cr%C3%A9dit_Mobilier_scandal
   year: 2024
+  tier: 2
 - title: Credit Mobilier Scandal
   outlet: Britannica Money
   url: https://www.britannica.com/money/Credit-Mobilier-Scandal
   year: 2024
+  tier: 1
 tags:
 - systematic-corruption
 - institutional-capture

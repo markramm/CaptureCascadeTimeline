@@ -20,14 +20,17 @@ sources:
   url: https://www.nbcnews.com/politics/politics-news/french-official-disputes-kristi-noem-book-passage-emmanuel-macron-rcna151742
   outlet: NBC News
   date: '2024-05-13'
+  tier: 1
 - title: French government questions Noem's account of a canceled meeting with Macron
   url: https://thehill.com/blogs/blog-briefing-room/4659620-french-government-questions-noems-account-of-a-cancelled-meeting-with-macron-report/
   outlet: The Hill
   date: '2024-05-13'
+  tier: 2
 - title: Another World Leader Claim From Kristi Noem's Book Has Been Disputed
   url: https://www.yahoo.com/news/another-world-leader-claim-kristi-152657139.html
   outlet: Yahoo News
   date: '2024-05-13'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

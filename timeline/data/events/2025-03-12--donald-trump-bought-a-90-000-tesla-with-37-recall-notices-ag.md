@@ -20,14 +20,17 @@ sources:
   url: https://www.npr.org/2025/03/11/nx-s1-5325306/trump-elon-musk-tesla
   outlet: NPR
   date: '2025-03-11'
+  tier: 1
 - title: Trump's White House Tesla Showcase Raises Ethics Concerns
   url: https://abcnews.go.com/Politics/trumps-white-house-tesla-showcase-raises-ethics-concerns/story?id=119719123
   outlet: ABC News
   date: '2025-03-11'
+  tier: 1
 - title: Trump turns the White House lawn into a Tesla showroom
   url: https://www.nbcnews.com/tech/elon-musk/trump-musk-tesla-white-house-showroom-buys-car-rcna195905
   outlet: NBC News
   date: '2025-03-11'
+  tier: 1
 connections:
 - Trump-Musk Relationship
 - Corporate Influence on Presidential Actions

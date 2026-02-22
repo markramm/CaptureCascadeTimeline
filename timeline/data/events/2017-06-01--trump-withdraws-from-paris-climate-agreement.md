@@ -21,14 +21,17 @@ sources:
   url: https://www.washingtonpost.com/news/post-politics/wp/2017/06/01/trump-to-announce-u-s-will-exit-paris-climate-deal/
   outlet: The Washington Post
   date: '2017-06-01'
+  tier: 1
 - title: Trump Abandons Paris Climate Agreement
   url: https://www.nytimes.com/2017/06/01/climate/trump-paris-climate-agreement.html
   outlet: The New York Times
   date: '2017-06-01'
+  tier: 1
 - title: U.S. formally exits Paris climate agreement
   url: https://www.npr.org/2020/11/04/930545670/u-s-officially-leaving-paris-climate-agreement
   outlet: NPR
   date: '2020-11-04'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

@@ -22,14 +22,17 @@ sources:
   url: https://www.npr.org/2017/02/23/516916688/private-prison-stocks-soar-under-trump-administration
   outlet: NPR
   date: '2017-02-23'
+  tier: 1
 - title: Private prisons back Trump and could see big payoffs
   url: https://www.washingtonpost.com/politics/private-prisons-back-trump-and-could-see-big-payoffs-with-his-immigration-crackdown/2017/02/23/
   outlet: The Washington Post
   date: '2017-02-23'
+  tier: 1
 - title: GEO Group Runs Out of Cell Space
   url: https://www.motherjones.com/politics/2017/08/geo-group-private-prison-immigration-detention-trump/
   outlet: Mother Jones
   date: '2017-08-01'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

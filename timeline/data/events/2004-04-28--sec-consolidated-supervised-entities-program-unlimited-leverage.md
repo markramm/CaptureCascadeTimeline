@@ -24,18 +24,22 @@ sources:
   url: https://www.sec.gov/rules/final/34-49830.htm
   outlet: SEC
   date: '2004-06-08'
+  tier: 1
 - title: Flawed SEC Program Failed to Rein in Investment Banks
   url: https://www.propublica.org/article/flawed-sec-program-failed-to-rein-in-investment-banks-101
   outlet: ProPublica
   date: '2008-10-01'
+  tier: 1
 - title: 'Press Release: Chairman Cox Announces End of Consolidated Supervised Entities Program'
   url: https://www.sec.gov/news/press/2008/2008-230.htm
   outlet: SEC
   date: '2008-09-26'
+  tier: 1
 - title: 'The CSE Program: Financial Crisis Case Study'
   url: https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=5386&context=ypfs-documents
   outlet: Yale University
   date: '2010'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

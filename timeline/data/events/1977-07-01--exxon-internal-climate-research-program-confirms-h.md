@@ -19,12 +19,15 @@ sources:
 - outlet: Scientific American
   title: Exxon Knew about Climate Change Almost 40 Years Ago
   url: https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/
+  tier: 1
 - outlet: Harvard Gazette
   title: Exxon scientists predicted global warming with 'shocking skill and accuracy'
   url: https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/
+  tier: 1
 - outlet: Science Journal
   title: Assessing ExxonMobil's global warming projections
   url: https://www.science.org/doi/10.1126/science.abk0063
+  tier: 2
 status: confirmed
 id: 1977-07-01--exxon-internal-climate-research-program-confirms-h
 priority_id: claude-priority-climate-denial-fossil-fuel-network

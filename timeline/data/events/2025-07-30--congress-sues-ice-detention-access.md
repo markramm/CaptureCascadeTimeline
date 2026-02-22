@@ -33,18 +33,22 @@ sources:
   url: https://www.cnn.com/2025/07/30/politics/democrats-sue-ice-detention-center-access
   outlet: CNN Politics
   date: '2025-07-30'
+  tier: 2
 - title: House Democrats sue Trump administration over DHS facilities access
   url: https://www.washingtonpost.com/politics/2025/07/31/democrats-sue-trump-access-immigration-detention/
   outlet: The Washington Post
   date: '2025-07-31'
+  tier: 1
 - title: House Democrats sue ICE for blocking access to detention centers
   url: https://www.axios.com/2025/07/30/ice-detention-facilities-lawsuit-democrats
   outlet: Axios
   date: '2025-07-30'
+  tier: 2
 - title: Members of Congress Sue Trump-Vance Administration for Blocking Lawful Oversight of Federal Immigration Detention Facilities
   url: https://democracyforward.org/updates/moc-ice-lawsuit/
   outlet: Democracy Forward
   date: '2025-07-30'
+  tier: 2
 notes: Assistant House Minority Leader Joe Neguse stated "Blocking Members of Congress from oversight visits to ICE facilities that house or otherwise detain immigrants clearly violates federal law — and the Trump administration knows it." The lawsuit argues the new DHS policy violates longstanding federal law and "harmed each Plaintiff's right as an individual member of Congress to conduct oversight." This represents an unprecedented attempt to block congressional oversight of detention conditions.
 status: confirmed
 ---

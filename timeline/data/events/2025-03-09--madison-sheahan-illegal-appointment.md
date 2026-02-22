@@ -22,14 +22,17 @@ sources:
   url: https://www.hstoday.us/subject-matter-areas/border-security/secretary-noem-taps-former-aide-madison-sheahan-as-deputy-director-of-ice/
   outlet: HSToday
   date: '2025-03-09'
+  tier: 2
 - title: ICE's new deputy director helped oversee New Orleans homeless sweeps
   url: https://lailluminator.com/2025/04/17/ice-homeless/
   outlet: Louisiana Illuminator
   date: '2025-04-17'
+  tier: 2
 - title: LDWF Secretary Madison Sheahan to take on new role at ICE
   url: https://www.wafb.com/2025/03/09/ldwf-secretary-madison-sheahan-take-new-role-ice/
   outlet: WAFB
   date: '2025-03-09'
+  tier: 2
 notes: Sheahan served as Political Director for Noem in South Dakota from 2021-2024 and Executive Director of the South Dakota Republican Party from 2023-2024. She was sworn in March 26, 2025. Advocates expressed concern about her promotion given her role in homeless sweeps.
 status: confirmed
 ---

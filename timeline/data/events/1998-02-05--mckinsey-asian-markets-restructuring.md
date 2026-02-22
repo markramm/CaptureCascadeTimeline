@@ -14,12 +14,15 @@ sources:
 - outlet: IMF - Finance & Development
   title: 'The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
+  tier: 2
 - outlet: IMF Occasional Paper No. 188
   title: Financial Sector Crisis and Restructuring Lessons from Asia
   url: https://www.imf.org/external/pubs/ft/op/opfinsec/op188.pdf
+  tier: 2
 - outlet: McKinsey Global Institute
   title: Productivity-led Growth for Korea
   url: https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/productivity-led-growth-for-korea
+  tier: 2
 status: confirmed
 tags:
 - asian-financial-crisis

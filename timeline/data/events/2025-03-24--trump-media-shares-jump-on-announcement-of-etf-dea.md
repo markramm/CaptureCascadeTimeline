@@ -19,22 +19,27 @@ sources:
   url: https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html
   outlet: CNBC
   date: '2025-03-24'
+  tier: 2
 - title: Trump Media, Crypto.com, and Yorkville America Digital Finalize Agreement for ETF Launch
   url: https://www.globenewswire.com/news-release/2025/04/22/3065411/0/en/Trump-Media-Crypto-com-and-Yorkville-America-Digital-Finalize-Agreement-for-ETF-Launch.html
   outlet: GlobeNewswire
   date: '2025-04-22'
+  tier: 3
 - title: Trump Media (DJT) Taps Crypto.com for Made-in-America ETFs
   url: https://www.bloomberg.com/news/articles/2025-03-24/trump-media-taps-singapore-s-crypto-com-for-made-in-america-etfs
   outlet: Bloomberg
   date: '2025-03-24'
+  tier: 1
 - title: Trump Media's fintech arm will launch a string of Made in America ETFs with Crypto.com
   url: https://fortune.com/article/trump-media-etf-crypto-truth-social/
   outlet: Fortune
   date: '2025-03-24'
+  tier: 2
 - title: Trump Media partners with Crypto.com on ETF offerings
   url: https://www.foxbusiness.com/markets/trump-media-crypto-com-partner-etf-offerings
   outlet: Fox Business
   date: '2025-03-24'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

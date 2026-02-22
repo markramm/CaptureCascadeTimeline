@@ -10,15 +10,19 @@ sources:
 - title: Opus Dei in American Politics
   url: https://www.motherjones.com/politics/2005/04/opus-dei-in-the-white-house/
   outlet: Mother Jones
+  tier: 1
 - title: Conservative Catholics in Reagan Era
   url: https://www.americamagazine.org/faith/2019/05/13/how-conservative-catholics-learned-play-politics
   outlet: America Magazine
+  tier: 2
 - title: 'Behind the Scenes: Christian Nationalism and Opus Dei in the 1980s'
   url: https://religionnews.com/2024/10/07/a-new-book-chronicles-the-behind-the-scenes-christian-nationalism-of-opus-dei
   outlet: Religion News Service
+  tier: 2
 - title: How Opus Dei Manipulated Its Way into Power
   url: https://uscatholic.org/articles/202411/how-opus-dei-manipulated-its-way-into-power/
   outlet: U.S. Catholic
+  tier: 2
 tags:
 - reagan-administration
 - opus-dei

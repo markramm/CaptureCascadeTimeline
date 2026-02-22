@@ -19,12 +19,15 @@ sources:
 - outlet: IMF Finance & Development
   title: 'The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
+  tier: 2
 - outlet: International Monetary Fund
   title: Recovery from the Asian Crisis and Policy Responses
   url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
+  tier: 1
 - outlet: Federal Reserve History
   title: Asian Financial Crisis Overview
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+  tier: 1
 status: confirmed
 capture_lanes:
 - Financial Capture

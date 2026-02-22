@@ -22,18 +22,22 @@ sources:
   outlet: Rep. Mike Carey Official Website
   url: https://carey.house.gov/2025/04/10/carey-bill-to-eliminate-burdensome-irs-defi-crypto-broker-rule-signed-into-law-by-president-trump/
   date: '2025-04-10'
+  tier: 1
 - title: President Trump Signs Ways & Means Resolution Overturning Biden Administration's Burdensome IRS DeFi Broker Rule
   outlet: House Ways and Means Committee
   url: https://waysandmeans.house.gov/2025/04/10/president-trump-signs-ways-means-resolution-overturning-biden-administrations-burdensome-irs-defi-broker-rule/
   date: '2025-04-10'
+  tier: 1
 - title: Trump Signs Bill Blocking IRS Crypto Tax Rule Biden Pushed
   outlet: Bloomberg
   url: https://www.bloomberg.com/news/articles/2025-04-11/trump-signs-bill-blocking-irs-crypto-tax-rule-biden-pushed
   date: '2025-04-11'
+  tier: 1
 - title: Trump Signs Resolution Erasing IRS Crypto Rule Targeting DeFi
   outlet: CoinDesk
   url: https://www.coindesk.com/policy/2025/04/07/president-trump-signs-resolution-erasing-irs-crypto-rule-targeting-defi
   date: '2025-04-10'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

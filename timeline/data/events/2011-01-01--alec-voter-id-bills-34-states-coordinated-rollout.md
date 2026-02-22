@@ -23,14 +23,17 @@ sources:
   url: https://www.mprnews.org/story/2012/03/04/voter-id-alec
   outlet: MPR News
   date: 2012-03-04
+  tier: 1
 - title: Flurry of Voter ID laws tied to conservative group ALEC
   url: https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652
   outlet: NBC News
   date: 2012-08-10
+  tier: 1
 - title: Voting Rights in 2011 - A Legislative Round-Up
   url: https://www.brennancenter.org/our-work/research-reports/voting-rights-2011-legislative-round
   outlet: Brennan Center for Justice
   date: 2011-12-31
+  tier: 1
 capture_lanes:
 - Democratic Erosion
 - Electoral Manipulation

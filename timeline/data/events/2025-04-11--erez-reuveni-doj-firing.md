@@ -23,14 +23,17 @@ sources:
   url: https://www.npr.org/2025/06/24/g-s1-74316/justice-department-immigration-whistleblower
   outlet: NPR
   date: '2025-06-24'
+  tier: 1
 - title: Justice Department fires immigration lawyer who argued case of mistakenly deported man
   url: https://www.cnn.com/2025/04/15/politics/doj-fires-immigration-lawyer-who-argued-abrego-garcia-case-source-says
   outlet: CNN
   date: '2025-04-15'
+  tier: 1
 - title: Justice Dept. whistleblower details senior officials' efforts to stonewall judges, ignore decisions
   url: https://www.cbsnews.com/news/justice-dept-whistleblower-erez-reuveni-emil-bove/
   outlet: CBS News
   date: '2025-06-25'
+  tier: 1
 notes: Reuveni filed appeals with Merit Systems Protection Board citing Whistleblower Protection Act violations. AG Bondi called him a "disgruntled employee" and "leaker," not a whistleblower. Sen. Durbin said allegations show pattern of undermining rule of law.
 status: confirmed
 ---

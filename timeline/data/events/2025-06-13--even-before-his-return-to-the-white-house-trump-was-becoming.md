@@ -21,18 +21,22 @@ sources:
   url: https://fortune.com/crypto/2025/06/15/trump-crypto-earnings-world-liberty-financial-meme-coin-nft/
   outlet: Fortune
   date: '2025-06-15'
+  tier: 2
 - title: Trump's financial disclosures reveal tens of millions in income from guitars, Bibles and watches with his name on them
   url: https://www.nbcnews.com/business/business-news/trumps-financial-disclosures-reveal-millions-income-guitars-bibles-wat-rcna212981
   outlet: NBC News
   date: '2025-06-15'
+  tier: 1
 - title: Trump's 2024 income tops $600 mn, driven by crypto, resorts, brand deals
   url: https://www.business-standard.com/world-news/donald-trump-income-2024-600-million-crypto-golf-licensing-flourish-125061500192_1.html
   outlet: Business Standard
   date: '2025-06-15'
+  tier: 2
 - title: Even before his return to the White House, Trump was becoming a crypto czar
   url: https://www.nytimes.com/2025/06/13/us/politics/trump-disclosure-cryptocurrency.html
   outlet: The New York Times
   date: '2025-06-13'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

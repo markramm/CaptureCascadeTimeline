@@ -19,18 +19,22 @@ sources:
   url: https://www.oversight.gov/about/inspectors-general-vacancies
   outlet: Oversight.gov
   date: '2023-12-31'
+  tier: 1
 - title: 15 federal watchdog roles remain vacant, hindering government function
   url: https://thefulcrum.us/corruption/inspector-general-vacancies
   outlet: The Fulcrum
   date: '2023-06-15'
+  tier: 2
 - title: 'President Biden: Remove Inspector General Cuffari Before You Leave Office'
   url: https://www.pogo.org/policy-letters/president-biden-remove-inspector-general-cuffari-before-you-leave-office
   outlet: Project on Government Oversight
   date: '2024-11-14'
+  tier: 1
 - title: Despite critical report, Biden hasn't taken disciplinary action against DHS watchdog
   url: https://www.govexec.com/oversight/2024/12/despite-critical-report-biden-hasnt-taken-disciplinary-action-against-dhs-watchdog/401411/
   outlet: Government Executive
   date: '2024-12-04'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

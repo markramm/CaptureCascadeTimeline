@@ -22,17 +22,20 @@ sources:
   url: https://www.pbs.org/newshour/nation/media-jan-june03-report_06-02
   outlet: PBS NewsHour
   date: '2003-06-02'
+  tier: 1
   date_accessed: '2025-10-17'
 - title: 'NPR: FCC Holds Hearing on Media Ownership Rules'
   url: https://www.npr.org/transcripts/9910483
   outlet: NPR
   date: '2003-05-16'
   date_accessed: '2025-10-17'
+  tier: 1
 - title: 'Congressional Record: FCC Media Ownership Proceedings'
   url: https://www.govinfo.gov/content/pkg/CRECB-2003-pt16/html/CRECB-2003-pt16-Pg21974.htm
   outlet: U.S. Government Printing Office
   date: '2003-06-02'
   date_accessed: '2025-10-17'
+  tier: 1
 id: 2003-06-02--fcc-media-ownership-deregulation-attempt-michael-powell
 validation_notes: Enhanced with NPR and government sources. Cross-referenced PBS source with additional tier-1 and primary sources for comprehensive verification.
 capture_lanes:

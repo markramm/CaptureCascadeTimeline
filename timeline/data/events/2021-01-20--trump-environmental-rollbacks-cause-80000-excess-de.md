@@ -22,14 +22,17 @@ sources:
   url: https://www.ehn.org/trump-environmental-rollbacks-deaths-2646687565.html
   outlet: Environmental Health News
   date: '2020-06-18'
+  tier: 2
 - title: The Trump Administration Rolled Back 100+ Environmental Rules
   url: https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks-list.html
   outlet: The New York Times
   date: '2021-01-20'
+  tier: 1
 - title: Harvard study on health impacts of rollbacks
   url: https://www.hsph.harvard.edu/c-change/news/economic-health-co-benefits/
   outlet: Harvard T.H. Chan School
   date: '2020-05-01'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

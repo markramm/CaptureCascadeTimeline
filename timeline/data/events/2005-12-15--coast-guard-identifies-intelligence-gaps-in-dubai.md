@@ -22,17 +22,20 @@ sources:
   url: https://www.npr.org/templates/story/story.php?storyId=5236702
   outlet: NPR
   date: '2006-02-27'
+  tier: 1
   type: news_article
 - title: National Security Implications of Dubai Ports World Deal
   url: https://www.govinfo.gov/content/pkg/CHRG-109hhrg32987/html/CHRG-109hhrg32987.htm
   outlet: U.S. Government Publishing Office
   date: '2006-02-15'
   type: government_document
+  tier: 1
 - title: 'Wikipedia: Dubai Ports World Controversy'
   url: https://en.wikipedia.org/wiki/Dubai_Ports_World_controversy
   outlet: Wikipedia
   date_accessed: '2025-10-17'
   type: encyclopedia
+  tier: 2
 status: confirmed
 id: 2005-12-15--coast-guard-identifies-intelligence-gaps-in-dubai
 priority_id: RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover

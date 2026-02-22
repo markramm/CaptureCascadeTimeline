@@ -12,7 +12,7 @@ actors:
 - Derrick Van Orden
 - Brandon Gill
 importance: 7
-location: Washington, D.C.
+location: 'Washington, D.C.'
 tags:
 - kleptocracy
 - judicial-capture
@@ -22,19 +22,23 @@ sources:
 - outlet: Truthout
   title: Elon Musk Donates to GOP Lawmakers After They Back His Calls to Impeach Judges
   date: '2025-04-16'
-  url: https://truthout.org/articles/elon-musk-donates-to-gop-lawmakers-after-they-back-his-calls-to-impeach-judges/
+  url: 'https://truthout.org/articles/elon-musk-donates-to-gop-lawmakers-after-they-back-his-calls-to-impeach-judges/'
+  tier: 2
 - outlet: CBS News
   title: Elon Musk spends $277 million to back Trump and Republican candidates
   date: '2025-04-16'
-  url: https://www.cbsnews.com/news/elon-musk-277-million-trump-republican-candidates-donations/
+  url: 'https://www.cbsnews.com/news/elon-musk-277-million-trump-republican-candidates-donations/'
+  tier: 1
 - outlet: The Washington Post
   title: Elon Musk focuses donations on GOP lawmakers targeting judges
   date: '2025-04-16'
-  url: https://www.washingtonpost.com/technology/2025/04/16/elon-musk-campaign-donations-judges-impeach/
+  url: 'https://www.washingtonpost.com/technology/2025/04/16/elon-musk-campaign-donations-judges-impeach/'
+  tier: 1
 - outlet: Political Wire
   title: Musk Donates to Lawmakers Who Back Impeaching Judges
   date: '2025-04-16'
-  url: https://politicalwire.com/2025/03/19/musk-donates-to-lawmakers-who-back-impeaching-judges/
+  url: 'https://politicalwire.com/2025/03/19/musk-donates-to-lawmakers-who-back-impeaching-judges/'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture
@@ -43,5 +47,4 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 ---
-
 Elon Musk donated maximum campaign contributions of $6,600 to at least seven Republican lawmakers who have publicly called for impeaching or limiting the power of federal judges blocking his government efficiency initiatives. Recipients included Representatives Eli Crane, Lauren Boebert, Andy Ogles, Andrew Clyde, Derrick Van Orden, Brandon Gill, and Senator Chuck Grassley.

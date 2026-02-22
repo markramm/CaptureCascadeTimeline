@@ -27,18 +27,22 @@ sources:
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
   outlet: Senate Finance Committee
   date: '2025-07-23'
+  tier: 1
 - title: 'In Conversation: Sen. Ron Wyden on Following the Epstein Money'
   url: https://www.oregonbusiness.com/article/politics/item/20145-in-conversation-sen-ron-wyden-on-following-the-epstein-money
   outlet: Oregon Business
   date: '2025-07-25'
+  tier: 2
 - title: Treasury's Undisclosed Epstein File Reveals Massive International Financial Network
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: Senate Finance Committee
   date: '2025-07-17'
+  tier: 1
 - title: A Democratic Senator was already investigating Jeffrey Epstein's finances
   url: https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances
   outlet: NPR
   date: '2025-07-25'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

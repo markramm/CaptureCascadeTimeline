@@ -12,19 +12,23 @@ sources:
 - title: Black Panther Party
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Black_Panther_Party
+  tier: 2
   year: 2024
 - title: 'The Black Panther Party: Challenging Police and Promoting Social Change'
   outlet: National Museum of African American History and Culture
   url: https://nmaahc.si.edu/explore/stories/black-panther-party-challenging-police-and-promoting-social-change
   year: 2024
+  tier: 1
 - title: The Black Panther Party
   outlet: National Archives
   url: https://www.archives.gov/research/african-americans/black-power/black-panthers
   year: 2024
+  tier: 1
 - title: Black Panther Party
   outlet: Britannica
   url: https://www.britannica.com/topic/Black-Panther-Party
   year: 2024
+  tier: 2
 tags:
 - surveillance
 - police-state

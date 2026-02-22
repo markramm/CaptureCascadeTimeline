@@ -22,14 +22,17 @@ sources:
   url: https://www.axios.com/2025/03/16/trump-white-house-defy-judge-deport-venezuelans
   outlet: Axios
   date: '2025-03-16'
+  tier: 2
 - title: What happens if a president and the federal government fail to follow a judge's orders?
   url: https://www.nbcnews.com/politics/politics-news/president-defies-judges-orders-contempt-rcna201455
   outlet: NBC News
   date: '2025-08-01'
+  tier: 1
 - title: Inside Team Trump's Attacks on Judges and Defiance of Court Orders
   url: https://www.rollingstone.com/politics/politics-features/inside-team-trump-attack-judges-defiance-court-orders-1235298463/
   outlet: Rolling Stone
   date: '2025-08-01'
+  tier: 2
 notes: First instance where a judge explicitly found probable cause of contempt for the Trump administration's deliberate defiance of a court order. The administration attempted to remove Judge Boasberg from the case after defying his order.
 status: confirmed
 ---

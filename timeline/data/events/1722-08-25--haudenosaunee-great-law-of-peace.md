@@ -9,6 +9,7 @@ actors:
 - Tuscarora Nation
 sources:
 - title: The United States Constitution and the Iroquois League
+  tier: 2
   author: Elisabeth Tooker
   outlet: Ethnohistory
   year: 1988
@@ -18,12 +19,15 @@ sources:
   year: 1991
   url: http://www.books.aisc.ucla.edu/toc/exemplar.html
   outlet: UCLA American Indian Studies Center
+  tier: 1
 - title: The Native American Government That Helped Inspire the US Constitution
   outlet: History.com
   url: https://www.history.com/articles/iroquois-confederacy-influence-us-constitution
+  tier: 2
 - title: Haudenosaunee Principles Guiding American Democracy
   outlet: Substack
   url: https://instituteofnaturallaw.substack.com/p/haudenosaunee-principles-guiding
+  tier: 2
 tags:
 - traditional-governance
 - consensus-democracy

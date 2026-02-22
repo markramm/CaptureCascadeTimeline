@@ -12,12 +12,16 @@ actors:
 sources:
 - title: SEC Charges Digital World SPAC for Material Misrepresentations to Investors
   url: https://www.sec.gov/newsroom/press-releases/2023-135
+  tier: 1
 - title: The wild probe into investors of DWAC, Trump Media's proposed merger ally
   url: https://www.washingtonpost.com/technology/2024/02/03/trump-social-dwac-investigation/
+  tier: 1
 - title: SEC Charges DWAC SPAC with Fraud for Misleading Investors
   url: https://www.cbsnews.com/news/sec-charges-digital-world-acquistion-corp-spac-donald-trump-trump-media-technology-group/
+  tier: 1
 - title: Investors Face Uncertainty as Trump Media SPAC Merger Investigated
   url: https://www.cnbc.com/2021/12/06/trump-spac-investigated-by-federal-regulators-including-sec.html
+  tier: 2
 status: confirmed
 tags:
 - spac-fraud

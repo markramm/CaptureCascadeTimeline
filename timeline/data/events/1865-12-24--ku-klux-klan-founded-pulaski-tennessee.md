@@ -16,19 +16,23 @@ sources:
 - title: Ku Klux Klan
   outlet: Tennessee Encyclopedia
   url: https://tennesseeencyclopedia.net/entries/ku-klux-klan/
+  tier: 2
   year: 2024
 - title: 'On Dec 24, 1865: Confederate Veterans Establish the Ku Klux Klan'
   outlet: Equal Justice Initiative
   url: https://calendar.eji.org/racial-injustice/dec/24
   year: 2024
+  tier: 2
 - title: 'Dec. 24, 1865: Ku Klux Klan Founded'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/ku-klux-klan-founded/
   year: 2024
+  tier: 2
 - title: Ku Klux Klan (KKK)
   outlet: National Park Service
   url: https://www.nps.gov/articles/kukluxklan.htm
   year: 2024
+  tier: 1
 tags:
 - racial-terrorism
 - reconstruction-sabotage

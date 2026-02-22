@@ -28,17 +28,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Mont_Pelerin_Society
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: William Volker Fund
   url: https://www.philanthropyroundtable.org/almanac/volker-bolsters-economic-liberty/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: The Mont Pelerin Society's 50th Anniversary
   url: https://fee.org/articles/the-mont-pelerin-societys-50th-anniversary/
   outlet: Foundation for Economic Education
   date: '1997-01-01'
   verified: true
+  tier: 2
 notes: Funding came from William Volker Fund, Bank of England, Foundation for Economic Education, and Credit Suisse which paid 93 percent of total conference costs (18,062.08 Swiss francs). The Volker Fund check allowed 17 Americans to fly to Switzerland. American attendees included Milton Friedman, Henry Hazlitt, Leonard Read, George Stigler, and Ludwig von Mises who was teaching in New York.
 status: confirmed
 ---

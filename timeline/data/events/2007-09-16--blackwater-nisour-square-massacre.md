@@ -32,26 +32,32 @@ sources:
   url: https://www.washingtonpost.com/local/legal-issues/blackwater-guards-sentenced-to-lengthy-prison-terms-for-2007-massacre-of-iraqi-civilians/2015/04/13/5d850266-e1b1-11e4-b510-962fcfabc310_story.html
   outlet: The Washington Post
   date: '2015-04-13'
+  tier: 1
 - title: 'Blackwater: The Rise of the World''s Most Powerful Mercenary Army'
   url: https://www.thenation.com/article/archive/blackwater-rise-worlds-most-powerful-mercenary-army/
   outlet: The Nation
   date: '2007-10-11'
+  tier: 2
 - title: Private Military Companies and Constitutional Accountability Crisis
   url: https://www.justsecurity.org/15543/private-military-companies-constitutional-accountability-crisis/
   outlet: Just Security
   date: '2014-08-27'
+  tier: 1
 - title: Four Former Blackwater Employees Found Guilty of Charges in Fatal Nisur Square Shooting
   url: https://www.justice.gov/opa/pr/four-former-blackwater-employees-found-guilty-charges-fatal-nisur-square-shooting-iraq
   outlet: U.S. Department of Justice
   date: '2014-10-22'
+  tier: 1
 - title: Trump Pardons Blackwater Guards Who Killed 14 Iraqi Civilians
   url: https://www.nytimes.com/2020/12/22/us/politics/blackwater-pardons-trump.html
   outlet: The New York Times
   date: '2020-12-22'
+  tier: 1
 - title: 'Blackwater in Baghdad: It was a horror movie'
   url: https://www.hrw.org/news/2007/10/11/blackwater-baghdad-it-was-horror-movie
   outlet: Human Rights Watch
   date: '2007-10-11'
+  tier: 1
 importance: 9
 status: confirmed
 triggered_by:

@@ -1,6 +1,6 @@
 ---
 date: '2016-04-01'
-title: JD Vance Joins Peter Thiel's Mithril Capital as Principal
+title: 'JD Vance Joins Peter Thiel''s Mithril Capital as Principal'
 importance: 7
 status: confirmed
 actors:
@@ -9,14 +9,17 @@ actors:
 - Mithril Capital
 sources:
 - outlet: CBS News
-  title: The billionaire who fueled JD Vance's rapid rise to the Trump VP spot — analysis
-  url: https://www.cbsnews.com/news/jd-vance-trump-vp-billionaire/
+  title: 'The billionaire who fueled JD Vance''s rapid rise to the Trump VP spot — analysis'
+  url: 'https://www.cbsnews.com/news/jd-vance-trump-vp-billionaire/'
+  tier: 1
 - outlet: The Conversation
   title: Libertarian tech titan Peter Thiel helped make JD Vance
-  url: https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856
+  url: 'https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856'
+  tier: 2
 - outlet: The Seattle Times
   title: How a network of tech billionaires helped JD Vance leap into power
-  url: https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/
+  url: 'https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/'
+  tier: 1
 tags:
 - succession-risk
 - jd-vance
@@ -30,5 +33,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-
 JD Vance joins Peter Thiel's venture capital firm Mithril Capital as a principal, establishing a crucial financial and ideological relationship that would later shape his political career. This strategic partnership connects Vance to Thiel's techno-libertarian philosophy and provides the foundation for future political funding and influence, setting the stage for Vance's rapid political ascent.

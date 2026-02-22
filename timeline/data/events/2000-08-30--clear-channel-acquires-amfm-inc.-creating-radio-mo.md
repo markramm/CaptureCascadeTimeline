@@ -20,12 +20,16 @@ tags:
 sources:
 - title: en.wikipedia.org
   url: https://en.wikipedia.org/wiki/IHeartMedia
+  tier: 2
 - title: reclaimdemocracy.org
   url: https://reclaimdemocracy.org/clear_channel_backlash/
+  tier: 2
 - title: justice.gov
   url: https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm
+  tier: 1
 - title: transition.fcc.gov
   url: https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html
+  tier: 1
 status: confirmed
 id: 2000-08-30--clear-channel-acquires-amfm-inc.-creating-radio-mo
 priority_id: RT-EXP-0C04C22A-clear-channel-media-consolidation

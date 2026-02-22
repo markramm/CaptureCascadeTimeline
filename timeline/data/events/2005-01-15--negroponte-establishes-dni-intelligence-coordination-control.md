@@ -19,14 +19,17 @@ sources:
   title: Director of National Intelligence History
   outlet: Office of the Director of National Intelligence
   date: '2005-04-21'
+  tier: 1
 - url: https://www.washingtonpost.com/wp-dyn/articles/A12989-2005Apr20.html
   title: Negroponte Takes Helm of Intelligence Community
   outlet: The Washington Post
   date: '2005-04-21'
+  tier: 1
 - url: https://www.nytimes.com/2005/04/22/politics/negroponte-takes-over-as-intelligence-chief.html
   title: Negroponte Takes Over as Intelligence Chief
   outlet: The New York Times
   date: '2005-04-22'
+  tier: 1
 importance: 7
 status: confirmed
 capture_lanes:

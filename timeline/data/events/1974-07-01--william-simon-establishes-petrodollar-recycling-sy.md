@@ -21,12 +21,15 @@ sources:
 - outlet: Bloomberg
   title: The Untold Story Behind Saudi Arabia's 41-Year U.S. Debt Secret
   url: https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret
+  tier: 1
 - outlet: US Department of the Treasury
   title: William E. Simon (1974 - 1977) Official Biography
   url: https://home.treasury.gov/about/history/prior-secretaries/william-e-simon-1974-1977
+  tier: 1
 - outlet: Empire Diaries
   title: Secret Origins Of The Petrodollar System
   url: https://empirediaries.com/2022/08/03/petrodollar-system/
+  tier: 2
 status: confirmed
 priority_id: RT-EXP-28753E16-trilateral-commission-1973-banking-networks
 capture_lanes:

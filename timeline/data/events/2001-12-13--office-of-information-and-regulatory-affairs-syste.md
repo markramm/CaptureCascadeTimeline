@@ -28,14 +28,17 @@ sources:
   url: https://www.everycrsreport.com/reports/RL32397.html
   outlet: Congressional Research Service
   date: '2003-01-15'
+  tier: 1
 - title: For Bush's Regulatory 'Czar,' The Equation Is Persuasion
   url: https://www.foreffectivegov.org/node/249
   outlet: Center for Effective Government
   date: '2002-05-10'
+  tier: 2
 - title: Business Groups' Influence on Federal Regulations
   url: https://www.washingtonpost.com/archive/politics/2001/12/13/business-groups-influence-federal-regulations/
   outlet: The Washington Post
   date: '2001-12-13'
+  tier: 1
 id: 2001-12-13--office-of-information-and-regulatory-affairs-syste
 created_from: research-priority-RT-011-project2025-systematic-institutional-capture
 created_date: '2025-09-06T03:41:26.656350'

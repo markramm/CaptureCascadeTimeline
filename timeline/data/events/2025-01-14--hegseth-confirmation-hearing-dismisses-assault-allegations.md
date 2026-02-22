@@ -29,14 +29,17 @@ sources:
   url: https://www.axios.com/2025/01/14/jack-smith-trump-final-report-jan-6
   outlet: Axios
   date: '2025-01-14'
+  tier: 2
 - title: Special counsel Jack Smith says evidence against Trump was enough to convict him
   url: https://www.npr.org/2025/01/14/g-s1-42358/trump-jack-smith-election-report
   outlet: NPR
   date: '2025-01-14'
+  tier: 1
 - title: Justice Dept. releases Trump special counsel report on Jan. 6 case
   url: https://www.washingtonpost.com/national-security/2025/01/13/trump-jan-6-classified-documents-investigations-report-jack-smith/
   outlet: The Washington Post
   date: '2025-01-14'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Democratic Erosion

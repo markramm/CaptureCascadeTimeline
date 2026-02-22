@@ -10,16 +10,19 @@ actors:
 sources:
 - date: '2025-05-22'
   outlet: The Hill
-  title: Supreme Court's scant explanations in Trump emergency cases spark friction
-  url: https://thehill.com/regulation/court-battles/5492199-supreme-court-emergency-decisions-trump/
+  title: 'Supreme Court''s scant explanations in Trump emergency cases spark friction'
+  url: 'https://thehill.com/regulation/court-battles/5492199-supreme-court-emergency-decisions-trump/'
+  tier: 2
 - date: '2025-05-28'
   outlet: Lawfare
-  title: The Supreme Court's Contribution to the Confrontation Over Emergency Powers
-  url: https://www.lawfaremedia.org/article/supreme-courts-contribution-confrontation-over-emergency-powers
+  title: 'The Supreme Court''s Contribution to the Confrontation Over Emergency Powers'
+  url: 'https://www.lawfaremedia.org/article/supreme-courts-contribution-confrontation-over-emergency-powers'
+  tier: 1
 - date: '2025-06-09'
   outlet: NPR
-  title: What Trump's National Emergencies Could Mean for American Democracy
-  url: https://www.npr.org/2025/06/09/nx-s1-5424666/trump-national-emergencies-democracy-supreme-court-constitution
+  title: 'What Trump''s National Emergencies Could Mean for American Democracy'
+  url: 'https://www.npr.org/2025/06/09/nx-s1-5424666/trump-national-emergencies-democracy-supreme-court-constitution'
+  tier: 1
 tags:
 - supreme-court
 - constitutional-crisis
@@ -42,5 +45,4 @@ validation_metadata:
   - 'sources_removed: ''1'' → ''1'''
   - 'summary_updated: ''True'' → ''True'''
 ---
-
 In an extraordinary session, the Supreme Court issues an emergency order clearing the way for President Trump to fire two Democratic-appointed independent agency leaders, revealing deep institutional tensions. The fragmented 6-3 ruling exposes unprecedented challenges to constitutional checks and balances, with liberal justices dissenting against expanded executive removal powers.

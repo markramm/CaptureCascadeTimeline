@@ -10,19 +10,22 @@ actors:
 sources:
 - outlet: Brennan Center for Justice
   title: Supreme Court Ducks an Opportunity on Trump Emoluments Cases
-  url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases
+  url: 'https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases'
   access_date: '2025-09-17'
-  description: Comprehensive analysis of Supreme Court's avoidance of substantive emoluments clause rulings
-- outlet: Constitution Annotated, Library of Congress
+  description: 'Comprehensive analysis of Supreme Court''s avoidance of substantive emoluments clause rulings'
+  tier: 1
+- outlet: 'Constitution Annotated, Library of Congress'
   title: Foreign Emoluments Clause Overview
-  url: https://constitution.congress.gov/browse/essay/artI-S9-C8-3/ALDE_00013206/
+  url: 'https://constitution.congress.gov/browse/essay/artI-S9-C8-3/ALDE_00013206/'
   access_date: '2025-09-17'
   description: Authoritative constitutional reference explaining the historical context and interpretation of the Emoluments Clauses
+  tier: 1
 - outlet: Constitutional Accountability Center
-  title: Blumenthal, et al. v. Trump
-  url: https://www.theusconstitution.org/litigation/trump-and-foreign-emoluments-clause/
+  title: 'Blumenthal, et al. v. Trump'
+  url: 'https://www.theusconstitution.org/litigation/trump-and-foreign-emoluments-clause/'
   access_date: '2025-09-17'
   description: Legal analysis of previous emoluments clause litigation and its implications for constitutional enforcement
+  tier: 2
 tags:
 - constitutional-crisis
 - emoluments
@@ -38,5 +41,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 In February 2025, the Supreme Court and federal district courts reached a critical impasse over presidential emoluments enforcement. Following a pattern established in previous cases, the Court repeatedly declined to resolve substantive questions about Trump's potential constitutional violations, instead using procedural maneuvers to avoid direct confrontation. Multiple district courts issued conflicting rulings, creating a constitutional standoff that effectively paralyzed enforcement mechanisms for the Emoluments Clauses.

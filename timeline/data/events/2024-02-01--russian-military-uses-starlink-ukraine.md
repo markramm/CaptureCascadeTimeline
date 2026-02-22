@@ -8,7 +8,7 @@ actors:
 - John Plumb
 capture_lanes:
 - Intelligence Penetration
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Military-Industrial Complex
 date: '2024-02-01'
 id: 2024-02-01--russian-military-uses-starlink-ukraine
@@ -18,16 +18,19 @@ priority_id: russian-influence-networks-1757456698
 sources:
 - outlet: Kyiv Independent
   title: Ukrainian Intelligence Confirms Russian Forces Using Starlink Terminals
-  url: https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine/
+  url: 'https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine/'
   access_date: '2025-09-17'
+  tier: 2
 - outlet: The Washington Post
-  title: Russia's Forces Are Illegally Using Starlink Terminals Against Ukraine
-  url: https://www.washingtonpost.com/world/2024/10/12/starlink-russia-ukraine-elon-musk/
+  title: 'Russia''s Forces Are Illegally Using Starlink Terminals Against Ukraine'
+  url: 'https://www.washingtonpost.com/world/2024/10/12/starlink-russia-ukraine-elon-musk/'
   access_date: '2025-09-17'
+  tier: 1
 - outlet: Defense One
-  title: Russia is Using SpaceX's Starlink Satellite Devices in Ukraine, Sources Say
-  url: https://www.defenseone.com/threats/2024/02/russia-using-spacexs-starlink-satellite-devices-ukraine-sources-say/394080/
+  title: 'Russia is Using SpaceX''s Starlink Satellite Devices in Ukraine, Sources Say'
+  url: 'https://www.defenseone.com/threats/2024/02/russia-using-spacexs-starlink-satellite-devices-ukraine-sources-say/394080/'
   access_date: '2025-09-17'
+  tier: 2
 status: confirmed
 tags:
 - starlink-russia
@@ -37,7 +40,6 @@ tags:
 - sanctions-evasion
 title: Russian Military Systematically Acquires and Uses Starlink Terminals in Ukraine
 ---
-
 In February 2024, Ukrainian military intelligence confirmed that Russian forces were systematically using Starlink satellite internet terminals on the front lines in Ukraine, acquired through complex international intermediary networks. Despite SpaceX's claims of non-involvement, Russian troops have successfully deployed tens of Starlink terminals, significantly enhancing their military communications and operational capabilities.
 
 Key Findings:

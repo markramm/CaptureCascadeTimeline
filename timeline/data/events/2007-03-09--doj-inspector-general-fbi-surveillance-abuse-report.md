@@ -20,14 +20,17 @@ sources:
   title: A Review of the FBI's Use of National Security Letters
   outlet: Department of Justice Office of Inspector General
   date: '2007-03-01'
+  tier: 1
 - url: https://www.washingtonpost.com/wp-dyn/content/article/2007/03/08/AR2007030800538.html
   title: FBI Found to Abuse Patriot Act Powers
   outlet: The Washington Post
   date: '2007-03-09'
+  tier: 1
 - url: https://www.nytimes.com/2007/03/09/washington/09fbi.html
   title: F.B.I. Data Mining Reached Beyond Initial Targets
   outlet: The New York Times
   date: '2007-03-09'
+  tier: 1
 importance: 8
 status: confirmed
 capture_lanes:

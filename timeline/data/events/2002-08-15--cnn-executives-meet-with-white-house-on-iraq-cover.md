@@ -30,6 +30,7 @@ sources:
   url: https://www.pbs.org/newshour/show/the-medias-war
   outlet: PBS NewsHour
   date: '2003-05-01'
+  tier: 1
   notes: Detailed analysis of media compromises and challenges in reporting from Iraq
 - title: 'Fairness & Accuracy In Reporting: CNN''s Iraq War Media Coordination'
   url: https://fair.org/media-advisory/cnns-iraq-war-media-coordination/
@@ -37,11 +38,13 @@ sources:
   date: '2003-02-15'
   notes: Critical analysis of CNN's coordination with White House during Iraq War
     coverage
+  tier: 2
 - title: 'US Army War College Quarterly: Media and War Reporting'
   url: https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1720&context=parameters
   outlet: 'Parameters: US Army War College Quarterly'
   date: '2002-12-01'
   notes: Academic analysis of media's role in war reporting during the Iraq conflict
+  tier: 1
 id: 2002-08-15--cnn-executives-meet-with-white-house-on-iraq-cover
 created_from: research-priority-RT-016-corporate-state-fusion-infrastructure
 created_date: '2025-09-06T03:39:26.290616'

@@ -21,14 +21,17 @@ sources:
   url: https://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html
   outlet: The New York Times
   date: '2014-05-04'
+  tier: 1
 - title: 'The Untouchables: How the Obama administration protected Wall Street'
   url: https://www.pbs.org/wgbh/frontline/film/untouchables/
   outlet: PBS Frontline
   date: '2013-01-22'
+  tier: 1
 - title: Eric Holder returns to Covington & Burling
   url: https://www.politico.com/story/2015/07/eric-holder-covington-burling-119675
   outlet: Politico
   date: '2015-07-06'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

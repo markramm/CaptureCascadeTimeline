@@ -22,14 +22,17 @@ sources:
   url: https://www.gao.gov/products/gao-07-300
   outlet: GAO
   date: '2007-01-22'
+  tier: 1
 - title: 'Crisis Profiteering: Dick Cheney, Halliburton and Hurricane Katrina'
   url: https://www.democracynow.org/2005/9/9/crisis_profiteering_dick_cheney_halliburton_and
   outlet: Democracy Now!
   date: '2005-09-09'
+  tier: 1
 - title: 'The Shock Doctrine: The Rise of Disaster Capitalism'
   url: https://naomiklein.org/the-shock-doctrine/
   outlet: Naomi Klein
   date: '2007-09-04'
+  tier: 2
 capture_lanes:
 - Systematic Corruption
 ---

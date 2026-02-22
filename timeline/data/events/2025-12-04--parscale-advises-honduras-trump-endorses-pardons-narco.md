@@ -3,7 +3,7 @@ id: 2025-12-04--parscale-advises-honduras-trump-endorses-pardons-narco
 date: '2025-12-04'
 importance: 8
 title: Brad Parscale Secretly Advised Honduran Right-Wing Candidate as Trump Endorsed Her and Pardoned Convicted Narco-President
-location: Honduras; Washington, DC
+location: 'Honduras; Washington, DC'
 actors:
 - Brad Parscale
 - Donald Trump
@@ -25,44 +25,50 @@ capture_lanes:
 - Democratic Erosion
 sources:
 - title: Former Trump Campaign Chief Involved in Honduras Politics
-  url: https://ticotimes.net/2025/12/04/former-trump-campaign-chief-involved-in-honduras-politics
+  url: 'https://ticotimes.net/2025/12/04/former-trump-campaign-chief-involved-in-honduras-politics'
   outlet: The Tico Times
   date: '2025-12-04'
+  tier: 2
   archive_url: null
-- title: Trump's Former Campaign Manager Assisted Honduran Presidential Candidate
-  url: https://dnyuz.com/2025/12/04/trumps-former-campaign-manager-assisted-honduran-presidential-candidate/
+- title: 'Trump''s Former Campaign Manager Assisted Honduran Presidential Candidate'
+  url: 'https://dnyuz.com/2025/12/04/trumps-former-campaign-manager-assisted-honduran-presidential-candidate/'
   outlet: DN Yuz
   date: '2025-12-04'
   archive_url: null
-- title: Trump Campaign Manager Brad Parscale Paid To Advise Party In Honduras As Trump Pardoned Country's Ex President For Drug Trafficking
-  url: https://upolitics.com/news/trump-campaign-manager-brad-parscale-paid-to-advise-party-in-honduras-as-trump-pardoned-countrys-ex-president-for-drug-trafficking/
+  tier: 2
+- title: 'Trump Campaign Manager Brad Parscale Paid To Advise Party In Honduras As Trump Pardoned Country''s Ex President For Drug Trafficking'
+  url: 'https://upolitics.com/news/trump-campaign-manager-brad-parscale-paid-to-advise-party-in-honduras-as-trump-pardoned-countrys-ex-president-for-drug-trafficking/'
   outlet: uPolitics
   date: '2025-12-04'
   archive_url: null
-- title: Juan Orlando Hernandez freed after Trump's 'full and complete' pardon
-  url: https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon
+  tier: 2
+- title: 'Juan Orlando Hernandez freed after Trump''s ''full and complete'' pardon'
+  url: 'https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon'
   outlet: Al Jazeera
   date: '2025-12-02'
   archive_url: null
+  tier: 1
 - title: Honduras seeks arrest of ex-President Hernández after Trump pardon
-  url: https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon
+  url: 'https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon'
   outlet: NPR
   date: '2025-12-09'
   archive_url: null
-- title: Trump-backed candidate Nasry Asfura leads Honduras race, early trends show
-  url: https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show
+  tier: 1
+- title: 'Trump-backed candidate Nasry Asfura leads Honduras race, early trends show'
+  url: 'https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show'
   outlet: Al Jazeera
   date: '2025-12-01'
   archive_url: null
-- title: Examining Trump's Pardon of Former Honduran President Convicted of Trafficking Drugs to U.S.
-  url: https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/
+  tier: 1
+- title: 'Examining Trump''s Pardon of Former Honduran President Convicted of Trafficking Drugs to U.S.'
+  url: 'https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/'
   outlet: FactCheck.org
   date: '2025-12-04'
   archive_url: null
-notes: Brad Parscale, Trump's former 2020 campaign manager, secretly advised right-wing Honduran presidential candidate Nasry Asfura through his digital consulting firm and Buenos Aires-based partner firm Numen. Days before the November 30 election, Trump endorsed Asfura and pardoned Juan Orlando Hernández, former Honduran president from the same National Party who was serving 45 years for cocaine trafficking conspiracy. The pardon and endorsement injected chaos into razor-thin election that remained undecided in December. Parscale denied contact with Trump administration about the endorsement or pardon.
+  tier: 1
+notes: 'Brad Parscale, Trump''s former 2020 campaign manager, secretly advised right-wing Honduran presidential candidate Nasry Asfura through his digital consulting firm and Buenos Aires-based partner firm Numen. Days before the November 30 election, Trump endorsed Asfura and pardoned Juan Orlando Hernández, former Honduran president from the same National Party who was serving 45 years for cocaine trafficking conspiracy. The pardon and endorsement injected chaos into razor-thin election that remained undecided in December. Parscale denied contact with Trump administration about the endorsement or pardon.'
 status: confirmed
 ---
-
 Brad Parscale, President Trump's former 2020 campaign manager, provided paid consulting services to right-wing Honduran presidential candidate Nasry "Tito" Asfura ahead of the country's November 30, 2025 election, while Trump simultaneously endorsed Asfura and issued a controversial pardon to Juan Orlando Hernández, the former Honduran president from Asfura's National Party who was serving a 45-year sentence for coordinating massive cocaine trafficking operations into the United States. The convergence of Parscale's secret foreign consulting work, Trump's political endorsement, and the pardon of a convicted narco-president reveals a coordinated effort to manipulate Honduran politics that raises serious concerns about foreign election interference, corruption, and the weaponization of presidential pardon power for geopolitical purposes.
 
 Parscale, who was replaced as Trump's campaign manager less than four months before the 2020 election, worked through consultants at Numen, a Buenos Aires-based political consulting firm where he has been a partner for several years. According to reporting from The New York Times and other outlets, Parscale did not travel to Honduras during the election but advised Numen's team on how to use data analytics and digital targeting strategies to identify and reach voters on behalf of Asfura's presidential campaign. Parscale operates companies called Campaign Nucleus and EyesOver that process and analyze political data for campaigns and other clients, applying sophisticated micro-targeting techniques developed during his work for Trump.

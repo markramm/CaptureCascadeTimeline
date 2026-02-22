@@ -21,14 +21,17 @@ sources:
   url: https://www.nbcnews.com/politics/charlie-kirk-memorial-trump-musk-reconciliation
   outlet: NBC News
   date: '2025-09-21'
+  tier: 1
 - title: Trump and Musk Publicly Reconcile at Kirk Memorial
   url: https://www.cnn.com/2025/09/21/politics/trump-musk-kirk-memorial
   outlet: CNN
   date: '2025-09-21'
+  tier: 1
 - title: Conservative Movement Mourns Charlie Kirk
   url: https://www.axios.com/2025/09/21/charlie-kirk-memorial-phoenix
   outlet: Axios
   date: '2025-09-21'
+  tier: 2
 notes: Memorial service at Phoenix megachurch drew thousands of conservative figures. Trump and Musk appeared together for first time since June feud began. Public reconciliation staged as display of movement unity following Kirk's assassination. Temporary truce would hold through fall before new factional conflicts emerged around H-1B debate.
 status: confirmed
 capture_lanes:

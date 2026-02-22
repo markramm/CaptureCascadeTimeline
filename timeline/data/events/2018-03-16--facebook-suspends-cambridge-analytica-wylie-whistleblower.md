@@ -27,18 +27,22 @@ sources:
   url: https://about.fb.com/news/2018/03/suspending-cambridge-analytica/
   outlet: Facebook
   date: '2018-03-16'
+  tier: 1
 - title: Cambridge Analytica Timeline CNBC
   url: https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html
   outlet: CNBC
   date: '2018-04-10'
+  tier: 2
 - title: 'Facebook/Cambridge Analytica: Privacy Lessons and a Way Forward'
   url: https://internetpolicy.mit.edu/blog-2018-fb-cambridgeanalytica/
   outlet: MIT Internet Policy Research Initiative
   date: '2018-03-20'
+  tier: 1
 - title: Cambridge Analytica Is Shutting Down After Facebook Data Controversy
   url: https://www.npr.org/sections/thetwo-way/2018/05/02/607782799/cambridge-analytica-is-shutting-down-after-facebook-data-controversy
   outlet: NPR
   date: '2018-05-02'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

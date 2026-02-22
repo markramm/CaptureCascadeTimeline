@@ -20,14 +20,17 @@ sources:
   url: https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf
   outlet: UK Parliament DCMS Committee
   date: '2019-02-18'
+  tier: 2
 - title: FTC administrative complaint—Cambridge Analytica, Nix & Kogan
   url: https://www.ftc.gov/system/files/documents/cases/182_3107_cambridge_analytica_administrative_complaint_7-24-19.pdf
   outlet: Federal Trade Commission
   date: '2019-07-24'
+  tier: 1
 - title: Hard Questions—Russian Ads Delivered to Congress (platform context)
   url: https://about.fb.com/news/2017/10/hard-questions-russian-ads-delivered-to-congress/
   outlet: Meta (Facebook) Newsroom
   date: '2017-10-02'
+  tier: 2
 notes: 'Numbers vary by source; Facebook later put the potential impact at ~87 million
 
   users. Included primary regulatory filings for verifiability.

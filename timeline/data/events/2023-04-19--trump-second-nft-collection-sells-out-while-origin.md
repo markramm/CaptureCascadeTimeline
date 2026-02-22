@@ -10,12 +10,15 @@ sources:
 - title: Trump's Second NFT Collection Sells Out While Prices on First Collection Plunge
   url: https://www.coindesk.com/web3/2023/04/19/trumps-second-nft-collection-sells-out-while-prices-on-first-collection-plunge
   outlet: CoinDesk
+  tier: 2
 - title: Trump Discloses $1 Million in Crypto and NFT Sales
   url: https://www.cbsnews.com/news/trump-income-wealth-financial-disclosure-forms-bible-sales-crypto-nfts/
   outlet: CBS News
+  tier: 1
 - title: Trump's 2023 Financial Disclosures Reveal NFT Income
   url: https://www.citizensforethics.org/reports-investigations/crew-reports/donald-trumps-2023-financial-disclosures/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+  tier: 2
 tags:
 - nft
 - trump

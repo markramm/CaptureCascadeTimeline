@@ -19,18 +19,22 @@ sources:
   url: https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior
   outlet: Facebook
   date: '2020-07-08'
+  tier: 1
 - title: Facebook closes network of accounts and pages affiliated with Roger Stone for manipulation
   url: https://www.washingtonpost.com/technology/2020/07/08/facebook-roger-stone/
   outlet: The Washington Post
   date: '2020-07-08'
+  tier: 1
 - title: Facebook removes network of inauthentic behavior tied to Roger Stone
   url: https://www.cnbc.com/2020/07/08/facebook-removes-network-of-inauthentic-behavior-tied-to-roger-stone.html
   outlet: CNBC
   date: '2020-07-08'
+  tier: 2
 - title: Facebook takes down Roger Stone-affiliated accounts, pages
   url: https://thehill.com/policy/technology/506435-facebook-takes-down-roger-stone-affiliated-accounts-pages-for-coordinated/
   outlet: The Hill
   date: '2020-07-08'
+  tier: 2
 notes: Digital influence operations parallel to Russian active measures tactics
 status: confirmed
 ---

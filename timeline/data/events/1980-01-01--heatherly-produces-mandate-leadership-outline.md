@@ -22,12 +22,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Mandate_for_Leadership
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Mandate for Leadership - Policy Management in a Conservative Administration
   url: https://books.google.com/books/about/Mandate_for_Leadership.html?id=I0WGAAAAMAAJ
   outlet: Google Books
   date: '1981-01-01'
   verified: true
+  tier: 2
 notes: Heatherly was a former field director of the Intercollegiate Studies Institute. His January 1980 five-page outline grew into a project involving twenty project teams and over 300 contributors. The manuscript written in 1980 was 3,000 pages, later published as a 1,093-page book. Reagan aide Edwin Meese attended a July 1980 dinner for project team leaders.
 status: confirmed
 ---

@@ -18,18 +18,22 @@ sources:
   url: https://www.theguardian.com/us-news/2019/may/28/mueller-trump-obstruction-charge-michael-wolff-book-siege-under-fire-news
   outlet: The Guardian
   date: '2019-05-28'
+  tier: 1
 - title: Michael Wolff on the 'Epstein files' (essay)
   url: https://yalereview.org/article/michael-wolff-donald-trump-epstein-files
   outlet: The Yale Review
   date: '2025-07-24'
+  tier: 2
 - title: Trump team condemns Michael Wolff's book, calls new Jeffrey Epstein allegations 'fiction'
   url: https://www.washingtontimes.com/news/2024/nov/20/trump-team-condemns-michael-wolff-book-calls-new-j/
   outlet: Washington Times
   date: '2024-11-20'
+  tier: 2
 - title: 'Wolff''s ''Siege'': Five Takeaways on Trump-Epstein Allegations'
   url: https://www.newsweek.com/donald-trump-jeffrey-epstein-allegations-michael-wolff-podcast-1978434
   outlet: Newsweek
   date: '2024-06-15'
+  tier: 2
 notes: Downgraded to "disputed" due to lack of corroboration by official sources or court records. Keep as media claim unless further evidence emerges. Wolff's claims remain unsubstantiated and have been strongly contested by the Trump team.
 capture_lanes:
 - Judicial Capture

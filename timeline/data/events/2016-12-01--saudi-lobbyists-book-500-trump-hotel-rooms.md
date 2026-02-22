@@ -23,14 +23,17 @@ sources:
   url: https://www.npr.org/2019/01/16/685977471/federal-watchdog-finds-government-ignored-emoluments-clause-with-trump-hotel
   outlet: NPR
   date: '2019-01-16'
+  tier: 1
 - title: Foreign Officials Spent Over $750,000 at Trump's D.C. Hotel During Presidency
   url: https://www.npr.org/2022/11/14/1136682162/foreign-officials-750-000-dollars-trump-hotel-dc
   outlet: NPR
   date: '2022-11-14'
+  tier: 1
 - title: Trump's Hotel Made Millions From Foreign Governments During Term
   url: https://www.bloomberg.com/news/articles/2024-01-04/trump-hotels-made-millions-from-foreign-governments-during-term
   outlet: Bloomberg
   date: '2024-01-04'
+  tier: 1
 notes: Multiple sources confirm systematic foreign government spending at Trump International
   Hotel, potentially violating the Emoluments Clause. The Saudi government's booking
   of 500 rooms was part of a broader pattern of foreign influence.

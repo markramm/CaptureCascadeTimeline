@@ -25,18 +25,22 @@ sources:
   url: https://europa.eu/rapid/press-release_IP-18-4581_en.htm
   outlet: European Commission
   date: '2018-07-18'
+  tier: 2
 - title: EU fines Google $5 billion over Android antitrust abuse
   url: https://www.cnbc.com/2018/07/10/eu-hits-alphabet-google-with-android-antitrust-fine.html
   outlet: CNBC
   date: '2018-07-18'
+  tier: 2
 - title: Google gets slapped with $5BN EU fine for Android antitrust abuse
   url: https://techcrunch.com/2018/07/18/google-gets-slapped-5bn-by-eu-for-android-antitrust-abuse/
   outlet: TechCrunch
   date: '2018-07-18'
+  tier: 2
 - title: Google Is Appealing A $5 Billion Antitrust Fine In The EU
   url: https://www.npr.org/2021/09/27/1040889789/google-eu-android-appeal-antitrust
   outlet: NPR
   date: '2021-09-27'
+  tier: 1
 status: confirmed
 id: 2018-07-18--eu-fines-google-4-34-billion-android
 capture_lanes:

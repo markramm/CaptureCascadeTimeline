@@ -9,7 +9,7 @@ actors:
 - Tennessee General Assembly
 - Randy McNally
 - Cameron Sexton
-location: Nashville, Tennessee
+location: 'Nashville, Tennessee'
 tags:
 - protest-suppression
 - voting-rights
@@ -22,95 +22,97 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 sources:
-- url: https://time.com/5882735/tennesee-law-protest-voting-rights-felony/
-  title: New Tennessee Law Severely Sharpens Punishments for Some Protesters, Potentially Endangering Their Voting Rights
+- url: 'https://time.com/5882735/tennesee-law-protest-voting-rights-felony/'
+  title: 'New Tennessee Law Severely Sharpens Punishments for Some Protesters, Potentially Endangering Their Voting Rights'
   date: 2020-08-25
   tier: 1
   outlet: Time
-- url: https://tennesseelookout.com/2020/08/13/special-session-bill-criminalizes-camping-on-state-property-and-threatens-voter-rights/
+- url: 'https://tennesseelookout.com/2020/08/13/special-session-bill-criminalizes-camping-on-state-property-and-threatens-voter-rights/'
   title: Special session bill criminalizes camping on state property and threatens voter rights
   date: 2020-08-13
   tier: 2
   outlet: Tennessee Lookout
-- url: https://www.cnn.com/2020/08/22/politics/tennessee-felony-camping-law-right-to-vote/index.html
+- url: 'https://www.cnn.com/2020/08/22/politics/tennessee-felony-camping-law-right-to-vote/index.html'
   title: New Tennessee law penalizes protesters who camp on state property with felony and loss of voting rights
   date: 2020-08-22
   tier: 1
   outlet: CNN
-- url: https://scalawagmagazine.org/2020/09/voter-suppression-felony-protests-tennessee/
-  title: The KKK wrote Tennessee's playbook for voter suppression
+- url: 'https://scalawagmagazine.org/2020/09/voter-suppression-felony-protests-tennessee/'
+  title: 'The KKK wrote Tennessee''s playbook for voter suppression'
   date: 2020-09-15
   tier: 2
   outlet: Scalawag Magazine
-- url: https://www.npr.org/2020/08/21/904366258/postmaster-general-faces-senate-as-controversy-persists-over-usps-cuts
-  title: Louis DeJoy Vows Post Office Can Handle Mail-In Ballots, In Senate Hearing
+- url: 'https://www.npr.org/2020/08/21/904366258/postmaster-general-faces-senate-as-controversy-persists-over-usps-cuts'
+  title: 'Louis DeJoy Vows Post Office Can Handle Mail-In Ballots, In Senate Hearing'
   date: 2020-08-21
   tier: 1
   outlet: NPR
   verified: true
-- url: https://www.peters.senate.gov/newsroom/press-releases/peters-secures-senate-oversight-hearing-with-postmaster-general-dejoy
+- url: 'https://www.peters.senate.gov/newsroom/press-releases/peters-secures-senate-oversight-hearing-with-postmaster-general-dejoy'
   title: Peters Secures Senate Oversight Hearing with Postmaster General DeJoy
   date: 2020-08-14
   tier: 1
   outlet: U.S. Senator Gary Peters
   verified: true
-- url: https://www.npr.org/2020/08/22/905110578/senator-who-launched-usps-investigation-unsatisfied-by-dejoys-testimony
-  title: Senator Who Launched USPS Investigation Unsatisfied By DeJoy's Testimony
+- url: 'https://www.npr.org/2020/08/22/905110578/senator-who-launched-usps-investigation-unsatisfied-by-dejoys-testimony'
+  title: 'Senator Who Launched USPS Investigation Unsatisfied By DeJoy''s Testimony'
   date: 2020-08-22
   tier: 1
   outlet: NPR
   verified: true
-- url: https://edition.cnn.com/politics/live-news/postmaster-general-dejoy-senate-testimony/h_105ed639f3a7c5e02715c1d67eaa66a5
+- url: 'https://edition.cnn.com/politics/live-news/postmaster-general-dejoy-senate-testimony/h_105ed639f3a7c5e02715c1d67eaa66a5'
   title: 'Democratic senator to DeJoy: You owe Americans "an apology for the harm you have caused"'
   date: 2020-08-21
   tier: 1
   outlet: CNN
   verified: true
 - title: 'Donald Trump Speech Transcript August 21: 2020 Council for National Policy Meeting'
-  url: https://www.rev.com/transcripts/donald-trump-speech-transcript-august-21-2020-council-for-national-policy-meeting
+  url: 'https://www.rev.com/transcripts/donald-trump-speech-transcript-august-21-2020-council-for-national-policy-meeting'
   publication: Rev
   date: '2020-08-21'
   tier: 2
 - title: Remarks by President Trump at the 2020 Council for National Policy Meeting
-  url: https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-2020-council-national-policy-meeting/
+  url: 'https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-2020-council-national-policy-meeting/'
   publication: Trump White House Archives
   date: '2020-08-21'
   tier: 1
 - date: '2020-08-21'
   outlet: USPS OIG
   title: Operational Changes to Mail Delivery (Project 20-292)
-  url: https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-292-R21.pdf
+  url: 'https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-292-R21.pdf'
   archive_url: ''
   key_facts_confirmed:
   - Identified service performance declines post-changes
   verified: true
+  tier: 1
 - date: '2020-10-20'
   outlet: U.S. Senate HSGAC (Minority)
   title: 'Investigative Update: On-time delivery plummeted to 81.5% Aug 8-14'
-  url: https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/201020_InvestigativeUpdate_PetersPostal.pdf
+  url: 'https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/201020_InvestigativeUpdate_PetersPostal.pdf'
   archive_url: ''
   key_facts_confirmed:
-  - Week-of performance levels in low-80% range nationally
+  - 'Week-of performance levels in low-80% range nationally'
   verified: true
+  tier: 1
 - date: '2021-04-29'
   outlet: U.S. GAO
-  title: USPS Volume, Performance, and Financial Outlook (GAO-21-261)
-  url: https://www.gao.gov/products/gao-21-261
+  title: 'USPS Volume, Performance, and Financial Outlook (GAO-21-261)'
+  url: 'https://www.gao.gov/products/gao-21-261'
   archive_url: ''
   key_facts_confirmed:
   - 2020 nationwide on-time performance fell vs. 2019 baseline
   verified: true
+  tier: 1
 - date: '2020-08-21'
   outlet: The Washington Post
   title: House Oversight releases internal USPS performance data showing declines
-  url: https://www.washingtonpost.com/powerpost/house-poised-to-pass-bill-to-boost-us-postal-service-amid-trump-attacks/2020/08/21/c9196fa8-e3c6-11ea-8181-606e603bb1c4_story.html
+  url: 'https://www.washingtonpost.com/powerpost/house-poised-to-pass-bill-to-boost-us-postal-service-amid-trump-attacks/2020/08/21/c9196fa8-e3c6-11ea-8181-606e603bb1c4_story.html'
   archive_url: ''
   key_facts_confirmed:
   - Internal USPS deck showed steep declines in July/August
   verified: true
+  tier: 1
 ---
-
-
 Governor Bill Lee signed legislation on August 21, 2020 that escalated penalties for camping on Tennessee state property from a misdemeanor to a Class E felony punishable by up to six years in prison and permanent disenfranchisement—a transparent effort to suppress Black Lives Matter protests that had occupied the Tennessee State Capitol grounds since June 2020 by threatening demonstrators with felony convictions that would strip their voting rights in a critical election year. The law, rushed through the Republican-controlled legislature in a three-day special session and signed without public announcement, exemplifies the authoritarian tactics Tennessee's GOP supermajority deployed to criminalize racial justice activism and weaponize felony disenfranchisement against Black protesters exercising their constitutional rights.
 
 The legislation directly targeted Black Lives Matter demonstrators who had been camping outside the Tennessee State Capitol since June 2020, demanding meetings with Governor Lee to address racial inequality and police brutality following the May 2020 murder of George Floyd by Minneapolis police. The protesters' sustained presence and demands for racial justice posed an embarrassing challenge to Tennessee's Republican leadership during a period of nationwide reckoning with police violence and systemic racism. Rather than engaging with protesters' substantive demands, the Tennessee GOP chose to criminalize their presence through a draconian law specifically designed to force their removal under threat of felony prosecution.

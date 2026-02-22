@@ -12,14 +12,17 @@ sources:
 - title: 'Consulting Power: McKinsey and the Asian Financial Crisis'
   url: https://www.consultingmag.com/research/global-economic-interventions
   outlet: Consulting Magazine
+  tier: 2
 - outlet: International Monetary Fund
   title: 'The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
   access_date: '2025-10-14'
+  tier: 1
 - outlet: Congressional Research Service
   title: The 1997-98 Asian Financial Crisis
   url: https://sgp.fas.org/crs/row/crs-asia2.htm
   access_date: '2025-10-14'
+  tier: 1
 tags:
 - mckinsey
 - corporate-restructuring

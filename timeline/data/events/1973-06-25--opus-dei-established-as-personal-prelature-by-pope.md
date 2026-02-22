@@ -11,12 +11,15 @@ sources:
 - title: Ut Sit Apostolic Constitution
   url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19821128_ut-sit.html
   outlet: Vatican
+  tier: 1
 - title: Opus Dei Prelature Status
   url: https://opusdei.org/en/article/personal-prelature/
   outlet: Opus Dei Official
+  tier: 2
 - title: 'Opus Dei: History and Canonical Status'
   url: https://www.britannica.com/topic/Opus-Dei
   outlet: Britannica Encyclopedia
+  tier: 2
 tags:
 - opus-dei
 - catholic-church

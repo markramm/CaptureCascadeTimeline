@@ -22,12 +22,14 @@ sources:
   url: https://www.aei.org/articles/the-business-pac-phenomenon-an-irony-of-electoral-reform/
   outlet: American Enterprise Institute
   date: '2020-01-01'
+  tier: 2
   verified: true
 - title: Political action committee - Wikipedia
   url: https://en.wikipedia.org/wiki/Political_action_committee
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: The FECA amendments, intended as campaign reform, ironically enabled massive corporate political power. Corporate PACs grew 1,600% while labor PACs grew only 88%. By 1976 there were 608 total PACs, growing to over 2,500 by 1982. The FEC was created in 1975 to enforce FECA. This legal framework perfectly complemented Powell Memo corporate mobilization.
 status: confirmed
 ---

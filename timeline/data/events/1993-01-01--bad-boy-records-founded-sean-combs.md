@@ -22,20 +22,24 @@ sources:
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
   outlet: Unlimited Hangout
   date: '2025-04-01'
+  tier: 3
 - title: Bad Boy Records
   url: https://en.wikipedia.org/wiki/Bad_Boy_Records
   outlet: Wikipedia
   date: '2025-01-27'
+  tier: 2
 - title: Bad Boy Worldwide Entertainment Group Company History
   url: https://www.fundinguniverse.com/company-histories/bad-boy-worldwide-entertainment-group-history/
   outlet: Funding Universe
   date: '2024-07-15'
+  tier: 2
   key_details: Initial $1.5M investment from Arista Records, Combs secured creative control
 - title: 'Bad Boy Entertainment: Origins and Rise (1992-1996)'
   url: https://www.blackpast.org/african-american-history/groups-organizations-african-american-history/bad-boy-entertainment-1992/
   outlet: BlackPast.org
   date: '2024-03-22'
   key_details: Detailed account of label's founding and early business structure
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

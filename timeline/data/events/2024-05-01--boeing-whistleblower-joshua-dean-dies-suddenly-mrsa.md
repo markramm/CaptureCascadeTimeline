@@ -9,21 +9,25 @@ actors:
 - John Barnett
 sources:
 - outlet: NPR
-  title: Whistleblower Joshua Dean, Who Raised Concerns About Boeing Jets, Dies at 45
-  url: https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead
+  title: 'Whistleblower Joshua Dean, Who Raised Concerns About Boeing Jets, Dies at 45'
+  url: 'https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead'
   date: '2024-05-02'
+  tier: 1
 - outlet: Fortune
-  title: Another Boeing Whistleblower Is Dead—This Time a Healthy 45-Year-Old Who Battled a Sudden, Severe Infection
-  url: https://fortune.com/2024/05/02/boeing-whistleblower-dead-joshua-dean-45-sudden-severe-infection/
+  title: 'Another Boeing Whistleblower Is Dead—This Time a Healthy 45-Year-Old Who Battled a Sudden, Severe Infection'
+  url: 'https://fortune.com/2024/05/02/boeing-whistleblower-dead-joshua-dean-45-sudden-severe-infection/'
   date: '2024-05-02'
+  tier: 2
 - outlet: Seattle Times
   title: Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died
-  url: https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/
+  url: 'https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/'
   date: '2024-05-02'
+  tier: 2
 - outlet: Al Jazeera
   title: Whistleblower Who Accused Boeing Supplier of Ignoring Defects Dies
-  url: https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies
+  url: 'https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies'
   date: '2024-05-02'
+  tier: 1
 importance: 9
 tags:
 - boeing
@@ -37,7 +41,6 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-
 Joshua Dean, a 45-year-old former quality auditor at Boeing supplier Spirit AeroSystems who had raised safety concerns about 737 MAX manufacturing defects, died suddenly after contracting a severe MRSA infection. Dean had been in good health and was known for maintaining a healthy lifestyle, making his rapid deterioration from a common respiratory virus to death in two weeks highly unusual. His death came less than two months after Boeing whistleblower John Barnett was found dead from a gunshot wound during his deposition.
 
 Dean worked as a quality auditor at Spirit AeroSystems' Wichita, Kansas facility, where the company manufactures fuselages for Boeing aircraft including the 737 MAX. He had filed a formal whistleblower complaint alleging that Spirit AeroSystems ignored manufacturing defects on the MAX and retaliated against him for raising concerns. He was fired in 2023 after flagging quality problems and filed a lawsuit against Spirit claiming wrongful termination for his safety reports.

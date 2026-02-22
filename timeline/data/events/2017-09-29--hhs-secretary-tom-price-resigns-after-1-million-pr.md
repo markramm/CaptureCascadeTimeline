@@ -25,26 +25,32 @@ sources:
   url: https://www.washingtonpost.com/news/post-politics/wp/2017/09/29/tom-price-resigns-as-hhs-secretary-after-criticism-for-taking-charter-flights-at-taxpayer-expense/
   outlet: The Washington Post
   date: '2017-09-29'
+  tier: 1
 - title: Tom Price Resigns as Health Secretary After Drawing Ire for Chartered Flights
   url: https://www.nytimes.com/2017/09/29/us/politics/tom-price-trump-hhs.html
   outlet: The New York Times
   date: '2017-09-29'
+  tier: 1
 - title: Price's travel cost over $1 million
   url: https://www.politico.com/story/2017/09/28/tom-price-military-flights-china-africa-europe-243351
   outlet: Politico
   date: '2017-09-28'
+  tier: 1
 - title: Tom Price resigns as HHS secretary after private jet scandal
   url: https://www.politico.com/story/2017/09/29/tom-price-resigns-hhs-secretary-243273
   outlet: Politico
   date: '2017-09-29'
+  tier: 1
 - title: Tom Price's stock trades under scrutiny
   url: https://www.cnn.com/2017/01/16/politics/tom-price-stocks-health-care/index.html
   outlet: CNN
   date: '2017-01-16'
+  tier: 1
 - title: Price's private travel cost more than $1 million
   url: https://www.washingtonpost.com/national/health-science/prices-travel-cost-more-than-1-million/2017/10/05/
   outlet: The Washington Post
   date: '2017-10-05'
+  tier: 1
 notes: "Price's corruption went beyond just the flights - he also traded healthcare stocks \nwhile crafting healthcare legislation as a congressman. His resignation after just \n231 days made him one of the shortest-serving HHS secretaries. Trump initially \ndefended Price but forced his resignation when the scandal became politically damaging. \nPrice offered to reimburse only $51,887 of the over $1 million spent.\n"
 related_events:
 - 2018-07-05--scott-pruitt-resigns-corruption

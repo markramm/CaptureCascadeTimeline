@@ -27,14 +27,17 @@ sources:
   url: https://www.wsws.org/en/articles/2004/06/hali-j08.html
   outlet: World Socialist Web Site
   date: '2004-06-08'
+  tier: 2
 - title: Whistleblower exposes $7 billion no-bid Defense Department contract
   url: https://www.cbsnews.com/news/halliburton-whistleblower-on-exposing-7-billion-no-bid-defense-contract-2019-06-30/
   outlet: CBS News
   date: '2019-06-30'
+  tier: 1
 - title: Cheney, Halliburton and the Spoils of War
   url: https://www.corpwatch.org/article/cheney-halliburton-and-spoils-war
   outlet: CorpWatch
   date: '2003-03-28'
+  tier: 2
 importance: 9
 status: confirmed
 triggered_by:

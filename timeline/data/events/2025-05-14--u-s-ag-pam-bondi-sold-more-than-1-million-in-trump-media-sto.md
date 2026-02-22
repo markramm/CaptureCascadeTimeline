@@ -4,40 +4,38 @@ actors:
 - Pam Bondi
 - Trump Administration
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Executive Power Expansion
 - Regulatory Capture
 capture_type: monetizing_position
 connections:
-- Trump Media & Technology Group (TMTG)
+- 'Trump Media & Technology Group (TMTG)'
 - Truth Social
 date: '2025-05-14'
-description: Attorney General Pam Bondi sold between $1 million and $5 million worth
-  of Trump Media shares shortly after receiving them as consulting compensation, coinciding
-  with Trump's major tariff announcement.
+description: 'Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares shortly after receiving them as consulting compensation, coinciding with Trump''s major tariff announcement.'
 id: 2025-05-14--u-s-ag-pam-bondi-sold-more-than-1-million-in-trump-media-sto
 importance: 8
-location: Washington, D.C.
-notes: Stock sale occurred as part of previously agreed ethics divestment, but timing
-  raises questions about insider information.
+location: 'Washington, D.C.'
+notes: 'Stock sale occurred as part of previously agreed ethics divestment, but timing raises questions about insider information.'
 patterns:
 - kleptocratic-capture
 - revolving-door
 sources:
 - date: '2025-05-14'
   outlet: ProPublica
-  title: U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day
-    Trump announced sweeping tariffs
-  url: https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs
+  title: U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs
+  url: 'https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs'
+  tier: 1
 - date: '2025-05-14'
   outlet: CBS News
-  title: Bondi sold at least $1 million in Trump Media shares on "Liberation Day,"
-    documents show
-  url: https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day/
+  title: 'Bondi sold at least $1 million in Trump Media shares on "Liberation Day," documents show'
+  url: 'https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day/'
+  tier: 1
 - date: '2025-05-14'
   outlet: Bloomberg Law
   title: Attorney General Pam Bondi Discloses Sale of Trump Media Shares
-  url: https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares
+  url: 'https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares'
+  tier: 2
 status: confirmed
 tags:
 - media-control
@@ -46,5 +44,4 @@ tags:
 - ethics-violation
 title: U.S. AG Pam Bondi Sells Over $1 Million in Trump Media Shares Amid Tariff Announcement
 ---
-
 Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares on April 2, 2025, coinciding with Trump's major tariff announcement. The stock sale, part of an ethics divestment, occurred when Trump Media's stock was near its lowest point, dropping over 10% following the tariff declaration.

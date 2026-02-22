@@ -1,6 +1,6 @@
 ---
 date: '2020-12-23'
-title: DOJ Secret Court Order Targets Washington Post Journalists Days Before Barr's Resignation
+title: 'DOJ Secret Court Order Targets Washington Post Journalists Days Before Barr''s Resignation'
 actors:
 - William Barr
 - Michael R. Sherwin
@@ -12,16 +12,19 @@ actors:
 - Adam Entous
 sources:
 - title: Trump DOJ tried to seize Washington Post journalists records over Russia leaks
-  url: https://www.axios.com/2021/07/14/trump-doj-tried-to-seize-washpost-journalists-records-over-russia-leaks
+  url: 'https://www.axios.com/2021/07/14/trump-doj-tried-to-seize-washpost-journalists-records-over-russia-leaks'
   outlet: Axios
-- title: This Is How Trump's Department of Justice Spied on Journalists
-  url: https://theintercept.com/2024/12/11/trump-justice-department-spied-journalists-congress/
+  tier: 2
+- title: 'This Is How Trump''s Department of Justice Spied on Journalists'
+  url: 'https://theintercept.com/2024/12/11/trump-justice-department-spied-journalists-congress/'
   outlet: The Intercept
+  tier: 1
   retrieved_date: '2025-10-14'
 - title: Unsealed Court Docs Shed Light on Why DoJ Targeted WashPo Reporters
-  url: https://firstamendmentwatch.org/recently-unsealed-court-records-shed-light-on-why-doj-targeted-washington-post-journalists/
+  url: 'https://firstamendmentwatch.org/recently-unsealed-court-records-shed-light-on-why-doj-targeted-washington-post-journalists/'
   outlet: First Amendment Watch
   retrieved_date: '2025-10-14'
+  tier: 2
 importance: 9
 tags:
 - secret-court-orders
@@ -34,10 +37,9 @@ tags:
 status: confirmed
 id: 2020-12-23--secret-court-order-journalist-surveillance-barr
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Judicial Capture
 - Regulatory Capture
 - Intelligence Penetration
 ---
-
 On December 22, 2020, the DOJ filed a secret court order to seize phone records of three Washington Post journalists (Ellen Nakashima, Greg Miller, and Adam Entous) investigating Russian diplomatic communications. Filed just one day before Attorney General William Barr's resignation by DOJ official Michael R. Sherwin, the order sought 4 months of phone records and sought to prevent notification to the journalists. This action was part of a broader pattern of surveillance targeting 8 reporters from major news outlets, raising significant press freedom concerns and violating internal DOJ guidelines.

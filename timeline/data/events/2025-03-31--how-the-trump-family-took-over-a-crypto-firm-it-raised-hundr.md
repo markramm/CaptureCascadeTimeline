@@ -27,14 +27,17 @@ sources:
   url: https://fortune.com/crypto/2025/03/18/trump-backed-world-liberty-financial-raises-550-million-token-sales/
   outlet: Fortune Crypto
   date: '2025-03-18'
+  tier: 2
 - title: Trump family crypto venture tapped as part of $2B Emirati-backed investment deal
   url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
   outlet: ABC News
   date: '2025-08-08'
+  tier: 1
 - title: How Trump's latest crypto launch enriches his family
   url: https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial
   outlet: NPR
   date: '2025-09-03'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

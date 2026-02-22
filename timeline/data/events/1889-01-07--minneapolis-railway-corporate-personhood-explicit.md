@@ -11,12 +11,15 @@ sources:
 - title: Minneapolis & St. Louis Ry. Co. v. Beckwith, 129 U.S. 26 (1889)
   url: https://supreme.justia.com/cases/federal/us/129/26/
   outlet: Justia U.S. Supreme Court Center
+  tier: 1
 - title: 'U.S. Reports: Minneapolis Railway Co. v. Beckwith, 129 U.S. 26 (1889)'
   url: https://www.loc.gov/item/usrep129026/
   outlet: Library of Congress
+  tier: 1
 - title: Minneapolis & St. Louis Railway Company v. Beckwith
   url: https://en.wikisource.org/wiki/Minneapolis_&_St._Louis_Railway_Company_v._Beckwith
   outlet: Wikisource
+  tier: 2
 tags:
 - corporate-personhood
 - supreme-court

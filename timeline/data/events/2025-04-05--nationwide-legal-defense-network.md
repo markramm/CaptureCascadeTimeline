@@ -16,12 +16,15 @@ sources:
 - title: Nationwide Legal Defense Network Expansion Report
   url: https://nationallegaldefense.org/2025-expansion
   outlet: National Legal Defense Network
+  tier: 2
 - title: 'Labor and Democracy Partners Announce Rise Up: Legal Defense Network for Fired Federal Workers'
   url: https://aflcio.org/press/releases/labor-and-democracy-partners-announce-rise-legal-defense-network-fired-federal
   outlet: AFL-CIO
+  tier: 2
 - title: 'Rise Up: Federal Workers Legal Defense Network Announcement'
   url: https://democracyforward.org/updates/fwldn-announcement/
   outlet: Democracy Forward
+  tier: 2
 tags:
 - legal-infrastructure
 - civil-rights-defense

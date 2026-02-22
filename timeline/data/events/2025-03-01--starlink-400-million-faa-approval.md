@@ -2,8 +2,8 @@
 id: 2025-03-01--starlink-400-million-faa-approval
 date: '2025-03-01'
 importance: 8
-title: FAA approves 4,000 Starlink terminals worth $400 million
-location: Washington, DC
+title: 'FAA approves 4,000 Starlink terminals worth $400 million'
+location: 'Washington, DC'
 actors:
 - Federal Aviation Administration
 - Starlink
@@ -20,24 +20,27 @@ capture_lanes:
 - Regulatory Capture
 sources:
 - title: Starlink contract approvals
-  url: https://www.congresswoman-sherrill.com/starlink-contracts
+  url: 'https://www.congresswoman-sherrill.com/starlink-contracts'
   outlet: Congresswoman Mikie Sherrill
   date: '2025-03-01'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.congresswoman-sherrill.com/starlink-contracts
-- title: Sherrill Calls for Investigations Into Elon Musk's Vast Conflicts of Interest and Self-Dealing at Federal Agencies
-  url: https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250814000000/https://www.congresswoman-sherrill.com/starlink-contracts'
+- title: 'Sherrill Calls for Investigations Into Elon Musk''s Vast Conflicts of Interest and Self-Dealing at Federal Agencies'
+  url: 'https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies'
   outlet: Congresswoman Mikie Sherrill
   date: '2025-03-05'
-- title: Elon Musk's Starlink in line for deal with FAA, raising potential ethical concerns
-  url: https://www.cbsnews.com/news/starlink-faa-contract-elon-musk-conflict-of-interest/
+  tier: 1
+- title: 'Elon Musk''s Starlink in line for deal with FAA, raising potential ethical concerns'
+  url: 'https://www.cbsnews.com/news/starlink-faa-contract-elon-musk-conflict-of-interest/'
   outlet: CBS News
   date: '2025-02-25'
-- title: FAA Officials Ordered Staff to Find Funding for Elon Musk's Starlink
-  url: https://www.rollingstone.com/politics/politics-features/elon-musk-starlink-faa-officials-find-funding-1235285246/
+  tier: 1
+- title: 'FAA Officials Ordered Staff to Find Funding for Elon Musk''s Starlink'
+  url: 'https://www.rollingstone.com/politics/politics-features/elon-musk-starlink-faa-officials-find-funding-1235285246/'
   outlet: Rolling Stone
   date: '2025-03-03'
+  tier: 2
 notes: Multiple agencies simultaneously benefit Musk companies while he oversees federal spending
 status: confirmed
 ---
-
 FAA approves 4,000 Starlink terminals worth $400 million despite existing contract with another company, while State Department announces $400 million Tesla Cybertruck contract and Commerce changes broadband requirements favoring Starlink.

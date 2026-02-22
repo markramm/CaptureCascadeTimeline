@@ -12,15 +12,18 @@ sources:
 - title: '14th Amendment to the U.S. Constitution: Civil Rights (1868)'
   outlet: National Archives
   url: https://www.archives.gov/milestone-documents/14th-amendment
+  tier: 1
   year: 2024
 - title: 'Landmark Legislation: The Fourteenth Amendment'
   outlet: U.S. Senate
   url: https://www.senate.gov/about/origins-foundations/senate-and-constitution/14th-amendment.htm
   year: 2024
+  tier: 1
 - title: Fourteenth Amendment to the United States Constitution
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution
   year: 2024
+  tier: 2
 tags:
 - institutional-capture
 - legal-system-weaponization

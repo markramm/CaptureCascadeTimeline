@@ -28,22 +28,26 @@ sources:
   url: https://www.washingtonpost.com/archive/opinions/1991/10/06/where-is-the-keating-five-report/7db61932-0577-416b-b022-007cdb809245/
   outlet: The Washington Post
   date: '1991-10-06'
+  tier: 1
   verified: true
 - title: Scandal Shaped McCain's Sense of Honor in Office
   url: https://www.npr.org/2007/12/13/17137136/scandal-shaped-mccains-sense-of-honor-in-office
   outlet: NPR
   date: '2007-12-13'
   verified: true
+  tier: 1
 - title: Savings and Loan Senate Ethics Investigation
   url: https://www.c-span.org/video/?15593-1/savings-loan-senate-ethics-investigation
   outlet: C-SPAN
   date: '1991-01-04'
   verified: true
+  tier: 1
 - title: ETHICS PANEL HEARS 'KEATING 5' CHARGES
   url: https://www.washingtonpost.com/archive/politics/1990/11/16/ethics-panel-hears-keating-5-charges/6b9fd86a-a1eb-411e-b8dd-f94335abbc47/
   outlet: The Washington Post
   date: '1990-11-16'
   verified: true
+  tier: 1
 status: confirmed
 ---
 

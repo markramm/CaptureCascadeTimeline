@@ -24,14 +24,17 @@ sources:
   url: https://www.npr.org/2025/07/11/nx-s1-5462618/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles
   outlet: NPR
   date: '2025-07-11'
+  tier: 1
 - title: Judge orders halt to 'roving' LA immigration raids
   url: https://calmatters.org/justice/2025/07/la-immigration-restraining-order/
   outlet: CalMatters
   date: '2025-07-11'
+  tier: 2
 - title: Judge orders Trump administration to stop immigration arrests without probable cause in Southern California
   url: https://www.cnn.com/2025/07/11/politics/california-immigration-arrests-probable-cause
   outlet: CNN
   date: '2025-07-11'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Judicial Capture

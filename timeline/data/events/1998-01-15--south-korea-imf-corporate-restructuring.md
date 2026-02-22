@@ -15,22 +15,27 @@ sources:
   title: Korean Crisis and Recovery Analysis
   url: https://www.imf.org/external/np/seminars/eng/2002/cpem/pdf/kihwan.pdf
   date_accessed: '2025-09-25'
+  tier: 1
 - outlet: The Korea Herald
   title: 'From ''miracle to debacle'': Painful ''IMF days'' of 1997-1998'
   url: https://www.koreaherald.com/article/3212370
   date_accessed: '2025-09-25'
+  tier: 2
 - outlet: Korea Economic Institute of America
   title: South Korea 20 Years After the IMF Rescue Package
   url: https://keia.org/the-peninsula/south-korea-20-years-after-the-imf-rescue-package/
   date_accessed: '2025-10-15'
+  tier: 2
 - outlet: Columbia University Business School
   title: Economic Crisis and Chaebol Reform in Korea
   url: https://business.columbia.edu/sites/default/files-efs/imce-uploads/PFS/APEC_New/PSLee.PDF
   date_accessed: '2025-10-15'
+  tier: 1
 - outlet: Stanford University
   title: Korea and the Asian Financial Crisis
   url: https://web.stanford.edu/class/e297c/trade_environment/global/hkorea.html
   date_accessed: '2025-10-15'
+  tier: 1
 tags:
 - imf
 - structural-adjustment

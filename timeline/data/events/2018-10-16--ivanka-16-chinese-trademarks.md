@@ -23,14 +23,17 @@ sources:
   url: https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727
   outlet: Associated Press
   date: '2018-11-06'
+  tier: 1
 - title: Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE
   url: https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html
   outlet: The New York Times
   date: '2018-05-28'
+  tier: 1
 - title: China approves new batch of Ivanka Trump trademarks amid trade talks
   url: https://www.reuters.com/article/us-china-usa-ivanka-idUSKCN1NB0TL
   outlet: Reuters
   date: '2018-11-06'
+  tier: 1
 notes: Pattern of trademark approvals coinciding with policy decisions raised serious questions about quid pro quo arrangements benefiting president's family during sensitive negotiations.
 capture_lanes:
 - Legislative Capture

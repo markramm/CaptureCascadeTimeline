@@ -17,22 +17,27 @@ sources:
   url: https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/
   outlet: Truthout
   date: '2025-04-21'
+  tier: 2
 - title: Trump's Inauguration Donor Pool Includes $50 Million in Contributions from Corporations Under Investigation
   url: https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/
   outlet: Public Citizen
   date: '2025-04-21'
+  tier: 2
 - title: 'Corporate Clemency: How Trump Is Halting Enforcement Against Corporate Lawbreakers'
   url: https://www.citizen.org/article/corporate-clemency-trump-enforcement-report/
   outlet: Public Citizen
   date: '2025-04-21'
+  tier: 2
 - title: 'See How This Works?: Trump Drops Cases Against Corporations That Funded His Inauguration'
   url: https://www.commondreams.org/news/trump-corporations-inauguration
   outlet: Common Dreams
   date: '2025-04-21'
+  tier: 2
 - title: Meet the top donors who pumped millions into Trump's inauguration
   url: https://www.washingtonpost.com/politics/interactive/2025/trump-inauguration-donors-list/
   outlet: The Washington Post
   date: '2025-04-21'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

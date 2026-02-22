@@ -26,30 +26,35 @@ sources:
   url: https://en.wikipedia.org/wiki/Lincoln_Savings_and_Loan_Association
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Savings and loan crisis
   url: https://en.wikipedia.org/wiki/Savings_and_loan_crisis
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Charles Keating and Lincoln Savings and Loan
   url: https://www.fdic.gov/resources/publications/s-and-l-crisis/s-and-l-biblio-09.html
   outlet: FDIC.gov
   date: '1989-04-14'
   verified: true
   notes: Official government documentation of the Lincoln Savings and Loan collapse
+  tier: 1
 - title: 'The Savings and Loan Crisis: A Comprehensive Overview'
   url: https://www.fdic.gov/publications/sl-crisis-chrono-bibliography
   outlet: FDIC.gov
   date: '1989-04-14'
   verified: true
   notes: Official chronological bibliography of the S&L crisis
+  tier: 1
 - title: The Keating Five and Lincoln Savings and Loan Scandal
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2024-01-15'
   verified: true
   notes: Detailed investigative account of the Lincoln Savings collapse
+  tier: 2
 status: confirmed
 ---
 

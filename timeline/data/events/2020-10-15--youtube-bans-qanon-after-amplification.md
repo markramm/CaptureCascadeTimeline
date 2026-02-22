@@ -23,18 +23,22 @@ sources:
   url: https://www.nbcnews.com/tech/tech-news/youtube-bans-qanon-other-conspiracy-content-targets-individuals-n1243525
   outlet: NBC News
   date: '2020-10-15'
+  tier: 1
 - title: YouTube a Major QAnon Driver Bans Conspiracy Theory
   url: https://www.rollingstone.com/culture/culture-news/youtube-qanon-ban-1076158/
   outlet: Rolling Stone
   date: '2020-10-15'
+  tier: 2
 - title: YouTube bans videos promoting conspiracy theories like QAnon that target individuals
   url: https://techcrunch.com/2020/10/15/youtube-bans-videos-promoting-conspiracy-theories-like-qanon-that-target-individuals/
   outlet: TechCrunch
   date: '2020-10-15'
+  tier: 2
 - title: YouTube Targets QAnon Bans Conspiracy Theory Videos
   url: https://variety.com/2020/digital/news/youtube-qanon-ban-conspiracy-theory-violence-1234805937/
   outlet: Variety
   date: '2020-10-15'
+  tier: 1
 status: confirmed
 id: 2020-10-15--youtube-bans-qanon-after-amplification
 capture_lanes:

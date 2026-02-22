@@ -14,19 +14,23 @@ sources:
 - title: United States v. Microsoft Corp.
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.
+  tier: 2
   retrieval_date: '2025-12-23'
 - title: Long antitrust saga ends for Microsoft
   outlet: The Seattle Times
   url: https://www.seattletimes.com/business/microsoft/long-antitrust-saga-ends-for-microsoft/
   retrieval_date: '2025-12-23'
+  tier: 1
 - title: Microsoft Antitrust Case
   outlet: Corporate Finance Institute
   url: https://corporatefinanceinstitute.com/resources/management/microsoft-antitrust-case/
   retrieval_date: '2025-12-23'
+  tier: 2
 - title: Microsoft case has tumultuous history, related fallout
   outlet: Computerworld
   url: https://www.computerworld.com/article/1334698/microsoft-case-has-tumultuous-history-related-fallout.html
   retrieval_date: '2025-12-23'
+  tier: 2
 tags:
 - antitrust
 - tech-monopoly

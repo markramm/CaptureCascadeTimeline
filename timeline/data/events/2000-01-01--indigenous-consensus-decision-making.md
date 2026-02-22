@@ -11,6 +11,7 @@ sources:
 - title: Deliberative Democracy and Indigenous Political Practices
   url: https://www.nature.com/articles/s41599-020-0506-4
   outlet: 'Nature: Humanities and Social Sciences Communications'
+  tier: 2
   publication_date: '2020-07-15'
   description: Academic analysis of Indigenous deliberative democratic practices and consensus-building techniques
 - title: Consensus Building in Indigenous Engagement Processes
@@ -18,11 +19,13 @@ sources:
   outlet: Springer
   publication_date: '2018-11-01'
   description: Scholarly examination of consensus mechanisms in Indigenous governance models
+  tier: 2
 - title: Indigenous-Centred Decision-Making in Energy Transitions
   url: https://www.sciencedirect.com/science/article/pii/S221462962500009X
   outlet: 'ScienceDirect: Energy Research & Social Science'
   publication_date: '2025-01-15'
   description: Contemporary research on Indigenous governance principles in systemic decision-making processes
+  tier: 2
 tags:
 - consensus-democracy
 - indigenous-politics

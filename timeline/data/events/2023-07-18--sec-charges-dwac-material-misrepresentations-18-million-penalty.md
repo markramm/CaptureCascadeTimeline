@@ -18,14 +18,17 @@ sources:
   url: https://www.sec.gov/newsroom/press-releases/2023-135
   outlet: US Securities and Exchange Commission
   date: '2023-07-18'
+  tier: 1
 - title: Trump Media merger partner DWAC settles with SEC over fraud charges
   url: https://www.cnbc.com/2023/07/20/trump-media-merger-partner-dwac-settles-with-sec-over-fraud-charges.html
   outlet: CNBC
   date: '2023-07-20'
+  tier: 2
 - title: SEC charges Digital World Acquisition Corp with SPAC fraud
   url: https://www.cbsnews.com/news/sec-charges-digital-world-acquistion-corp-spac-donald-trump-trump-media-technology-group/
   outlet: CBS News
   date: '2023-07-18'
+  tier: 1
 importance: 9
 status: confirmed
 capture_lanes:

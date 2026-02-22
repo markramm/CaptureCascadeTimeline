@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/04/29/business/media/paramount-cbs-60-minutes-trump-lawsuit.html
   outlet: The New York Times
   date: '2025-04-29'
+  tier: 1
 - title: Paramount agrees to pay 16 million to settle Trump's lawsuit over 60 Minutes
   url: https://www.nbcnews.com/news/us-news/paramount-agrees-pay-16-million-settle-trumps-lawsuit-60-minutes-kamal-rcna216419
   outlet: NBC News
   date: '2025-07-02'
+  tier: 1
 - title: Paramount Settles Donald Trump Lawsuit, Clearing Path For Skydance Merger
   url: https://deadline.com/2025/07/trump-lawsuit-60-minutes-lawsuit-settled-1236447496/
   outlet: Deadline
   date: '2025-07-02'
+  tier: 1
 - title: Paramount agrees to settle Trump lawsuit for 16 million over 60 Minutes interview
   url: https://www.axios.com/2025/07/02/trump-paramount-cbs-harris-interview-lawsuit-settlement
   outlet: Axios
   date: '2025-07-02'
+  tier: 2
 - title: Paramount Offers Trump Millions To End 60 Minutes Suit & Clear Skydance Merger
   url: https://deadline.com/2025/05/trump-paramount-settlement-offer-1236412894/
   outlet: Deadline
   date: '2025-05-28'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

@@ -20,20 +20,21 @@ actors:
 - Mary Dohrmann
 - Trump Administration
 sources:
-- url: https://www.npr.org/2025/01/27/nx-s1-5276334/justice-department-firings-trump-special-counsel-jack-smith
+- url: 'https://www.npr.org/2025/01/27/nx-s1-5276334/justice-department-firings-trump-special-counsel-jack-smith'
   title: Justice Department moves to fire at least 12 officials who investigated Trump
   outlet: NPR
   date: '2025-01-27'
-- url: https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512
+  tier: 1
+- url: 'https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512'
   title: Trump administration fires DOJ officials who worked on criminal investigations
-    of the president
+  tier: 1
   outlet: NBC News
   date: '2025-01-27'
-- url: https://www.cbsnews.com/news/trump-justice-dept-fires-jack-smith-employees-jan-6-cases/
-  title: Trump Justice Dept. fires employees tied to Jack Smith probes as officials
-    launch review of Jan. 6 cases
+- url: 'https://www.cbsnews.com/news/trump-justice-dept-fires-jack-smith-employees-jan-6-cases/'
+  title: Trump Justice Dept. fires employees tied to Jack Smith probes as officials launch review of Jan. 6 cases
   outlet: CBS News
   date: '2025-01-27'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture
@@ -41,5 +42,4 @@ capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
 ---
-
 Trump administration Justice Department fires at least 35 DOJ employees who worked on Special Counsel Jack Smith investigations into Trump's classified documents case and January 6th election interference. Fired prosecutors included career attorneys Molly Gaston, J.P. Cooney, Anne McNamara, and Mary Dohrmann. Acting Attorney General James McHenry stated 'the Acting Attorney General does not trust these officials to assist in faithfully implementing the President's agenda', breaking traditional norm that career prosecutors remain across administrations. The unprecedented targeting of career prosecutors who investigated a president demonstrates systematic DOJ weaponization designed to intimidate future investigations and transform Justice Department into Trump's personal law firm.

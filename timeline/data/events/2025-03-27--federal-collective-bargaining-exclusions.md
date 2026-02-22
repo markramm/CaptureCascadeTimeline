@@ -22,23 +22,26 @@ citations:
 notes: Significant reduction in federal worker collective bargaining rights under national security justification.
 sources:
 - title: Executive Actions Archive
-  url: https://www.whitehouse.gov/presidential-actions/
+  url: 'https://www.whitehouse.gov/presidential-actions/'
   outlet: White House
   date: '2025-01-20'
-  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/'
 - title: Fact Sheet on Federal Collective Bargaining Exclusions
-  url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/
+  url: 'https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/'
   outlet: White House
   date: '2025-03-27'
+  tier: 1
 - title: Trump signs executive order ending collective bargaining rights for many federal workers
-  url: https://www.cnn.com/2025/03/28/politics/executive-order-collective-bargaining-national-security/index.html
+  url: 'https://www.cnn.com/2025/03/28/politics/executive-order-collective-bargaining-national-security/index.html'
   outlet: CNN Politics
   date: '2025-03-28'
+  tier: 2
 - title: Trump orders more agencies to nix collective bargaining agreements
-  url: https://federalnewsnetwork.com/unions/2025/08/trump-orders-more-agencies-to-nix-collective-bargaining-agreements/
+  url: 'https://federalnewsnetwork.com/unions/2025/08/trump-orders-more-agencies-to-nix-collective-bargaining-agreements/'
   outlet: Federal News Network
   date: '2025-08-15'
+  tier: 2
 status: confirmed
 ---
-
 EO on federal collective bargaining exclusions issued; OPM guidance and White House fact sheet published exempting agencies with national security missions from federal collective bargaining requirements

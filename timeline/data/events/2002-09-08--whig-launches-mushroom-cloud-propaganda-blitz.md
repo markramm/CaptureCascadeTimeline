@@ -24,14 +24,17 @@ sources:
   url: https://www.pbs.org/wgbh/pages/frontline/shows/truth/why/said.html
   outlet: PBS Frontline
   date: '2004-01-29'
+  tier: 1
 - title: Interview With Condoleezza Rice
   url: https://transcripts.cnn.com/show/le/date/2002-09-08/segment/00
   outlet: CNN
   date: '2002-09-08'
+  tier: 1
 - title: '''Mushroom Cloud'' Sales Pitch Is Back'
   url: https://consortiumnews.com/2012/09/08/mushroom-cloud-sales-pitch-is-back/
   outlet: Consortium News
   date: '2012-09-08'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

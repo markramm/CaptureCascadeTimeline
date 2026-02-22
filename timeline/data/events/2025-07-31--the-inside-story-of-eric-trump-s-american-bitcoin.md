@@ -20,14 +20,17 @@ sources:
   outlet: CNBC
   date: '2025-08-29'
   url: https://www.cnbc.com/2025/08/29/eric-trump-talks-bitcoin-in-hong-kong-predicts-1-million-valuation.html
+  tier: 2
 - title: Eric Trump's American Bitcoin going public in latest crypto move
   outlet: NBC News
   date: '2025-05-12'
   url: https://www.nbcnews.com/world/asia/american-bitcoin-eric-trump-touting-hong-kong-rcna227936
+  tier: 1
 - title: Trump-backed crypto firm American Bitcoin notches $5 billion valuation in Nasdaq debut
   outlet: Fortune Crypto
   date: '2025-09-03'
   url: https://fortune.com/crypto/2025/09/03/american-bitcoin-nasdaq-trading-eric-donald-trump-jr-hut-8/
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

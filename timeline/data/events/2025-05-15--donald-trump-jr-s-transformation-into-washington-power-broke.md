@@ -1,11 +1,11 @@
 ---
 id: 2025-05-15--donald-trump-jr-s-transformation-into-washington-power-broke
-title: Donald Trump Jr.'s transformation into Washington power broker
+title: 'Donald Trump Jr.''s transformation into Washington power broker'
 date: '2025-05-15'
-description: From joining multiple corporate boards to launching global cryptocurrency and hospitality ventures, Donald Trump Jr. has significantly expanded his financial and political influence, leveraging his family's White House connections.
+description: 'From joining multiple corporate boards to launching global cryptocurrency and hospitality ventures, Donald Trump Jr. has significantly expanded his financial and political influence, leveraging his family''s White House connections.'
 status: confirmed
 importance: 8
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Donald Trump
 - Donald Trump Jr.
@@ -19,30 +19,33 @@ tags:
 capture_type: monetizing_position
 sources:
 - outlet: CNBC
-  title: Trump crypto firm planning expansion with tokenized commodities, debit cards
-  url: https://www.cnbc.com/2025/10/01/trump-crypto-firm-expansion-with-tokenized-commodities-debit-cards.html
+  title: 'Trump crypto firm planning expansion with tokenized commodities, debit cards'
+  url: 'https://www.cnbc.com/2025/10/01/trump-crypto-firm-expansion-with-tokenized-commodities-debit-cards.html'
   date: '2025-10-01'
+  tier: 2
 - outlet: Fortune Crypto
   title: Trump-backed crypto firm American Bitcoin notches $5 billion valuation in Nasdaq debut
-  url: https://fortune.com/crypto/2025/09/03/american-bitcoin-nasdaq-trading-eric-donald-trump-jr-hut-8/
+  url: 'https://fortune.com/crypto/2025/09/03/american-bitcoin-nasdaq-trading-eric-donald-trump-jr-hut-8/'
   date: '2025-09-03'
+  tier: 2
 - outlet: CBS News
-  title: Donald Trump Jr.'s transformation into Washington power broker
-  url: https://www.cbsnews.com/news/donald-trump-jr-washington-power-broker/
+  title: 'Donald Trump Jr.''s transformation into Washington power broker'
+  url: 'https://www.cbsnews.com/news/donald-trump-jr-washington-power-broker/'
   date: '2025-05-15'
+  tier: 1
 - outlet: NPR
-  title: How Trump's latest crypto launch enriches his family
-  url: https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial
+  title: 'How Trump''s latest crypto launch enriches his family'
+  url: 'https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial'
   date: '2025-09-03'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture
 - family-influence
-notes: Comprehensive documentation of Trump Jr.'s cryptocurrency and corporate board ventures in 2025, demonstrating systematic monetization of political connections
+notes: 'Comprehensive documentation of Trump Jr.''s cryptocurrency and corporate board ventures in 2025, demonstrating systematic monetization of political connections'
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
 - Financial Capture
 ---
-
 Donald Trump Jr. has amassed significant wealth and power through cryptocurrency ventures like World Liberty Financial and American Bitcoin, establishing himself as a major Washington power broker. His ventures include a World Liberty Financial stablecoin USD1 that became the fifth-largest globally, and a Bitcoin mining company that raised $220 million.

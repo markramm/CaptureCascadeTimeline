@@ -13,12 +13,15 @@ sources:
 - title: Aftermath of the Asian Financial Crisis
   url: https://www.brookings.edu/articles/lessons-from-the-asian-financial-crisis/
   outlet: Brookings Institution
+  tier: 1
 - title: 'Finance & Development: The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
   outlet: International Monetary Fund
+  tier: 1
 - title: 'Asian Financial Crisis: Economic Transformation'
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
   outlet: Federal Reserve History
+  tier: 1
 tags:
 - asian-financial-crisis
 - structural-adjustment

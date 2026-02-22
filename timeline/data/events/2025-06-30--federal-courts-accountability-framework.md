@@ -11,16 +11,19 @@ actors:
 sources:
 - outlet: U.S. Courts Official Website
   title: Administrative Oversight and Accountability Framework
-  url: https://www.uscourts.gov/administration-policies/administrative-oversight-and-accountability
+  url: 'https://www.uscourts.gov/administration-policies/administrative-oversight-and-accountability'
   date_accessed: '2025-10-06'
+  tier: 1
 - outlet: Campaign Legal Center
   title: Judicial Conference Decision on Judicial Ethics Standards
-  url: https://campaignlegal.org/update/judicial-conference-decision-lowers-ethics-standards-federal-judges-and-us-supreme-court
+  url: 'https://campaignlegal.org/update/judicial-conference-decision-lowers-ethics-standards-federal-judges-and-us-supreme-court'
   date_accessed: '2025-10-06'
+  tier: 1
 - outlet: Federal Register
   title: Judicial Conference of the United States 2025 Index
-  url: https://www.federalregister.gov/index/2025/judicial-conference-of-the-united-states
+  url: 'https://www.federalregister.gov/index/2025/judicial-conference-of-the-united-states'
   date_accessed: '2025-10-06'
+  tier: 1
 tags:
 - judicial-reform
 - constitutional-crisis
@@ -34,5 +37,4 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-
 Judicial Conference approved groundbreaking protocols for responding to systematic executive branch noncompliance, including accelerated contempt procedures, enhanced judicial protection measures, and a coordinated inter-district response strategy to preserve judicial review powers. The 2025 accountability framework introduces multi-tier oversight mechanisms, including national, regional, and local-level enforcement strategies to investigate and address potential misconduct.

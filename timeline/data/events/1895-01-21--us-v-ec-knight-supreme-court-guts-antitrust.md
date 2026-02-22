@@ -13,15 +13,18 @@ sources:
 - title: United States v. E.C. Knight Company
   outlet: Britannica
   url: https://www.britannica.com/event/United-States-v-E-C-Knight-Company
+  tier: 2
   year: 2025
 - title: United States v. E. C. Knight Co.
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_v._E._C._Knight_Co.
   year: 2025
+  tier: 2
 - title: Sherman Antitrust Act of 1890 and Sugar Trust Case
   outlet: Library of Congress - Constitution Annotated
   url: https://constitution.congress.gov/browse/essay/artI-S8-C3-5-1/ALDE_00013407/
   year: 2025
+  tier: 1
 tags:
 - judicial-capture
 - regulatory-erosion

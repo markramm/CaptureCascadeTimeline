@@ -27,14 +27,17 @@ sources:
   outlet: ABC News
   date: '2025-04-29'
   url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
+  tier: 1
 - title: 'The Trump Connection: Why Some Bought World Liberty Financial Tokens'
   outlet: Reuters/TradingView
   date: '2025-04-29'
   url: https://www.tradingview.com/news/reuters.com,2025:newsml_L2N3OH17S:0-the-trump-connection-why-some-bought-world-liberty-financial-tokens/
+  tier: 1
 - title: 'Day 2: Trump''s World Liberty Financial Grift Part I'
   outlet: U.S. House Committee on Financial Services Democrats
   date: '2025-04-29'
   url: https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413632
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

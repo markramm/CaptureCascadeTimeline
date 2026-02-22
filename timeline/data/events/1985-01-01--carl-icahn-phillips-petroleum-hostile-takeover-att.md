@@ -12,17 +12,20 @@ sources:
   url: https://www.washingtonpost.com/archive/business/1985/03/05/phillips-icahn-settle/7bc631ac-ab1d-4646-8a25-570333be3c33/
   access_date: '2025-10-06'
   importance_score: 9
+  tier: 1
 - outlet: Chicago Tribune
   title: Phillips Counterattacks to Repulse Takeover
   url: https://www.chicagotribune.com/1985/02/08/phillips-counterattacks-to-repulse-takeover/
   access_date: '2025-10-06'
   importance_score: 8
+  tier: 2
 - outlet: Princeton Alumni Weekly
   title: 'Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn
     ''57'
   url: https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57
   access_date: '2025-10-06'
   importance_score: 7
+  tier: 1
 importance: 8
 tags:
 - corporate-raiding

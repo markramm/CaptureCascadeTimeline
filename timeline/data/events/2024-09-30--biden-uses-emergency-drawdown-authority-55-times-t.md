@@ -21,18 +21,22 @@ sources:
   url: https://www.state.gov/bureau-of-political-military-affairs/use-of-presidential-drawdown-authority-for-military-assistance-for-ukraine
   outlet: U.S. Department of State
   date: '2024-09-30'
+  tier: 1
 - title: 'Presidential Drawdown Authority: Guidance Should Reflect Expanded Use'
   url: https://www.gao.gov/products/gao-25-107475
   outlet: GAO
   date: '2024-09-19'
+  tier: 1
 - title: U.S. Security Assistance to Ukraine
   url: https://crsreports.congress.gov/product/pdf/IF/IF12040
   outlet: Congressional Research Service
   date: '2024-08-15'
+  tier: 1
 - title: Pentagon unlikely to use all of the billions Congress authorized
   url: https://www.cnn.com/2024/11/27/politics/pentagon-billions-ukraine-aid/index.html
   outlet: CNN
   date: '2024-11-27'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

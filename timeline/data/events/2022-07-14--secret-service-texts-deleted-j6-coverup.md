@@ -24,14 +24,17 @@ sources:
   url: https://www.washingtonpost.com/nation/2022/07/14/secret-service-texts/
   outlet: The Washington Post
   date: '2022-07-14'
+  tier: 1
 - title: Secret Service deleted texts from around January 6, DHS inspector general says
   url: https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-january-6/index.html
   outlet: CNN
   date: '2022-07-14'
+  tier: 1
 - title: DHS watchdog says Secret Service deleted texts from around Jan. 6 attack
   url: https://www.nbcnews.com/politics/congress/secret-service-deleted-texts-jan-6-attack-dhs-watchdog-says-rcna38431
   outlet: NBC News
   date: '2022-07-14'
+  tier: 1
 notes: Secret Service claimed messages were lost during pre-planned phone migration, but timing after oversight request raised serious concerns about evidence destruction and obstruction of congressional investigation.
 capture_lanes:
 - Regulatory Capture

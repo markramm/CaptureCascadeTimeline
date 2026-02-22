@@ -32,30 +32,37 @@ sources:
   url: https://www.justice.gov/opa/pr/justice-department-sues-six-additional-states-failure-provide-voter-registration-rolls
   outlet: Department of Justice
   date: '2025-12-03'
+  tier: 1
 - title: DOJ Sues Six More States in Sweeping Push to Obtain Unredacted Voter Rolls
   url: https://www.democracydocket.com/news-alerts/doj-sues-six-more-states-in-sweeping-push-to-obtain-unredacted-voter-rolls/
   outlet: Democracy Docket
   date: '2025-12-03'
+  tier: 2
 - title: Justice Department sues 4 more states, including Colorado, for access to detailed voter data
   url: https://coloradosun.com/2025/12/14/justice-department-sues-4-more-states-including-colorado-for-access-to-detailed-voter-data/
   outlet: Colorado Sun
   date: '2025-12-14'
+  tier: 2
 - title: Justice Department Has Demanded Voter Files from at Least 27 States
   url: https://www.brennancenter.org/our-work/analysis-opinion/justice-department-has-demanded-voter-files-least-21-states
   outlet: Brennan Center for Justice
   date: '2025-12-03'
+  tier: 1
 - title: Justice Department sues 6 more states for voter lists
   url: https://stateline.org/2025/12/03/justice-department-sues-6-more-states-for-voter-lists/
   outlet: Stateline
   date: '2025-12-03'
+  tier: 2
 - title: DOJ sues MD, other states that declined demands for voter data
   url: https://thedailyrecord.com/2025/12/03/justice-department-sues-states-voter-data-dispute/
   outlet: The Daily Record
   date: '2025-12-03'
+  tier: 2
 - title: Justice Department expands legal action against states that have refused its demands for voter data
   url: https://abcnews.go.com/Politics/wireStory/justice-department-expands-legal-action-states-refused-demands-128058354
   outlet: ABC News
   date: '2025-12-03'
+  tier: 1
 connections:
 - DHS Turbocharges Trump Voter Purge Database (2025-11-15)
 patterns:

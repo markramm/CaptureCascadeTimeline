@@ -30,18 +30,22 @@ sources:
   url: https://bloomberg.com/source
   outlet: Bloomberg
   date: '2025-01-30'
+  tier: 1
 - title: 'CNN: Trump Crypto Dinner Offers Presidential Access for'
   url: https://cnn.com/source
   outlet: CNN
   date: '2025-01-30'
+  tier: 1
 - title: Senate Permanent Subcommittee Investigation into Trump Crypto Corruption
   url: https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption
   outlet: U.S. Senate Office of Richard Blumenthal
   date: '2025-05-15'
+  tier: 1
 - title: Senate Democrat Looks into Trump's Crypto Businesses
   url: https://www.coindesk.com/policy/2025/05/06/senate-democrat-says-hes-looking-into-trumps-crypto-businesses
   outlet: CoinDesk
   date: '2025-05-06'
+  tier: 2
 connections: []
 patterns:
 - monetizing-office

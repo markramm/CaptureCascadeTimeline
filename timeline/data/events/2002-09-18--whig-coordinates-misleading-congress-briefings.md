@@ -18,20 +18,24 @@ sources:
   url: https://www.intelligence.senate.gov/reports/iraq-intelligence
   description: Comprehensive investigation into intelligence misrepresentations leading to Iraq War
   date_accessed: '2025-10-17'
+  tier: 1
 - outlet: Wikipedia
   title: Senate Report on Iraqi WMD Intelligence
   url: https://en.wikipedia.org/wiki/Senate_Report_on_Iraqi_WMD_Intelligence
   date_accessed: '2025-10-17'
+  tier: 2
 - outlet: National Security Archive
   title: Iraq and Weapons of Mass Destruction Intelligence Overview
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB80/
   description: Comprehensive documentation of WMD intelligence claims
   date_accessed: '2025-10-17'
+  tier: 1
 - outlet: George W. Bush White House Archives
   title: White House Iraq Group Operations Documentation
   url: https://georgewbush-whitehouse.archives.gov/infocus/iraq/index2.html
   description: Official documentation of White House communications about Iraq
   date_accessed: '2025-10-17'
+  tier: 1
 tags:
 - whig
 - congressional-deception

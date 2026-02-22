@@ -19,18 +19,22 @@ sources:
   url: https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics
   outlet: ProPublica
   date: '2025-01-28'
+  tier: 1
 - title: Kristi Noem Secretly Pocketed Cash From Dark Money Group
   url: https://www.rollingstone.com/politics/politics-news/kristi-noem-dark-money-group-1235375422/
   outlet: Rolling Stone
   date: '2023-06-28'
+  tier: 2
 - title: Kristi Noem Secretly Took Mystery Donation From Dark-Money Group
   url: https://newrepublic.com/post/197416/kristi-noem-donation-dark-money-group
   outlet: The New Republic
   date: '2023-11-15'
+  tier: 2
 - title: Kristi Noem Accused of Failing to Disclose $80k Dark Money Payment
   url: https://www.allsides.com/story/campaign-finance-kristi-noem-accused-failing-disclose-80k-dark-money-payment
   outlet: AllSides
   date: '2023-11-15'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

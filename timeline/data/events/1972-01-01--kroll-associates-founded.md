@@ -23,22 +23,26 @@ sources:
   url: https://www.newyorker.com/magazine/2009/10/19/the-secret-keeper
   outlet: The New Yorker
   date: '2009-10-19'
+  tier: 1
   verified: true
 - title: The French, the CIA and the Man Who Sued Too Much
   url: https://www.washingtonpost.com/archive/politics/1996/01/08/the-french-the-cia-and-the-man-who-sued-too-much/d81e2a2b-96e7-4a75-8680-1a76b24c9f36/
   outlet: The Washington Post
   date: '1996-01-08'
   verified: true
+  tier: 1
 - title: Inside the corporate investigations business
   url: https://www.thebureauinvestigates.com/stories/2017-12-12/inside-the-corporate-investigations-business
   outlet: The Bureau of Investigative Journalism
   date: '2017-12-12'
   verified: true
+  tier: 1
 - title: Kroll, Inc. - Corporate Intelligence Firm Overview
   url: https://www.sourcewatch.org/index.php/Kroll,_Inc.
   outlet: SourceWatch
   date: '2023-01-15'
   verified: true
+  tier: 2
 notes: French intelligence officials reportedly suspected Kroll's Paris branch was a CIA front and even bugged its offices, though Kroll's chairman denied any CIA involvement. Kroll's growth during the post-Watergate era demonstrated how private-sector investigations and security services could expand to fill roles once handled by government agencies, setting the template for modern corporate intelligence firms.
 capture_lanes:
 - Financial Capture

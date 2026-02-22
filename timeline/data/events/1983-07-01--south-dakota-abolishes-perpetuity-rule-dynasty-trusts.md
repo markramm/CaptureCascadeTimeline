@@ -17,14 +17,17 @@ sources:
   url: https://taxpolicycenter.org/taxvox/south-dakota-turned-itself-tax-haven-why
   outlet: Tax Policy Center
   date: '2019-11-14'
+  tier: 1
 - title: South Dakota Dynasty Trusts 101
   url: https://www.robinskaplan.com/newsroom/insights/trust-and-estate-law-south-dakota-dynasty-trusts-101
   outlet: Robins Kaplan LLP
   date: '2015-09-01'
+  tier: 2
 - title: South Dakota – America's Own Little Tax Haven?
   url: https://www.pennstatelawreview.org/the-forum/south-dakota-americas-own-little-tax-haven/
   outlet: Penn State Law Review
   date: '2020-05-15'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

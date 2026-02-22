@@ -22,14 +22,17 @@ sources:
   url: https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html
   outlet: The New York Times
   date: '2025-02-11'
+  tier: 1
 - title: How did Elon Musk become so powerful in the Trump administration?
   url: https://www.npr.org/2025/02/12/g-s1-48392/how-did-elon-musk-became-so-powerful-in-the-trump-administration
   outlet: NPR
   date: '2025-02-12'
+  tier: 1
 - title: Elon Musk's regulatory troubles have begun to melt away in Trump's second term
   url: https://www.cnbc.com/2025/05/12/elon-musks-regulatory-troubles-have-begun-to-melt-away-in-trumps-second-term.html
   outlet: CNBC
   date: '2025-05-12'
+  tier: 2
 connections:
 - Trump Administration Political Interference
 - Agency Leadership Removal

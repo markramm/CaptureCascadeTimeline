@@ -24,18 +24,22 @@ sources:
   url: https://nsarchive.gwu.edu/briefing-book/foia/2017-04-14/trump-hides-white-house-visitor-logs
   outlet: National Security Archive
   date: '2025-02-11'
+  tier: 1
 - title: White House will not release visitor logs during Trump's second term
   url: https://www.foxnews.com/politics/white-house-not-release-visitor-logs-during-trumps-second-term
   outlet: Fox News
   date: '2025-02-11'
+  tier: 2
 - title: White House Says It Won't Release Visitor Records
   url: https://www.pbs.org/newshour/nation/white-house-says-wont-release-visitor-records
   outlet: PBS News
   date: '2025-02-11'
+  tier: 1
 - title: White House Says It Will No Longer Release Visitor Logs To The Public
   url: https://www.npr.org/sections/thetwo-way/2017/04/14/523968950/white-house-says-it-will-no-longer-release-visitor-logs-to-the-public
   outlet: NPR
   date: '2025-02-11'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

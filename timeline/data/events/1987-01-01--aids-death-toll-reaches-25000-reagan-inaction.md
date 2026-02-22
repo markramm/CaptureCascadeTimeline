@@ -23,17 +23,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Ronald_Reagan_and_AIDS
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: 'Reagan AIDS Legacy: Silence Equals Death'
   url: https://www.sfgate.com/opinion/openforum/article/Reagan-s-AIDS-Legacy-Silence-equals-death-2751030.php
   outlet: San Francisco Chronicle
   date: '2004-06-08'
   verified: true
+  tier: 2
 - title: Reagan Legacy
   url: https://www.sfaf.org/collections/status/reagans-legacy/
   outlet: San Francisco AIDS Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Electoral Manipulation
 - Digital & Tech Capture

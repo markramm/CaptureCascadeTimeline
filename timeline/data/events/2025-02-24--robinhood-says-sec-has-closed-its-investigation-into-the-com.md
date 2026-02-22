@@ -23,14 +23,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-02-24/robinhood-says-sec-closes-crypto-probe-without-any-enforcement
   outlet: Bloomberg
   date: '2025-02-24'
+  tier: 1
 - title: Robinhood says SEC dismissed crypto unit investigation in latest sign of easier regulation for industry
   url: https://www.cnbc.com/2025/02/24/robinhood-says-sec-dismissed-crypto-unit-investigation-in-latest-sign-of-easier-regulation-for-industry.html
   outlet: CNBC
   date: '2025-02-24'
+  tier: 2
 - title: The SEC closed its investigation into Robinhood's crypto arm
   url: https://www.axios.com/pro/fintech-deals/2025/02/24/sec-investigation-robinhood-crypto
   outlet: Axios
   date: '2025-02-24'
+  tier: 2
 connections:
 - Trump Administration Crypto Deregulation
 - SEC Enforcement Shift

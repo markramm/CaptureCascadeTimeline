@@ -18,10 +18,13 @@ actors:
 sources:
 - title: cnbc.com
   url: https://www.cnbc.com/2012/12/17/morgan-stanley-fined-5-million-over-facebook-ipo.html
+  tier: 2
 - title: money.cnn.com
   url: https://money.cnn.com/2012/05/23/technology/facebook-ipo-what-went-wrong/index.htm
+  tier: 1
 - title: hbsslaw.com
   url: https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard
+  tier: 2
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

@@ -13,15 +13,15 @@ capture_lanes:
 - Corporate Capture
 capture_type: monetizing_position
 connections:
-- Tech industry's relationship with Trump administration
+- 'Tech industry''s relationship with Trump administration'
 - Corporate access to presidential events
 - Unprecedented commercialization of White House traditions
 date: '2025-03-23'
-description: Trump White House introduces corporate sponsorships for Easter Egg Roll, allowing tech giants to purchase branding and access opportunities
+description: 'Trump White House introduces corporate sponsorships for Easter Egg Roll, allowing tech giants to purchase branding and access opportunities'
 id: 2025-03-23--white-house-invites-a-new-guest-to-its-easter-event-corporat
 importance: 8
-location: Washington, D.C.
-notes: First documented instance of direct corporate sponsorship of a traditional White House event, revealing new levels of institutional capture
+location: 'Washington, D.C.'
+notes: 'First documented instance of direct corporate sponsorship of a traditional White House event, revealing new levels of institutional capture'
 patterns:
 - kleptocratic-capture
 - monetization-of-office
@@ -29,18 +29,21 @@ sources:
 - date: '2025-04-19'
   outlet: NPR
   title: Corporate Sponsorships Transform White House Easter Egg Roll
-  url: https://www.npr.org/2025/04/19/g-s1-61377/white-house-easter-egg-roll-corporate-sponsors
+  url: 'https://www.npr.org/2025/04/19/g-s1-61377/white-house-easter-egg-roll-corporate-sponsors'
   verified: true
+  tier: 1
 - date: '2025-04-18'
   outlet: Rolling Stone
-  title: First Corporate-Sponsored White House Easter Egg Roll Draws Trump Pals Amazon, Google, Meta
-  url: https://www.rollingstone.com/politics/politics-news/trump-easter-egg-roll-sponsored-amazon-google-meta-1235321459/
+  title: 'First Corporate-Sponsored White House Easter Egg Roll Draws Trump Pals Amazon, Google, Meta'
+  url: 'https://www.rollingstone.com/politics/politics-news/trump-easter-egg-roll-sponsored-amazon-google-meta-1235321459/'
   verified: true
+  tier: 2
 - date: '2025-04-21'
   outlet: Tubefilter
   title: 'Welcome to Big Tech Easter: YouTube, Meta, and Amazon all get sponsor spots at the White House Egg Roll'
-  url: https://www.tubefilter.com/2025/04/21/easter-egg-roll-youtube-corporate-sponsor/
+  url: 'https://www.tubefilter.com/2025/04/21/easter-egg-roll-youtube-corporate-sponsor/'
   verified: true
+  tier: 2
 status: confirmed
 tags:
 - government-contracts
@@ -48,7 +51,6 @@ tags:
 - trump-administration
 - institutional-capture
 - corporate-sponsorship
-title: Trump White House Sells Corporate Sponsorships for Easter Egg Roll, Marking New Level of Institutional Capture
+title: 'Trump White House Sells Corporate Sponsorships for Easter Egg Roll, Marking New Level of Institutional Capture'
 ---
-
 The 2025 White House Easter Egg Roll marked an unprecedented moment of corporate capture, with tech giants Meta, YouTube, and Amazon purchasing sponsorship packages ranging from $75,000 to $200,000. These packages included branded activation spaces, event brunch tickets, and potential meet-and-greet opportunities, transforming a traditional presidential event into a corporate marketing platform.

@@ -27,14 +27,17 @@ sources:
   url: https://www.washingtonpost.com/national-security/2022/06/13/jan6-hearing-trump-fundraising/
   outlet: The Washington Post
   date: '2022-06-13'
+  tier: 1
 - title: Trump raised $250 million to fight election fraud claims. Here's where that money went
   url: https://www.cnn.com/2022/06/13/politics/january-6-hearing-donald-trump-fundraising/index.html
   outlet: CNN
   date: '2022-06-13'
+  tier: 1
 - title: Jan. 6 committee says Trump engaged in "Big Rip-Off" by fundraising off election lies
   url: https://www.cbsnews.com/news/january-6-committee-hearing-trump-big-rip-off-fundraising/
   outlet: CBS News
   date: '2022-06-13'
+  tier: 1
 notes: Committee investigator Amanda Wick testified that despite claims, the "Official Election Defense Fund" was a marketing tactic that never existed as a formal fund. Money went to Trump's Save America PAC and affiliated entities instead of election challenges.
 ---
 

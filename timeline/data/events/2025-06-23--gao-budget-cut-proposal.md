@@ -22,18 +22,22 @@ sources:
   url: https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/
   outlet: Federal News Network
   date: '2025-06-23'
+  tier: 2
 - title: 'GAO Chief: Budget Cut Would Have Grave Impact'
   url: https://www.meritalk.com/articles/gao-chief-budget-cut-would-have-grave-impact/
   outlet: MeriTalk
   date: '2025-06-25'
+  tier: 2
 - title: House appropriators approve Legislative Branch bill with GAO cuts
   url: https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts/
   outlet: Roll Call
   date: '2025-06-27'
+  tier: 2
 - title: House Republicans Clear Path for Trump Corruption with Attacks on GAO
   url: https://oversightdemocrats.house.gov/news/press-releases/house-republicans-clear-path-trump-corruption-attacks-gao
   outlet: House Oversight Democrats
   date: '2025-06-23'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

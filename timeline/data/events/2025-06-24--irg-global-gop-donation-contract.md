@@ -24,14 +24,17 @@ sources:
   url: https://www.wgcu.org/section/immigration/2025-07-02/governor-desantis-is-building-alligator-alcatraz-with-little-oversight-big-campaign-donor-is-set-to-reap-millions-from-it
   outlet: WGCU PBS & NPR
   date: '2025-07-02'
+  tier: 1
 - title: Alligator Alcatraz firm donated to Florida GOP before getting a contract
   url: https://www.tampabay.com/news/florida-politics/2025/07/12/alligator-alcatraz-florida-immigration-detention-desantis-uthmeier-irg/
   outlet: Tampa Bay Times
   date: '2025-07-12'
+  tier: 2
 - title: Texas company donated to Florida GOP days before landing millions in state contracts
   url: https://www.gulfcoastnewsnow.com/article/texas-donation-florida-gop-millions-state-contracts/65416552
   outlet: Gulf Coast News
   date: '2025-07-15'
+  tier: 2
 notes: IRG executives linked to companies sued for inflating hurricane insurance claims. Employees alleged they were used as "pawns in a plan to file inflated insurance claims in federally-declared disaster areas." Emergency declarations allow bypassing procurement rules and competitive bidding.
 status: confirmed
 ---

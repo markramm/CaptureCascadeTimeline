@@ -12,12 +12,15 @@ sources:
 - title: Jack Abramoff Indian lobbying scandal - Wikipedia
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
   outlet: Wikipedia
+  tier: 2
 - title: Tigua Indians Learn Tough Lesson From Abramoff
   url: https://www.npr.org/2006/02/16/5220081/tigua-indians-learn-tough-lesson-from-abramoff
   outlet: NPR
+  tier: 1
 - title: Senate Report on Tribal Lobbying Matters
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: U.S. Government Publishing Office
+  tier: 1
 importance: 8
 tags:
 - abramoff

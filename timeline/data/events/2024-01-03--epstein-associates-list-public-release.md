@@ -19,14 +19,17 @@ sources:
   title: Giuffre v. Maxwell - Court Documents
   outlet: U.S. District Court SDNY
   date: '2024-01-03'
+  tier: 2
 - url: https://www.reuters.com/world/us/jeffrey-epstein-documents-naming-associates-be-released-wednesday-2024-01-02/
   title: Jeffrey Epstein documents naming associates released
   outlet: Reuters
   date: '2024-01-03'
+  tier: 1
 - url: https://www.washingtonpost.com/nation/2024/01/03/epstein-documents-released-names/
   title: Epstein documents released, naming powerful associates
   outlet: The Washington Post
   date: '2024-01-03'
+  tier: 1
 importance: 9
 status: confirmed
 capture_lanes:

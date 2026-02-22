@@ -22,22 +22,26 @@ sources:
   url: https://en.wikipedia.org/wiki/Economic_Recovery_Tax_Act_of_1981
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Reagan signs Economic Recovery Tax Act
   url: https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta
   outlet: History.com
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Retrospective on the 1981 Reagan Tax Cut
   url: https://taxfoundation.org/research/all/federal/retrospective-1981-reagan-tax-cut/
   outlet: Tax Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: '"Reaganomics": The Economic Recovery Tax Act of 1981'
   url: https://reagan.blogs.archives.gov/2016/08/15/reaganomics-the-economic-recovery-tax-act-of-1981/
   outlet: Reagan Library
   date: '2016-08-15'
   verified: true
+  tier: 1
 capture_lanes:
 - Legislative Capture
 - Military-Industrial Complex

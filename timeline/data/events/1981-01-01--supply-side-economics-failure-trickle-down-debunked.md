@@ -22,22 +22,26 @@ sources:
   url: https://www.americanprogress.org/article/the-failure-of-supply-side-economics/
   outlet: Center for American Progress
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Trickle-down economics
   url: https://en.wikipedia.org/wiki/Trickle-down_economics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Trickle-Down Economics: Four Reasons Why It Just Doesn''t Work'
   url: https://www.faireconomy.org/trickle_down_economics_four_reasons
   outlet: United for a Fair Economy
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Reaganomics
   url: https://www.britannica.com/topic/Reaganomics
   outlet: Britannica
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Labor Suppression
 - Systematic Corruption

@@ -12,12 +12,15 @@ sources:
 - title: 16th Amendment to the U.S. Constitution - Federal Income Tax (1913)
   outlet: National Archives
   url: https://www.archives.gov/milestone-documents/16th-amendment
+  tier: 1
 - title: Sixteenth Amendment to the United States Constitution
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution
+  tier: 2
 - title: The Income Tax Amendment - Most Thought It Was a Great Idea in 1913
   outlet: Constitutional Rights Foundation
   url: https://www.crf-usa.org/bill-of-rights-in-action/bria-11-3-b-the-income-tax-amendment-most-thought-it-was-a-great-idea-in-1913.html
+  tier: 2
 tags:
 - progressive-era
 - taxation

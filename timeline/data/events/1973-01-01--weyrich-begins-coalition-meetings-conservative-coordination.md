@@ -22,17 +22,20 @@ sources:
   url: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd
   outlet: West Virginia University Research Repository
   date: '2017-01-01'
+  tier: 1
   verified: true
 - title: Paul Weyrich - Wikipedia
   url: https://en.wikipedia.org/wiki/Paul_Weyrich
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Paul Weyrich: Father of a New Right'
   url: https://modernagejournal.com/paul-weyrich-father-of-a-new-right/236103/
   outlet: Modern Age
   date: '2018-01-01'
   verified: true
+  tier: 2
 notes: Weyrich described the New Right as "A coalition of single interest groups organized around anti-busing, tax resistance, defense issues, parents' rights, private school survival, energy self-sufficiency, and other major issues." This coalition strategy would unite economic conservatives, social conservatives, and anti-government libertarians into a unified political force.
 status: confirmed
 ---

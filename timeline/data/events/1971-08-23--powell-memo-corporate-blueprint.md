@@ -23,6 +23,7 @@ sources:
   url: https://scholarlycommons.law.wlu.edu/powellmemo/
   outlet: Lewis F. Powell Jr. Papers, Washington and Lee University School of Law
   date: '1971-08-23'
+  tier: 1
   verified: true
   verified_date: '2025-08-19'
   archive_url: https://web.archive.org/web/20240101000000/https://scholarlycommons.law.wlu.edu/powellmemo/
@@ -36,11 +37,13 @@ sources:
   outlet: Greenpeace USA
   date: '2021-08-23'
   verified: true
+  tier: 1
 - title: 'The Scheme 1: The Powell Memo'
   url: https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/
   outlet: Senator Sheldon Whitehouse
   date: '2022-01-01'
   verified: true
+  tier: 2
 - title: 'Institutional Capture and Corporate Strategy: The Powell Memorandum''s Long-Term Impact'
   url: https://scholarlycommons.law.wlu.edu/powellmemo-analysis/
   outlet: Washington and Lee University Law Review
@@ -48,6 +51,7 @@ sources:
   type: Academic Publication
   verified: true
   academic_context: Comprehensive scholarly analysis of the Powell Memo's systematic approach to corporate political strategy, examining its role in reshaping institutional power dynamics.
+  tier: 1
 - title: 'Corporate Power and Democratic Institutions: The Powell Memo as Institutional Transformation Strategy'
   url: https://www.tandfonline.com/doi/abs/institutional-capture-powell-memo
   outlet: Journal of Political Science
@@ -55,6 +59,7 @@ sources:
   type: Peer-Reviewed Research
   verified: true
   academic_context: Detailed political science research tracing the Powell Memo's influence on conservative movement building and corporate political mobilization strategies.
+  tier: 1
 notes: Memo remained confidential until leaked in 1972. Became blueprint for Heritage Foundation, Cato Institute, American Enterprise Institute, ALEC, and modern conservative movement. Powell's opening line- "No thoughtful person can question that the American system is under broad attack." Key quote- "Political power is necessary; that such power must be assiduously cultivated; and that when necessary, it must be used aggressively and with determination." On courts- "The judiciary may be the most important instrument for social, economic and political change." Two months after memo, Nixon nominated Powell to implement his own vision from Supreme Court.
 status: confirmed
 ---

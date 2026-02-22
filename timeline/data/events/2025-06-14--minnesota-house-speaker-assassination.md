@@ -24,18 +24,22 @@ sources:
   url: https://www.justice.gov/opa/pr/after-two-day-manhunt-suspect-charged-shooting-two-minnesota-lawmakers-and-their-spouses
   outlet: Department of Justice
   date: '2025-06-16'
+  tier: 1
 - title: Minnesota lawmaker Melissa Hortman killed, State Sen. John Hoffman wounded in targeted political violence
   url: https://abcnews.go.com/US/2-minnesota-lawmakers-shot-targeted-incident-officials/story?id=122840751
   outlet: ABC News
   date: '2025-06-14'
+  tier: 1
 - title: Minnesota Rep. Melissa Hortman killed, state Sen. John Hoffman injured in targeted shootings
   url: https://www.cbsnews.com/news/minnesota-lawmaker-shooting-melissa-hortman-john-hoffman-brooklyn-park/
   outlet: CBS News
   date: '2025-06-14'
+  tier: 1
 - title: Vance Boelter Indicted for the Murders of Melissa and Mark Hortman
   url: https://www.justice.gov/usao-mn/pr/vance-boelter-indicted-murders-melissa-and-mark-hortman-shootings-john-and-yvette-0
   outlet: U.S. Attorney's Office - District of Minnesota
   date: '2025-06-27'
+  tier: 1
 notes: Northwestern researchers established direct statistical causation between Trump tweets and violence magnitude. This assassination exemplifies stochastic terrorism pattern where inflammatory rhetoric inspires lone actors without direct commands.
 capture_lanes:
 - Legislative Capture

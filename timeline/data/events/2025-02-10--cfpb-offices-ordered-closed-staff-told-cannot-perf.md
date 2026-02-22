@@ -20,18 +20,22 @@ sources:
   url: https://www.npr.org/2025/02/10/nx-s1-5292123/the-trump-administration-has-stopped-work-at-the-cfpb-heres-what-the-agency-does
   outlet: NPR
   date: '2025-02-10'
+  tier: 1
 - title: Trump may proceed with dismantling and mass layoffs at CFPB, court rules
   url: https://www.govexec.com/management/2025/08/trump-may-proceed-dismantling-and-mass-layoffs-cfpb-court-rules/407486/
   outlet: Government Executive
   date: '2025-08-01'
+  tier: 2
 - title: Trump orders consumer protection agency to stop work, closes building
   url: https://www.wdsu.com/article/trump-administration-orders-cfpb-shutdown/63736534
   outlet: WDSU
   date: '2025-02-10'
+  tier: 2
 - title: CFPB can proceed with mass layoffs, federal appeals court rules
   url: https://federalnewsnetwork.com/workforce/2025/08/cfpb-can-proceed-with-mass-layoffs-federal-appeals-court-rules/
   outlet: Federal News Network
   date: '2025-08-01'
+  tier: 2
   archive_url: https://web.archive.org/web/20240101000000/https://federalnewsnetwork.com/workforce/2025/08/cfpb-can-proceed-with-mass-layoffs-federal-appeals-court-rules/
 notes: CFPB workforce faces 95% reduction targets. Feb 14 federal judge temporarily blocked layoffs. August appeals court allowed Trump to proceed with dismantling. Plans to delete entire CFPB databases, return funding to Federal Reserve. Created 2011 after 2008 financial crisis, returned $21B+ to consumers through enforcement.
 status: confirmed

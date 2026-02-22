@@ -9,20 +9,23 @@ actors:
 - 737 MAX
 sources:
 - outlet: The Seattle Times
-  title: With Close Industry Ties, FAA Safety Chief Pushed More Delegation of Oversight to Boeing
-  url: https://www.seattletimes.com/business/boeing-aerospace/with-close-industry-ties-faa-safety-chief-pushed-more-delegation-of-oversight-to-boeing/
+  title: 'With Close Industry Ties, FAA Safety Chief Pushed More Delegation of Oversight to Boeing'
+  url: 'https://www.seattletimes.com/business/boeing-aerospace/with-close-industry-ties-faa-safety-chief-pushed-more-delegation-of-oversight-to-boeing/'
   access_date: '2025-09-17'
-  description: Detailed investigation of Ali Bahrami's role in FAA's increasing delegation of safety oversight to Boeing
+  description: 'Detailed investigation of Ali Bahrami''s role in FAA''s increasing delegation of safety oversight to Boeing'
+  tier: 1
 - outlet: Project On Government Oversight (POGO)
   title: How the FAA Ceded Aviation Safety Oversight to Boeing
-  url: https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing
+  url: 'https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing'
   access_date: '2025-09-17'
-  description: Critical analysis of the systemic regulatory capture within the FAA's aircraft certification process
+  description: 'Critical analysis of the systemic regulatory capture within the FAA''s aircraft certification process'
+  tier: 2
 - outlet: Corporate Jet Investor
-  title: FAA's Ali Bahrami to Step Down
-  url: https://www.corporatejetinvestor.com/news/faas-ali-bahrami-to-step-down-338/
+  title: 'FAA''s Ali Bahrami to Step Down'
+  url: 'https://www.corporatejetinvestor.com/news/faas-ali-bahrami-to-step-down-338/'
   access_date: '2025-09-17'
-  description: Industry perspective on Bahrami's career transition from FAA to aerospace industry lobby
+  description: 'Industry perspective on Bahrami''s career transition from FAA to aerospace industry lobby'
+  tier: 2
 importance: 9
 tags:
 - regulatory-capture
@@ -38,5 +41,4 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 ---
-
 In August 2013, Ali Bahrami, who led the FAA office overseeing Boeing aircraft certification, departed to join the Aerospace Industries Association. This move epitomizes regulatory capture, as Bahrami had been instrumental in pushing for increased industry self-regulation. Former FAA engineers criticized his approach as an 'abdication' of regulatory oversight, particularly during the critical early stages of the Boeing 737 MAX certification process. His subsequent industry lobby position allowed him to influence regulatory policy while representing Boeing's interests.

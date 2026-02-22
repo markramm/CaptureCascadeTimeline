@@ -22,22 +22,26 @@ sources:
   url: https://www.npr.org/2006/08/03/5604656/1981-strike-leaves-legacy-for-american-workers
   outlet: NPR
   date: '2006-08-03'
+  tier: 1
   verified: true
 - title: Reagan vs. Air Traffic Controllers
   url: https://millercenter.org/reagan-vs-air-traffic-controllers
   outlet: Miller Center (University of Virginia)
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: 1981 Professional Air Traffic Controllers Organization strike
   url: https://en.wikipedia.org/wiki/1981_Professional_Air_Traffic_Controllers_Organization_strike
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: The Legacy of the Crushed 1981 PATCO Strike
   url: https://jacobin.com/2021/08/reagan-patco-1981-strike-legacy-air-traffic-controllers-union-public-sector-strikebreaking
   outlet: Jacobin
   date: '2021-08-05'
   verified: true
+  tier: 2
 capture_lanes:
 - Labor Suppression
 ---

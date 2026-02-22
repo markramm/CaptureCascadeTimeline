@@ -33,14 +33,17 @@ sources:
   url: https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/
   outlet: The Washington Post
   date: '2005-11-16'
+  tier: 1
 - title: 'Document: Big oil met with Cheney task force'
   url: https://www.nbcnews.com/id/wbna10045043
   outlet: NBC News
   date: '2005-11-16'
+  tier: 1
 - title: White House records show oil chiefs at energy meetings
   url: https://www.sfgate.com/politics/article/White-House-records-show-oil-chiefs-at-energy-2594858.php
   outlet: San Francisco Chronicle
   date: '2005-11-16'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

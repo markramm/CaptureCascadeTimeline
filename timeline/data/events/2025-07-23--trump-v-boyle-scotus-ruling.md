@@ -27,18 +27,22 @@ sources:
   url: https://www.scotusblog.com/2025/07/supreme-court-sides-with-trump-administration-in-battle-over-cpsc-commissioners/
   outlet: SCOTUSblog
   date: '2025-07-23'
+  tier: 1
 - title: Supreme Court allows Trump to remove consumer product safety regulators
   url: https://www.washingtonpost.com/politics/2025/07/23/supreme-court-consumer-product-safety-regulators-trump/
   outlet: The Washington Post
   date: '2025-07-23'
+  tier: 1
 - title: Supreme Court allows Trump to fire 3 Democrats on consumer safety panel for now
   url: https://www.npr.org/2025/07/23/nx-s1-5477634/supreme-court-cpsc-firings
   outlet: NPR
   date: '2025-07-23'
+  tier: 1
 - title: Justice Elena Kagan warns Supreme Court just 'all but overturned' 90-year precedent
   url: https://www.newsweek.com/elena-kagan-supreme-court-trump-precedent-2103177
   outlet: Newsweek
   date: '2025-07-23'
+  tier: 2
 status: confirmed
 ---
 

@@ -24,14 +24,17 @@ sources:
   url: https://www.americanbanker.com/news/cfpb-drops-lawsuit-against-comerica-bank-without-prejudice
   outlet: American Banker
   date: '2025-04-11'
+  tier: 2
 - title: CFPB drops case against Comerica
   url: https://www.bankingdive.com/news/cfpb-drops-comerica-case-direct-express/745251/
   outlet: Banking Dive
   date: '2025-04-14'
+  tier: 2
 - title: US consumer bureau dismisses case against commercial bank, filing says
   url: https://www.reuters.com/business/finance/us-consumer-bureau-dismisses-case-against-comerica-bank-filing-says-2025-04-11/
   outlet: Reuters
   date: '2025-04-11'
+  tier: 1
 connections:
 - CFPB leadership change
 - Direct Express federal benefits program

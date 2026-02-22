@@ -12,16 +12,20 @@ actors:
 sources:
 - outlet: Stanford HAI
   title: AI Index Report 2024
-  url: https://hai.stanford.edu/ai-index/2024-ai-index-report
+  url: 'https://hai.stanford.edu/ai-index/2024-ai-index-report'
+  tier: 1
 - outlet: Reuters
-  title: AI Models Consistently Show Systemic Bias, New Research Reveals
-  url: https://www.reuters.com/technology/ai-models-systemic-bias-research-2024
+  title: 'AI Models Consistently Show Systemic Bias, New Research Reveals'
+  url: 'https://www.reuters.com/technology/ai-models-systemic-bias-research-2024'
+  tier: 1
 - outlet: Global Witness
   title: 'Conspiracy and Toxicity: Grok AI Shares Disinformation in Political Queries'
-  url: https://globalwitness.org/en/campaigns/digital-threats/conspiracy-and-toxicity-xs-ai-chatbot-grok-shares-disinformation-in-replies-to-political-queries/
+  url: 'https://globalwitness.org/en/campaigns/digital-threats/conspiracy-and-toxicity-xs-ai-chatbot-grok-shares-disinformation-in-replies-to-political-queries/'
+  tier: 1
 - outlet: Northwestern CASMI
   title: 'Misinformation at Scale: Elon Musk''s Grok and the Battle for Truth'
-  url: https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html
+  url: 'https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html'
+  tier: 1
 tags:
 - ai-safety
 - algorithmic-bias
@@ -29,9 +33,8 @@ tags:
 - misinformation-risks
 - technological-capture
 capture_lanes:
-- Digital & Tech Capture
-- Media Capture & Control
+- 'Digital & Tech Capture'
+- 'Media Capture & Control'
 status: confirmed
 ---
-
 Stanford's AI Index 2024 and Northwestern CASMI research reveal critical systemic bias and misinformation risks in AI language models, with a specific focus on Grok AI. The studies highlight significant challenges in developing ethically-aligned artificial intelligence, documenting how advanced AI systems can amplify conspiracy theories, political misinformation, and demonstrate implicit ideological biases. By 2024, the AI Incidents Database reported 233 AI-related incidents—a 56.4% increase from 2023—with many incidents involving large language models spreading unverified or false information.

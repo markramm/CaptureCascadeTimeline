@@ -13,19 +13,23 @@ sources:
 - title: Securities Act of 1933
   outlet: SEC Historical Society
   url: https://www.sechistorical.org/museum/galleries/kennedy/politicians_b.php
+  tier: 1
   retrieval_date: '2024-12-24'
 - title: Securities Act of 1933 - Full Text
   outlet: Federal Reserve Archive - FRASER
   url: https://fraser.stlouisfed.org/title/securities-act-1933-5878
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: Securities Act of 1933
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Securities_Act_of_1933
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: The Securities Act of 1933
   outlet: U.S. Securities and Exchange Commission
   url: https://www.sec.gov/newsroom/videos/securities-act-1933
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: Signing of the Securities Exchange Act of 1934
   url: https://guides.loc.gov/this-month-in-business-history/june/signing-securities-exchange-act-1934
   outlet: Library of Congress

@@ -26,14 +26,17 @@ sources:
   url: https://www.justice.gov/archives/sco/file/1373816/download
   outlet: Department of Justice
   date: '2019-04-18'
+  tier: 1
 - title: Blackwater founder held secret Seychelles meeting to establish Trump-Putin back channel
   url: https://www.washingtonpost.com/world/national-security/blackwater-founder-held-secret-seychelles-meeting-to-establish-trump-putin-back-channel/2017/04/03/95908a08-1648-11e7-ada0-1489b735b3a3_story.html
   outlet: The Washington Post
   date: '2017-04-03'
+  tier: 1
 - title: Kushner wanted secret communications channel with Kremlin
   url: https://www.reuters.com/article/us-usa-trump-russia-kushner-idUSKBN18M0CN
   outlet: Reuters
   date: '2017-05-26'
+  tier: 1
 notes: Classic function privatization moving sensitive operations outside public accountability. Russian Ambassador reportedly "taken aback" by Kushner proposal to use Russian diplomatic facilities, bypassing all U.S. oversight.
 ---
 

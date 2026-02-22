@@ -1,7 +1,7 @@
 ---
 id: 2011-08-30--boeing-abandons-new-aircraft-design-re-engines-737-max
 date: '2011-08-30'
-title: Boeing Abandons New Aircraft Design, Chooses to Re-Engine 737 to Compete with Airbus
+title: 'Boeing Abandons New Aircraft Design, Chooses to Re-Engine 737 to Compete with Airbus'
 actors:
 - Boeing Board of Directors
 - Jim McNerney
@@ -11,20 +11,24 @@ actors:
 sources:
 - outlet: Wikipedia
   title: Boeing 737 MAX Development History
-  url: https://en.wikipedia.org/wiki/Boeing_737_MAX
+  url: 'https://en.wikipedia.org/wiki/Boeing_737_MAX'
   date: '2011-08-30'
+  tier: 2
 - outlet: Leeham News
-  title: Boeing Didn't Want to Re-Engine the 737—But Had Design Standing By
-  url: https://leehamnews.com/2019/03/20/boeing-didnt-want-to-re-engine-the-737-but-had-design-standing-by/
+  title: 'Boeing Didn''t Want to Re-Engine the 737—But Had Design Standing By'
+  url: 'https://leehamnews.com/2019/03/20/boeing-didnt-want-to-re-engine-the-737-but-had-design-standing-by/'
   date: '2019-03-20'
+  tier: 2
 - outlet: National Center for Biotechnology Information
   title: The Boeing 737 MAX - Lessons for Engineering Ethics
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/
+  url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/'
   date: '2020-07-08'
+  tier: 1
 - outlet: Harvard Law School Forum on Corporate Governance
   title: Boeing 737 MAX
-  url: https://corpgov.law.harvard.edu/2024/06/06/boeing-737-max/
+  url: 'https://corpgov.law.harvard.edu/2024/06/06/boeing-737-max/'
   date: '2024-06-06'
+  tier: 1
 importance: 9
 tags:
 - boeing
@@ -37,7 +41,6 @@ status: confirmed
 capture_lanes:
 - Corporate Capture
 ---
-
 Boeing's Board of Directors approved the launch of the re-engined 737 MAX on August 30, 2011, abandoning plans to develop an entirely new aircraft design. The decision came after Airbus launched the A320neo in December 2010 and captured 1,029 orders by June 2011, including a historic defection by Boeing's longtime exclusive customer American Airlines. Faced with losing market share, Boeing chose the faster, cheaper option of re-engineering the 50-year-old 737 design rather than developing a clean-sheet aircraft that would take a decade to bring to market.
 
 Boeing had been developing the Yellowstone Project, a new aircraft family intended to replace the 737 with 30% fuel savings using advanced materials and design. However, the Airbus A320neo offered airlines 15-20% better fuel economy immediately, threatening Boeing's market dominance. When American Airlines announced in July 2011 it would order 460 narrowbody jets including 260 Airbus aircraft, Boeing faced an existential crisis. American demanded Boeing commit to a re-engined 737 or lose the entire order.

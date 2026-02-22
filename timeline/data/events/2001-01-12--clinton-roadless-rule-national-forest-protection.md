@@ -20,14 +20,17 @@ sources:
   url: https://www.washingtonpost.com/archive/politics/2001/05/04/clinton-forest-rules-to-stand/54364a5b-9984-460b-9c5f-1ea95881286e/
   outlet: The Washington Post
   date: '2001-05-04'
+  tier: 1
 - title: Environmental policy of the first Trump administration
   url: https://en.wikipedia.org/wiki/Environmental_policy_of_the_first_Trump_administration
   outlet: Wikipedia
   date: '2019-08-29'
+  tier: 2
 - title: Trump to rescind Roadless Rule protecting 58 million acres of forest land
   url: https://www.npr.org/2025/06/23/g-s1-74136/trump-to-rescind-roadless-rule-which-protects-58-million-acres-of-forest-land
   outlet: NPR
   date: '2025-06-23'
+  tier: 1
 id: 2001-01-12--clinton-roadless-rule-national-forest-protection
 capture_lanes:
 - Legislative Capture

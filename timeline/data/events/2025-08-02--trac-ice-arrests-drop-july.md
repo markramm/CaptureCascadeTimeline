@@ -26,18 +26,22 @@ sources:
   url: https://www.axios.com/2025/08/05/ice-arrests-july-decline-immigrants
   outlet: Axios
   date: '2025-08-05'
+  tier: 2
 - title: ICE Detention Statistics Show Arrests Have Slowed in July
   url: https://tracreports.org/whatsnew/email.250801.html
   outlet: TRAC Reports
   date: '2025-08-01'
+  tier: 2
 - title: Immigration arrests dip in July, and activists hope they're partly responsible
   url: https://www.npr.org/2025/08/16/nx-s1-5504144/immigration-arrests-dip-in-july-and-activists-hope-theyre-partly-responsible
   outlet: NPR
   date: '2025-08-16'
+  tier: 1
 - title: ICE arrests drop by 20%; removals up slightly
   url: https://www.ktvu.com/news/ice-arrests-drop-20
   outlet: KTVU FOX 2
   date: '2025-08-02'
----
+
+  tier: 2---
 
 According to TRAC Syracuse University analysis of ICE data, average daily arrests fell to 990 in July 2025 (July 1-27) from 1,224 in June—a 19% decline, amid protests and litigation. Total arrests 31,281 in July (27,483 by ICE, 3,798 by CBP). Both numbers well below Stephen Miller's stated goal of 3,000 arrests daily. As of July 27, about 71% of those in ICE detention hadn't been convicted of a crime; many with convictions had minor offenses like traffic violations. Despite arrest decline, removals increased by average 84 more per day over June.

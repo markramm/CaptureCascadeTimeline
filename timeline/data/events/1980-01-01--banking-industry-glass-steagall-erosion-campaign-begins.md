@@ -27,6 +27,7 @@ sources:
 - title: Decline of the Glass–Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
   outlet: Wikipedia
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Starting in 1970s, large banks pushed back against Glass-Steagall regulations
@@ -40,6 +41,7 @@ sources:
   title: Banking Act of 1933 (Glass-Steagall)
   url: https://www.federalreservehistory.org/essays/glass-steagall-act
   verified: true
+  tier: 1
 - key_facts_confirmed:
   - By 1980, only two US banks were in the top ten global banks
   - US banks argued existing regulations made them globally uncompetitive
@@ -48,6 +50,7 @@ sources:
   title: 'Glass-Steagall Act: A Legal and Policy Analysis'
   url: https://www.congress.gov/crs-product/R44349
   verified: true
+  tier: 1
 status: confirmed
 ---
 

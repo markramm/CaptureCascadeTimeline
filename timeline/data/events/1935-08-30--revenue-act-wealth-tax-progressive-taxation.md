@@ -12,19 +12,23 @@ sources:
 - title: Revenue Act of 1935
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Revenue_Act_of_1935
+  tier: 2
   retrieval_date: '2024-12-24'
 - title: The Wealth Tax of 1935 and the Victory Tax of 1942
   outlet: IRS - Understanding Taxes
   url: https://apps.irs.gov/app/understandingTaxes/teacher/whys_thm02_les05.jsp
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: 1935 Wealth Tax Act
   outlet: Spartacus Educational
   url: https://spartacus-educational.com/USAwealthT.htm
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: Revenue Acts
   outlet: EBSCO Research Starters
   url: https://www.ebsco.com/research-starters/history/revenue-acts
   retrieval_date: '2024-12-24'
+  tier: 2
 tags:
 - taxation
 - new-deal

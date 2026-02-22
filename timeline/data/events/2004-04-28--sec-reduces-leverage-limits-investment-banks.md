@@ -17,16 +17,19 @@ sources:
   outlet: The New York Times
   title: SEC Concedes Oversight Flaws Fueled Collapse
   url: https://www.nytimes.com/2008/09/27/business/27sec.html
+  tier: 1
 - date: '2012-01-30'
   outlet: Baseline Scenario
   title: What Did the SEC Really Do in 2004?
   url: https://baselinescenario.com/2012/01/30/what-did-the-sec-really-do-in-2004/
   notes: In-depth analysis of the SEC's alternative net capital rule change
+  tier: 2
 - date: '2012-10-01'
   outlet: ProPublica
   title: '''Flawed'' SEC Program Failed to Rein in Investment Banks'
   url: https://www.propublica.org/article/flawed-sec-program-failed-to-rein-in-investment-banks-101
   notes: Detailed investigation of the SEC's voluntary oversight program
+  tier: 1
 tags:
 - regulatory-capture
 - financial-crisis

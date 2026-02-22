@@ -21,14 +21,17 @@ sources:
   url: https://prospect.org/article/regent-university-bush-administration/
   outlet: The American Prospect
   date: '2007-06-01'
+  tier: 2
 - title: An Investigation of Allegations of Politicized Hiring by Monica Goodling
   url: https://oig.justice.gov/sites/default/files/legacy/special/s0807/final.pdf
   outlet: DOJ Inspector General
   date: '2008-07-28'
+  tier: 1
 - title: 'Internal Inquiry: Justice Dept. Officials Broke Law'
   url: https://www.npr.org/2008/07/28/92990846/internal-inquiry-justice-dept-officials-broke-law
   outlet: NPR
   date: '2008-07-28'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

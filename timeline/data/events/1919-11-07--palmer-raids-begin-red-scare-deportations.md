@@ -14,15 +14,19 @@ sources:
 - title: Palmer Raids
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Palmer_Raids
+  tier: 2
 - title: Palmer Raids
   outlet: Federal Bureau of Investigation
   url: https://www.fbi.gov/history/famous-cases/palmer-raids
+  tier: 1
 - title: Palmer Raids - Definition, Purpose & 1920s
   outlet: History.com
   url: https://www.history.com/articles/palmer-raids
+  tier: 2
 - title: Introduction - Palmer Raids
   outlet: Library of Congress
   url: https://guides.loc.gov/chronicling-america-palmer-raids
+  tier: 1
 tags:
 - red-scare
 - state-repression

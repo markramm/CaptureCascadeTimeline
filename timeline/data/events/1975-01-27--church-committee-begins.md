@@ -28,6 +28,7 @@ sources:
   url: https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
   outlet: U.S. Senate
   date: '2024-01-01'
+  tier: 1
   verified: true
   verified_date: '2025-08-17'
   archive_url: https://web.archive.org/web/20240101000000/https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
@@ -41,16 +42,19 @@ sources:
   outlet: The Nation
   date: '2015-01-27'
   verified: true
+  tier: 2
 - title: Frank Church and the Church Committee
   url: https://www.levin-center.org/frank-church-and-the-church-committee
   outlet: Levin Center for Oversight
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Looking back at the Church Committee
   url: https://constitutioncenter.org/blog/looking-back-at-the-church-committee
   outlet: Constitution Center
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Church famously warned about intelligence technology capacity for tyranny - "the abyss from which there is no return." While successfully exposing abuses, reforms inadvertently pushed operations into private sector. Public hearings September-October 1975 were nationally televised. Final report called "most extensive review of intelligence activities ever made available to the public."
 capture_lanes:
 - Regulatory Capture

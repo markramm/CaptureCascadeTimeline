@@ -22,18 +22,22 @@ sources:
   url: https://www.axios.com/2025/02/21/doj-spacex-lawsuit-elon-musk-refugees-trump
   outlet: Axios
   date: '2025-02-21'
+  tier: 2
 - title: DOJ dropping immigration case against Musk's SpaceX
   url: https://thehill.com/policy/technology/5157088-doj-drops-space-x-lawsuit/
   outlet: The Hill
   date: '2025-02-21'
+  tier: 2
 - title: Elon Musk's regulatory troubles have begun to melt away in Trump's second term
   url: https://www.nbcnews.com/tech/elon-musk/elon-musks-regulatory-issues-begun-melt-away-trumps-second-term-rcna202848
   outlet: NBC News
   date: '2025-02-24'
+  tier: 1
 - title: Justice Department will drop immigration lawsuit against Elon Musk's SpaceX
   url: https://www.foxbusiness.com/politics/doj-seeks-drop-immigration-case-against-musks-spacex
   outlet: Fox Business
   date: '2025-02-21'
+  tier: 2
 notes: Original lawsuit filed August 2023; part of broader pattern where Trump administration halted regulatory matters involving Musk companies
 status: confirmed
 ---

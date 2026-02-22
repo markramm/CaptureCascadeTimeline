@@ -28,6 +28,7 @@ sources:
   url: https://espionagehistoryarchive.com/2019/12/20/robert-maxwell-the-kgb/
   outlet: Espionage History Archive
   date: '2019-12-20'
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Maxwell met KGB head Yuri Andropov in Moscow in 1968
@@ -43,6 +44,7 @@ sources:
     agent'
   - Maxwell's Soviet contacts extended to multiple Soviet leaders
   - Complex relationship with Soviet intelligence networks
+  tier: 2
 - title: 'Robert Maxwell: Media Mogul and Intelligence Figure'
   url: https://silview.media/tag/robert-maxwell/
   outlet: SILVIEW.media
@@ -53,6 +55,7 @@ sources:
   - Developed relationships with Soviet general secretaries Andropov, Chernenko, and
     Gorbachev
   - Czechoslovakian origins influenced his political stance during 1968 invasion
+  tier: 2
 status: confirmed
 ---
 

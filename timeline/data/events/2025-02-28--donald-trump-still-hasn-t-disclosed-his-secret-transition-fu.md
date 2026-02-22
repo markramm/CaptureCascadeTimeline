@@ -22,18 +22,22 @@ sources:
   url: https://www.nbcnews.com/politics/trump-administration/trump-not-said-funded-presidential-transition-effort-pledging-disclose-rcna204785
   outlet: NBC News
   date: '2025-02-28'
+  tier: 1
 - title: Trump Loses Out on Transition Funds Unless He Discloses Donors
   url: https://news.bgov.com/bloomberg-government-news/trump-loses-out-on-transition-funds-unless-he-discloses-donors
   outlet: Bloomberg Government News
   date: '2025-02-28'
+  tier: 2
 - title: The Deadline Was Feb 19th and the Trump Transition Team Still Hasn't Disclosed Its Transition Donors
   url: https://www.americandemocracyminute.org/wethepeople/2025/03/04/the-deadline-was-feb-19th-and-the-trump-transition-team-still-hasnt-disclosed-its-transition-donors/
   outlet: American Democracy Minute
   date: '2025-03-04'
+  tier: 2
 - title: Trump Transition Can Raise Unlimited Funds From Private Donors, Per Agreement
   url: https://truthout.org/articles/trump-transition-can-raise-unlimited-funds-from-private-donors-per-agreement/
   outlet: Truthout
   date: '2025-03-01'
+  tier: 2
 connections:
 - Circumventing standard transparency requirements
 - Privately funded presidential transition

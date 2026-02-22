@@ -11,14 +11,17 @@ sources:
   url: https://www.cbsnews.com/news/trump-vp-pick-jd-vance/
   outlet: CBS News
   date: '2024-07-15'
+  tier: 1
 - title: Trump names Ohio Sen. J.D. Vance as vice presidential running mate
   url: https://www.npr.org/2024/07/15/nx-s1-5040236/jd-vance-vice-president-trump-rnc
   outlet: NPR
   date: '2024-07-15'
+  tier: 1
 - title: Trump chooses Ohio Sen. J.D. Vance, a former critic, as his VP pick
   url: https://www.washingtonpost.com/politics/2024/07/15/jd-vance-trump-vice-president-announcement/
   outlet: The Washington Post
   date: '2024-07-15'
+  tier: 1
 tags:
 - vp-nomination
 - trump-ticket

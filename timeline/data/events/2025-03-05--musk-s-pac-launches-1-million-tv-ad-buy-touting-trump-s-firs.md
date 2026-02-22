@@ -20,14 +20,17 @@ sources:
   url: https://abcnews.go.com/US/musks-pac-launches-1-million-tv-ad-buy/story?id=119480959
   outlet: ABC News
   date: '2025-03-05'
+  tier: 1
 - title: Musk-backed PAC launches first TV ad after Trump address
   url: https://thehill.com/homenews/campaign/5177639-elons-musk-trump-ad/
   outlet: The Hill
   date: '2025-03-05'
+  tier: 2
 - title: 'EXCLUSIVE: Elon Musk PAC thanks Trump for ''saving the American Dream'' in new million-dollar ad'
   url: https://www.foxnews.com/politics/exclusive-elon-musk-pac-thanks-trump-saving-american-dream-new-million-dollar-ad
   outlet: Fox News
   date: '2025-03-05'
+  tier: 2
 connections:
 - 2024 Presidential Election
 - Trump Administration Propaganda Infrastructure

@@ -22,12 +22,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Jack_Kemp
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Supply-Side Economics and the Kemp-Roth Bill
   url: https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1265&context=sbr
   outlet: Georgia Southern University
   date: '2024-01-01'
   verified: true
+  tier: 1
 notes: Kemp converted to supply-side economics in 1976 after meeting Wanniski and Laffer. The bill proposed cutting income taxes 10% per year for three years, approximately one-third across the board. Carter blocked it over deficit concerns. Kemp got GOP to adopt it as official position and persuaded Reagan to make tax cuts centerpiece of 1980 campaign, leading to 1981 ERTA.
 status: confirmed
 ---

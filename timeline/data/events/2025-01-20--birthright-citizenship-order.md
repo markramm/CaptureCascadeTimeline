@@ -28,18 +28,22 @@ sources:
   url: https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/
   outlet: White House
   date: '2025-01-20'
+  tier: 1
 - title: Federal Court Blocks Trump Birthright Citizenship Executive Order
   url: https://www.aclu.org/press-releases/federal-court-blocks-trump-birthright-citizenship-executive-order
   outlet: ACLU
   date: '2025-01-23'
+  tier: 1
 - title: Supreme Court Limits Nationwide Injunctions in Birthright Citizenship Case
   url: https://www.americanimmigrationcouncil.org/blog/in-birthright-citizenship-decision-the-supreme-court-expanded-trumps-power
   outlet: American Immigration Council
   date: '2025-06-27'
+  tier: 2
 - title: 'Barbara v. Trump: Nationwide Class-Action Challenge to Birthright Citizenship Order'
   url: https://www.asianlawcaucus.org/news-resources/barbara-v-trump-challenge
   outlet: Asian Law Caucus
   date: '2025-07-10'
+  tier: 2
 connections:
 - Project 2025 implementation
 - 14th Amendment constitutional challenge

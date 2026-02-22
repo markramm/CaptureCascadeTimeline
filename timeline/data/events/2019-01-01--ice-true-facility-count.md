@@ -18,14 +18,17 @@ sources:
   url: https://www.gao.gov/assets/gao-21-149.pdf
   outlet: GAO (PDF)
   date: '2021-01-13'
+  tier: 1
 - title: Immigration Detention Quick Facts (live)
   url: https://tracreports.org/immigration/quickfacts/
   outlet: TRAC Syracuse
   date: '2025-08-10'
+  tier: 2
 - title: ODO ICE Facility Inspections (facility list & reports)
   url: https://www.ice.gov/foia/odo-facility-inspections
   outlet: ICE
   date: '2024-05-21'
+  tier: 1
 notes: Vera Institute's dashboards are useful but not official counts; prefer GAO/ICE and TRAC for facility totals and capacity.
 status: confirmed
 capture_lanes:

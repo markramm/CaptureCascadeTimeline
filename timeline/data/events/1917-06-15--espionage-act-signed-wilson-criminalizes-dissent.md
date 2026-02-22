@@ -14,15 +14,19 @@ sources:
 - title: Espionage Act of 1917
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Espionage_Act_of_1917
+  tier: 2
 - title: The Sedition and Espionage Acts Were Designed to Quash Dissent
   outlet: History.com
   url: https://www.history.com/articles/sedition-espionage-acts-woodrow-wilson-wwi
+  tier: 2
 - title: Espionage Act of 1917
   outlet: First Amendment Encyclopedia
   url: https://firstamendment.mtsu.edu/article/espionage-act-of-1917/
+  tier: 2
 - title: Prelude to the Red Scare - The Espionage and Sedition Acts
   outlet: PBS American Experience
   url: https://www.pbs.org/wgbh/americanexperience/features/goldman-prelude-red-scare-espionage-and-sedition-acts/
+  tier: 1
 tags:
 - labor-suppression
 - free-speech

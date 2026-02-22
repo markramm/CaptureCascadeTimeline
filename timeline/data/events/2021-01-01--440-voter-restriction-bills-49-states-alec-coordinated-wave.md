@@ -24,14 +24,17 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-december-2021
   outlet: Brennan Center for Justice
   date: 2021-12-07
+  tier: 1
 - title: State Voting Bills Tracker 2021
   url: https://www.brennancenter.org/our-work/research-reports/state-voting-bills-tracker-2021
   outlet: Brennan Center for Justice
   date: 2021-12-31
+  tier: 1
 - title: ALEC Lied About Its Work on Election Suppression Bills
   url: https://prospect.org/civil-rights/alec-lied-about-its-work-on-election-suppression-bills/
   outlet: The American Prospect
   date: 2021-08-30
+  tier: 2
 capture_lanes:
 - Democratic Erosion
 - Electoral Manipulation

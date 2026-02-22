@@ -23,17 +23,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Richard_Viguerie
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: From Direct Mail to America's Right Turn
   url: https://www.npr.org/2004/12/15/4229442/from-direct-mail-to-americas-right-turn
   outlet: NPR
   date: '2004-12-15'
   verified: true
+  tier: 1
 - title: Empire of Direct Mail
   url: https://kansaspress.ku.edu/9780700633418/
   outlet: University Press of Kansas
   date: '2022-01-01'
   verified: true
+  tier: 1
 notes: Viguerie is called the "funding father" of the conservative movement. His computerized direct mail fundamentally empowered the New Right's ascent in the 1970s by bypassing traditional wealthy establishment backers. By 1978, his company's computer tapes contained 5 million names - 80% of identified conservatives in the country. He financed Wallace, Helms, Reagan, and organizations.
 status: confirmed
 ---

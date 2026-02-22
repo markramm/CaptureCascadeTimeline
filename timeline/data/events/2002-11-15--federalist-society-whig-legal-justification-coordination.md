@@ -31,14 +31,17 @@ sources:
   url: https://www.amazon.com/Federalist-Society-Conservative-Legal-Movement/dp/0252075129
   outlet: University of Illinois Press
   date: '2006-09-21'
+  tier: 2
 - title: The Conservative Legal Movement and the Bush Administration
   url: https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2156&context=dlj
   outlet: Duke Law Journal
   date: '2005-04-01'
+  tier: 1
 - title: Corporate Capture of the Legal System
   url: https://www.americanprogress.org/article/corporate-capture-legal-system/
   outlet: Center for American Progress
   date: '2004-11-15'
+  tier: 2
 capture_lanes:
 - Judicial Capture
 - Legislative Capture

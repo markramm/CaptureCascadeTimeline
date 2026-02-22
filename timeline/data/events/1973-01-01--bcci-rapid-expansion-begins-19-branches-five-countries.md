@@ -20,18 +20,22 @@ sources:
   url: https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm
   outlet: Federation of American Scientists
   date: '1973-01-01'
+  tier: 1
 - title: 'BCCI: The Dirtiest Bank of All'
   url: https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/
   outlet: TIME
   date: '1991-07-29'
+  tier: 1
 - title: The Dictator-Run Bank That Tells the Story of America's Foreign Corruption
   url: https://foreignpolicy.com/2020/07/07/the-dictator-run-bank-that-tells-the-story-of-americas-foreign-corruption/
   outlet: Foreign Policy
   date: '2020-07-07'
+  tier: 2
 - title: The man who adds mysticism to banking - Aga Hassan Abedi
   url: https://www.ft.com/content/bcci-abedi-mysticism-banking
   outlet: Financial Times
   date: '1991-05-17'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

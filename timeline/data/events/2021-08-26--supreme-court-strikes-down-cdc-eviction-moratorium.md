@@ -20,18 +20,22 @@ sources:
   url: https://www.washingtonpost.com/politics/courts_law/supreme-court-eviction-ban-struck-down/2021/08/26/46bce3e2-0511-11ec-a654-900a78538242_story.html
   outlet: The Washington Post
   date: '2021-08-26'
+  tier: 1
 - title: The Supreme Court Will Allow Evictions To Resume
   url: https://www.npr.org/2021/08/26/1024668578/court-blocks-biden-cdc-evictions-moratorium
   outlet: NPR
   date: '2021-08-26'
+  tier: 1
 - title: Alabama Association of Realtors v. HHS Opinion
   url: https://www.supremecourt.gov/opinions/20pdf/21a23_ap6c.pdf
   outlet: Supreme Court of the United States
   date: '2021-08-26'
+  tier: 1
 - title: Supreme Court Strikes Down the CDC's Second Eviction Moratorium
   url: https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-september/supreme-court-strikes-down-the-cdc/
   outlet: American Bar Association
   date: '2021-09-01'
+  tier: 2
 capture_lanes:
 - Judicial Capture
 - Legislative Capture

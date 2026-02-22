@@ -25,18 +25,22 @@ sources:
   url: https://thehill.com/policy/technology/5195750-bondi-tells-tesla-vandals-to-watch-out/
   outlet: The Hill
   date: '2025-03-14'
+  tier: 2
 - title: '''Full Force Of The Law'': Pam Bondi Announces ''Severe Charges'' Against Tesla Vandals'
   url: https://dailycaller.com/2025/03/20/pam-bondi-doj-severe-charges-tesla-vandals/
   outlet: The Daily Caller
   date: '2025-03-20'
+  tier: 3
 - title: Trump's attorney general threatens "severe" punishment for Tesla vandals
   url: https://www.axios.com/2025/03/19/tesla-attacks-elon-musk-pam-bondi-terrorism
   outlet: Axios
   date: '2025-03-19'
+  tier: 2
 - title: AG Pam Bondi announces investigation into Tesla vandalism, threatens no-holds-barred criminal charges
   url: https://www.foxbusiness.com/media/ag-pam-bondi-announces-investigation-tesla-vandalism-threatens-no-holds-barred-criminal-charges
   outlet: Fox Business
   date: '2025-03-14'
+  tier: 2
 connections:
 - Trump Administration's response to corporate infrastructure attacks
 - Escalating political tensions around technological companies

@@ -24,14 +24,17 @@ sources:
   url: https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes
   outlet: PBS News
   date: '2025-04-08'
+  tier: 1
 - title: US Justice Dept Disbands Crypto Enforcement Team, Citing Trump Order
   url: https://www.usnews.com/news/politics/articles/2025-04-08/u-s-justice-dept-disbands-cryptocurrency-enforcement-unit
   outlet: U.S. News
   date: '2025-04-08'
+  tier: 2
 - title: Donald Trump administration disbands crypto regulations enforcement unit
   url: https://thehill.com/homenews/administration/5238617-trump-disband-crypto-enforcement-unit/
   outlet: The Hill
   date: '2025-04-08'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

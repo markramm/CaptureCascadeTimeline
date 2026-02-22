@@ -21,12 +21,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Motor_Carrier_Act_of_1980
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: 'Forty Years After Surface Freight Deregulation'
   url: https://www.theregreview.org/2020/12/14/ellig-forty-years-after-surface-freight-deregulation/
   outlet: The Regulatory Review
   date: '2020-12-14'
   verified: true
+  tier: 2
 notes: Carter signed the law removing restrictions on routes trucking companies could serve, deregulating rates, and ending industry rate collusion. Combined with 1978 Airline Deregulation Act and 1980 Staggers Rail Act, this established deregulation as bipartisan consensus. Many wrongly assume Reagan deregulated transportation, but Carter enacted these laws.
 status: confirmed
 ---

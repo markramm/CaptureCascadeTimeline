@@ -30,14 +30,17 @@ sources:
   url: https://thehill.com/lobbying/5101352-trump-axes-biden-era-ethics-order-lobbying-restrictions/
   outlet: The Hill
   date: '2025-01-20'
+  tier: 2
 - title: Initial Rescissions Of Harmful Executive Orders And Actions
   url: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/
   outlet: White House
   date: '2025-01-20'
+  tier: 1
 - title: President Trump Rescinds Executive Orders Impacting Executive Personnel Ethics Commitments
   url: https://cossa.org/president-trump-rescinds-executive-orders-impacting-executive-personnel-ethics-commitments-and-census-parameters/
   outlet: COSSA
   date: '2025-01-20'
+  tier: 2
 notes: Appointees effectively allowed to police themselves. Trump's Executive Order 14148 rescinded multiple Biden orders including ethics requirements. No new ethics order was issued to replace the eliminated restrictions.
 status: confirmed
 ---

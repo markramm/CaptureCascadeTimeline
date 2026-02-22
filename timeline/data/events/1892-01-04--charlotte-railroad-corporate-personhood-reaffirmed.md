@@ -12,9 +12,11 @@ sources:
 - title: Charlotte, C. & A. R. Co. v. Gibbes, 142 U.S. 386 (1892)
   url: https://supreme.justia.com/cases/federal/us/142/386/
   outlet: Justia U.S. Supreme Court Center
+  tier: 1
 - title: How the 14th Amendment Made Corporations Into People
   url: https://www.history.com/articles/14th-amendment-corporate-personhood-made-corporations-into-people
   outlet: History.com
+  tier: 2
 tags:
 - corporate-personhood
 - supreme-court

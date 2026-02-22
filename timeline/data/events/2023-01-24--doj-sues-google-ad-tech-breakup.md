@@ -23,18 +23,22 @@ sources:
   url: https://www.justice.gov/archives/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies
   outlet: U.S. Department of Justice
   date: '2023-01-24'
+  tier: 1
 - title: U.S. sues Google for allegedly breaking antitrust laws with its ad business
   url: https://www.npr.org/2023/01/24/1151055903/doj-files-second-antitrust-suit-against-google-seeks-to-break-up-its-ad-business
   outlet: NPR
   date: '2023-01-24'
+  tier: 1
 - title: United States v. Google LLC (2023) - Ad Tech Case
   url: https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023)
   outlet: Wikipedia
   date: '2024-11-01'
+  tier: 2
 - title: The U.S. DoJ's Antitrust Effort to Break Up Google
   url: https://competitionlawblog.kluwercompetitionlaw.com/2023/02/28/the-u-s-dojs-antitrust-effort-to-break-up-google/
   outlet: Kluwer Competition Law Blog
   date: '2023-02-28'
+  tier: 2
 status: confirmed
 id: 2023-01-24--doj-sues-google-ad-tech-breakup
 capture_lanes:

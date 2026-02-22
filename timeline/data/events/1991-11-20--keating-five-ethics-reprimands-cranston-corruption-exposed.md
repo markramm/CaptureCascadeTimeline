@@ -24,17 +24,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Keating_Five
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Panel Finds Credible Evidence Cranston Violated Ethics Rules
   url: https://www.washingtonpost.com/archive/politics/1991/02/28/panel-finds-credible-evidence-cranston-violated-ethics-rules/6a936c72-ef9c-4cd5-ac31-1953570e8222/
   outlet: The Washington Post
   date: '1991-02-28'
   verified: true
+  tier: 1
 - title: 'Keating Five Scandal: Exposing 1980s Banking and Political Corruption'
   url: https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption
   outlet: Factual America
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture

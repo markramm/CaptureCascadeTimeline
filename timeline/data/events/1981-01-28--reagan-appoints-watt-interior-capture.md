@@ -14,22 +14,27 @@ sources:
   outlet: The Washington Post
   title: Reagan Names James Watt Interior Secretary
   url: https://www.washingtonpost.com/archive/politics/1981/01/29/reagan-names-james-watt-interior-secretary/
+  tier: 1
 - date: '1981-01-29'
   outlet: The New York Times
   title: Watt Resigns His Interior Post
   url: https://www.nytimes.com/1983/10/10/us/watt-resigns-his-interior-post.html
+  tier: 1
 - date: '2023-06-09'
   outlet: NPR
   title: James Watt, sharp-tongued interior secretary under Reagan, dies at 85
   url: https://www.npr.org/2023/06/09/1181285958/james-watt-reagan-interior-secretary-dies
+  tier: 1
 - date: '2023-06-09'
   outlet: Miller Center
   title: James Watt (1981–1983) | Presidential Biography
   url: https://millercenter.org/president/reagan/essays/watt-1981-secretary-of-the-interior
+  tier: 1
 - date: '2023-06-09'
   outlet: SourceWatch
   title: James G. Watt - Background and Corporate Connections
   url: https://www.sourcewatch.org/index.php/James_G._Watt
+  tier: 2
 tags:
 - reagan-era
 - regulatory-capture

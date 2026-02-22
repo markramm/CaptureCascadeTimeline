@@ -25,18 +25,22 @@ sources:
   url: https://www.npr.org/2025/04/19/g-s1-61377/white-house-easter-egg-roll-corporate-sponsors
   outlet: National Public Radio
   date: '2025-04-19'
+  tier: 1
 - title: White House Easter Egg Roll Goes Corporate
   outlet: CNN Politics
   date: '2025-04-18'
   url: https://www.cnn.com/2025/04/18/politics/white-house-easter-egg-roll-tech-sponsors/index.html
+  tier: 2
 - title: Trumps Host White House Easter Egg Roll with Corporate Sponsorships
   outlet: CBS News
   date: '2025-04-19'
   url: https://www.cbsnews.com/news/trumps-host-white-house-easter-egg-roll-corporate-sponorships/
+  tier: 1
 - title: The White House Easter Egg Roll is Seeking Corporate Sponsors
   outlet: Fortune
   date: '2025-03-24'
   url: https://fortune.com/2025/03/24/white-house-easter-egg-roll-corporate-sponsorship/
+  tier: 2
 connections:
 - Unprecedented commercialization of White House traditions
 - Monetization of public events for private gain

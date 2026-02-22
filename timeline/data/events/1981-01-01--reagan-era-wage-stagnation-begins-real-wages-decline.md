@@ -22,22 +22,26 @@ sources:
   url: https://www.epi.org/publication/charting-wage-stagnation/
   outlet: Economic Policy Institute
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: Rising income inequality in U.S. fuelled by Reagan attacks on unions
   url: https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/
   outlet: London School of Economics
   date: '2014-08-12'
   verified: true
+  tier: 1
 - title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Wage growth still lagging behind Clinton, Reagan years
   url: https://www.cnbc.com/2015/03/09/wage-growth-still-lagging-behind-clinton-reagan-years.html
   outlet: CNBC
   date: '2015-03-09'
   verified: true
+  tier: 2
 capture_lanes:
 - Labor Suppression
 - Legislative Capture

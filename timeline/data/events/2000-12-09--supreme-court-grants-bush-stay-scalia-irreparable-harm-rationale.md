@@ -22,28 +22,35 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/531/98/
   outlet: Justia
   date: '2000-12-09'
+  tier: 1
 - title: Bush v. Gore at Constitution Center
   url: https://constitutioncenter.org/blog/on-this-day-bush-v-gore-anniversary
   outlet: Constitution Center
   date: '2000-12-12'
+  tier: 2
 - title: Bush v. Gore Supreme Court Case Details
   url: https://www.law.cornell.edu/supct/html/00-949.ZPC.html
   outlet: Cornell Law
   date: '2000-12-12'
+  tier: 1
 - title: 'Bush v. Gore: Supreme Court Legal Analysis'
   url: https://www.oyez.org/cases/2000/00-949
   outlet: Oyez
   date: '2000-12-12'
+  tier: 1
 - title: 'Irreparable Harm: The U.S. Supreme Court and the Decision That Made George
+  tier: 2
     W. Bush President'
   url: https://www.brookings.edu/books/bush-v-gore/
   outlet: Brookings Institution Press
   date: '2001-02-01'
+  tier: 1
 - title: 'Bush v. Gore: Perspectives on the Supreme Court Judicial Intervention'
   url: https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=3000&context=journal_articles
   outlet: University of Chicago Law Review
   date: '2001-01-15'
   type: Academic Legal Analysis
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

@@ -23,18 +23,22 @@ sources:
   url: https://www.reuters.com/business/media-telecom/usdot-says-verizon-not-moving-fast-enough-24-billion-faa-contract-2025-03-11/
   outlet: Reuters
   date: '2025-03-11'
+  tier: 1
 - title: FAA close to canceling Verizon contract in favor of Starlink
   url: https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/
   outlet: The Washington Post
   date: '2025-02-26'
+  tier: 1
 - title: Musk says FAA air traffic control system is failing
   url: https://www.cnn.com/2025/02/27/business/elon-musk-faa-air-traffic-control-failing-spacex/index.html
   outlet: CNN
   date: '2025-02-27'
+  tier: 1
 - title: SpaceX confirms Starlink lease with FAA
   url: https://thehill.com/policy/technology/5182848-musks-spacex-confirms-starlink-lease-agreement-with-faa/
   outlet: The Hill
   date: '2025-03-06'
+  tier: 2
 connections:
 - Trump Administration Technology Contracts
 - SpaceX Federal Infrastructure Deals

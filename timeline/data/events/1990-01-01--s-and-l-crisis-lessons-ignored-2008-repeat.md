@@ -21,17 +21,20 @@ sources:
   url: https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/
   outlet: PBS Frontline
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: Savings and Loan Crisis
   url: https://www.federalreservehistory.org/essays/savings-and-loan-crisis
   outlet: Federal Reserve History
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: The Savings and Loan Crisis (1989)
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Legislative Capture
 - Systematic Corruption

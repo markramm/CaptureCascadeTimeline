@@ -29,14 +29,17 @@ sources:
   url: https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/
   outlet: White House
   date: '2025-01-20'
+  tier: 1
 - title: Trump wants to label drug cartels terrorist organizations
   url: https://www.npr.org/2025/01/24/g-s1-44644/trump-drug-cartels
   outlet: NPR
   date: '2025-01-24'
+  tier: 1
 - title: Why Trump's designation of drug cartels as terrorists alarms Mexico
   url: https://www.washingtonpost.com/world/2025/01/21/trump-cartels-terrorists-mexico/
   outlet: The Washington Post
   date: '2025-01-21'
+  tier: 1
 notes: Precise implementation of Project 2025 recommendation. Order references Immigration and Nationality Act section 219 and EO 13224 from 2001. Material support provisions could affect street gangs selling narcotics and cross-border economic activity.
 status: confirmed
 ---

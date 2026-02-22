@@ -21,17 +21,20 @@ sources:
   url: https://gai.gmu.edu/wp-content/uploads/sites/27/2017/04/Consumer-Welfare-and-the-Legacy-of-Robert-Bork.pdf
   outlet: George Mason University
   date: '2017-04-01'
+  tier: 1
   verified: true
 - title: The Antitrust Paradox - Wikipedia
   url: https://en.wikipedia.org/wiki/The_Antitrust_Paradox
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: What Economists Mean When They Say "Consumer Welfare Standard"
   url: https://www.promarket.org/2022/02/16/consumer-welfare-standard-antitrust-economists/
   outlet: ProMarket
   date: '2022-02-16'
   verified: true
+  tier: 2
 notes: The Court declared that "Congress designed the Sherman Act as a 'consumer welfare prescription'" - citing Bork just one year after publication of The Antitrust Paradox. The Court never defined "consumer welfare," perpetuating Bork's deliberate ambiguity. This became the governing standard of U.S. antitrust law, enabling decades of corporate consolidation.
 status: confirmed
 ---

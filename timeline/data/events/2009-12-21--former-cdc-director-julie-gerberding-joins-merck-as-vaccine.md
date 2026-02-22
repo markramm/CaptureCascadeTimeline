@@ -20,14 +20,17 @@ sources:
   url: https://www.npr.org/sections/health-shots/2009/12/merck_hires_gerberding_to_run.html
   outlet: NPR
   date: '2009-12-21'
+  tier: 1
 - title: Merck Names Julie Gerberding President of Vaccine Division
   url: https://kffhealthnews.org/morning-breakout/gh-122209-merck/
   outlet: KFF Health News
   date: '2009-12-22'
+  tier: 1
 - title: Former CDC Director Julie Gerberding Joins Merck Vaccine Leadership
   url: https://www.reuters.com/article/merck-gerberding-cdc/former-cdc-director-julie-gerberding-joins-merck-vaccine-leadership-2009-12
   outlet: Reuters
   date: '2009-12-22'
+  tier: 1
 id: 2009-12-21--former-cdc-director-julie-gerberding-joins-merck-as-vaccine
 capture_lanes:
 - Regulatory Capture

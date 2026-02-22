@@ -24,14 +24,17 @@ sources:
   url: https://www.citizen.org/wp-content/uploads/migration/bushrewards.pdf
   outlet: Public Citizen
   date: '2007-03-20'
+  tier: 2
 - title: The Buying of the President 2004
   url: https://www.publicintegrity.org/politics/buying-president-2004
   outlet: Center for Public Integrity
   date: '2004-01-01'
+  tier: 1
 - title: Tracking the Bundlers
   url: https://www.cbsnews.com/news/tracking-the-bundlers/
   outlet: CBS News
   date: '2004-10-28'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

@@ -10,13 +10,16 @@ actors:
 sources:
 - outlet: White House Archives
   title: 'Fact Sheet: The STOCK Act: Bans Members of Congress from Insider Trading'
-  url: https://obamawhitehouse.archives.gov/the-press-office/2012/04/04/fact-sheet-stock-act-bans-members-congress-insider-trading
+  url: 'https://obamawhitehouse.archives.gov/the-press-office/2012/04/04/fact-sheet-stock-act-bans-members-congress-insider-trading'
+  tier: 1
 - outlet: Congress.gov
   title: 'S.2038 - 112th Congress (2011-2012): STOCK Act'
-  url: https://www.congress.gov/bill/112th-congress/senate-bill/2038
+  url: 'https://www.congress.gov/bill/112th-congress/senate-bill/2038'
+  tier: 1
 - outlet: Campaign Legal Center
   title: Congressional Stock Trading and the STOCK Act
-  url: https://campaignlegal.org/update/congressional-stock-trading-and-stock-act
+  url: 'https://campaignlegal.org/update/congressional-stock-trading-and-stock-act'
+  tier: 1
 importance: 8
 tags:
 - regulatory-capture
@@ -32,5 +35,4 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
-
 President Barack Obama signed the Stop Trading on Congressional Knowledge (STOCK) Act into law, addressing long-standing concerns about insider trading by members of Congress. The bipartisan legislation, passed with overwhelming support (96-3 in Senate, 417-2 in House), prohibits members of Congress from using non-public information for private financial gain. Key provisions include mandatory reporting of investment transactions within 45 days, online disclosure of financial reports, and expanded penalties for corrupt congressional actions. While the Act increased transparency, it has been criticized for not completely preventing potential conflicts of interest.

@@ -21,14 +21,17 @@ sources:
   outlet: Congress.gov
   url: https://www.congress.gov/bill/111th-congress/house-bill/3590
   date: '2010-03-23'
+  tier: 1
 - title: 'The Influence Industry: How the ACA Was Shaped by Industry Lobbying'
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2012-01-01'
+  tier: 1
 - title: Architect of the ACA
   outlet: Sunlight Foundation
   url: https://sunlightfoundation.com
   date: '2012-12-05'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

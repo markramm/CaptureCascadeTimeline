@@ -27,26 +27,32 @@ sources:
   url: https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html
   outlet: The New York Times
   date: '2021-01-22'
+  tier: 1
 - title: Jeffrey Clark charged in Georgia election case
   url: https://www.cnn.com/2023/08/14/politics/jeffrey-clark-charged-georgia/index.html
   outlet: CNN
   date: '2023-08-14'
+  tier: 1
 - title: Jan. 6 committee details Trump plan to install Jeffrey Clark
   url: https://www.washingtonpost.com/national-security/2022/06/23/jeffrey-clark-jan-6-committee/
   outlet: The Washington Post
   date: '2022-06-23'
+  tier: 1
 - title: Trump wanted to install loyalist as acting attorney general to help overturn election results
   url: https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html
   outlet: The New York Times
   date: '2021-01-22'
+  tier: 1
 - title: Jan. 6 panel shows how Trump tried to install loyalist at Justice Dept.
   url: https://www.washingtonpost.com/national-security/2022/06/23/jeffrey-clark-jan6-hearing/
   outlet: The Washington Post
   date: '2022-06-23'
+  tier: 1
 - title: DOJ officials threatened mass resignations if Trump installed Clark as AG
   url: https://www.cnn.com/2021/01/24/politics/rosen-trump-justice-department-resignations/index.html
   outlet: CNN
   date: '2021-01-24'
+  tier: 1
 _merge_note: 'Enhanced with information from duplicate event: 2021-01-03--jeffrey-clark-doj-takeover-attempt'
 _merge_timestamp: '2025-09-05T23:46:55.903636'
 capture_lanes:

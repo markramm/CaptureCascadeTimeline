@@ -6,13 +6,16 @@ importance: 8
 sources:
 - outlet: Axios
   title: Young Black Lawyers Mobilize to Defend Democracy
-  url: https://www.axios.com/2025/09/25/young-black-lawyers-mobilize-to-defend-democracy
+  url: 'https://www.axios.com/2025/09/25/young-black-lawyers-mobilize-to-defend-democracy'
+  tier: 2
 - outlet: Young Black Lawyers Organizing Coalition (YBLOC)
   title: Legal Resistance Summit Documentation
-  url: https://www.ybloc.org/2025-legal-resistance-summit
+  url: 'https://www.ybloc.org/2025-legal-resistance-summit'
+  tier: 2
 - outlet: Harvard Law School Center on the Legal Profession
   title: Why American Lawyers Must Fight Democratic Backsliding
-  url: https://clp.law.harvard.edu/knowledge-hub/magazine/issues/lawyers-between-democracy-and-authoritarianism/why-american-lawyers-must-fight-democratic-backsliding/
+  url: 'https://clp.law.harvard.edu/knowledge-hub/magazine/issues/lawyers-between-democracy-and-authoritarianism/why-american-lawyers-must-fight-democratic-backsliding/'
+  tier: 1
 actors:
 - Abdul Dosunmu
 - Marc Morial
@@ -28,8 +31,7 @@ tags:
 capture_lanes:
 - Electoral Manipulation
 - Democratic Erosion
-context_notes: The legal summit represents a coordinated response by young Black lawyers to protect democratic institutions, building on grassroots organizing strategies developed by YBLOC since its founding in 2019.
+context_notes: 'The legal summit represents a coordinated response by young Black lawyers to protect democratic institutions, building on grassroots organizing strategies developed by YBLOC since its founding in 2019.'
 status: confirmed
 ---
-
 A coalition of 287 civil rights attorneys and constitutional law experts convened in Washington D.C. to establish a coordinated national legal resistance infrastructure, focusing on protecting democratic institutions. Led by Abdul Dosunmu and featuring prominent civil rights lawyers, the summit built on YBLOC's grassroots organizing strategy to address emerging challenges to civil rights and democratic processes.

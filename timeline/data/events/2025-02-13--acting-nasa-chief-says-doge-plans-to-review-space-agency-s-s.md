@@ -22,14 +22,17 @@ sources:
   url: https://huntsvillebusinessjournal.com/news/2025/02/19/elon-musks-doge-auditing-nasa-a-conflict-of-interest-with-big-consequences-for-huntsville/
   outlet: Huntsville Business Journal
   date: '2025-02-19'
+  tier: 2
 - title: Musk and Ramaswamy Say DOGE Will Target $500 Billion in Spending
   url: https://www.cbsnews.com/news/musk-ramaswamy-doge-500-billion-spending-where-they-will-cut/
   outlet: CBS News
   date: '2025-02-13'
+  tier: 1
 - title: As Musk Works to Slash Federal Spending, His Own Firms Received Billions
   url: https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121
   outlet: ABC News
   date: '2025-02-14'
+  tier: 1
 connections:
 - SpaceX NASA contracts
 - Federal budget reduction

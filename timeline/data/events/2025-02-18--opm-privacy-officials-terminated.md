@@ -23,14 +23,17 @@ sources:
   url: https://www.cnn.com/2025/02/18/politics/opm-privacy-team-fired/index.html
   outlet: CNN
   date: '2025-02-18'
+  tier: 1
 - title: Trump Guts Crucial OPM Team as Elon Musk Gains Even More Power
   url: https://newrepublic.com/post/191663/elon-musk-opm-privacy-team
   outlet: New Republic
   date: '2025-02-18'
+  tier: 2
 - title: 'Privacy Tip 433: Privacy and Security Personnel Throughout Federal Government Fired'
   url: https://natlawreview.com/article/privacy-tip-433-privacy-and-security-personnel-throughout-federal-government-fired
   outlet: National Law Review
   date: '2025-02-18'
+  tier: 2
 connections:
 - Elon Musk's involvement in government technology infrastructure
 - Systematic termination of federal privacy and security personnel

@@ -14,42 +14,51 @@ capture_lanes:
 - Military-Industrial Complex
 sources:
 - title: Declaring A National Emergency At The Southern Border Of The United States
-  url: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/'
   outlet: White House
   date: '2025-01-21'
+  tier: 1
 - title: 'Trump Signs Directive That Could Deploy US Military in Mexico: Report'
-  url: https://www.newsweek.com/trump-military-directive-cartels-mexico-venezuela-2110960
+  url: 'https://www.newsweek.com/trump-military-directive-cartels-mexico-venezuela-2110960'
   outlet: Newsweek
   date: '2025-01-21'
+  tier: 2
 - title: Trump orders military to devise a security plan for US-Mexico border that could include more troops
-  url: https://www.stripes.com/theaters/us/2025-01-20/mexico-border-security-pentagon-troops-16549919.html
+  url: 'https://www.stripes.com/theaters/us/2025-01-20/mexico-border-security-pentagon-troops-16549919.html'
   outlet: Stars and Stripes
   date: '2025-01-20'
-- title: Trump Orders 1,500 Active-Duty Troops to Border Ahead of Pentagon Security Plan Deadline
-  url: https://www.military.com/daily-news/2025/01/22/1500-active-duty-troops-being-deployed-border-under-orders-trump.html
+  tier: 2
+- title: 'Trump Orders 1,500 Active-Duty Troops to Border Ahead of Pentagon Security Plan Deadline'
+  url: 'https://www.military.com/daily-news/2025/01/22/1500-active-duty-troops-being-deployed-border-under-orders-trump.html'
   outlet: Military.com
   date: '2025-01-22'
-- title: Border declaration, terrorist designations unlock new options—and new risks
-  url: https://www.defenseone.com/policy/2025/01/border-declaration-terrorist-designations-would-unlock-new-optionsand-new-risks/402352/
+  tier: 2
+- title: 'Border declaration, terrorist designations unlock new options—and new risks'
+  url: 'https://www.defenseone.com/policy/2025/01/border-declaration-terrorist-designations-would-unlock-new-optionsand-new-risks/402352/'
   outlet: Defense One
   date: '2025-01-21'
+  tier: 2
 - title: White House – Declaring a National Energy Emergency
-  url: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency'
   outlet: White House
   date: '2025-01-21'
-  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/'
 - title: Trump has declared a national energy emergency. What does that mean?
-  url: https://www.npr.org/2025/01/20/nx-s1-5268653/energy-emergency-trump-oil-evs
+  url: 'https://www.npr.org/2025/01/20/nx-s1-5268653/energy-emergency-trump-oil-evs'
   outlet: NPR
   date: '2025-01-20'
+  tier: 1
 - title: Trump plans to declare a national energy emergency. What does that mean?
-  url: https://www.opb.org/article/2025/01/21/trumps-energy-emergency-plans-what-we-know/
+  url: 'https://www.opb.org/article/2025/01/21/trumps-energy-emergency-plans-what-we-know/'
   outlet: Oregon Public Broadcasting
   date: '2025-01-21'
+  tier: 1
 - title: Demystifying President Trumps National Energy Emergency and the Scope of Emergency Authority
-  url: https://blogs.law.columbia.edu/climatechange/2025/02/14/demystifying-president-trumps-national-energy-emergency-and-the-scope-of-emergency-authority/
+  url: 'https://blogs.law.columbia.edu/climatechange/2025/02/14/demystifying-president-trumps-national-energy-emergency-and-the-scope-of-emergency-authority/'
   outlet: Columbia Law School Climate Law Blog
   date: '2025-02-14'
+  tier: 1
 actors:
 - Donald Trump
 - U.S. Department of Defense
@@ -57,7 +66,7 @@ actors:
 - Pentagon
 - Mexican President Claudia Sheinbaum
 location: U.S.-Mexico Border
-notes: Mexican President Sheinbaum criticized FTO designation as infringing on Mexican sovereignty. Order opens door to American troops potentially crossing into Mexico. National emergency allows deployment of armed forces, erection of physical barriers, and counter-UAS capabilities.
+notes: 'Mexican President Sheinbaum criticized FTO designation as infringing on Mexican sovereignty. Order opens door to American troops potentially crossing into Mexico. National emergency allows deployment of armed forces, erection of physical barriers, and counter-UAS capabilities.'
 monitoring_status: active
 followup_schedule: daily
 search_keywords:
@@ -85,5 +94,4 @@ status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-01-21--energy-emergency'
 _merge_timestamp: '2025-09-05T23:46:55.899532'
 ---
-
 Trump declared national emergency at southern border citing "invasion" by cartels, criminal gangs, and "unvetted military-age males." Deployed 1,500 active-duty troops (1,000 Army, 500 Marines) with helicopters and intelligence analysts. Ordered Pentagon to develop 10-day plan to "seal off" border with Mexico including more troops, drones, barriers. Designated cartels as foreign terrorist organizations including Tren de Aragua and MS-13. Signed order authorizing direct military operations against cartels on foreign soil potentially inside Mexico. Ended "catch and release," reinstated "Remain in Mexico" policy.

@@ -29,14 +29,17 @@ sources:
   url: https://www.nbcnews.com/business/consumer/cfpb-drops-suit-accusing-capital-one-cheating-customers-2-billion-rcna194050
   outlet: NBC News
   date: '2025-02-27'
+  tier: 1
 - title: The CFPB drops its lawsuit against Capital One, marking a major reversal
   url: https://www.npr.org/2025/02/27/nx-s1-5311561/cfpb-confirmation-mckernan-lawsuits-capital-one
   outlet: National Public Radio
   date: '2025-02-27'
+  tier: 1
 - title: CFPB drops Capital One lawsuit and other cases launched under Biden
   url: https://www.nbcwashington.com/news/business/money-report/cfpb-drops-lawsuits-against-capital-one-and-rocket-mortgage-affiliate/3854431/
   outlet: NBC4 Washington
   date: '2025-02-27'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

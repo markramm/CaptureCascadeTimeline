@@ -18,14 +18,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Lincoln_Bedroom_for_contributors_controversy
   outlet: Wikipedia
   date: '1997-02-01'
+  tier: 2
 - title: Campaign finance scandal in the 1990s
   url: https://www.ebsco.com/research-starters/law/campaign-finance-scandal-1990s
   outlet: EBSCO Research Starters
   date: '2024-01-01'
+  tier: 2
 - title: Clinton White House sleepover guests still writing checks
   url: https://publicintegrity.org/politics/clinton-white-house-sleepover-guests-still-writing-checks/
   outlet: Center for Public Integrity
   date: '2008-01-28'
+  tier: 1
 id: 1996-02-26--lincoln-bedroom-fundraising-scandal
 capture_lanes:
 - Systematic Corruption

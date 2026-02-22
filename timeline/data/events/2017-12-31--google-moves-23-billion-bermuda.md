@@ -22,18 +22,22 @@ sources:
   url: https://uk.finance.yahoo.com/news/google-shifted-19-9-billion-euros-tax-haven-171307069--business.html
   outlet: Reuters/Yahoo Finance
   date: '2019-01-03'
+  tier: 2
 - title: Google Cuts Taxes By Shifting Billions to Bermuda—Again
   url: https://news.bloombergtax.com/transfer-pricing/google-cuts-taxes-by-shifting-billions-to-bermuda-again
   outlet: Bloomberg Tax
   date: '2019-01-02'
+  tier: 2
 - title: Google shifted $23 billion to tax haven Bermuda in 2017 filing
   url: https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203373/news/Google-shifted-23-billion-to-tax-haven-Bermuda-in-2017-filing-27819466/
   outlet: MarketScreener
   date: '2019-01-03'
+  tier: 3
 - title: Google to end 'Double Irish Dutch sandwich' tax scheme
   url: https://www.cnbc.com/2019/12/31/google-to-end-double-irish-dutch-sandwich-tax-scheme.html
   outlet: CNBC
   date: '2019-12-31'
+  tier: 2
 status: confirmed
 id: 2017-12-31--google-moves-23-billion-bermuda
 capture_lanes:

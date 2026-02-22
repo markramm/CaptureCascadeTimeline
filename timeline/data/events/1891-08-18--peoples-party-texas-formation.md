@@ -11,15 +11,18 @@ sources:
 - title: Populist Party (United States)
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Populist_Party_(United_States)
+  tier: 2
   year: 2024
 - title: 'The Rise and Fall of the People''s Party in Texas: A Historical Overview'
   outlet: Texas State Historical Association
   url: https://www.tshaonline.org/handbook/entries/peoples-party
   year: 2024
+  tier: 2
 - title: Birth of the People's Party
   outlet: EBSCO Research Starters
   url: https://www.ebsco.com/research-starters/history/birth-peoples-party
   year: 2024
+  tier: 2
 tags:
 - populist-movement
 - political-realignment

@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/05/10/us/politics/trump-republicans-money-super-pacs.html
   outlet: The New York Times
   date: '2025-05-10'
+  tier: 1
 - title: Trump's super PAC raises a massive 177 million, bolstering his political influence
   url: https://www.nbcnews.com/politics/trump-administration/trumps-super-pac-raises-massive-177-million-bolstering-political-influ-rcna222400
   outlet: NBC News
   date: '2025-08-01'
+  tier: 1
 - title: Unprecedented Big Money Surge for Super PAC Tied to Trump
   url: https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump
   outlet: Brennan Center for Justice
   date: '2025-08-01'
+  tier: 1
 - title: Trump's super PAC in powerful financial position with nearly 200 million on hand
   url: https://www.cnn.com/2025/08/01/politics/trump-maga-inc-fundraising
   outlet: CNN
   date: '2025-08-01'
+  tier: 1
 - title: '''Unprecedented'': Trump Can''t Run Again, So Why Is His Super PAC Raising Record-Busting Sums of Cash?'
   url: https://www.commondreams.org/news/trump-super-pac-maga-inc
   outlet: Common Dreams
   date: '2025-08-01'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

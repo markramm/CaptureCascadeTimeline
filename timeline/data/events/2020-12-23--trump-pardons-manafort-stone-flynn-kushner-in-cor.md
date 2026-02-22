@@ -23,14 +23,17 @@ sources:
   url: https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html
   outlet: CNN
   date: '2020-12-23'
+  tier: 1
 - title: Trump pardons Blackwater contractors convicted of massacre
   url: https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians
   outlet: The Guardian
   date: '2020-12-23'
+  tier: 1
 - title: Steve Bannon charged with fraud over border wall fundraising
   url: https://www.bbc.com/news/world-us-canada-53853297
   outlet: BBC
   date: '2020-08-20'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

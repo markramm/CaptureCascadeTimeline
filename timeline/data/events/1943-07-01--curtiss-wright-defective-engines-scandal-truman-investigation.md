@@ -40,16 +40,19 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Sidney Hillman
   url: https://aflcio.org/about/history/labor-history-people/sidney-hillman
   outlet: AFL-CIO
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: CIO Political Action Committee (PAC) Records
   url: https://reuther.wayne.edu/files/LR000647.pdf
   outlet: Walter P. Reuther Library
   date: '2024-01-01'
   verified: true
+  tier: 1
 tags:
 - war-profiteering
 - defense-industry

@@ -22,18 +22,22 @@ sources:
   url: https://www.cnn.com/2025/02/25/business/musk-faa-starlink-contract/index.html
   outlet: CNN Business
   date: '2025-02-25'
+  tier: 1
 - title: FAA close to canceling $2.4 billion Verizon contract in favor of Musk's Starlink
   url: https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/
   outlet: The Washington Post
   date: '2025-02-26'
+  tier: 1
 - title: FAA Officials Ordered Staff to Find Funding for Elon Musk's Starlink
   url: https://www.rollingstone.com/politics/politics-features/elon-musk-starlink-faa-officials-find-funding-1235285246/
   outlet: Rolling Stone
   date: '2025-03-03'
+  tier: 2
 - title: Sherrill Calls for Investigations Into Elon Musk's Vast Conflicts of Interest
   url: https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies
   outlet: Congresswoman Mikie Sherrill
   date: '2025-02-01'
+  tier: 1
 notes: FAA officials avoiding paper trail by delivering orders verbally - "someone does not want a paper trail"
 status: confirmed
 ---

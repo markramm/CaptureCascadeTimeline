@@ -14,17 +14,20 @@ tags:
 - presidential-accountability
 sources:
 - title: Supreme Court Will Hear Trump Tariffs Case on Fast Track
-  url: https://www.cnbc.com/2025/09/09/trump-tariffs-trade-supreme-court-.html
+  url: 'https://www.cnbc.com/2025/09/09/trump-tariffs-trade-supreme-court-.html'
   outlet: CNBC
+  tier: 2
   publication_date: '2025-09-09'
 - title: Supreme Court Ducks an Opportunity on Trump Emoluments Cases
-  url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases
+  url: 'https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases'
   outlet: Brennan Center for Justice
   publication_date: '2025-03-15'
+  tier: 1
 - title: Legal Challenges to Trump Administration Actions
-  url: https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/
+  url: 'https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/'
   outlet: Just Security
   publication_date: '2025-03-15'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Judicial Capture
@@ -32,5 +35,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 The Supreme Court held a rare emergency hearing addressing multiple constitutional challenges to the Trump administration's foreign financial entanglements. Legal scholars described the proceedings as a watershed moment in constitutional law, with justices probing the boundaries of presidential financial accountability and potential conflicts of interest. The hearing centered on accusations of systematic violations of the Foreign and Domestic Emoluments Clauses.

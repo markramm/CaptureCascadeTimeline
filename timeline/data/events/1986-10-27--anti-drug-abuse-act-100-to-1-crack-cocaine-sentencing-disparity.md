@@ -18,18 +18,22 @@ sources:
   url: https://www.aclu.org/press-releases/aclu-releases-crack-cocaine-report-anti-drug-abuse-act-1986-deepened-racial-inequity
   outlet: ACLU
   date: '2006-10-26'
+  tier: 1
 - title: Fair Sentencing Act
   url: https://en.wikipedia.org/wiki/Fair_Sentencing_Act
   outlet: Wikipedia
   date: '2010-08-03'
+  tier: 2
 - title: Crack vs. Powder Cocaine - One Drug, Two Penalties
   url: https://www.criminaldefenselawyer.com/resources/crack-vrs-powder-cocaine-one-drug-two-penalties.htm
   outlet: Criminal Defense Lawyer
   date: '2024-01-01'
+  tier: 2
 - title: Anti-Drug Abuse Act of 1986
   url: https://www.thecongressproject.com/anti-drug-abuse-act-of-1986
   outlet: The Congress Project
   date: '1986-10-27'
+  tier: 2
 id: 1986-10-27--anti-drug-abuse-act-100-to-1-crack-cocaine-sentencing-disparity
 capture_lanes:
 - Legislative Capture

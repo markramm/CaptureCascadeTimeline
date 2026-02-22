@@ -1,15 +1,11 @@
 ---
 id: 2025-05-14--trump-s-middle-east-visit-comes-as-his-family-deepens-its-bu
 date: '2025-05-14'
-title: Trump’s Middle East visit comes as his family deepens its business, crypto
-  ties in the region
-description: While Trump touted multi-billion dollar foreign investments in the US
-  during his state visits across the Persian Gulf, a sizable portion of those investments
-  were steered towards Trump family businesses like the Trump Organization and World
-  Liberty Financial
+title: 'Trump’s Middle East visit comes as his family deepens its business, crypto ties in the region'
+description: 'While Trump touted multi-billion dollar foreign investments in the US during his state visits across the Persian Gulf, a sizable portion of those investments were steered towards Trump family businesses like the Trump Organization and World Liberty Financial'
 status: confirmed
 importance: 9
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Donald Trump
 - Trump Administration
@@ -19,29 +15,31 @@ tags:
 - government-contracts
 capture_type: monetizing_position
 sources:
-- title: Trump’s Middle East visit comes as his family deepens its business, crypto
-    ties in the region
-  url: https://apnews.com/article/trump-business-interests-family-middle-east-cryptocurrency-cbb7d2354304ce0308800819944cf3f8
+- title: 'Trump’s Middle East visit comes as his family deepens its business, crypto'
+  tier: 1
+  url: 'https://apnews.com/article/trump-business-interests-family-middle-east-cryptocurrency-cbb7d2354304ce0308800819944cf3f8'
   outlet: Associated Press
   date: '2025-05-14'
-- title: Trump family crypto venture tapped as part of $2B Emirati-backed investment
-    deal
-  url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
+- title: Trump family crypto venture tapped as part of $2B Emirati-backed investment deal
+  url: 'https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842'
   outlet: ABC News
   date: '2025-05-14'
-- title: How the Trump family is poised to profit from a $2 billion Middle East crypto
-    deal with Binance
-  url: https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/
+  tier: 1
+- title: How the Trump family is poised to profit from a $2 billion Middle East crypto deal with Binance
+  url: 'https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/'
   outlet: Fortune
   date: '2025-05-07'
-- title: UAE's ruling family agrees to $2bn transaction with Trump crypto firm
-  url: https://www.middleeasteye.net/news/uaes-ruling-family-agrees-2bn-transaction-trump-crypto-firm
+  tier: 2
+- title: 'UAE''s ruling family agrees to $2bn transaction with Trump crypto firm'
+  url: 'https://www.middleeasteye.net/news/uaes-ruling-family-agrees-2bn-transaction-trump-crypto-firm'
   outlet: Middle East Eye
   date: '2025-05-14'
+  tier: 2
 - title: How Trump family business ventures stand to directly benefit the President
-  url: https://www.npr.org/2025/05/07/nx-s1-5388474/how-trump-family-business-ventures-stand-to-directly-benefit-the-president
+  url: 'https://www.npr.org/2025/05/07/nx-s1-5388474/how-trump-family-business-ventures-stand-to-directly-benefit-the-president'
   outlet: NPR
   date: '2025-05-07'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture
@@ -50,5 +48,4 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-
 While Trump touted multi-billion dollar foreign investments in the US during his state visits across the Persian Gulf, a sizable portion of those investments were steered towards Trump family businesses like the Trump Organization and World Liberty Financial

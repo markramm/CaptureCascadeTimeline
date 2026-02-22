@@ -24,18 +24,22 @@ sources:
   url: https://www.npr.org/2020/08/20/904027735/shadow-immigration-system-migrant-children-detained-in-hotels-by-private-contrac
   outlet: NPR
   date: '2020-08-20'
+  tier: 1
 - title: ICE contractor held 1-year-old migrants in hotels before deporting them
   url: https://thehill.com/regulation/court-battles/508539-ice-contractor-held-1-year-old-migrants-in-hotels-before-deporting/
   outlet: The Hill
   date: '2020-07-21'
+  tier: 2
 - title: Migrant kids held in US hotels, then expelled
   url: https://www.tampabay.com/news/nation-world/2020/07/22/migrant-kids-held-in-us-hotels-then-expelled/
   outlet: Tampa Bay Times
   date: '2020-07-22'
+  tier: 2
 - title: MVM, Inc. - Wikipedia
   url: https://en.wikipedia.org/wiki/MVM,_Inc.
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 notes: MVM created a parallel detention system outside standard oversight, using commercial hotels as de facto jails for unaccompanied minors. In 2018, MVM used a Phoenix office building for three weeks despite lacking proper zoning or childcare licenses. Attorneys later filed suit against MVM for enforced disappearance, torture, and child abduction related to family separations. The use of hotels allowed ICE to bypass standard detention protocols and congressional oversight mechanisms.
 status: confirmed
 ---

@@ -2,7 +2,7 @@
 id: 2025-07-08--musk-attacks-trump-epstein-coverup
 date: '2025-07-08'
 importance: 10
-title: Musk Floods X with 35+ Posts Attacking Trump Over Epstein "Cover-up"
+title: 'Musk Floods X with 35+ Posts Attacking Trump Over Epstein "Cover-up"'
 location: United States
 actors:
 - Elon Musk
@@ -19,25 +19,27 @@ tags:
 capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
-- Media Capture & Control
+- 'Media Capture & Control'
 sources:
 - title: 'It''s a cover up: Musk floods X with posts attacking Trump over Epstein'
-  url: https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343
+  url: 'https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343'
   outlet: ABC News
   date: '2025-07-08'
-  archive_url: https://web.archive.org/web/20250708000000/https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250708000000/https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343'
 - title: Musk sought to stoke the Trump-Epstein scandal. Mission accomplished.
-  url: https://www.washingtonpost.com/politics/2025/07/26/trump-epstein-musk-controversy/
+  url: 'https://www.washingtonpost.com/politics/2025/07/26/trump-epstein-musk-controversy/'
   outlet: The Washington Post
   date: '2025-07-26'
-  archive_url: https://web.archive.org/web/20250726000000/https://www.washingtonpost.com/politics/2025/07/26/trump-epstein-musk-controversy/
+  archive_url: 'https://web.archive.org/web/20250726000000/https://www.washingtonpost.com/politics/2025/07/26/trump-epstein-musk-controversy/'
+  tier: 1
 - title: Elon Musk tweaks Donald Trump with Jeffrey Epstein post
-  url: https://thehill.com/homenews/administration/5387380-elon-musk-trump-jeffrey-epstein/
+  url: 'https://thehill.com/homenews/administration/5387380-elon-musk-trump-jeffrey-epstein/'
   outlet: The Hill
   date: '2025-07-08'
-  archive_url: https://web.archive.org/web/20250708000000/https://thehill.com/homenews/administration/5387380-elon-musk-trump-jeffrey-epstein/
-notes: Musk claimed without evidence Trump is in Epstein files. Posted arrest counter showing zero prosecutions. Called DOJ reversal "the final straw." Part of oligarch civil war over government contracts. Shows potential kompromat leverage game.
+  archive_url: 'https://web.archive.org/web/20250708000000/https://thehill.com/homenews/administration/5387380-elon-musk-trump-jeffrey-epstein/'
+  tier: 2
+notes: 'Musk claimed without evidence Trump is in Epstein files. Posted arrest counter showing zero prosecutions. Called DOJ reversal "the final straw." Part of oligarch civil war over government contracts. Shows potential kompromat leverage game.'
 status: confirmed
 ---
-
 Elon Musk posts "Official Jeffrey Epstein Pedophile Arrest Counter" showing zero arrests, floods platform with 35+ posts suggesting Trump is in Epstein files and calling it "the final straw" after DOJ reversal

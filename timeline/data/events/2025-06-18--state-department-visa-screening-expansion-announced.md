@@ -20,10 +20,12 @@ sources:
   url: https://www.nafsa.org/executive-and-regulatory-actions-trump2admin
   outlet: NAFSA
   date: '2025-06-18'
+  tier: 2
 - title: The Trump Administration's 2025 Changes to Immigration Law
   url: https://www.nycbar.org/reports/the-trump-administrations-early-2025-changes-to-immigration-law/
   outlet: New York City Bar Association
   date: '2025-06-18'
+  tier: 2
 connections:
 - June 4, 2025 travel ban proclamation
 - May 27, 2025 visa appointment halt

@@ -22,6 +22,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Lattimer_massacre
   outlet: Wikipedia
   date: '2025-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: How a 1897 Massacre of Pennsylvania Coal Miners Morphed From a Galvanizing Crisis to Forgotten History
@@ -39,9 +40,11 @@ sources:
 - title: Sept. 10, 1897 - Lattimer Massacre
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/lattimer-massacre/
+  tier: 2
 - title: The Lattimer Tragedy of 1897
   outlet: Pennsylvania Heritage Magazine
   url: https://paheritage.wpengine.com/article/lattimer-tragedy-1897/
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

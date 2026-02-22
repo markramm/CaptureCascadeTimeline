@@ -1,31 +1,35 @@
 ---
 id: 2024-03-09--boeing-whistleblower-john-barnett-found-dead
 date: '2024-03-09'
-title: Boeing Whistleblower John Barnett Found Dead During Deposition, Ruled Suicide
+title: 'Boeing Whistleblower John Barnett Found Dead During Deposition, Ruled Suicide'
 actors:
 - John Barnett
 - Boeing
 - Charleston County Coroner
 - Charleston Police Department
 - Federal Aviation Administration
-- Barnett's attorneys
+- 'Barnett''s attorneys'
 sources:
 - outlet: NPR
-  title: Boeing Whistleblower John Barnett, Who Raised Alarm Over Plane Quality, Is Found Dead
-  url: https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead
+  title: 'Boeing Whistleblower John Barnett, Who Raised Alarm Over Plane Quality, Is Found Dead'
+  url: 'https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead'
   date: '2024-03-12'
+  tier: 1
 - outlet: CBS News
-  title: Boeing Whistleblower John Barnett Died by Suicide, Police Investigation Concludes
-  url: https://www.cbsnews.com/news/boeing-whistleblower-john-barnett-suicide-police-investigation/
+  title: 'Boeing Whistleblower John Barnett Died by Suicide, Police Investigation Concludes'
+  url: 'https://www.cbsnews.com/news/boeing-whistleblower-john-barnett-suicide-police-investigation/'
   date: '2024-05-17'
+  tier: 1
 - outlet: Al Jazeera
   title: Boeing Whistleblower John Barnett Found Dead
-  url: https://www.aljazeera.com/economy/2024/3/12/boeing-whistleblower-found-dead
+  url: 'https://www.aljazeera.com/economy/2024/3/12/boeing-whistleblower-found-dead'
   date: '2024-03-12'
+  tier: 1
 - outlet: Live5News
   title: Charleston Police Release Investigation Report of Boeing Whistleblower Death
-  url: https://www.live5news.com/2024/05/17/charleston-police-release-investigation-report-boeing-whistleblower-death/
+  url: 'https://www.live5news.com/2024/05/17/charleston-police-release-investigation-report-boeing-whistleblower-death/'
   date: '2024-05-17'
+  tier: 2
 importance: 9
 tags:
 - boeing
@@ -39,7 +43,6 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-
 John Barnett, a 32-year Boeing quality control manager and prominent whistleblower who had raised numerous safety concerns about the 787 Dreamliner, was found dead from a gunshot wound to the head in his truck in a hotel parking lot in Charleston, South Carolina. He was in Charleston for deposition in his ongoing whistleblower retaliation lawsuit against Boeing. His death occurred on March 9, 2024, during a break in the deposition proceedings, and was ruled a suicide by the Charleston County Coroner.
 
 Barnett had worked in quality control at Boeing for 32 years, spending his final seven years as a manager at Boeing South Carolina. He became a prominent whistleblower after reporting systematic quality control failures in 787 Dreamliner production, including metal shavings left near flight control wiring, defective oxygen systems, and compromised emergency equipment. He filed substantiated safety reports with the FAA and was featured in the 2022 Netflix documentary "Downfall: The Case Against Boeing."

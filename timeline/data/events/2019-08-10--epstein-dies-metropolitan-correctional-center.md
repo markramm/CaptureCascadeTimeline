@@ -19,14 +19,17 @@ sources:
   title: Statement of Attorney General William P. Barr on the Death of Jeffrey Epstein
   outlet: Department of Justice
   date: '2019-08-10'
+  tier: 1
 - url: https://www.washingtonpost.com/politics/investigators-scrutinize-broken-cameras-outside-epsteins-jail-cell/2019/08/26/3065c0b8-c827-11e9-a1fe-ca46e8d573c0_story.html
   title: Investigators scrutinize broken cameras outside Epstein's jail cell
   outlet: The Washington Post
   date: '2019-08-26'
+  tier: 1
 - url: https://apnews.com/4ff27f28f32d446795b65ac7dd8cc4ac
   title: Guards on duty when Epstein died were offered plea deal
   outlet: Associated Press
   date: '2019-11-19'
+  tier: 1
 importance: 10
 status: confirmed
 capture_lanes:

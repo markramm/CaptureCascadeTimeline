@@ -21,12 +21,14 @@ sources:
   url: https://grokipedia.com/page/Federal_Election_Commission
   outlet: Grokipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Federal Election Campaign Act - Wikipedia
   url: https://en.wikipedia.org/wiki/Federal_Election_Campaign_Act
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: The FEC was created by 1974 FECA amendments as response to Watergate. Six commissioners appointed by President Ford. The agency institutionalized the framework enabling corporate PAC explosion. FEC's 1975 SunPAC advisory opinion confirmed corporations could use treasury money to establish, operate and solicit contributions to PACs.
 status: confirmed
 ---

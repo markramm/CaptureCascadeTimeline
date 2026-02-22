@@ -25,14 +25,17 @@ sources:
   url: https://www.center4research.org/pfizer-hires-fda-cavazzoni-sparking-debate/
   outlet: National Center for Health Research
   date: '2025-01-15'
+  tier: 2
 - title: 'Top FDA Drug Regulator Returns to Pfizer: The Revolving Door Must End'
   url: https://www.citizen.org/news/top-fda-drug-regulator-returns-to-pfizer-the-revolving-door-must-end/
   outlet: Public Citizen
   date: '2025-01-15'
+  tier: 2
 - title: Patrizia Cavazzoni, Former Head of FDA's Drug Center, Joins Pfizer
   url: https://www.statnews.com/2025/02/24/patrizia-cavazzoni-fda-pfizer-chief-medical-officer/
   outlet: STAT News
   date: '2025-02-24'
+  tier: 1
 status: confirmed
 id: 2025-01-15--fda-cavazzoni-pfizer-revolving-door
 priority_id: RT-COMPLETED-PATTERN-20250906-02

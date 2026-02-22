@@ -36,14 +36,17 @@ sources:
   url: https://en.wikisource.org/wiki/Coalition_Provisional_Authority_Order_39
   outlet: Coalition Provisional Authority
   date: '2003-09-19'
+  tier: 2
 - title: 'Rebuilding Iraq: Resource, Security, Governance, Essential Services'
   url: https://www.gao.gov/products/gao-04-902r
   outlet: GAO
   date: '2004-06-28'
+  tier: 1
 - title: State Rebuilding in Reverse
   url: https://merip.org/2004/12/state-rebuilding-in-reverse/
   outlet: Middle East Research and Information Project
   date: '2004-12-01'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

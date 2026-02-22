@@ -21,14 +21,17 @@ sources:
   title: 'Q & A: The Issues Behind the Port Security Uproar'
   url: https://www.npr.org/2006/02/22/5228775/q-a-the-issues-behind-the-port-security-uproar
   date: '2006-02-22'
+  tier: 1
 - outlet: CNN
   title: Key Questions About the Dubai Port Deal
   url: https://www.cnn.com/2006/POLITICS/03/06/dubai.ports.qa/
   date: '2006-03-06'
+  tier: 1
 - outlet: CBS News
   title: Dubai Company Gives Up On Ports Deal
   url: https://www.cbsnews.com/news/dubai-company-gives-up-on-ports-deal/
   date: '2006-03-09'
+  tier: 1
 status: confirmed
 id: 2006-02-22--bush-threatens-first-presidential-veto-over-dubai
 priority_id: RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover

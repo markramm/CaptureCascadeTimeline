@@ -17,17 +17,21 @@ sources:
 - title: Britannica - Charles H. Keating Biography
   date: '2023'
   url: https://www.britannica.com/biography/Charles-Keating
+  tier: 2
 - title: 'Buffalo News - Obituary: Charles H. Keating'
   date: '2014'
   url: https://buffalonews.com/obituaries/charles-h-keating-went-to-prison-as-a-key-figure-in-savings-and-loan-crisis/article_d82498cf-b483-596d-8f01-7e938d772e30.html
+  tier: 2
 - title: 'FDIC Bibliography: S&L Crisis - Charles Keating Case'
   date: '2023'
   url: https://www.fdic.gov/resources/publications/s-and-l-crisis/s-and-l-biblio-09.html
+  tier: 1
   notes: Official government documentation of the Lincoln Savings and Loan fraud case
 - title: 'Senate Ethics Inquiry Bibliography: Lincoln Savings and Loan'
   date: '1989'
   url: http://keating.ccv.brown.edu/actors/affiliates/Lincoln-Savings-and-Loan
   notes: Detailed records of the Senate investigation into the Keating Five
+  tier: 1
 capture_lanes:
 - Corporate Capture
 - Systematic Corruption

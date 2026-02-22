@@ -13,20 +13,24 @@ sources:
 - title: Social Security Amendments of 1965
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Social_Security_Amendments_of_1965
+  tier: 2
   year: 2024
 - title: The Health-Care Legacy of the Great Society
   author: Paul Starr
   outlet: Princeton University
   url: https://www.princeton.edu/~starr/articles/articles14/Starr_LBJ_HC_Legacy_1-2014.pdf
   year: 2014
+  tier: 1
 - title: Public Opinion and the Passage of the Medicare Bill
   outlet: Roper Center for Public Opinion Research
   url: https://ropercenter.cornell.edu/public-opinion-and-passage-medicare-bill
   year: 2024
+  tier: 1
 - title: Reflections on the enactment of Medicare and Medicaid
   outlet: National Center for Biotechnology Information
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4195078/
   year: 2015
+  tier: 1
 tags:
 - healthcare
 - institutional-capture

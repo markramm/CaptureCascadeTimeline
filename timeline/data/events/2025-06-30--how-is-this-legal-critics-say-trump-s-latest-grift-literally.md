@@ -21,14 +21,17 @@ sources:
   url: https://www.huffpost.com/entry/trump-colognes-perfumes_n_68633564e4b0f166350cec14?ncid=NEWSSTAND0001
   outlet: HuffPost
   date: '2025-06-30'
+  tier: 2
 - title: 'Trump''s latest business venture: A fragrance he says is ''all about winning'''
   url: https://abcnews.go.com/US/trumps-latest-business-venture-fragrance-winning/story?id=123376093
   outlet: ABC News
   date: '2025-07-01'
+  tier: 1
 - title: Donald Trump is Now Selling Two New Fragrances Called 'Victory 45-47'
   url: https://wwd.com/pop-culture/new-fashion-releases/donald-trump-fragrance-victory-45-47-1237964358/
   outlet: WWD
   date: '2025-07-02'
+  tier: 2
 connections:
 - Trump Merchandising Strategy
 - Presidential Brand Monetization

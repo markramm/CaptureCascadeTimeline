@@ -21,18 +21,22 @@ sources:
   title: 'Press Release: IMF Approves SDR 15.5 Billion Stand-by Credit for Korea'
   url: https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr9755
   date_published: '1997-12-04'
+  tier: 1
 - outlet: IMF Working Papers
   title: Korea's Economic Adjustments Under the IMF-supported Program
   url: https://www.imf.org/external/np/speeches/1998/012198a.pdf
   date_published: '1998-01-21'
+  tier: 2
 - outlet: Asian Development Bank Institute
   title: 'ADBI Working Paper: Twenty Years After the Financial Crisis'
   url: https://www.adb.org/sites/default/files/publication/378801/adbi-wp790.pdf
   date_published: '2018-12-01'
+  tier: 2
 - outlet: University of Notre Dame
   title: 'The 1997 Financial Crisis and Governance: The Case of South Korea'
   url: https://kellogg.nd.edu/sites/default/files/old_files/documents/272.pdf
   date_published: '1998-06-12'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Financial Capture

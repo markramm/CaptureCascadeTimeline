@@ -21,24 +21,27 @@ capture_lanes:
 - International Kleptocracy
 sources:
 - title: Russian Senator Held Stake in SpaceX While He Was Sanctioned – Bloomberg
-  url: https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798
+  url: 'https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798'
   outlet: The Moscow Times
   date: '2025-01-30'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798
-- title: Russian Oligarch Held Stake in Musk's SpaceX Through Trust While He Was Sanctioned
-  url: https://www.bloomberg.com/news/articles/2025-01-29/russian-oligarch-held-stake-in-spacex-via-trust-while-sanctioned
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20250814000000/https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798'
+- title: 'Russian Oligarch Held Stake in Musk''s SpaceX Through Trust While He Was Sanctioned'
+  url: 'https://www.bloomberg.com/news/articles/2025-01-29/russian-oligarch-held-stake-in-spacex-via-trust-while-sanctioned'
   outlet: Bloomberg
   date: '2025-01-29'
-- title: Russian oligarch held stake in Musk's SpaceX through trust despite sanctions
-  url: https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/
+  tier: 1
+- title: 'Russian oligarch held stake in Musk''s SpaceX through trust despite sanctions'
+  url: 'https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/'
   outlet: Kyiv Independent
   date: '2025-01-30'
+  tier: 2
 - title: Russian oligarch and politician retained stake in SpaceX for 4 years under US sanctions
-  url: https://www.pravda.com.ua/eng/news/2025/01/30/7495952/
+  url: 'https://www.pravda.com.ua/eng/news/2025/01/30/7495952/'
   outlet: Ukrainska Pravda
   date: '2025-01-30'
-notes: Heritage Trust acquired SpaceX stake 2017 ($210M when SpaceX valued $21B). Kerimov sanctioned 2018. Citigroup consulted Treasury, determined trust not subject to blocking. Treasury finally blocked $1B Heritage Trust June 2022 - 4 years after sanctions. SpaceX stake disposed before 2022 blocking. Kerimov has $9.84B net worth, 17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner circle.
+  tier: 2
+notes: 'Heritage Trust acquired SpaceX stake 2017 ($210M when SpaceX valued $21B). Kerimov sanctioned 2018. Citigroup consulted Treasury, determined trust not subject to blocking. Treasury finally blocked $1B Heritage Trust June 2022 - 4 years after sanctions. SpaceX stake disposed before 2022 blocking. Kerimov has $9.84B net worth, 17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner circle.'
 status: confirmed
 ---
-
 Bloomberg and other outlets reported Russian oligarch Suleyman Kerimov held approximately 1% of SpaceX through Delaware's Heritage Trust, managed by Citigroup, from 2017 until disposal before Treasury blocked the trust in 2022. The stake was acquired pre-sanctions but retained for years after 2018 U.S. sanctions.

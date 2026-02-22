@@ -22,22 +22,26 @@ sources:
   url: https://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids
   outlet: History.com
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: The Hollywood Star Who Confronted the AIDS Silent Epidemic
   url: https://www.smithsonianmag.com/smart-news/hollywood-star-who-confronted-aids-silent-epidemic-180965059/
   outlet: Smithsonian Magazine
   date: '2018-05-15'
   verified: true
+  tier: 2
 - title: Nancy Reagan Turned Down Rock Hudson Plea For Help
   url: https://www.buzzfeednews.com/article/chrisgeidner/nancy-reagan-turned-down-rock-hudsons-plea-for-help-seven-we
   outlet: BuzzFeed News
   date: '2015-07-25'
   verified: true
+  tier: 2
 - title: '1985: the year the AIDS crisis finally broke through the silence'
   url: https://www.hivplusmag.com/history/1985-aids-crisis-broke-silence
   outlet: HIV Plus Magazine
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Legislative Capture
 - Digital & Tech Capture

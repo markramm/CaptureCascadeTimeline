@@ -22,18 +22,22 @@ sources:
   url: https://theconversation.com/youtubes-algorithms-might-radicalise-people-but-the-real-problem-is-weve-no-idea-how-they-work-129955
   outlet: The Conversation
   date: '2020-01-27'
+  tier: 2
 - title: The YouTube 'radicalization engine' debate continues
   url: https://www.cjr.org/the_media_today/youtube-radicalization.php
   outlet: Columbia Journalism Review
   date: '2020-02-10'
+  tier: 2
 - title: Sociologist Zeynep Tufekci says YouTube is an engine for radicalization
   url: https://www.cjr.org/the_new_gatekeepers/sociologist-zeynep-tufekci-says-youtube-is-an-engine-for-radicalization.php
   outlet: Columbia Journalism Review
   date: '2019-01-17'
+  tier: 2
 - title: Algorithmic radicalization
   url: https://en.wikipedia.org/wiki/Algorithmic_radicalization
   outlet: Wikipedia
   date: '2024-11-01'
+  tier: 2
 status: confirmed
 id: 2016-01-01--youtube-algorithm-radicalizes-for-watch-time
 capture_lanes:

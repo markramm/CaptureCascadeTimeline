@@ -27,14 +27,17 @@ sources:
   url: https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump
   outlet: NPR
   date: '2025-11-21'
+  tier: 1
 - title: Rep. Marjorie Taylor Greene to resign in January
   url: https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278
   outlet: NBC News
   date: '2025-11-22'
+  tier: 1
 - title: Rep. Marjorie Taylor Greene says she will resign from Congress in January
   url: https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912
   outlet: ABC News
   date: '2025-11-21'
+  tier: 1
 connections:
 - Trump's Pattern of Retaliation Against Critics
 - Epstein Files Transparency Efforts

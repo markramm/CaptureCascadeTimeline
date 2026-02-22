@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html
   outlet: The New York Times
   date: '2025-07-02'
+  tier: 1
 - title: Trump family's net worth has increased by 2.9 billion thanks to crypto investments
   url: https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/
   outlet: CBS News
   date: '2025-05-02'
+  tier: 1
 - title: 'Donald Trump Net Worth: 620 Million of Crypto Wealth Reshapes Fortune'
   url: https://www.bloomberg.com/news/features/2025-07-02/donald-trump-net-worth-620-million-of-crypto-wealth-reshapes-fortune
   outlet: Bloomberg
   date: '2025-07-02'
+  tier: 1
 - title: 'Day 5: Crypto Has Made Trump 1.2 BILLION Richer – and Counting'
   url: https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677
   outlet: House Financial Services Democrats
   date: '2025-01-25'
+  tier: 1
 - title: Trump Media builds 2 billion bitcoin hoard, as cryptocurrency swells president's net worth
   url: https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html
   outlet: CNBC
   date: '2025-07-21'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

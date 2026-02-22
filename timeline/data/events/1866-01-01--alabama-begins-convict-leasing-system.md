@@ -12,15 +12,18 @@ sources:
 - title: Convict-Lease System
   outlet: Encyclopedia of Alabama
   url: https://encyclopediaofalabama.org/article/convict-lease-system/
+  tier: 2
   year: 2024
 - title: Convict Leasing in Alabama Coal Mines
   outlet: Equal Justice Initiative
   url: https://eji.org/news/convict-leasing-alabama-coal-mines/
   year: 2024
+  tier: 2
 - title: Convict leasing
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Convict_leasing
   year: 2024
+  tier: 2
 tags:
 - prison-industrial-complex
 - systematic-corruption

@@ -21,14 +21,17 @@ sources:
   url: https://www.politico.com/news/2025/07/22/democratic-states-redistricting-pact
   outlet: Politico
   date: '2025-07-22'
+  tier: 1
 - title: Constitutional scholars warn of redistricting arms race
   url: https://www.washingtonpost.com/politics/2025/07/22/redistricting-constitutional-crisis
   outlet: The Washington Post
   date: '2025-07-22'
+  tier: 1
 - title: Democrats plans to counter Republican redistricting efforts
   url: https://www.npr.org/2025/07/31/nx-s1-5485270/trump-republicans-democrats-redistricting
   outlet: NPR
   date: '2025-07-31'
+  tier: 1
 notes: Complete breakdown of redistricting norms as both parties engage in mid-cycle gerrymandering warfare
 status: confirmed
 ---

@@ -21,14 +21,17 @@ sources:
   url: https://www.nytimes.com/2023/08/22/us/politics/leonard-leo-courts-dark-money.html
   outlet: The New York Times
   date: '2023-08-22'
+  tier: 1
 - title: Trump's judicial appointments
   url: https://en.wikipedia.org/wiki/Donald_Trump_judicial_appointments
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 - title: How the Federalist Society won
   url: https://www.politico.com/news/2022/06/24/federalist-society-supreme-court-00041801
   outlet: Politico
   date: '2022-06-24'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

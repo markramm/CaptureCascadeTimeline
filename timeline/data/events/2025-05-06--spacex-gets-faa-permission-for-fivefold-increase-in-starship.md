@@ -7,16 +7,16 @@ actors:
 - Federal Aviation Administration
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 capture_type: monetizing_position
 connections:
 - SpaceX regulatory capture
 - FAA permissive licensing
 date: '2025-05-06'
-description: The FAA increased SpaceX's allotted starship launches out of Boca Chica, Texas from 5 to 25 annually, with a Finding of No Significant Impact (FONSI) after completing a Tiered Environmental Assessment.
+description: 'The FAA increased SpaceX''s allotted starship launches out of Boca Chica, Texas from 5 to 25 annually, with a Finding of No Significant Impact (FONSI) after completing a Tiered Environmental Assessment.'
 id: 2025-05-06--spacex-gets-faa-permission-for-fivefold-increase-in-starship
 importance: 7
-location: Boca Chica, Texas
+location: 'Boca Chica, Texas'
 notes: Significant expansion of launch permissions with potential regulatory capture implications
 patterns:
 - kleptocratic-capture
@@ -25,15 +25,18 @@ sources:
 - date: '2025-05-06'
   outlet: CNBC
   title: SpaceX gets FAA permission for fivefold increase in Starship launches from Texas
-  url: https://www.cnbc.com/2025/05/06/spacex-gets-faa-permission-for-fivefold-increase-in-launches-in-texas.html?utm_source=substack&utm_medium=email
+  url: 'https://www.cnbc.com/2025/05/06/spacex-gets-faa-permission-for-fivefold-increase-in-launches-in-texas.html?utm_source=substack&utm_medium=email'
+  tier: 2
 - date: '2025-05-07'
   outlet: MyRGV.com
   title: FAA OKs up to 25 SpaceX launches at Boca Chica Beach per year
-  url: https://myrgv.com/local-news/2025/05/07/faa-oks-up-to-25-spacex-launches-at-boca-chica-beach-per-year/
+  url: 'https://myrgv.com/local-news/2025/05/07/faa-oks-up-to-25-spacex-launches-at-boca-chica-beach-per-year/'
+  tier: 2
 - date: '2025-09-19'
   outlet: FAA.gov
   title: Draft Tiered Environmental Assessment for Updates to Airspace Closures
-  url: https://www.faa.gov/space/stakeholder_engagement/spacex_starship/20250919_Draft-Tiered-EA-for-Additional-Trajectories-and-Starship-RTLS_508.pdf
+  url: 'https://www.faa.gov/space/stakeholder_engagement/spacex_starship/20250919_Draft-Tiered-EA-for-Additional-Trajectories-and-Starship-RTLS_508.pdf'
+  tier: 1
 status: confirmed
 tags:
 - kleptocracy
@@ -42,5 +45,4 @@ tags:
 - technological-infrastructure
 title: SpaceX gets FAA permission for fivefold increase in Starship launches from Texas
 ---
-
 The Federal Aviation Administration granted SpaceX a significant expansion of launch permissions, increasing Starship launch capacity from 5 to 25 annually at the Boca Chica, Texas site. The FAA issued a Finding of No Significant Impact (FONSI) after a Tiered Environmental Assessment, allowing up to 25 launches and 50 landings per year, including nighttime launches and static fire tests.

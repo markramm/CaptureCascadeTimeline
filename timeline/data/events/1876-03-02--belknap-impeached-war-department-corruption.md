@@ -13,19 +13,23 @@ sources:
 - title: 'U.S. Senate: Impeachment Trial of Secretary of War William Belknap, 1876'
   outlet: U.S. Senate
   url: https://www.senate.gov/about/powers-procedures/impeachment/impeachment-belknap.htm
+  tier: 1
   year: 2024
 - title: The Impeachment of Secretary William Belknap
   outlet: U.S. House of Representatives
   url: https://history.house.gov/Historical-Highlights/1851-1900/The-Impeachment-of-Secretary-William-Belknap/
   year: 2024
+  tier: 1
 - title: First Cabinet Member Impeached Accused of "Prostituting" Office
   outlet: TIME
   url: https://time.com/6691749/impeachment-mayorkas-cabinet-member-history/
   year: 2024
+  tier: 1
 - title: Trader post scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Trader_post_scandal
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - executive-branch-corruption

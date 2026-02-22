@@ -19,18 +19,22 @@ sources:
   url: https://www.npr.org/2013/10/12/232946808/justice-oconnor-regrets-bush-v-gore
   outlet: NPR
   date: '2013-10-12'
+  tier: 1
 - title: Bush v. Gore Scholarly Analysis
   url: https://minnesotalawreview.org/2018/04/01/bush-v-gore/
   outlet: Minnesota Law Review
   date: '2013-06-01'
+  tier: 2
 - title: 'O''Connor: Maybe Supreme Court shouldn''t have taken Bush v. Gore'
   url: https://www.washingtonpost.com/news/post-politics/wp/2013/04/29/oconnor-maybe-supreme-court-shouldnt-have-taken-bush-v-gore/
   outlet: The Washington Post
   date: '2013-04-29'
+  tier: 1
 - title: 'Supreme Court: New documents show how Sandra Day O''Connor helped George W. Bush win the 2000 election'
   url: https://www.cnn.com/2023/05/02/politics/bush-gore-oconnor-supreme-court-2000/index.html
   outlet: CNN
   date: '2023-05-02'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

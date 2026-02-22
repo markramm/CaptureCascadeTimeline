@@ -12,15 +12,18 @@ sources:
 - title: J. P. Morgan
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/J._P._Morgan
+  tier: 2
   year: 2025
 - title: 'The New Tycoons: J. Pierpont Morgan'
   outlet: USHistory.org
   url: https://www.ushistory.org/us/36d.asp
   year: 2025
+  tier: 2
 - title: J.P. Morgan
   outlet: Britannica
   url: https://www.britannica.com/money/J-P-Morgan
   year: 2025
+  tier: 2
 tags:
 - price-fixing
 - market-manipulation

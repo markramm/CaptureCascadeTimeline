@@ -19,14 +19,17 @@ sources:
   url: https://www.reuters.com/technology/nasa-chief-calls-investigation-into-musk-putin-communications-2024-10-25/
   outlet: Reuters
   date: '2024-10-25'
+  tier: 1
 - title: Elon Musk Denies Claim About Putin Communication During Ukraine War
   url: https://apnews.com/article/russia-ukraine-war-elon-musk-putin-communication-2022-10-12
   outlet: Associated Press
   date: '2022-10-12'
+  tier: 1
 - title: U.S. Department of Defense Statement on Foreign Communications
   url: https://www.defense.gov/News/Statements/Statement/Article/DoD-Foreign-Communication-Protocols/
   outlet: U.S. Department of Defense
   date: '2024-10-25'
+  tier: 1
 notes: Direct adversary contact by controller of critical defense infrastructure
 status: confirmed
 ---

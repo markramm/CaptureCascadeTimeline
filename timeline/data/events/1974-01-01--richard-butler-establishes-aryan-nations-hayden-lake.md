@@ -25,6 +25,7 @@ sources:
   url: https://www.splcenter.org/resources/extremist-files/richard-butler/
   outlet: Southern Poverty Law Center
   date: '2025-01-01'
+  tier: 1
   verified: true
   tier: 2
 - title: Aryan Nations Compound
@@ -50,36 +51,43 @@ sources:
   outlet: The Washington Post
   date: '1999-05-02'
   verified: true
+  tier: 1
 - title: Richard Mellon Scaife - Wikipedia
   url: https://en.wikipedia.org/wiki/Richard_Mellon_Scaife
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Scaife Foundations - SourceWatch
   url: https://www.sourcewatch.org/index.php/Scaife_Foundations
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: American Enterprise Institute - Wikipedia
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: American Enterprise Institute - SourceWatch
   url: https://www.sourcewatch.org/index.php/American_Enterprise_Institute
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Paul Weyrich - Wikipedia
   url: https://en.wikipedia.org/wiki/Paul_Weyrich
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative Coalition'
   url: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd
   outlet: West Virginia University Research Repository
   date: '2017-01-01'
   verified: true
+  tier: 1
 connections: []
 patterns:
 - extremist-organizing

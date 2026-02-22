@@ -18,6 +18,7 @@ sources:
   title: Decline of the Glass–Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
   verified: true
+  tier: 2
 - key_facts_confirmed:
   - 1989 marks Federal Reserve raising Section 20 subsidiary revenue limit to 10%
   - Expanded types of securities Section 20 affiliates could underwrite
@@ -26,6 +27,7 @@ sources:
   title: Cracking the Glass-Steagall Barriers
   url: https://www.frbsf.org/research-and-insights/publications/economic-letter/1997/03/cracking-the-glass-steagall-barriers/
   verified: true
+  tier: 1
 - key_facts_confirmed:
   - Congressional Research Service confirmed gradual erosion of Glass-Steagall via
     Section 20 subsidiary rules
@@ -37,6 +39,7 @@ sources:
   title: 'The Glass-Steagall Act: A Legal and Policy Analysis'
   url: https://www.congress.gov/crs_external_products/R/PDF/R44349/R44349.3.pdf
   verified: true
+  tier: 1
 - key_facts_confirmed:
   - Limited securities activities allowed through bank holding company subsidiaries
   - Fed set initial 5-10% revenue limit for bank-ineligible securities
@@ -46,6 +49,7 @@ sources:
   title: Banking Regulation and Interpretation of Section 20
   url: https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1020&context=law_review
   verified: true
+  tier: 1
 - key_facts_confirmed:
   - Systematic expansion of Section 20 subsidiary powers in 1989
   - First major administrative reinterpretation of Glass-Steagall restrictions
@@ -54,6 +58,7 @@ sources:
   title: 'Nothing But the Facts: The Glass-Steagall Act'
   url: https://capmktsreg.org/nothing-but-the-facts-report-the-glass-steagall-act/
   verified: true
+  tier: 2
 status: confirmed
 tags:
 - section-20-expansion

@@ -13,22 +13,22 @@ actors:
 sources:
 - outlet: Office of the UN High Commissioner for Human Rights (OHCHR)
   title: UN Expert Warns of Interference in U.S. Legal and Judicial System
-  url: https://www.ohchr.org/en/press-releases/2025/06/usa-un-expert-warns-interference-legal-and-judicial-system
+  url: 'https://www.ohchr.org/en/press-releases/2025/06/usa-un-expert-warns-interference-legal-and-judicial-system'
   access_date: '2025-09-17'
-  description: Official UN report documenting systematic attacks on judicial independence
-    in the United States
+  description: Official UN report documenting systematic attacks on judicial independence in the United States
+  tier: 2
 - outlet: Global Security News
   title: UN Expert Warns of U.S. Judicial System Interference
-  url: https://www.globalsecurity.org/security/library/news/2025/06/sec-250604-ohchr01.htm
+  url: 'https://www.globalsecurity.org/security/library/news/2025/06/sec-250604-ohchr01.htm'
   access_date: '2025-09-17'
-  description: Comprehensive coverage of the UN Special Rapporteur's findings on U.S.
-    judicial independence challenges
+  description: 'Comprehensive coverage of the UN Special Rapporteur''s findings on U.S. judicial independence challenges'
+  tier: 2
 - outlet: NBC News
   title: Federal Judges Raise Alarm About Security Threats and Impeachment Calls
-  url: https://www.nbcnews.com/politics/politics-news/federal-judges-raise-alarm-security-threats-impeachment-calls-rcna195872
+  url: 'https://www.nbcnews.com/politics/politics-news/federal-judges-raise-alarm-security-threats-impeachment-calls-rcna195872'
   access_date: '2025-09-17'
-  description: Detailed reporting on increasing threats against federal judges and
-    challenges to judicial independence
+  description: Detailed reporting on increasing threats against federal judges and challenges to judicial independence
+  tier: 1
 tags:
 - judicial-independence
 - constitutional-crisis
@@ -38,12 +38,11 @@ tags:
 - executive-overreach
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Judicial Capture
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 In June 2025, the United Nations Special Rapporteur for Judicial Independence, Margaret Satterthwaite, released a groundbreaking report documenting systematic attacks on the U.S. federal judiciary. The report detailed executive branch efforts to intimidate judges, including public denigration, threats of impeachment, and attempts to ban law firms from government contracts based on their judicial rulings. The UN investigation identified 127 documented instances of direct executive interference with judicial proceedings, raising international alarm about the erosion of judicial independence in the United States.

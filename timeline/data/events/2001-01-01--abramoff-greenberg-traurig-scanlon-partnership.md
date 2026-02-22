@@ -12,13 +12,16 @@ sources:
 - title: Jack Abramoff Indian lobbying scandal - Wikipedia
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
   outlet: Wikipedia
+  tier: 2
 - title: Senate Report on Tribal Lobbying Matters
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: United States Senate
+  tier: 1
   description: Detailed investigation of Abramoff and Scanlon's lobbying fraud
 - title: 'Levin Center: John McCain and the Abramoff Tribal Lobbying Scandal'
   url: https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/
   outlet: Levin Center for Oversight
+  tier: 2
 importance: 8
 tags:
 - abramoff

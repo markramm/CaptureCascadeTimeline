@@ -12,12 +12,15 @@ sources:
 - title: FDA Chief Confirmed Despite Industry Ties
   url: https://www.npr.org/2022/02/15/1080887602/an-fda-chief-has-been-confirmed-despite-concerns-over-his-pharmaceutical-industr
   outlet: NPR
+  tier: 1
 - title: 'The Revolving Door: FDA to Pharmaceutical Industry'
   url: https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry
   outlet: NPR
+  tier: 1
 - title: FDA Only Inspected 6% of Foreign Drug Manufacturing Facilities in 2022
   url: https://www.propublica.org/article/fda-drugs-medication-inspections-china-india-manufacturers
   outlet: ProPublica
+  tier: 1
 tags:
 - regulatory-capture
 - revolving-door

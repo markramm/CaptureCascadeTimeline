@@ -19,14 +19,17 @@ sources:
   url: https://www.cnn.com/2023/06/26/politics/trump-classified-documents-audio/index.html
   outlet: CNN
   date: '2023-06-26'
+  tier: 1
 - title: In audio recording, Trump is heard discussing classified document he says he held onto
   url: https://abcnews.go.com/US/audio-recording-trump-heard-discussing-classified-document-held/story?id=100346060
   outlet: ABC News
   date: '2023-06-26'
+  tier: 1
 - title: Trump said on tape he didn't declassify secret Iran documents
   url: https://www.washingtonpost.com/national-security/2023/06/09/trump-tape-classified-documents/
   outlet: The Washington Post
   date: '2023-06-09'
+  tier: 1
 notes: 'Meeting included writer and publisher working on Mark Meadows'' memoir and two Trump staffers,
 
   none with security clearances. Trump was attempting to rebut claims about Mark Milley

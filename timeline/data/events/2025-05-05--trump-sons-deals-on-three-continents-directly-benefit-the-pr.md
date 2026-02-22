@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html
   outlet: The New York Times
   date: '2025-05-05'
+  tier: 1
 - title: Trump Clan Expands Global Ventures as Ethics Concerns Swirl
   url: https://therealdeal.com/national/2025/05/05/trump-clan-expands-global-ventures-as-ethics-concerns-swirl/
   outlet: The Real Deal
   date: '2025-05-05'
+  tier: 2
 - title: How Trump family business ventures stand to directly benefit the President
   url: https://www.npr.org/2025/05/07/nx-s1-5388474/how-trump-family-business-ventures-stand-to-directly-benefit-the-president
   outlet: NPR
   date: '2025-05-07'
+  tier: 1
 - title: Trump's sons promote real estate and crypto deals across world that will benefit the president
   url: https://finance.yahoo.com/news/trump-sons-promote-real-estate-214046830.html
   outlet: Yahoo Finance
   date: '2025-05-05'
+  tier: 2
 - title: 'Unprecedented in U.S. History: Trump & Family Rake In Money from Gulf States, Crypto & Real Estate'
   url: https://www.democracynow.org/2025/5/13/qatar_air_force_one
   outlet: Democracy Now
   date: '2025-05-13'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

@@ -14,27 +14,32 @@ sources:
   url: https://www.jstor.org/stable/40753562
   outlet: Journal of Development Economics
   date: '1999'
+  tier: 2
   type: Academic Journal
 - title: 'Finance & Development: The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
   outlet: IMF Publications
   date: '1998-06-01'
   type: Official Report
+  tier: 2
 - title: 'Contesting Reform: Indonesia''s New Order and the IMF'
   url: https://www.sciencedirect.com/science/article/abs/pii/S0305750X98000564
   outlet: World Development
   date: '1998'
   type: Academic Analysis
+  tier: 2
 - title: Bank Indonesia and The Recent Crisis
   url: https://www.tandfonline.com/doi/abs/10.1080/00074910012331337783
   outlet: Bulletin of Indonesian Economic Studies
   date: '2000'
   type: Academic Journal
+  tier: 1
 - title: IMF Programs, Financial and Real Sector Performance
   url: https://www.sciencedirect.com/science/article/abs/pii/S0378426611002111
   outlet: Journal of Banking & Finance
   date: '2011'
   type: Retrospective Analysis
+  tier: 2
 tags:
 - asian-financial-crisis
 - structural-adjustment

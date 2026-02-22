@@ -27,17 +27,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Reagan_era
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: 'REAGAN AND HERITAGE: A Unique Partnership'
   url: https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership
   outlet: Heritage Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'November 4, 1980: Modern Conservatism Ascends'
   url: https://constitutingamerica.org/november-4-1980-president-ronald-reagan-elected-modern-conservatism-ascends-to-preserve-individual-freedom-guest-essayist-scot-faulkner/
   outlet: Constituting America
   date: '2020-11-04'
   verified: true
+  tier: 2
 notes: Reagan won 44-state Electoral College landslide. The Moral Majority was credited with significant role in the victory. Heritage's "Mandate for Leadership" ready for immediate implementation. About 60% of Heritage's 2,000 proposals were implemented or initiated by end of Reagan's first year. This represented culmination of nine years of infrastructure building since Powell Memo.
 status: confirmed
 ---

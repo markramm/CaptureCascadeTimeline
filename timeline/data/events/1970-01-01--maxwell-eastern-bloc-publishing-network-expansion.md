@@ -23,6 +23,7 @@ sources:
 - title: Robert Maxwell - Wikipedia
   url: https://en.wikipedia.org/wiki/Robert_Maxwell
   outlet: Wikipedia
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Maxwell heavily involved in publishing eastern bloc scientific literature in 1970s-1980s
@@ -36,6 +37,7 @@ sources:
   - Worked with multiple intelligence services including KGB and Mossad
   - Developed close relationship with Soviet leader Leonid Brezhnev
   - Used publishing network as potential cover for espionage activities
+  tier: 2
 - title: The Scholarly Publishing Scene — The Maxwell Effect
   url: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=8480&context=atg
   outlet: Purdue University Library
@@ -44,6 +46,7 @@ sources:
   - Founded Pergamon Press in 1951
   - Built academic publishing empire spanning 125 countries by 1980s
   - Used publishing to create strategic international connections
+  tier: 1
 status: confirmed
 ---
 

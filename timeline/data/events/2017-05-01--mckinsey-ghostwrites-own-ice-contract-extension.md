@@ -4,7 +4,7 @@ date: '2017-05-01'
 title: 'McKinsey Ghostwrites Its Own $2.2 Million ICE Contract Extension: Consulting Firm Defines Its Own Scope of Work'
 importance: 8
 actors:
-- McKinsey & Company
+- 'McKinsey & Company'
 - Immigration and Customs Enforcement (ICE)
 - ICE contracting officers
 tags:
@@ -17,34 +17,35 @@ tags:
 - regulatory-capture
 sources:
 - title: How McKinsey Helped the Trump Administration Detain and Deport Immigrants
-  url: https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies
+  url: 'https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies'
   outlet: ProPublica
   date: '2019-12-03'
   tier: 1
-- title: Consulting firm McKinsey's suggestions for ICE were sometimes too harsh even for the agency
-  url: https://www.mic.com/impact/consulting-firm-mckinseys-suggestions-for-ice-were-sometimes-too-harsh-even-for-the-agency-19426397
+- title: 'Consulting firm McKinsey''s suggestions for ICE were sometimes too harsh even for the agency'
+  url: 'https://www.mic.com/impact/consulting-firm-mckinseys-suggestions-for-ice-were-sometimes-too-harsh-even-for-the-agency-19426397'
   outlet: Mic
   date: '2019-12-03'
   tier: 2
 - outlet: The Wall Street Journal
-  title: Jeffrey Epstein's Veiled Threat to Bill Gates
-  url: https://www.wsj.com/
+  title: 'Jeffrey Epstein''s Veiled Threat to Bill Gates'
+  url: 'https://www.wsj.com/'
   date: '2023-05-22'
+  tier: 1
 - outlet: The Irish Times
   title: Jeffrey Epstein Allegedly Tried to Extort Bill Gates
-  url: https://www.irishtimes.com/world/us/2023/05/22/jeffrey-epstein-allegedly-tried-to-extort-bill-gates-over-extramarital-affair/
+  url: 'https://www.irishtimes.com/world/us/2023/05/22/jeffrey-epstein-allegedly-tried-to-extort-bill-gates-over-extramarital-affair/'
   date: '2023-05-22'
+  tier: 1
 - outlet: Business Today
   title: 'Bill Gates Affair Row: The Epstein Connection'
-  url: https://www.businesstoday.in/visualstories/corporates/bill-gates-affair-row-who-is-mila-antonova-the-russian-bridge-player-involved-in-alleged-affair-with-microsoft-co-founder-know-all-about-the-jeffrey-epstein-connection-37860-22-05-2023
+  url: 'https://www.businesstoday.in/visualstories/corporates/bill-gates-affair-row-who-is-mila-antonova-the-russian-bridge-player-involved-in-alleged-affair-with-microsoft-co-founder-know-all-about-the-jeffrey-epstein-connection-37860-22-05-2023'
   date: '2023-05-22'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Corporate Capture
 - Democratic Erosion
 ---
-
-
 McKinsey's influence at ICE grows to such an extent that McKinsey staff ghostwrite a government contracting document that defines the consulting team's own responsibilities and justifies the firm's retention—a contract extension worth $2.2 million. When an ICE official discovers this arrangement and writes to a contracting officer in May 2017 asking 'Can they do that?', the response reveals how deeply ICE has come to rely on McKinsey's assistance.
 
 'Well it obviously isn't ideal to have a contractor tell us what we want to ask them to do,' the contracting officer replies, acknowledging the impropriety. But the officer adds that unless someone from the government can articulate the agency's objectives, 'what other option is there?' Despite recognizing the ethical problem, ICE extends the contract based on McKinsey's self-authored justification.

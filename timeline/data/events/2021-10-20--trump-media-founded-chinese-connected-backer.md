@@ -7,7 +7,7 @@ location: United States
 actors:
 - Donald Trump
 - Patrick Orlando
-- Trump Media & Technology Group
+- 'Trump Media & Technology Group'
 - Yunhong International
 - Digital World Acquisition Corp
 tags:
@@ -19,27 +19,31 @@ tags:
 capture_lanes:
 - International Kleptocracy
 sources:
-- title: Trump's new social media backer tied to China lifestyle venture
-  url: https://www.aljazeera.com/news/2021/10/22/trumps-new-social-media-backer-tied-to-china-lifestyle-venture
+- title: 'Trump''s new social media backer tied to China lifestyle venture'
+  url: 'https://www.aljazeera.com/news/2021/10/22/trumps-new-social-media-backer-tied-to-china-lifestyle-venture'
   outlet: Al Jazeera
   date: '2021-10-22'
-  archive_url: https://web.archive.org/web/20211022000000/https://www.aljazeera.com/news/2021/10/22/trumps-new-social-media-backer-tied-to-china-lifestyle-venture
-- title: How Donald Trump's Truth Social Is Connected to China
-  url: https://www.newsweek.com/donald-trump-truth-social-connected-china-1641496
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20211022000000/https://www.aljazeera.com/news/2021/10/22/trumps-new-social-media-backer-tied-to-china-lifestyle-venture'
+- title: 'How Donald Trump''s Truth Social Is Connected to China'
+  url: 'https://www.newsweek.com/donald-trump-truth-social-connected-china-1641496'
   outlet: Newsweek
   date: '2021-10-26'
-  archive_url: https://web.archive.org/web/20211026000000/https://www.newsweek.com/donald-trump-truth-social-connected-china-1641496
-- title: The Moneyman Behind Trump's Media Company Runs a Firm in Wuhan
-  url: https://www.bloomberg.com/news/articles/2021-10-21/the-moneyman-behind-trump-s-media-company-runs-a-firm-in-wuhan
+  archive_url: 'https://web.archive.org/web/20211026000000/https://www.newsweek.com/donald-trump-truth-social-connected-china-1641496'
+  tier: 2
+- title: 'The Moneyman Behind Trump''s Media Company Runs a Firm in Wuhan'
+  url: 'https://www.bloomberg.com/news/articles/2021-10-21/the-moneyman-behind-trump-s-media-company-runs-a-firm-in-wuhan'
   outlet: Bloomberg
   date: '2021-10-21'
-  archive_url: https://web.archive.org/web/20211021000000/https://www.bloomberg.com/news/articles/2021-10-21/the-moneyman-behind-trump-s-media-company-runs-a-firm-in-wuhan
-- title: Trump's media business is working with Arc Capital, a Chinese firm with history of SEC investigations
-  url: https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/
+  archive_url: 'https://web.archive.org/web/20211021000000/https://www.bloomberg.com/news/articles/2021-10-21/the-moneyman-behind-trump-s-media-company-runs-a-firm-in-wuhan'
+  tier: 1
+- title: 'Trump''s media business is working with Arc Capital, a Chinese firm with history of SEC investigations'
+  url: 'https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/'
   outlet: The Washington Post
   date: '2021-12-23'
-  archive_url: https://web.archive.org/web/20211223000000/https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/
-notes: Orlando's dual role as DWAC CEO and head of Wuhan-based company raises foreign influence concerns. TMTG founded specifically to create Trump-controlled social media platform.
+  archive_url: 'https://web.archive.org/web/20211223000000/https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/'
+  tier: 1
+notes: 'Orlando''s dual role as DWAC CEO and head of Wuhan-based company raises foreign influence concerns. TMTG founded specifically to create Trump-controlled social media platform.'
 status: confirmed
 ---
 Trump Media & Technology Group (TMTG) was announced on October 20, 2021, with plans to launch the Truth Social platform and challenge mainstream social media. A key figure in the deal was Patrick Orlando, CEO of Digital World Acquisition Corp (DWAC), the blank-check company that would take TMTG public through a SPAC merger. Orlando simultaneously served as CEO of Yunhong International, a company based in Wuhan, China, that operated Chinese lifestyle ventures, raising immediate concerns about foreign influence over a media company tied to a former U.S. president.

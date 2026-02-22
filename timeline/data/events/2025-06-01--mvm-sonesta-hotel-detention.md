@@ -23,18 +23,22 @@ sources:
   url: https://theintercept.com/2025/08/07/ice-immigrant-detention-airport-hotel-chicago-mvm/
   outlet: The Intercept
   date: '2025-08-07'
+  tier: 1
 - title: ICE contractor locked an immigrant and her baby at an O'Hare hotel for five days
   url: https://www.injusticewatch.org/civil-courts/immigration/2025/ice-detention-sonesta-ohare-airport-hotel-chicago/
   outlet: Injustice Watch
   date: '2025-08-07'
+  tier: 2
 - title: 'Immigration Detention: DHS Facility Inspection Programs Lack Clear Performance Goals'
   url: https://www.gao.gov/products/gao-25-107580
   outlet: GAO
   date: '2025-05-21'
+  tier: 1
 - title: California Investigators Reveal ICE Detention Conditions Gaps
   url: https://calmatters.org/justice/2025/04/ice-detention-center-investigation/
   outlet: CalMatters
   date: '2025-04-16'
+  tier: 2
 notes: The use of airport hotels allows ICE and its contractors to detain immigrants in locations not subject to detention facility standards or congressional oversight visits. Staff at multiple Sonesta properties acknowledged MVM's regular presence, indicating a systematic practice. This shadow detention network operates parallel to official ICE facilities, making it impossible for Congress to conduct oversight as these locations are not on any official detention facility lists.
 status: confirmed
 ---

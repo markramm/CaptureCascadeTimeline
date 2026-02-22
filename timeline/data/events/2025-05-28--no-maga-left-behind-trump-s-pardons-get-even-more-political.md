@@ -21,14 +21,17 @@ sources:
   url: https://www.cnn.com/2025/05/28/politics/analysis-trump-pardons-politics
   outlet: CNN
   date: '2025-05-28'
+  tier: 1
 - title: 'No MAGA Left Behind: Trump''s Pardons and Trial Balloons'
   url: https://thedispatch.com/newsletter/boilingfrogs/trump-ed-martin-clemency-pardons-corruption/
   outlet: The Dispatch
   date: '2025-05-28'
+  tier: 2
 - title: A look at Trump's controversial pardons for political allies and loyalists
   url: https://www.pbs.org/newshour/show/a-look-at-trumps-controversial-pardons-for-political-allies-and-loyalists
   outlet: PBS News
   date: '2025-05-31'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

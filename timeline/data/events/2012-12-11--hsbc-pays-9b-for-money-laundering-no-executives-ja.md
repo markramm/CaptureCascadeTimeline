@@ -22,14 +22,17 @@ sources:
   url: https://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M20121211
   outlet: Reuters
   date: '2012-12-11'
+  tier: 1
 - title: 'Gangster Bankers: Too Big to Jail'
   url: https://www.rollingstone.com/politics/politics-news/gangster-bankers-too-big-to-jail-102004/
   outlet: Rolling Stone
   date: '2013-02-14'
+  tier: 2
 - title: HSBC Documents Show Bank Aided Tax Evasion, Money Laundering
   url: https://www.icij.org/investigations/swiss-leaks/hsbc-files-show-bank-helped-clients-dodge-taxes-hide-millions/
   outlet: ICIJ
   date: '2015-02-08'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

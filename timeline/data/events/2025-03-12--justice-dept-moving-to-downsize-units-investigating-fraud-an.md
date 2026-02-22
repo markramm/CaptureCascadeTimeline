@@ -25,14 +25,17 @@ sources:
   outlet: NBC News
   date: '2025-03-12'
   url: https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928
+  tier: 1
 - title: US Justice Department Disbands Teams Investigating Corruption, Election Interference
   outlet: Voice of America News
   date: '2025-03-12'
   url: https://www.voanews.com/a/us-justice-department-disbands-teams-investigating-corruption-election-interference/7967503.html
+  tier: 2
 - title: Whitehouse Demands Answers from Justice Department on Dismantling of Public Integrity Section
   outlet: Office of Senator Sheldon Whitehouse
   date: '2025-03-20'
   url: https://www.whitehouse.senate.gov/news/release/whitehouse-demands-answers-from-justice-department-on-dismantling-of-public-integrity-section/
+  tier: 1
 connections:
 - Weakening of anti-corruption oversight mechanisms
 - Potential political interference in law enforcement

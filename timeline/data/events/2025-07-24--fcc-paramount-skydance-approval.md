@@ -21,18 +21,22 @@ sources:
   url: https://www.washingtonpost.com/business/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger-after-lengthy-review/
   outlet: The Washington Post
   date: '2025-07-24'
+  tier: 1
 - title: FCC approves Paramount Skydance merger after concessions
   url: https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves
   outlet: NPR
   date: '2025-07-24'
+  tier: 1
 - title: FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges
   url: https://variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/
   outlet: Variety
   date: '2025-07-24'
+  tier: 1
 - title: FCC Commissioner Slams Paramount's New 'Truth Arbiter' for the Trump Regime
   url: https://gizmodo.com/fcc-commissioner-slams-paramounts-new-truth-arbiter-for-the-trump-regime-2000640818
   outlet: Gizmodo
   date: '2025-07-24'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Media Capture & Control

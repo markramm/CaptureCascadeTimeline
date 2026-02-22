@@ -24,14 +24,17 @@ sources:
   url: https://apnews.com/article/sheriff-bribery-conviction-trump-pardon-3a35152ebb86d4ab4a2d3d018c0bda8e
   outlet: Associated Press
   date: '2025-05-26'
+  tier: 1
 - title: Trump says he's pardoning a Virginia sheriff convicted on bribery charges
   url: https://www.cbsnews.com/news/trump-says-hes-pardoning-a-virginia-sheriff-convicted-on-bribery-charges/
   outlet: CBS News
   date: '2025-05-26'
+  tier: 1
 - title: Trump pardons former Virginia sheriff convicted of bribery
   url: https://www.npr.org/2025/06/01/nx-s1-5417938/trump-pardons-former-virginia-sheriff-convicted-of-bribery
   outlet: NPR
   date: '2025-05-27'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

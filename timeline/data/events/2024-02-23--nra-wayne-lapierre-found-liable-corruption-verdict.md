@@ -20,14 +20,17 @@ sources:
   url: https://www.npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york
   outlet: NPR
   date: '2024-02-23'
+  tier: 1
 - title: Jury finds NRA and Wayne LaPierre liable in civil corruption trial
   url: https://www.nbcnews.com/news/us-news/nra-trial-verdict-rcna138827
   outlet: NBC News
   date: '2024-02-23'
+  tier: 1
 - title: Jury finds NRA liable for mismanagement, says Wayne LaPierre violated duties
   url: https://abcnews.go.com/US/jury-finds-nra-liable-mismanagement-wayne-lapierre-violated/story?id=107269909
   outlet: ABC News
   date: '2024-02-23'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

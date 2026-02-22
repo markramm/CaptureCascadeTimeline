@@ -27,18 +27,22 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-07-29/trump-opens-golf-course-during-not-so-private-scottish-visit
   outlet: Bloomberg
   date: '2025-07-29'
+  tier: 1
 - title: Prime Minister to meet President Trump for wide ranging talks in Scotland
   url: https://www.gov.uk/government/news/prime-minister-to-meet-president-trump-for-wide-ranging-talks-in-scotland
   outlet: GOV.UK
   date: '2025-07-28'
+  tier: 1
 - title: First Minister meets with the President of the United States
   url: https://www.gov.scot/news/first-minister-meets-with-the-president-of-the-united-states/
   outlet: Scottish Government
   date: '2025-07-25'
+  tier: 1
 - title: What to know about Trump's golf business in Scotland and British Open bid amid overseas trip
   url: https://abcnews.go.com/Politics/trumps-golf-business-scotland-british-open-bid-amid/story?id=123972692
   outlet: ABC News
   date: '2025-07-25'
+  tier: 1
 connections:
 - Trade deal negotiations
 - Golf course business interests

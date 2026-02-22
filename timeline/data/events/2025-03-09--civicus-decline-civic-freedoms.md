@@ -19,18 +19,22 @@ sources:
   url: https://www.civicus.org/index.php/media-resources/news/7559-trump-administration-puts-us-civic-freedoms-under-severe-threat-civicus-monitor-watchlist
   outlet: CIVICUS
   date: '2025-03-09'
+  tier: 2
 - title: USA Watchlist 2025 - CIVICUS Monitor
   url: https://monitor.civicus.org/watchlist-march-2025/USA/
   outlet: CIVICUS Monitor
   date: '2025-03-09'
+  tier: 2
 - title: U.S. Added to a Global Human Rights Watchlist
   url: https://time.com/7266334/us-human-rights-watchlist-civil-liberties/
   outlet: TIME
   date: '2025-03-09'
+  tier: 1
 - title: US added to list of countries experiencing 'serious decline' in civic freedoms
   url: https://www.jurist.org/news/2025/03/us-added-to-list-of-countries-experiencing-serious-decline-in-civic-freedoms/
   outlet: JURIST
   date: '2025-03-09'
+  tier: 2
 notes: Detailed assessment showing U.S. joining countries like Israel and UK on watchlist
   for democratic backsliding
 status: confirmed

@@ -18,18 +18,22 @@ sources:
   url: https://aspe.hhs.gov/reports/personal-responsibility-work-opportunity-reconciliation-act-1996
   outlet: U.S. Department of Health and Human Services
   date: '1996-08-22'
+  tier: 1
 - title: Personal Responsibility and Work Opportunity Act
   url: https://en.wikipedia.org/wiki/Personal_Responsibility_and_Work_Opportunity_Act
   outlet: Wikipedia
   date: '1996-08-22'
+  tier: 2
 - title: Statement on Signing the Personal Responsibility and Work Opportunity Reconciliation Act of 1996
   url: https://www.presidency.ucsb.edu/documents/statement-signing-the-personal-responsibility-and-work-opportunity-reconciliation-act-1996
   outlet: The American Presidency Project
   date: '1996-08-22'
+  tier: 1
 - title: H.R.3734 - Personal Responsibility and Work Opportunity Reconciliation Act of 1996
   url: https://www.congress.gov/bill/104th-congress/house-bill/3734
   outlet: Congress.gov
   date: '1996-08-22'
+  tier: 1
 id: 1996-08-22--personal-responsibility-work-opportunity-reconciliation-act
 capture_lanes:
 - Legislative Capture

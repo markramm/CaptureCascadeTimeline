@@ -27,22 +27,24 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 sources:
 - date_accessed: '2025-10-14'
   outlet: Bloomberg
-  title: Meta Opens Llama AI Models to US Defense Agencies, Contractors
-  url: https://www.bloomberg.com/news/articles/2024-11-04/meta-opens-llama-ai-models-to-us-defense-agencies-contractors
+  title: 'Meta Opens Llama AI Models to US Defense Agencies, Contractors'
+  url: 'https://www.bloomberg.com/news/articles/2024-11-04/meta-opens-llama-ai-models-to-us-defense-agencies-contractors'
+  tier: 1
 - date_accessed: '2025-10-14'
   outlet: TechCrunch
-  title: Meta Says It's Making Its Llama Models Available for US National Security Applications
-  url: https://techcrunch.com/2024/11/04/meta-says-its-making-its-llama-models-available-for-us-national-security-applications/
+  title: 'Meta Says It''s Making Its Llama Models Available for US National Security Applications'
+  url: 'https://techcrunch.com/2024/11/04/meta-says-its-making-its-llama-models-available-for-us-national-security-applications/'
+  tier: 2
 - date_accessed: '2025-10-14'
   outlet: Defense World
   title: Meta Expands Military AI Reach with Open-Source Llama Models
-  url: https://www.defenseworld.net/2024/11/06/meta-expands-military-ai-reach-with-open-source-llama-models.html
+  url: 'https://www.defenseworld.net/2024/11/06/meta-expands-military-ai-reach-with-open-source-llama-models.html'
+  tier: 2
 status: confirmed
-validation_notes: Enhanced event with detailed source verification. Confirmed partner organizations, use cases, and geopolitical context. Added references to TechCrunch and expanded source diversity.
+validation_notes: 'Enhanced event with detailed source verification. Confirmed partner organizations, use cases, and geopolitical context. Added references to TechCrunch and expanded source diversity.'
 ---
-
 Meta announced a groundbreaking policy shift, making its open-source Llama AI models available to US government agencies and defense contractors. Partnering with companies like Accenture, AWS, Anduril, Lockheed Martin, Microsoft, Oracle, Scale AI, and others, Meta opened its technology for national security applications. This strategic move breaks previous prohibitions on military use, offering specific projects such as aircraft maintenance document synthesis, operational planning support, and code generation. The decision comes amid geopolitical tensions, including reports of Chinese researchers using an older Llama model for defense applications, signaling a significant transformation in Meta's approach to government and defense technology.

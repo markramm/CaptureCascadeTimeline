@@ -6,13 +6,16 @@ importance: 8
 sources:
 - outlet: Courthouse News Service
   title: Emoluments Suit Against Trump Advanced by Full 4th Circuit
-  url: https://www.courthousenews.com/emoluments-suit-against-trump-advanced-by-full-4th-circuit/
+  url: 'https://www.courthousenews.com/emoluments-suit-against-trump-advanced-by-full-4th-circuit/'
+  tier: 2
 - outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   title: Trump Likely Benefited from $13.6 Million in Foreign Government Payments
-  url: https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/
+  url: 'https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/'
+  tier: 2
 - outlet: GovTrack.us
   title: Congressional Resolution S.Res. 243 on Trump Financial Entanglements
-  url: https://www.govtrack.us/congress/bills/119/sres243
+  url: 'https://www.govtrack.us/congress/bills/119/sres243'
+  tier: 1
 tags:
 - emoluments
 - constitutional-crisis
@@ -29,7 +32,6 @@ capture_lanes:
 - Executive Power Expansion
 status: confirmed
 ---
-
 Multiple federal courts reached a critical constitutional impasse regarding presidential emoluments enforcement in April 2025. The D.C. Circuit Court suggested potential criminal referrals for foreign financial entanglements, while the 4th Circuit Court blocked traditional accountability mechanisms, creating a complex legal standoff that effectively neutralized enforcement efforts.
 
 Key developments include:

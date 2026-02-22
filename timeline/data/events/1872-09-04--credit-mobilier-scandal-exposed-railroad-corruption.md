@@ -13,23 +13,28 @@ sources:
 - title: The Ultimate Congressional Scandal
   outlet: American Heritage
   url: https://www.americanheritage.com/ultimate-congressional-scandal
+  tier: 2
   year: 2025
 - title: Credit Mobilier scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Cr%C3%A9dit_Mobilier_scandal
   year: 2025
+  tier: 2
 - title: Credit Mobilier
   outlet: History Channel
   url: https://www.history.com/topics/19th-century/credit-mobilier
   year: 2025
+  tier: 2
 - title: 'It Was Bad Last Time Too: The Crédit Mobilier Scandal of 1872'
   outlet: American Heritage
   url: https://www.americanheritage.com/it-was-bad-last-time-too-credit-mobilier-scandal-1872
   year: 2024
+  tier: 2
 - title: The Crédit Mobilier Scandal
   outlet: Library of Congress
   url: https://guides.loc.gov/this-month-in-business-history/september/Credit-Mobilier-Scandal
   year: 2024
+  tier: 1
 tags:
 - systematic-corruption
 - institutional-capture

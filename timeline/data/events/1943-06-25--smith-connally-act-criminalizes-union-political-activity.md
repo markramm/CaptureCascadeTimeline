@@ -26,17 +26,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Smith–Connally_Act
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: The Smith-Connally Act and Labor Battles on the Home Front
   url: https://www.nationalww2museum.org/war/articles/smith-connally-act-and-labor-battles-home-front
   outlet: National WWII Museum
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Smith-Connally Anti-Strike Act
   url: https://www.britannica.com/topic/Smith-Connally-Anti-Strike-Act
   outlet: Britannica
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

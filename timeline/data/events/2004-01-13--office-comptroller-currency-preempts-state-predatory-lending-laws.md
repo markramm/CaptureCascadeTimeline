@@ -23,19 +23,24 @@ sources:
   url: https://www.federalregister.gov/documents/2004/08/05/04-17700/bank-activities-and-operations-real-estate-lending-and-appraisals
   outlet: Federal Register
   date: '2004-08-05'
+  tier: 1
 - title: State AGs Challenge OCC Preemption
   url: https://www.americanbanker.com/news/state-ags-challenge-occ-preemption-rule
   outlet: American Banker
   date: '2005-03-15'
+  tier: 2
 - title: OCC Issues Final Rules on National Bank Preemption and Visitorial Powers
   url: https://www.occ.gov/news-issuances/news-releases/2004/nr-occ-2004-3.html
   outlet: OCC News Release
   date: '2004-01-15'
+  tier: 1
 - title: 'In Pursuit of Safety and Soundness: An Analysis of the OCC''s Anti-Predatory
+  tier: 2
     Lending Standard'
   url: https://ir.lawnet.fordham.edu/ulj/vol31/iss6/7/
   outlet: Fordham Urban Law Journal
   date: '2013'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -16,13 +16,16 @@ actors:
 sources:
 - outlet: International Consortium of Investigative Journalists (ICIJ)
   title: 'The Panama Papers: Exposing the Rogue Offshore Finance Industry'
-  url: https://www.icij.org/investigations/panama-papers/
+  url: 'https://www.icij.org/investigations/panama-papers/'
+  tier: 2
 - outlet: Süddeutsche Zeitung
   title: 'Panama Papers: How the Investigation Began'
-  url: https://panamapapers.sueddeutsche.de/articles/56f2b7f8a1bb8d3c3495a196/
+  url: 'https://panamapapers.sueddeutsche.de/articles/56f2b7f8a1bb8d3c3495a196/'
+  tier: 2
 - outlet: The Guardian
   title: 'Panama Papers: Months of Investigations Reveal Global Offshore Secrets'
-  url: https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore
+  url: 'https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore'
+  tier: 1
 tags:
 - panama-papers
 - offshore-finance
@@ -35,7 +38,6 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 ---
-
 The Panama Papers was a groundbreaking investigative journalism project coordinated by the International Consortium of Investigative Journalists (ICIJ) in 2016. Based on 11.5 million leaked documents from Mossack Fonseca, a Panamanian law firm, the investigation exposed a complex global network of offshore financial entities used by political leaders, celebrities, and business elites to hide wealth, avoid taxes, and potentially engage in illegal financial activities.
 
 The leaked documents revealed how over 214,000 offshore companies were used to:

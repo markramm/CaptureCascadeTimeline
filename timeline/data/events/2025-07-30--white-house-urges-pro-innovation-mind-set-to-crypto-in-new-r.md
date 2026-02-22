@@ -24,14 +24,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-07-30/trump-crypto-group-unveils-proposals-to-boost-digital-finance
   outlet: Bloomberg
   date: '2025-07-30'
+  tier: 1
 - title: 'White House Fact Sheet: The President''s Working Group on Digital Asset Markets Releases Recommendations'
   url: https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/
   outlet: White House
   date: '2025-07-30'
+  tier: 1
 - title: Donald Trump's 'Golden Age of Crypto' Takes Shape
   url: https://www.coindesk.com/policy/2025/07/30/donald-trump-s-golden-age-of-crypto-takes-shape-aims-defi-towards-mainstream-report
   outlet: CoinDesk
   date: '2025-07-30'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

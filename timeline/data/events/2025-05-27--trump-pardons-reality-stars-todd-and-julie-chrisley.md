@@ -19,26 +19,32 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/05/27/trump-pardon-chrisley/
   outlet: The Washington Post
   date: '2025-05-27'
+  tier: 1
 - title: Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion
   url: https://www.cnbc.com/2025/05/27/trump-pardons-todd-julie-chrisley-reality-tv.html
   outlet: CNBC
   date: '2025-05-27'
+  tier: 2
 - title: Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of fraud
   url: https://www.npr.org/2025/05/28/nx-s1-5414091/todd-julie-chrisley-pardon-trump
   outlet: NPR
   date: '2025-05-28'
+  tier: 1
 - title: Todd and Julie Chrisley released from prison after pardons from Trump
   url: https://www.nbcnews.com/news/us-news/todd-julie-chrisleys-pardons-came-intervention-daughter-rcna209439
   outlet: NBC News
   date: '2025-05-28'
+  tier: 1
 - title: Trump pardons Todd and Julie Chrisley convicted of bank fraud and tax crimes
   url: https://www.cnn.com/2025/05/27/politics/trump-pardon-chrisley-knows-best
   outlet: CNN
   date: '2025-05-27'
+  tier: 1
 - title: Trump Pardons Reality Stars Todd and Julie Chrisley Following Tax Evasion and Bank Fraud Convictions
   url: https://variety.com/2025/tv/news/trump-pardons-todd-julie-tax-evasion-bank-fraud-1236411269/
   outlet: Variety
   date: '2025-05-27'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

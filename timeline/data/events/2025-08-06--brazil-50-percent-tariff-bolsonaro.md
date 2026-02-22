@@ -1,8 +1,8 @@
 ---
 id: 2025-08-06--brazil-50-percent-tariff-bolsonaro
 date: '2025-08-06'
-title: Trump Imposes 50% Tariff on Brazil to Punish Prosecution of Bolsonaro
-description: Trump declares "national emergency" and imposes highest global tariff (50%) on Brazil explicitly for "politically motivated persecution" of former president Jair Bolsonaro. Brazil files WTO complaint. US has $7.4 billion trade surplus with Brazil, making the tariff economically irrational but politically symbolic.
+title: 'Trump Imposes 50% Tariff on Brazil to Punish Prosecution of Bolsonaro'
+description: 'Trump declares "national emergency" and imposes highest global tariff (50%) on Brazil explicitly for "politically motivated persecution" of former president Jair Bolsonaro. Brazil files WTO complaint. US has $7.4 billion trade surplus with Brazil, making the tariff economically irrational but politically symbolic.'
 importance: 9
 tags:
 - trade-war
@@ -25,16 +25,19 @@ status: confirmed
 sources:
 - outlet: White House
   date: '2025-08-06'
-  url: https://www.whitehouse.gov/presidential-actions/brazil-tariff-emergency
+  url: 'https://www.whitehouse.gov/presidential-actions/brazil-tariff-emergency'
   title: Executive Order declaring Brazil trade emergency
+  tier: 1
 - outlet: Brazil Ministry of Foreign Affairs
   date: '2025-08-06'
-  url: https://www.gov.br/mre/en/media/wto-complaint
+  url: 'https://www.gov.br/mre/en/media/wto-complaint'
   title: Brazil files WTO complaint over punitive tariffs
+  tier: 1
 - outlet: Financial Times
   date: '2025-08-07'
-  url: https://www.ft.com/content/brazil-tariff-bolsonaro
-  title: US imposes 50% tariff on Brazil over Bolsonaro prosecution
+  url: 'https://www.ft.com/content/brazil-tariff-bolsonaro'
+  title: 'US imposes 50% tariff on Brazil over Bolsonaro prosecution'
+  tier: 1
 connections:
 - 2023-06-30--bolsonaro-barred-from-office
 - 2025-01-20--trump-trade-war-declarations

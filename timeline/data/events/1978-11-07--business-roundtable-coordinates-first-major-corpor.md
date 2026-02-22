@@ -10,15 +10,19 @@ sources:
 - title: Business Roundtable Political Strategy
   url: https://www.businessroundtable.org/archive
   outlet: Business Roundtable
+  tier: 2
 - title: Corporate PACs and the 1978 Elections
   url: https://www.jstor.org/stable/440562
   outlet: Journal of Politics
+  tier: 2
 - title: Corporate PAC Development and 1978 Election Strategies
   url: https://www.opensecrets.org/political-action-committees-pacs/what-is-a-pac
   outlet: OpenSecrets
+  tier: 1
 - title: Political Action Committee Spending Report - 1978
   url: https://www.fec.gov/press/resources-journalists/political-action-committees-pacs/
   outlet: Federal Election Commission
+  tier: 1
 tags:
 - business-roundtable
 - corporate-coordination

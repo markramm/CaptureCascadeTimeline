@@ -15,14 +15,17 @@ sources:
   title: 'The Lie Factory: How the Bush Administration Used Network of Front Groups'
   url: https://www.motherjones.com/politics/2004/01/lie-factory/
   type: investigative_report
+  tier: 1
 - outlet: Wikipedia
   title: White House Iraq Group
   url: https://en.wikipedia.org/wiki/White_House_Iraq_Group
   date_accessed: '2025-10-06'
+  tier: 2
 - outlet: Newsweek
   title: Karl Rove's Iraq War Role
   url: https://www.newsweek.com/karl-roves-iraq-war-role-98969
   date_accessed: '2025-10-06'
+  tier: 2
 importance: 9
 tags:
 - whig

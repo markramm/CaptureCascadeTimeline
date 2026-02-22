@@ -21,14 +21,17 @@ sources:
   url: https://www.reuters.com/world/us/us-sec-revokes-staffs-authority-launch-formal-probes-notice-says-2025-03-11/
   outlet: Reuters
   date: '2025-03-11'
+  tier: 1
 - title: SEC's New Barrier to Formal Investigation Orders May Slow Pace
   url: https://news.bloomberglaw.com/us-law-week/secs-new-barrier-to-formal-investigation-orders-may-slow-pace
   outlet: Bloomberg Law
   date: '2025-03-25'
+  tier: 2
 - title: The Changing Tides of the SEC Under the Second Trump Administration
   url: https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/
   outlet: Harvard Corporate Governance
   date: '2025-04-01'
+  tier: 1
 connections:
 - SEC Enforcement Structural Changes
 - Trump Administration Regulatory Transformation

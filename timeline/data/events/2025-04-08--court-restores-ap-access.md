@@ -30,14 +30,17 @@ sources:
   url: https://www.ap.org/media-center/ap-in-the-news/2025/ap-wins-reinstatement-to-white-house-events-after-judge-rules-government-cant-bar-its-journalists
   outlet: Associated Press
   date: '2025-04-08'
+  tier: 1
 - title: Judge orders White House to restore Associated Press access
   url: https://www.theguardian.com/us-news/2025/apr/08/judge-orders-white-house-restore-associated-press-access
   outlet: The Guardian
   date: '2025-04-08'
+  tier: 1
 - title: Associated Press White House ban lifted by judge
   url: https://www.washingtonpost.com/media/2025/04/08/associated-press-white-house-ban-lifted
   outlet: The Washington Post
   date: '2025-04-08'
----
+
+  tier: 1---
 
 A federal judge on April 8, 2025, ordered the White House to restore Associated Press access to cover presidential events, finding that the administration's February ban constituted viewpoint-based discrimination in violation of the First Amendment. The ruling came after AP was barred from White House coverage following critical reporting. The administration responded by restructuring the press pool system days later to circumvent the court order.

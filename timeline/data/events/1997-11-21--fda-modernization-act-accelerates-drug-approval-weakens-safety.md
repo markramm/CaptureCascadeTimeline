@@ -19,14 +19,17 @@ sources:
   outlet: Congress.gov
   url: https://www.congress.gov/bill/105th-congress/senate-bill/830
   date: '1997-11-21'
+  tier: 1
 - title: 'Faster FDA Drug Reviews: Lessons From the AIDS Epidemic'
   outlet: New England Journal of Medicine
   url: https://www.nejm.org
   date: '2015-01-01'
+  tier: 1
 - title: 'Direct-to-Consumer Drug Advertising: Therapeutic or Toxic?'
   outlet: Pharmacy and Therapeutics
   url: https://www.ncbi.nlm.nih.gov/pmc/journals/809/
   date: '2011-01-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 status: confirmed

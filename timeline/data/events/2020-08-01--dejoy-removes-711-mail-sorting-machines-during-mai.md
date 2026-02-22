@@ -20,14 +20,17 @@ sources:
   url: https://www.washingtonpost.com/business/2020/09/17/usps-dejoy-court-order/
   outlet: The Washington Post
   date: '2020-09-17'
+  tier: 1
 - title: New documents show DeJoy's USPS removed 711 mail sorting machines
   url: https://www.cnn.com/2020/09/09/politics/usps-removed-711-sorting-machines/index.html
   outlet: CNN
   date: '2020-09-09'
+  tier: 1
 - title: Louis DeJoy
   url: https://en.wikipedia.org/wiki/Louis_DeJoy
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

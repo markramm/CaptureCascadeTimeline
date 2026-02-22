@@ -21,14 +21,17 @@ sources:
   url: https://irp.fas.org/congress/1992_rpt/bcci/13clifford.htm
   outlet: Federation of American Scientists
   date: '1992-12-01'
+  tier: 1
 - title: Clifford, Altman Settle BCCI Case
   url: https://www.washingtonpost.com/archive/politics/1998/02/04/clifford-altman-settle-bcci-case/
   outlet: The Washington Post
   date: '1998-02-04'
+  tier: 1
 - title: Clark M. Clifford and Robert A. Altman, Appellants, v. United States of America Legal Proceedings
   url: https://law.justia.com/cases/federal/appellate-courts/F3/136/144/553676/
   outlet: Federal Court of Appeals
   date: '1998-01-01'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

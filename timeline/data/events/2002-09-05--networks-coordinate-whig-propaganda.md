@@ -26,14 +26,17 @@ sources:
   url: https://www.fair.org/extra/how-tv-news-booking-served-white-house-iraq-propaganda/
   outlet: FAIR
   date: '2008-03-15'
+  tier: 2
 - title: The White House Iraq Group's Media Strategy
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819_2.html
   outlet: The Washington Post
   date: '2008-06-08'
+  tier: 1
 - title: 'Networks as Propaganda Platforms: The September 2002 Campaign'
   url: https://www.commondreams.org/views/2007/09/08/networks-propaganda-platforms-september-2002-campaign
   outlet: Common Dreams
   date: '2007-09-08'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

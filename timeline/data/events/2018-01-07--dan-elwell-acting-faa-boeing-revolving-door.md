@@ -19,26 +19,32 @@ sources:
   url: https://www.ainonline.com/aviation-news/business-aviation/2018-01-08/dan-elwell-takes-helm-faa-huerta-departs
   date: '2018-01-08'
   outlet: Aviation International News
+  tier: 2
 - title: Deputy FAA Administrator Dan Elwell Steps in as Acting FAA Administrator
   url: https://cessnaowner.org/deputy-faa-administrator-dan-elwell-steps-in-as-acting-faa-administrator/
   date: '2018-01-18'
   outlet: Cessna Owner Organization
+  tier: 2
 - title: Elwell Named Acting FAA Administrator
   url: https://aviationweek.com/air-transport/elwell-named-acting-faa-administrator
   date: '2018-01-08'
   outlet: Aviation Week Network
+  tier: 2
 - title: The FAA and Flights of Financial Folly
   url: https://therevolvingdoorproject.org/the-faa-and-flights-of-financial-folly/
   date: ''
   outlet: The Revolving Door Project
+  tier: 2
 - title: How the revolving door at FAA spins Boeing's way
   url: https://www.sentinelsource.com/how-the-revolving-door-at-faa-spins-boeing-s-way/article_73ba51c8-97ed-11ef-8007-ef69f110458e.html
   date: ''
   outlet: The Sentinel Source
+  tier: 2
 - title: How the FAA Ceded Aviation Safety Oversight to Boeing
   url: https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing
   date: ''
   outlet: Project on Government Oversight
+  tier: 1
 importance: 8
 tags:
 - regulatory-capture

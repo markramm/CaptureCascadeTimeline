@@ -21,14 +21,17 @@ sources:
   title: 'The Secret Sharer: Is Thomas Drake an Enemy of the State?'
   outlet: The New Yorker
   date: '2011-05-23'
+  tier: 1
 - url: https://www.baltimoresun.com/news/bs-xpm-2010-04-25-bs-md-drake-20100425-story.html
   title: NSA Whistleblower Thomas Drake Speaks Out
   outlet: Baltimore Sun
   date: '2010-04-25'
+  tier: 2
 - url: https://www.washingtonpost.com/world/national-security/former-nsa-executive-thomas-a-drake-may-pay-a-high-price-for-media-leaks/2011/05/22/AGCJ1uDH_story.html
   title: Former NSA Executive Thomas A. Drake May Pay a High Price for Media Leaks
   outlet: The Washington Post
   date: '2011-05-23'
+  tier: 1
 importance: 8
 status: confirmed
 capture_lanes:

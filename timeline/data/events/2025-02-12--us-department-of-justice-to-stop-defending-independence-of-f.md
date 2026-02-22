@@ -24,18 +24,22 @@ sources:
   url: https://www.reuters.com/world/us/us-justice-department-will-stop-defending-independence-ftc-nlrb-letter-says-2025-02-12/
   outlet: Reuters
   date: '2025-02-12'
+  tier: 1
 - title: Justice Department to Stop Defending Removal Shields at NLRB, FTC
   url: https://news.bloomberglaw.com/antitrust/justice-department-to-stop-defending-removal-shields-at-nlrb-ftc
   outlet: Bloomberg Law
   date: '2025-02-12'
+  tier: 2
 - title: US Department of Justice to Stop Defending Independence of FTC, NLRB
   url: https://www.usnews.com/news/top-news/articles/2025-02-12/us-justice-department-will-stop-defending-independence-of-ftc-nlrb-letter-says
   outlet: US News & World Report
   date: '2025-02-12'
+  tier: 2
 - title: DOJ Won't Defend Independence of FTC, NLRB, CPSC
   url: https://www.newsmax.com/politics/doj-ftc-nlrb/2025/02/12/id/1198892/
   outlet: Newsmax
   date: '2025-02-12'
+  tier: 2
 connections:
 - Project 2025 Institutional Capture Implementation
 - Erosion of Regulatory Independence

@@ -19,18 +19,22 @@ sources:
   url: https://www.pbs.org/newshour/politics/ethics-board-says-south-dakota-gov-kristi-noem-may-have-engaged-in-misconduct
   outlet: PBS NewsHour
   date: '2022-08-22'
+  tier: 1
 - title: South Dakota Governor Kristi Noem may have engaged in misconduct, ethics board says
   url: https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/
   outlet: CBS News
   date: '2022-08-22'
+  tier: 1
 - title: GOP governor Kristi Noem used state aircraft for tens of thousands of dollars in political travel
   url: https://www.alternet.org/2021/02/kristi-noem-2650540846
   outlet: Alternet.org
   date: '2021-02-01'
+  tier: 2
 - title: 'Exclusive: GOP governor Kristi Noem, potential Trump successor, used state aircraft for tens of thousands of dollars in political travel'
   url: https://www.rawstory.com/kristi-noem-2650536372/
   outlet: Raw Story
   date: '2021-02-01'
+  tier: 3
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

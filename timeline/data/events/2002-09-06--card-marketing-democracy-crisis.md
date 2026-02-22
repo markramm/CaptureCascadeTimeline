@@ -14,14 +14,17 @@ sources:
   outlet: CNN
   date: '2002-09-12'
   url: http://edition.cnn.com/2002/ALLPOLITICS/09/12/schneider.iraq/index.html
+  tier: 1
 - title: 'Selling the War: The White House Marketing Campaign'
   outlet: CounterPunch
   date: '2015-09-08'
   url: https://www.counterpunch.org/2015/09/08/tis-the-season-for-selling-war/
+  tier: 2
 - title: Bush Administration's Marketing Strategy for Iraq War
   outlet: Arthur Magazine
   date: '2005-10-16'
   url: https://arthurmag.com/2005/10/16/frank-rich-october-16-2005/
+  tier: 2
 capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control

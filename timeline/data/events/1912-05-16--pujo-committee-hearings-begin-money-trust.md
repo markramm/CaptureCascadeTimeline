@@ -14,15 +14,19 @@ sources:
 - title: Pujo Committee
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Pujo_Committee
+  tier: 2
 - title: Pujo Committee "Money Trust" Wall Street Banking Cartel Investigation 1912-1913
   outlet: Public Intelligence
   url: https://publicintelligence.net/pujo-committee-money-trust-wall-street-banking-cartel-investigation-1912-1913/
+  tier: 2
 - title: Uncurrent Events - The Pujo Committee
   outlet: Federal Reserve Bank of St. Louis
   url: https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/
+  tier: 1
 - title: Congress and the Money Trust
   outlet: National Archives
   url: https://www.archives.gov/legislative/resources/education/money-trust
+  tier: 1
 tags:
 - banking-consolidation
 - progressive-era

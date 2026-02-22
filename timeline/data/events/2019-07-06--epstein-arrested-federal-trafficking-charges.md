@@ -19,14 +19,17 @@ sources:
   title: Jeffrey Epstein Charged In Manhattan Federal Court With Sex Trafficking Conspiracy
   outlet: U.S. Attorney SDNY
   date: '2019-07-08'
+  tier: 1
 - url: https://www.nytimes.com/2019/07/06/nyregion/jeffrey-epstein-arrested-sex-trafficking.html
   title: Jeffrey Epstein Charged With Sex Trafficking of Girls as Young as 14
   outlet: The New York Times
   date: '2019-07-06'
+  tier: 1
 - url: https://www.cnn.com/2019/07/06/us/jeffrey-epstein-arrested-sex-trafficking/index.html
   title: Billionaire Jeffrey Epstein arrested on federal charges of sex trafficking minors
   outlet: CNN
   date: '2019-07-06'
+  tier: 1
 importance: 10
 status: confirmed
 capture_lanes:

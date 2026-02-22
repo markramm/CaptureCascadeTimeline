@@ -25,14 +25,17 @@ sources:
   outlet: Decrypt
   url: https://decrypt.co/316387/bitcoin-jesus-pays-trump-ally-roger-stone-600000-to-lobby-against-exit-tax
   date: '2025-04-24'
+  tier: 2
 - title: Roger Ver pays Trump's 'dirty trickster' $600,000 to escape extradition
   outlet: DL News
   url: https://www.dlnews.com/articles/people-culture/roger-ver-cuts-cheque-to-trump-trickster-escape-extradition/
   date: '2025-04-24'
+  tier: 2
 - title: '''Bitcoin Jesus'' Pays Trump Ally Roger Stone $600,000 To Assist In Ongoing Legal Battle'
   outlet: 99Bitcoins
   url: https://99bitcoins.com/news/altcoins/roger-ver-pays-trump-ally-roger-stone-600000-to-assist-in-ongoing-legal-battle/
   date: '2025-04-24'
+  tier: 2
 connections:
 - Crypto tax policy under Trump administration
 - Political lobbying by Roger Stone

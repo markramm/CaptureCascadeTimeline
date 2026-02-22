@@ -21,32 +21,36 @@ capture_lanes:
 - Intelligence Penetration
 sources:
 - title: 'Jeffrey Epstein''s Russian Connection: Billionaire''s ties with FSB Academy graduate revealed'
-  url: https://dossier.center/jeffreyepsteinrusconnect-en
+  url: 'https://dossier.center/jeffreyepsteinrusconnect-en'
   outlet: Dossier Center
   date: '2023-05-15'
+  tier: 2
   notes: Original investigative report
-- title: Ex-deputy minister helped organize Epstein's meetings with Russian officials
-  url: https://www.moscowtimes.ru/2024/02/14/organizatora-lyubimogo-ekonomicheskogo-foruma-putina-obvinili-vsvyazyah-samerikanskim-milliarderom-pedofilom-a121601
+- title: 'Ex-deputy minister helped organize Epstein''s meetings with Russian officials'
+  url: 'https://www.moscowtimes.ru/2024/02/14/organizatora-lyubimogo-ekonomicheskogo-foruma-putina-obvinili-vsvyazyah-samerikanskim-milliarderom-pedofilom-a121601'
   outlet: The Moscow Times (Russian Service)
   date: '2024-02-14'
   notes: Russian-language coverage of Dossier Center findings
+  tier: 2
 - title: Dossier Center alleges ex-deputy minister helped Epstein with Russian contacts
-  url: https://novayagazeta.eu/articles/2024/02/14/dose-eks-zamministra-ekonomicheskogo-razvitiia-sergei-beliakov-pomogal-milliarderu-dzheffri-epshteinu-v-organizatsii-vstrech-s-rossiiskimi-chinovnikami-news
+  url: 'https://novayagazeta.eu/articles/2024/02/14/dose-eks-zamministra-ekonomicheskogo-razvitiia-sergei-beliakov-pomogal-milliarderu-dzheffri-epshteinu-v-organizatsii-vstrech-s-rossiiskimi-chinovnikami-news'
   outlet: Novaya Gazeta Europe
   date: '2024-02-14'
   notes: Independent Russian outlet coverage
+  tier: 2
 - title: Russian deputy minister allegedly facilitated Epstein meetings
-  url: https://www.occrp.org/ru/novosti/dose-rossiiskii-zamministra-ekonomiceskogo-razvitiia-tesno-obshhalsia-s-dzeffri-epsteinom
+  url: 'https://www.occrp.org/ru/novosti/dose-rossiiskii-zamministra-ekonomiceskogo-razvitiia-tesno-obshhalsia-s-dzeffri-epsteinom'
   outlet: OCCRP
   date: '2024-02-14'
   notes: Brief coverage of allegations
+  tier: 1
 - title: 'The Cesspool and Chaos: the Russian Connection in the Epstein Affair'
-  url: https://european-security.com/the-cesspool-and-chaos-the-russian-connection-in-the-epstein-affair/
+  url: 'https://european-security.com/the-cesspool-and-chaos-the-russian-connection-in-the-epstein-affair/'
   outlet: European Security
   date: '2025-07-30'
   notes: Commentary on broader implications
-notes: Based on Dossier Center investigation. No primary documents (court filings, government records) have independently corroborated these specific alleged meetings beyond Dossier Center's source materials. Properly categorized as 'reported' pending independent verification.
+  tier: 2
+notes: 'Based on Dossier Center investigation. No primary documents (court filings, government records) have independently corroborated these specific alleged meetings beyond Dossier Center''s source materials. Properly categorized as ''reported'' pending independent verification.'
 status: reported
 ---
-
 The Dossier Center published emails and travel/activity records purporting to show Jeffrey Epstein sought meetings and advice via Sergei Belyakov—an FSB Academy graduate and then‑Russian economic official—about sanctions, introductions, and a model's alleged blackmail. The Dossier Center's reporting has not been independently verified by U.S. authorities or other news organizations.

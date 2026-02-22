@@ -23,14 +23,17 @@ sources:
   url: https://www.thedailybeast.com/jeffrey-epstein-accuser-maria-farmer-names-powerful-men
   outlet: The Daily Beast
   date: '2019-07-09'
+  tier: 2
 - title: Epstein Victim Says FBI Ignored Her 1996 Report for a Decade
   url: https://www.businessinsider.com/maria-farmer-fbi-ignored-jeffrey-epstein-report-decade-2019-8
   outlet: Business Insider
   date: '2019-08-07'
+  tier: 2
 - title: '''I Was So Scared of Him'': Epstein Survivor Recounts Abuse'
   url: https://www.theguardian.com/us-news/2019/jul/13/jeffrey-epstein-maria-farmer-fbi-interview
   outlet: The Guardian
   date: '2019-07-13'
+  tier: 1
 capture_lanes:
 - Intelligence Penetration
 ---

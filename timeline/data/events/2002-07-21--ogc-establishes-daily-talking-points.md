@@ -27,14 +27,17 @@ sources:
   url: https://www.sourcewatch.org/index.php/Office_of_Global_Communications
   outlet: SourceWatch
   date: '2007'
+  tier: 2
 - title: The Office of Global Communications
   url: https://georgewbush-whitehouse.archives.gov/ogc/aboutogc.html
   outlet: White House Archives
   date: '2002'
+  tier: 1
 - title: Global Communications, United States Office
   url: https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/global-communications-united-states-office
   outlet: Encyclopedia.com
   date: '2006'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

@@ -19,14 +19,17 @@ sources:
   title: Edwards v. United States - Court Ruling
   outlet: U.S. District Court
   date: '2019-02-21'
+  tier: 2
 - url: https://www.npr.org/2019/02/21/696652915/judge-says-prosecutors-broke-law-in-jeffrey-epstein-case
   title: Judge Says Prosecutors Broke Law In Jeffrey Epstein Case
   outlet: NPR
   date: '2019-02-21'
+  tier: 1
 - url: https://www.reuters.com/article/us-people-epstein-judge/judge-federal-prosecutors-broke-law-in-jeffrey-epstein-case-idUSKCN1QA2DG
   title: 'Judge: Federal prosecutors broke law in Jeffrey Epstein case'
   outlet: Reuters
   date: '2019-02-21'
+  tier: 1
 importance: 8
 status: confirmed
 capture_lanes:

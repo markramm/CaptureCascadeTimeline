@@ -24,14 +24,17 @@ sources:
   url: https://www.commondreams.org/views/2008/06/12/cnn-executives-and-white-house-iraq-group
   outlet: Common Dreams
   date: '2008-06-12'
+  tier: 2
 - title: 'The Media and the Iraq War: How the Press Failed to Question Official Claims'
   url: https://fair.org/extra/amplifying-officials-squelching-dissent/
   outlet: FAIR
   date: '2007-03-01'
+  tier: 2
 - title: Networks Served as Megaphones for Iraq War Propaganda
   url: https://www.democracynow.org/2008/4/24/networks_served_as_megaphones_for_iraq
   outlet: Democracy Now
   date: '2008-04-24'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

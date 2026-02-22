@@ -25,18 +25,22 @@ sources:
   url: https://arxiv.org/pdf/2003.03318
   outlet: arXiv (UC Berkeley research)
   date: '2020-03-06'
+  tier: 2
 - title: New Study Confirms YouTube Algorithm Promotes Misinformation, Conspiracies, Extremism
   url: https://www.counterextremism.com/blog/new-study-confirms-youtube-algorithm-promotes-misinformation-conspiracies-extremism
   outlet: Counter Extremism Project
   date: '2020-03-03'
+  tier: 2
 - title: YouTube's Plot to Silence Conspiracy Theories
   url: https://www.ischool.berkeley.edu/news/2020/youtubes-plot-silence-conspiracy-theories
   outlet: UC Berkeley School of Information
   date: '2020-03-04'
+  tier: 1
 - title: Where conspiracy theories flourish - study of YouTube comments and Bill Gates theories
   url: https://misinforeview.hks.harvard.edu/article/where-conspiracy-theories-flourish-a-study-of-youtube-comments-and-bill-gates-conspiracy-theories/
   outlet: Harvard Kennedy School Misinformation Review
   date: '2021-05-03'
+  tier: 1
 status: confirmed
 id: 2018-02-01--youtube-recommends-conspiracies-over-facts
 capture_lanes:

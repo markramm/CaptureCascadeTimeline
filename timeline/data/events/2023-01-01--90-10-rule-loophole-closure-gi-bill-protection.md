@@ -87,30 +87,37 @@ sources:
   url: https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics
   outlet: ProPublica
   date: '2025-01-28'
+  tier: 1
 - title: Kristi Noem Secretly Pocketed Cash From Dark Money Group
   url: https://www.rollingstone.com/politics/politics-news/kristi-noem-dark-money-group-1235375422/
   outlet: Rolling Stone
   date: '2023-06-28'
+  tier: 2
 - title: Kristi Noem Secretly Took Mystery Donation From Dark-Money Group
   url: https://newrepublic.com/post/197416/kristi-noem-donation-dark-money-group
   outlet: The New Republic
   date: '2023-11-15'
+  tier: 2
 - title: Kristi Noem Accused of Failing to Disclose $80k Dark Money Payment
   url: https://www.allsides.com/story/campaign-finance-kristi-noem-accused-failing-disclose-80k-dark-money-payment
   outlet: AllSides
   date: '2023-11-15'
+  tier: 2
 - title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation for DOJ
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
   outlet: Senate Finance Committee
   date: '2025-07-23'
+  tier: 1
 - title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed Epstein File
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: Senate Finance Committee
   date: '2025-07-17'
+  tier: 1
 - title: A Democratic Senator was already investigating Jeffrey Epstein's finances
   url: https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances
   outlet: NPR
   date: '2025-07-25'
+  tier: 1
 notes: Rule change enacted through American Rescue Plan 2021, implemented January 1, 2023. Previously GI Bill and DOD Tuition Assistance didn't count toward 90% federal aid cap, creating incentive to target veterans. Holly Petraeus (CFPB) documented predatory targeting. Many for-profit colleges received 80-90%+ revenue from federal sources when military benefits included. Closure reduces incentive to recruit veterans specifically for regulatory arbitrage. Some for-profit colleges operated recruiting offices on military bases.
 status: confirmed
 ---

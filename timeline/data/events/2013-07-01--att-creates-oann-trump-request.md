@@ -24,18 +24,22 @@ sources:
   url: https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
   outlet: Reuters (Special Report)
   date: '2021-10-06'
+  tier: 1
 - title: AT&T was a crucial source of revenue for OAN, report says
   url: https://www.cnn.com/2021/10/06/media/att-oann-reuters-investigation/index.html
   outlet: CNN Business
   date: '2021-10-06'
+  tier: 1
 - title: How AT&T helped build far‑right One America News
   url: https://www.euronews.com/2021/10/07/usa-oneamerica-at-t-specialreport
   outlet: Euronews (syndicated)
   date: '2021-10-07'
+  tier: 2
 - title: The tech entrepreneur who founded Trump's go‑to TV network
   url: https://www.reuters.com/investigates/special-report/usa-oneamerica-founder/
   outlet: Reuters
   date: '2021-10-07'
+  tier: 1
 notes: Reframe away from "created at Trump's request." Keep to what's in court records and Reuters.
 status: confirmed
 ---

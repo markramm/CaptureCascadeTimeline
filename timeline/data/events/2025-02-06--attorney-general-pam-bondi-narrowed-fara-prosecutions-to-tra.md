@@ -21,14 +21,17 @@ sources:
   outlet: CyberScoop
   date: '2025-02-06'
   url: https://cyberscoop.com/doj-disbands-foreign-influence-task-force/
+  tier: 2
 - title: The State of FARA Following Bondi's DOJ Reprioritization
   outlet: Morgan Lewis Legal Insights
   date: '2025-02-06'
   url: https://www.morganlewis.com/pubs/2025/02/the-state-of-fara-following-attorney-general-bondis-reprioritization-of-doj-resources
+  tier: 2
 - title: AG Bondi Refocuses DOJ Priorities in New Guidance Documents
   outlet: Wiley Law
   date: '2025-02-06'
   url: https://www.wiley.law/alert-AG-Bondi-Refocuses-DOJ-Priorities-in-New-Guidance-Documents
+  tier: 2
 connections:
 - Systematic reduction of foreign influence investigations
 - Narrowing of DOJ's national security enforcement scope

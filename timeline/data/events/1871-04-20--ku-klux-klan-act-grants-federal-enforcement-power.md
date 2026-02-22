@@ -12,19 +12,23 @@ sources:
 - title: 'U.S. Senate: The Enforcement Acts of 1870 and 1871'
   outlet: U.S. Senate
   url: https://www.senate.gov/artandhistory/history/common/generic/EnforcementActs.htm
+  tier: 1
   year: 2024
 - title: 'Protecting Life and Property: Passing the Ku Klux Klan Act'
   outlet: National Park Service
   url: https://www.nps.gov/articles/000/protecting-life-and-property-passing-the-ku-klux-klan-act.htm
   year: 2024
+  tier: 1
 - title: 'April 20, 1871: Klan Enforcement Act Signed Into Law'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/ku-klux-klan-act-of-1871/
   year: 2024
+  tier: 2
 - title: The Ku Klux Klan Act of 1871
   outlet: U.S. House of Representatives
   url: https://history.house.gov/Historical-Highlights/1851-1900/hh_1871_04_20_KKK_Act/
   year: 2024
+  tier: 1
 tags:
 - reconstruction
 - federal-enforcement

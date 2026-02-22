@@ -23,14 +23,17 @@ sources:
   url: https://www.splcenter.org/news/2020/06/17/family-separation-under-trump-administration-timeline
   outlet: Southern Poverty Law Center
   date: '2020-06-17'
+  tier: 1
 - title: Trump administration separated thousands more children
   url: https://www.nbcnews.com/politics/immigration/trump-admin-separated-thousands-more-migrant-kids-parents-previously-known-n1287352
   outlet: NBC News
   date: '2021-10-30'
+  tier: 1
 - title: UN says Trump separation of migrant children is torture
   url: https://www.theguardian.com/us-news/2018/jun/22/un-trump-family-separation-torture
   outlet: The Guardian
   date: '2018-06-22'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

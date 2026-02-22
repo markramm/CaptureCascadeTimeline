@@ -24,14 +24,17 @@ sources:
   url: https://georgewbush-whitehouse.archives.gov/government/fbci/president-initiative.html
   outlet: George W. Bush White House
   date: '2001-01-29'
+  tier: 1
 - title: 'The Jesus Factor: Faith-Based Initiatives'
   url: https://www.pbs.org/wgbh/pages/frontline/shows/jesus/president/faithbased.html
   outlet: PBS Frontline
   date: '2004-04-29'
+  tier: 1
 - title: Hein v. Freedom From Religion Foundation
   url: https://supreme.justia.com/cases/federal/us/551/587/
   outlet: Supreme Court
   date: '2007-06-25'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

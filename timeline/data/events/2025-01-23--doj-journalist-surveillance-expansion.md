@@ -12,16 +12,19 @@ actors:
 sources:
 - outlet: NPR
   title: DOJ Rescinds Biden-era Protections for Reporters in Leak Investigations
-  url: https://www.npr.org/2025/04/25/nx-s1-5377624/pam-bondi-reporters-subpoena-leaks
+  url: 'https://www.npr.org/2025/04/25/nx-s1-5377624/pam-bondi-reporters-subpoena-leaks'
   date: '2025-04-25'
+  tier: 1
 - outlet: Reuters
   title: Justice Department Issues New Data Security Guidelines with Potential Surveillance Implications
-  url: https://www.reuters.com/legal/government/justice-department-data-security-program-2025-01-08/
+  url: 'https://www.reuters.com/legal/government/justice-department-data-security-program-2025-01-08/'
   date: '2025-01-08'
+  tier: 1
 - outlet: Electronic Frontier Foundation
   title: The PRESS Act and Journalist Protections in 2025
-  url: https://www.eff.org/deeplinks/2024/01/press-act-will-protect-journalists-when-they-need-it-most
+  url: 'https://www.eff.org/deeplinks/2024/01/press-act-will-protect-journalists-when-they-need-it-most'
   date: '2025-01-15'
+  tier: 1
 tags:
 - press-freedom
 - surveillance
@@ -30,11 +33,10 @@ tags:
 - national-security
 - data-security
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Regulatory Capture
 - Intelligence Penetration
 - Electoral Manipulation
 status: confirmed
 ---
-
 The Department of Justice implements a new national security data security program that potentially allows for increased surveillance of journalists. Under the program, DOJ creates mechanisms to access bulk data that could be used to track reporters, particularly those investigating administration actions related to the 2016 election and subsequent investigations.

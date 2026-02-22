@@ -18,22 +18,27 @@ sources:
   url: https://www.desmog.com/2025/05/15/donald-trump-uk-ambassador-warren-stephens-investments-industries-set-to-benefit-from-trade-deal/
   outlet: DeSmog
   date: '2025-05-12'
+  tier: 2
 - title: Trump's UK Ambassador Stands to Benefit From New Trade Deal
   url: https://jacobin.com/2025/05/trump-uk-ambassador-trade-deal
   outlet: Jacobin
   date: '2025-05-12'
+  tier: 2
 - title: Donald Trump's Fossil Fuel Executive UK Ambassador Donated 4 Million to President's Inauguration Fund
   url: https://www.desmog.com/2025/04/23/donald-trump-warren-stephens-fossil-fuel-executive-uk-ambassador-donated-4-million-to-president-inauguration-fund/
   outlet: DeSmog
   date: '2025-04-23'
+  tier: 2
 - title: Live And Let Dividend
   url: https://www.levernews.com/live-and-let-dividend/
   outlet: The Lever
   date: '2025-05-13'
+  tier: 2
 - title: Oil and Gas Investments of Donald Trump's New UK Ambassador
   url: https://www.desmog.com/2024/12/05/oil-and-gas-interests-of-donald-trump-new-uk-ambassador-warren-stephens/
   outlet: DeSmog
   date: '2024-12-05'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

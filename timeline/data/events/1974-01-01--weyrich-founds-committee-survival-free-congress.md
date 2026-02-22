@@ -21,12 +21,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Paul_Weyrich
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: 'Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative Coalition'
   url: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd
   outlet: West Virginia University Research Repository
   date: '2017-01-01'
   verified: true
+  tier: 1
 notes: The Committee for the Survival of a Free Congress (later renamed Free Congress Foundation) was designed to help elect conservative politicians to Congress through direct financial support, training, and coordination. This added electoral capability to Weyrich's institutional network alongside Heritage (policy) and ALEC (state legislation).
 status: confirmed
 ---

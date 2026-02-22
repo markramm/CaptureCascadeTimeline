@@ -32,26 +32,32 @@ sources:
   url: https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987
   outlet: NBC News
   date: '2025-11-26'
+  tier: 1
 - title: Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations
   url: https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456
   outlet: ABC News
   date: '2025-11-26'
+  tier: 1
 - title: Judge to proceed with contempt probe over U.S. flying migrants to El Salvador prison in March
   url: https://www.pbs.org/newshour/politics/judge-to-proceed-with-contempt-probe-over-u-s-flying-migrants-to-el-salvador-prison-in-march
   outlet: PBS News
   date: '2025-11-19'
+  tier: 1
 - title: Judge finds probable cause to hold Trump administration in criminal contempt over removals of Venezuelan migrants to El Salvador
   url: https://www.cbsnews.com/news/judge-finds-probable-cause-criminal-contempt-trump-administration-venezuelan-migrants-el-salvador/
   outlet: CBS News
   date: '2025-04-16'
+  tier: 1
 - title: Noem OK'd El Salvador deportations despite court order
   url: https://www.axios.com/2025/11/26/noem-deportation-flights-el-salvador-boasberg
   outlet: Axios
   date: '2025-11-26'
+  tier: 2
 - title: '"You Have Arrived in Hell": Torture and Other Abuses Against Venezuelans in El Salvador''s Mega Prison'
   url: https://www.hrw.org/report/2025/11/12/you-have-arrived-in-hell/torture-and-other-abuses-against-venezuelans-in-el
   outlet: Human Rights Watch
   date: '2025-11-12'
+  tier: 1
 connections:
 - Administration deliberately evades court order on Venezuelan gang deportations (2025-08-01)
 - Judge finds probable cause for criminal contempt (April 2025)

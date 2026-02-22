@@ -27,14 +27,17 @@ sources:
   url: https://www.justice.gov/archive/opa/pr/2008/September/08-crm-779.html
   outlet: U.S. Department of Justice
   date: '2008-09-04'
+  tier: 1
 - title: Jack Abramoff Indian lobbying scandal - Wikipedia
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
   outlet: Wikipedia
   date: '2008-09-04'
+  tier: 2
 - title: 'Abramoff: Lobbying Congress - Ethics Unwrapped'
   url: https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress
   outlet: Ethics Unwrapped
   date: '2008-09-04'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

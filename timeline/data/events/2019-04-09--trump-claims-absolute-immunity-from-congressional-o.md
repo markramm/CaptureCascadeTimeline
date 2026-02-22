@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/local/legal-issues/judge-rejects-trumps-absolute-immunity-claim/2019/11/25/
   outlet: The Washington Post
   date: '2019-11-25'
+  tier: 1
 - title: White House declares war on impeachment inquiry
   url: https://www.nytimes.com/2019/10/08/us/politics/white-house-letter-impeachment.html
   outlet: The New York Times
   date: '2019-10-08'
+  tier: 1
 - title: Presidents Are Not Kings - Judge Rejects Trump Immunity Claim
   url: https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house
   outlet: NPR
   date: '2019-11-25'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

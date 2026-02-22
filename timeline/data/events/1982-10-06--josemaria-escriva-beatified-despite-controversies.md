@@ -10,18 +10,23 @@ sources:
 - title: Escriva Beatification Ceremony
   url: https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_19920517_escriva_en.html
   outlet: Vatican
+  tier: 1
 - title: Opus Dei Controversies Analysis
   url: https://www.ncronline.org/news/vatican/opus-dei-controversies-persist-despite-popes-defense
   outlet: National Catholic Reporter
+  tier: 2
 - title: 'A Questionable Saint: The Controversy Behind Opus Dei''s Founder'
   url: https://www.newsweek.com/questionable-saint-197568
   outlet: Newsweek
+  tier: 2
 - title: Historical Analysis of Josemaría Escrivá and Opus Dei
   url: https://opusdeihistory.org/
   outlet: Studia et Documenta
+  tier: 2
 - title: Canonical Process Raises Questions About Rapid Beatification
   url: https://www.americamagazine.org/faith/2020/11/19/saint-john-paul-ii-canonize-mistake-mccarrick-abuse/
   outlet: America Magazine
+  tier: 2
 tags:
 - beatification
 - opus-dei

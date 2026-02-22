@@ -24,18 +24,21 @@ sources:
     media strategy
   credibility: 8
   type: reference
+  tier: 2
 - outlet: NPR
   title: 'Maintaining Focus: Rove and Iraq War Data'
   url: https://www.npr.org/2005/07/13/4752466/maintaining-focus-rove-and-iraq-war-data
   description: Detailed account of media coordination strategies
   credibility: 9
   type: news-analysis
+  tier: 1
 - outlet: Truthout
   title: The Lies of Karl Rove
   url: https://truthout.org/articles/the-lies-of-karl-rove/
   description: Investigative piece on media manipulation tactics
   credibility: 7
   type: investigative-journalism
+  tier: 2
 tags:
 - whig
 - talking-points-distribution

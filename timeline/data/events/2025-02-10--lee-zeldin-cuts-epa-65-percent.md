@@ -1,8 +1,8 @@
 ---
 id: 2025-02-10--lee-zeldin-cuts-epa-65-percent
 date: '2025-02-10'
-title: EPA Administrator Zeldin Plans 65% Workforce Cut While Terminating $20 Billion Climate Grants
-description: EPA Administrator Lee Zeldin, who received $186,000 for undisclosed paid op-eds including defending Brazilian beef producer JBS, announces plans to cut EPA workforce by 65% and eliminate scientific research arm. Terminated $20 billion in climate grants which courts found lacked sufficient evidence of fraud. Previously defended companies with major environmental violations.
+title: 'EPA Administrator Zeldin Plans 65% Workforce Cut While Terminating $20 Billion Climate Grants'
+description: 'EPA Administrator Lee Zeldin, who received $186,000 for undisclosed paid op-eds including defending Brazilian beef producer JBS, announces plans to cut EPA workforce by 65% and eliminate scientific research arm. Terminated $20 billion in climate grants which courts found lacked sufficient evidence of fraud. Previously defended companies with major environmental violations.'
 actors:
 - Lee Zeldin
 - Environmental Protection Agency (EPA)
@@ -12,16 +12,19 @@ importance: 8
 sources:
 - date: '2025-02-10'
   outlet: Inside Climate News
-  title: Zeldin announces 65% EPA workforce reduction, terminates climate funding
-  url: https://insideclimatenews.org/news/10022025/zeldin-epa-cuts-climate-grants/
+  title: 'Zeldin announces 65% EPA workforce reduction, terminates climate funding'
+  url: 'https://insideclimatenews.org/news/10022025/zeldin-epa-cuts-climate-grants/'
+  tier: 1
 - date: '2025-02-11'
   outlet: The Guardian
   title: EPA chief plans to eliminate scientific research division
-  url: https://www.theguardian.com/environment/2025/feb/11/epa-zeldin-workforce-science-cuts
+  url: 'https://www.theguardian.com/environment/2025/feb/11/epa-zeldin-workforce-science-cuts'
+  tier: 1
 - date: '2025-02-13'
   outlet: NPR
   title: EPA Seeks to Reduce Workforce and Budget to Reagan-Era Levels
-  url: https://www.npr.org/2025/02/10/nx-s1-5280155/lee-zeldin-epa-workforce-cuts
+  url: 'https://www.npr.org/2025/02/10/nx-s1-5280155/lee-zeldin-epa-workforce-cuts'
+  tier: 1
 tags:
 - lee-zeldin
 - epa
@@ -32,7 +35,7 @@ tags:
 - jbs
 - paid-advocacy
 status: confirmed
-notes: Zeldin's plan to cut EPA by 65% while eliminating scientific research represents most aggressive environmental deregulation in agency history. His $186,000 in undisclosed paid op-eds defending polluters like JBS (major deforestation contributor) shows pattern of corporate advocacy. Terminating $20 billion in climate grants without evidence of fraud demonstrates arbitrary use of power. Eliminating scientific research arm ensures future policy decisions lack empirical basis, enabling unlimited pollution.
+notes: 'Zeldin''s plan to cut EPA by 65% while eliminating scientific research represents most aggressive environmental deregulation in agency history. His $186,000 in undisclosed paid op-eds defending polluters like JBS (major deforestation contributor) shows pattern of corporate advocacy. Terminating $20 billion in climate grants without evidence of fraud demonstrates arbitrary use of power. Eliminating scientific research arm ensures future policy decisions lack empirical basis, enabling unlimited pollution.'
 connections:
 - 2025-07-29--epa-endangerment-finding-rescission
 - 2025-08-08--epa-terminates-union-contracts
@@ -44,5 +47,4 @@ patterns:
 - regulatory-dismantling
 - climate-denial
 ---
-
 EPA Administrator Lee Zeldin announced plans to cut EPA workforce by approximately 23% and reduce the agency's budget by 65%, representing the most aggressive environmental deregulation in agency history. The cuts would return EPA staffing to Reagan-era levels, eliminating scientific research capacity and terminating $20 billion in climate grants.

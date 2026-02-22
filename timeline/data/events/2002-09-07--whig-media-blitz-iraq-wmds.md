@@ -9,25 +9,30 @@ sources:
   title: 'Iraq: The Media War Plan'
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB219/index.htm
   date: '2019-03-22'
+  tier: 1
 - outlet: National Security Archive, George Washington University
   title: 'THE IRAQ WAR -- PART III: Shaping the Debate'
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB330/index.htm
   date: '2019-03-22'
+  tier: 1
 - outlet: ProPublica
   title: 'Senate Intel Report: Administration Dishonest in Lead-up to Iraq War'
   url: https://www.propublica.org/article/senate-intelligence-report-bush-administration-dishonest-about-iraq-threat
   date_accessed: '2025-10-17'
   description: Detailed report on systemic misinformation campaign preceding the Iraq War
+  tier: 1
 - outlet: ProPublica
   title: Official History Spotlights Iraq Rebuilding Blunders
   url: https://www.propublica.org/article/hard-lessons-from-the-reconstruction-of-iraq-1213
   date_accessed: '2025-10-17'
   description: Official history revealing the systematic manipulation of public perception about the Iraq War
+  tier: 1
 - outlet: U.S. Congressional Record
   title: Documented Evidence of WHIG Media Coordination (November 10, 2005)
   url: https://www.govinfo.gov/content/pkg/CREC-2005-11-10/html/CREC-2005-11-10-pt1-PgS12636.htm
   date: '2005-11-10'
   description: Official Congressional documentation revealing the coordinated media campaign about Iraq WMDs in September 2002
+  tier: 1
 tags:
 - whig
 - iraq-war

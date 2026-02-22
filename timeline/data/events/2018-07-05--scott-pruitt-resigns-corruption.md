@@ -23,14 +23,17 @@ sources:
   url: https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-resignation.html
   outlet: The New York Times
   date: '2018-07-05'
+  tier: 1
 - title: Scott Pruitt resigns as EPA administrator
   url: https://www.cnn.com/2018/07/05/politics/scott-pruitt-epa-resigns/index.html
   outlet: CNN
   date: '2018-07-05'
+  tier: 1
 - title: All of Scott Pruitt's Scandals, Explained
   url: https://www.theatlantic.com/politics/archive/2018/07/scott-pruitt-resigns/564529/
   outlet: The Atlantic
   date: '2018-07-05'
+  tier: 2
 notes: "Pruitt's tenure represented the most extreme case of regulatory capture - an oil \nindustry ally dismantling environmental protections from within. He met almost \nexclusively with industry representatives, rolled back dozens of regulations, and \ndeleted climate change references from EPA materials. His replacement, Andrew Wheeler, \nwas a former coal lobbyist, continuing the pattern of industry insiders running \nagencies meant to regulate those industries. Trump praised Pruitt even as he resigned.\n"
 related_events:
 - 2017-03-31--tom-price-resigns-private-jet-scandal

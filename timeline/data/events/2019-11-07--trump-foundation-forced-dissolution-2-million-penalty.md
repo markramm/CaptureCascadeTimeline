@@ -22,10 +22,12 @@ sources:
   url: https://ag.ny.gov/press-release/2019/ag-james-secures-court-order-against-donald-j-trump-trump-children-and-trump
   outlet: New York Attorney General
   date: '2019-11-07'
+  tier: 1
 - title: Trump ordered to pay $2 million to settle suit claiming Trump Foundation misused funds
   url: https://www.cnbc.com/2019/11/07/trump-ordered-to-pay-2-million-to-settle-trump-foundation-suit.html
   outlet: CNBC
   date: '2019-11-07'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

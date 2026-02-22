@@ -21,14 +21,17 @@ sources:
   outlet: Fox News
   date: '2025-06-05'
   url: https://www.foxnews.com/politics/musk-trump-epstein-files-claim-deleted
+  tier: 2
 - title: Musk's explosive Epstein allegation rocks Trump administration
   outlet: CNN
   date: '2025-06-05'
   url: https://www.cnn.com/2025/06/05/politics/musk-trump-epstein-allegation/index.html
+  tier: 1
 - title: Musk-Trump feud escalates with Epstein files bombshell
   outlet: Politico
   date: '2025-06-06'
   url: https://www.politico.com/news/2025/06/06/musk-trump-epstein-files-feud
+  tier: 1
 notes: This explosive claim split the MAGA movement and prompted congressional action.
 ---
 

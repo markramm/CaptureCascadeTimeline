@@ -20,14 +20,17 @@ sources:
   title: How Robinhood Nearly Defaulted During GameStop Trading
   outlet: Quartz
   date: '2021-02-05'
+  tier: 2
 - url: https://www.bloomberg.com/news/articles/2021-01-29/what-s-the-dtcc-and-how-did-it-stop-gamestop-mania-quicktake
   title: DTCC's Role in GameStop Trading Pause
   outlet: Bloomberg
   date: '2021-01-29'
+  tier: 1
 - url: https://www.financemagnates.com/forex/robinhood-faced-deeper-liquidity-woes-following-gamestops-rally/
   title: Robinhood Faced Deeper Liquidity Woes Following GameStop's Rally
   outlet: Finance Magnates
   date: '2021-02-05'
+  tier: 2
 capture_lanes:
 - Financial Capture
 - Regulatory Capture

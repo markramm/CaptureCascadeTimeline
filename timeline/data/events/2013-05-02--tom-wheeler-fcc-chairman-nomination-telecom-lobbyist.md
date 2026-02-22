@@ -22,18 +22,22 @@ sources:
   url: https://business.time.com/2013/05/02/tom-wheeler-former-lobbyist-and-obama-fundraiser-tapped-to-lead-fcc/
   outlet: TIME
   date: '2013-05-02'
+  tier: 1
 - title: New FCC chairman is "former lobbyist for cable and wireless industries"
   url: https://arstechnica.netblogpro.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/
   outlet: Ars Technica
   date: '2013-04-30'
+  tier: 2
 - title: Obama Names Former Lobbyist Wheeler U.S. FCC Chairman
   url: https://mediagazer.com/130501/p30
   outlet: Mediagazer/Bloomberg
   date: '2013-05-01'
+  tier: 2
 - title: Net Neutrality Debate Forces FCC Chairman Into The Spotlight
   url: https://www.npr.org/2015/01/01/374417492/net-neutrality-debate-forces-fcc-chairman-into-the-spotlight
   outlet: NPR
   date: '2015-01-01'
+  tier: 1
 id: 2013-05-02--tom-wheeler-fcc-chairman-nomination-telecom-lobbyist
 capture_lanes:
 - Intelligence Penetration

@@ -12,12 +12,15 @@ sources:
 - title: How Trump's first administration threatened press freedom at the border
   url: https://www.rcfp.org/trump-press-freedom-border/
   outlet: Reporters Committee for Freedom of the Press
+  tier: 2
 - title: CPJ issues safety advisory for journalists traveling to the United States
   url: https://cpj.org/2025/04/cpj-issues-safety-advisory-for-journalists-traveling-to-the-united-states/
   outlet: Committee to Protect Journalists
+  tier: 1
 - title: 'A Journalist Security Checklist: Preparing Devices for Travel Through a US Border'
   url: https://www.eff.org/deeplinks/2025/06/journalist-security-checklist-preparing-devices-travel-through-us-border
   outlet: Electronic Frontier Foundation
+  tier: 1
 importance: 8
 tags:
 - cbp-surveillance

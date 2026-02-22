@@ -18,26 +18,31 @@ tags:
 - ethics-crisis
 sources:
 - title: Senate committee votes to subpoena Harlan Crow
-  url: https://www.foxnews.com/politics/senate-committee-votes-subpoena-harlan-crow-leonard-leo-supreme-court-ethics-investigation
+  url: 'https://www.foxnews.com/politics/senate-committee-votes-subpoena-harlan-crow-leonard-leo-supreme-court-ethics-investigation'
   outlet: Fox News
   date: '2023-11-09'
-  archive_url: https://web.archive.org/web/20231109000000/https://www.foxnews.com/politics/senate-committee-votes-subpoena-harlan-crow-leonard-leo-supreme-court-ethics-investigation
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20231109000000/https://www.foxnews.com/politics/senate-committee-votes-subpoena-harlan-crow-leonard-leo-supreme-court-ethics-investigation'
 - title: Senate Judiciary Subpoenas Billionaire Harlan Crow in Supreme Court Ethics Probe
-  url: https://www.propublica.org/article/senate-judiciary-subpoenas-billionaire-harlan-crow-supreme-court-ethics-probe
+  url: 'https://www.propublica.org/article/senate-judiciary-subpoenas-billionaire-harlan-crow-supreme-court-ethics-probe'
   outlet: ProPublica
   date: '2023-11-09'
+  tier: 1
 - title: Senate committee votes to subpoena Harlan Crow and Leonard Leo
-  url: https://www.cnn.com/2023/11/09/politics/senate-committee-subpoenas-harlan-crow-leonard-leo/index.html
+  url: 'https://www.cnn.com/2023/11/09/politics/senate-committee-subpoenas-harlan-crow-leonard-leo/index.html'
   outlet: CNN
   date: '2023-11-09'
+  tier: 1
 - title: Senate Democrats vote to subpoena Harlan Crow
-  url: https://www.axios.com/2023/11/09/senate-democrats-subpoena-harlan-crow-leonard-leo
+  url: 'https://www.axios.com/2023/11/09/senate-democrats-subpoena-harlan-crow-leonard-leo'
   outlet: Axios
   date: '2023-11-09'
+  tier: 2
 - title: Senate Committee Votes to Subpoena Billionaire Harlan Crow
-  url: https://www.texastribune.org/2023/11/09/harlan-crow-subpoena-senate/
+  url: 'https://www.texastribune.org/2023/11/09/harlan-crow-subpoena-senate/'
   outlet: Texas Tribune
   date: '2023-11-09'
+  tier: 1
 notes: Crow initially refused voluntary compliance. Committee seeking full accounting of decades of gifts. Part of broader investigation into Supreme Court ethics crisis. Also subpoenaed Leonard Leo of Federalist Society.
 status: confirmed
 capture_lanes:

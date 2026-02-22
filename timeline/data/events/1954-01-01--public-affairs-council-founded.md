@@ -40,16 +40,19 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: AEI Guards Free Enterprise
   url: https://www.philanthropyroundtable.org/almanac/aei-guards-free-enterprise/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: American Enterprise Institute - SourceWatch
   url: https://www.sourcewatch.org/index.php/American_Enterprise_Institute
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Union Membership in the United States Spotlight
   url: https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm
   outlet: Bureau of Labor Statistics

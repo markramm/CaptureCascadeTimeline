@@ -2,10 +2,10 @@
 id: 2025-05-22--the-father-pursues-trump-s-diplomatic-deals-the-son-chases-c
 date: '2025-05-22'
 title: 'Witkoff & Trump: Crypto Deal Blends Diplomatic Access with Financial Venture'
-description: World Liberty Financial launches USD1 stablecoin, securing $2 billion UAE investment deal with MGX and Binance, demonstrating complex interconnections between diplomatic roles, family business, and crypto infrastructure, with ongoing congressional investigation
+description: 'World Liberty Financial launches USD1 stablecoin, securing $2 billion UAE investment deal with MGX and Binance, demonstrating complex interconnections between diplomatic roles, family business, and crypto infrastructure, with ongoing congressional investigation'
 status: confirmed
 importance: 9
-location: Washington, D.C., United Arab Emirates
+location: 'Washington, D.C., United Arab Emirates'
 actors:
 - Donald Trump
 - Eric Trump
@@ -26,16 +26,19 @@ capture_type: monetizing_position
 sources:
 - date: '2025-05-05'
   outlet: United States Senate Banking Committee
-  title: Warren, Merkley Seek World Liberty Financial Records on $2 Billion Trump Stablecoin Deal
-  url: https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance
+  title: 'Warren, Merkley Seek World Liberty Financial Records on $2 Billion Trump Stablecoin Deal'
+  url: 'https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance'
+  tier: 1
 - date: '2025-05-22'
   outlet: ABC News
   title: Trump family crypto venture tapped as part of $2B Emirati-backed investment deal
-  url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
+  url: 'https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842'
+  tier: 1
 - date: '2025-05-15'
   outlet: Bloomberg
-  title: Senators Seek Records on Trump-Linked Firm's Stablecoin Venture
-  url: https://www.bloomberg.com/news/articles/2025-05-15/senators-seek-records-on-trump-linked-firm-s-stablecoin-venture
+  title: 'Senators Seek Records on Trump-Linked Firm''s Stablecoin Venture'
+  url: 'https://www.bloomberg.com/news/articles/2025-05-15/senators-seek-records-on-trump-linked-firm-s-stablecoin-venture'
+  tier: 1
 connections:
 - Trump Administration UAE Diplomatic Networks
 - Crypto Infrastructure Political Connections
@@ -44,11 +47,10 @@ patterns:
 - kleptocratic-capture
 - foreign-investment-networks
 - conflict-of-interest
-notes: Unprecedented involvement of a sitting president's family in a foreign-backed crypto financial venture, raising serious constitutional and ethical concerns
+notes: 'Unprecedented involvement of a sitting president''s family in a foreign-backed crypto financial venture, raising serious constitutional and ethical concerns'
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 World Liberty Financial, co-founded by Zach Witkoff, launched USD1 stablecoin and secured a $2 billion investment from MGX, an Abu Dhabi state-backed firm, utilizing diplomatic connections of Steve Witkoff and the Trump family. The deal raised significant ethical concerns, with U.S. Senators Warren and Merkley initiating a congressional investigation into potential conflicts of interest and constitutional violations.

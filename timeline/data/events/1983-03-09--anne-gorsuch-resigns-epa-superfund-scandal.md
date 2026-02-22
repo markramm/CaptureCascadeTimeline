@@ -23,22 +23,26 @@ sources:
   url: https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: 'Contempt: How Reagan EPA head became first cabinet-level official cited for contempt of Congress'
   url: https://www.wesa.fm/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress
   outlet: WESA (NPR)
   date: '2022-09-16'
   verified: true
+  tier: 2
 - title: Anne Gorsuch Burford, 62, Dies; Reagan EPA Director
   url: http://www.washingtonpost.com/wp-dyn/articles/A3418-2004Jul21.html
   outlet: The Washington Post
   date: '2004-07-22'
   verified: true
+  tier: 1
 - title: How Reagan EPA Chief Paved the Way for Trump Assault on Agency
   url: https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency
   outlet: The New Republic
   date: '2017-02-14'
   verified: true
+  tier: 2
 capture_lanes:
 - Legislative Capture
 - Environmental Capture

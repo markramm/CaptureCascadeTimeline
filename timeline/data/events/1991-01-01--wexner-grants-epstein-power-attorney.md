@@ -23,14 +23,17 @@ sources:
   url: https://www.businessinsider.com/victorias-secret-wexner-gave-power-of-attorney-to-epstein-report-2019-7
   outlet: Business Insider
   date: '2019-07-26'
+  tier: 2
 - title: Leslie Wexner Says Jeffrey Epstein Misappropriated At Least $46 Million
   url: https://www.forbes.com/sites/rachelsandler/2019/08/07/leslie-wexner-says-jeffery-epstein-misappropriated-at-least-46-million-from-him/
   outlet: Forbes
   date: '2019-08-07'
+  tier: 1
 - title: Letter from Les
   url: https://www.wexnerfoundation.org/letter-from-les/
   outlet: Wexner Foundation
   date: '2019-08-08'
+  tier: 2
 notes: Where possible, cite sources that reproduce or directly quote the POA document and Wexner's 2019 letter. Avoid speculative numbers beyond those Wexner acknowledged publicly.
 status: confirmed
 ---

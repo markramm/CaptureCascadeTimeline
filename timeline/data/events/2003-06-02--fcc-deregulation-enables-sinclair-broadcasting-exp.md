@@ -21,14 +21,17 @@ sources:
   url: https://www.nytimes.com/2003/06/03/business/fcc-votes-to-relax-rules-limiting-media-ownership.html
   outlet: The New York Times
   date: '2003-06-03'
+  tier: 1
 - title: Sinclair Broadcast Group and Tribune Media Merger Review
   url: https://www.fcc.gov/transaction/sinclair-tribune
   outlet: Federal Communications Commission
   date: '2017-05-08'
+  tier: 1
 - title: Media Ownership Rules
   url: https://www.fcc.gov/media/radio/media-ownership-rules
   outlet: Federal Communications Commission
   date: '2003-06-02'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

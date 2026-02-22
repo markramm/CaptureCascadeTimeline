@@ -2,8 +2,8 @@
 id: 2022-06-24--sweet-cardona-settlement-6-billion-debt-relief
 date: '2022-06-24'
 importance: 10
-title: Sweet v. Cardona Settlement Approves $6 Billion in Automatic Debt Cancellation for 200,000 Students Defrauded by For-Profit Colleges, Ending Years of Trump-Era Delays
-location: San Francisco, California
+title: 'Sweet v. Cardona Settlement Approves $6 Billion in Automatic Debt Cancellation for 200,000 Students Defrauded by For-Profit Colleges, Ending Years of Trump-Era Delays'
+location: 'San Francisco, California'
 actors:
 - U.S. District Court for Northern California
 - U.S. Department of Education
@@ -21,46 +21,49 @@ tags:
 capture_lanes:
 - Financial Capture
 sources:
-- title: Here's a list of the colleges in the Sweet v. Cardona settlement agreement
-  url: https://www.highereddive.com/news/heres-a-list-of-the-colleges-in-the-sweet-v-cardona-settlement-agreement/629283/
+- title: 'Here''s a list of the colleges in the Sweet v. Cardona settlement agreement'
+  url: 'https://www.highereddive.com/news/heres-a-list-of-the-colleges-in-the-sweet-v-cardona-settlement-agreement/629283/'
   outlet: Higher Ed Dive
   date: '2022-08-04'
   tier: 2
 - title: Judge approves Sweet v. Cardona student debt relief settlement
-  url: https://www.highereddive.com/news/judge-approves-sweet-v-cardona-student-debt-relief-settlement-appeal-likely/636844/
+  url: 'https://www.highereddive.com/news/judge-approves-sweet-v-cardona-student-debt-relief-settlement-appeal-likely/636844/'
   outlet: Higher Ed Dive
   date: '2022-11-16'
   tier: 2
 - title: 'Student Borrowers: What to Know About Sweet v. Cardona'
-  url: https://www.cssny.org/news/entry/Sweet-v-Cardona-student-debt-class-action-lawsuit-settlement
+  url: 'https://www.cssny.org/news/entry/Sweet-v-Cardona-student-debt-class-action-lawsuit-settlement'
   outlet: Community Service Society of New York
   date: '2023-01-10'
   tier: 2
-- title: Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)
-  url: https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf
+- title: 'Dobbs v. Jackson Women''s Health Organization, 597 U.S. ___ (2022)'
+  url: 'https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf'
   outlet: Supreme Court
   date: '2022-06-24'
-- title: Dobbs v. Jackson Women's Health Organization
-  url: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/
+  tier: 1
+- title: 'Dobbs v. Jackson Women''s Health Organization'
+  url: 'https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/'
   outlet: SCOTUSblog
+  tier: 1
   date_accessed: '2025-12-23'
-- title: Dobbs v. Jackson Women's Health Organization
-  url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/dobbs-v-jackson-womens-health-organization
+- title: 'Dobbs v. Jackson Women''s Health Organization'
+  url: 'https://constitutioncenter.org/the-constitution/supreme-court-case-library/dobbs-v-jackson-womens-health-organization'
   outlet: Constitution Center
   date_accessed: '2025-12-23'
-- title: Explaining SCOTUS's Abortion Decision in Dobbs v. Jackson Women's Health Organization
-  url: https://www.lwv.org/blog/explaining-scotuss-abortion-decision-dobbs-v-jackson-womens-health-organization
+  tier: 2
+- title: 'Explaining SCOTUS''s Abortion Decision in Dobbs v. Jackson Women''s Health Organization'
+  url: 'https://www.lwv.org/blog/explaining-scotuss-abortion-decision-dobbs-v-jackson-womens-health-organization'
   outlet: League of Women Voters
   date: '2022-06-24'
-- title: Dobbs v. Jackson Women's Health Organization
-  url: https://fedsoc.org/case/dobbs-v-jackson-womens-health-organization
+  tier: 2
+- title: 'Dobbs v. Jackson Women''s Health Organization'
+  url: 'https://fedsoc.org/case/dobbs-v-jackson-womens-health-organization'
   outlet: Federalist Society
   date_accessed: '2025-12-23'
-notes: Settlement covered 200,000 borrowers who attended 151 for-profit colleges including ITT Tech, Corinthian, Art Institutes, Everest, Heald, WyoTech, and many others. Lawsuit originally filed as Sweet v. DeVos in 2019 challenging Trump admin blocking of borrower defense claims. Biden admin agreed to settlement providing automatic discharge rather than individual application review. Federal judge approved November 2022. Three for-profit colleges (Lincoln Educational Services, American National University, Everglades College) intervened to challenge but appeals court rejected challenge. Total relief approximately $6 billion.
+  tier: 2
+notes: 'Settlement covered 200,000 borrowers who attended 151 for-profit colleges including ITT Tech, Corinthian, Art Institutes, Everest, Heald, WyoTech, and many others. Lawsuit originally filed as Sweet v. DeVos in 2019 challenging Trump admin blocking of borrower defense claims. Biden admin agreed to settlement providing automatic discharge rather than individual application review. Federal judge approved November 2022. Three for-profit colleges (Lincoln Educational Services, American National University, Everglades College) intervened to challenge but appeals court rejected challenge. Total relief approximately $6 billion.'
 status: confirmed
 ---
-
-
 On June 24, 2022, the U.S. Department of Education under Secretary Miguel Cardona reached a landmark settlement in the class action lawsuit Sweet v. Cardona (originally filed as Sweet v. DeVos), agreeing to automatically cancel approximately $6 billion in federal student loans for roughly 200,000 borrowers who had attended any of 151 predatory for-profit colleges and who had filed borrower defense to repayment applications that the Trump Administration under Secretary Betsy DeVos had blocked, delayed, or arbitrarily denied between 2017 and 2021. The settlement, preliminarily approved by U.S. District Judge William Alsup in June 2022 and granted final approval in November 2022, ended years of systematic obstruction of fraud relief during the Trump Administration and established that when schools engage in widespread fraud, affected students are entitled to automatic full loan discharge rather than years-long individual application reviews that DeVos had used to deny or delay relief. The settlement covered students from collapsed for-profit chains including Corinthian Colleges, ITT Technical Institute, and the Art Institutes, as well as students from dozens of other for-profit schools where systematic fraud had been documented, providing the largest class-based student debt cancellation in U.S. history at that time and vindicating years of advocacy by the Debt Collective, Project on Predatory Student Lending, and defrauded student borrowers who had organized to demand relief.
 
 The lawsuit was originally filed in 2019 as Sweet v. DeVos by a class of student borrowers represented by the Project on Predatory Student Lending at Harvard Law School. The plaintiffs challenged the Trump Administration's systematic refusal to process borrower defense to repayment applications, its arbitrary denials of relief even when fraud was documented, and its illegal rewriting of borrower defense regulations to make relief nearly impossible to obtain. Under the borrower defense to repayment provision of the Higher Education Act, students who were defrauded by their schools are entitled to have their federal student loans cancelled, since the loans were obtained based on the schools' fraudulent misrepresentations and students did not receive the education they were promised and paid for. The Obama Administration had developed regulations in 2016 to implement borrower defense relief systematically, particularly after the Corinthian Colleges collapse created more than 100,000 borrower defense applications from defrauded students.

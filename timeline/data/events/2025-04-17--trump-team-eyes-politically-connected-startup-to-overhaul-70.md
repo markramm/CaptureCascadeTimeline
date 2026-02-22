@@ -21,10 +21,13 @@ actors:
 sources:
 - title: propublica.org
   url: https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system
+  tier: 1
 - title: techcrunch.com
   url: https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/
+  tier: 2
 - title: bankingdive.com
   url: https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -21,14 +21,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-03-06/trump-s-crypto-project-appears-to-buy-tokens-before-white-house-summit
   outlet: Bloomberg
   date: '2025-03-06'
+  tier: 1
 - title: President Trump's World Liberty Financial Crypto Holdings Cross $388,332,996 Amid New Ethereum Purchases
   url: https://dailyhodl.com/2025/01/26/president-trumps-world-liberty-financial-crypto-holdings-cross-388332996-amid-new-ethereum-purchases-arkham/
   outlet: The Daily Hodl
   date: '2025-01-26'
+  tier: 2
 - title: World Liberty Financial, tied to Trump, grows ETH holdings to $275 million
   url: https://americanbazaaronline.com/2025/07/23/world-liberty-financial-tied-to-trump-grows-eth-holdings-to-275-million-465423/
   outlet: American Bazaar Online
   date: '2025-07-23'
+  tier: 2
 connections:
 - type: business_investment
   description: Strategic cryptocurrency purchases during market volatility

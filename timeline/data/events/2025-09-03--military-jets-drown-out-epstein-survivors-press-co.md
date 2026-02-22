@@ -19,14 +19,17 @@ sources:
   url: https://www.thedailybeast.com/trump-drowns-out-emotional-epstein-victims-rally-with-noisy-flyover/
   outlet: The Daily Beast
   date: '2025-09-03'
+  tier: 2
 - title: Military jets fly over Epstein survivors press conference
   url: https://www.cnn.com/2025/09/03/politics/military-flyover-epstein-survivors
   outlet: CNN
   date: '2025-09-03'
+  tier: 1
 - title: Air Force conducts flyover during Epstein victims Capitol event
   url: https://www.npr.org/2025/09/03/military-jets-epstein-survivors-capitol
   outlet: NPR
   date: '2025-09-03'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

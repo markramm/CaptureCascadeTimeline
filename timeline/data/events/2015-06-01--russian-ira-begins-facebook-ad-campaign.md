@@ -19,14 +19,17 @@ sources:
   url: https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf
   outlet: U.S. Senate Select Committee on Intelligence
   date: '2019-10-08'
+  tier: 1
 - title: Hard Questions—Russian Ads Delivered to Congress
   url: https://about.fb.com/news/2017/10/hard-questions-russian-ads-delivered-to-congress/
   outlet: Meta (Facebook) Newsroom
   date: '2017-10-02'
+  tier: 2
 - title: Facebook says likely Russian-based operation funded U.S. ads
   url: https://www.reuters.com/article/technology/facebook-says-likely-russian-based-operation-funded-us-ads-with-political-mess-idUSKCN1BH2VX/
   outlet: Reuters
   date: '2017-09-06'
+  tier: 1
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration

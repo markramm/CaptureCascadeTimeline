@@ -2,8 +2,8 @@
 id: 2025-12-04--appeals-court-halts-removal-national-guard-washington-dc
 date: '2025-12-04'
 importance: 8
-title: Appeals Court Halts Removal of National Guard from Washington DC, Preserving Militarized Presence in Capital
-location: Washington, DC
+title: 'Appeals Court Halts Removal of National Guard from Washington DC, Preserving Militarized Presence in Capital'
+location: 'Washington, DC'
 actors:
 - U.S. Court of Appeals for the District of Columbia Circuit
 - Donald Trump
@@ -26,39 +26,44 @@ capture_lanes:
 - Democratic Erosion
 sources:
 - title: Court Decision Calling for End to National Guard Deployment in DC Paused by Appeals Court
-  url: https://www.military.com/daily-news/2025/12/05/court-decision-calling-end-national-guard-deployment-dc-paused-appeals-court.html
+  url: 'https://www.military.com/daily-news/2025/12/05/court-decision-calling-end-national-guard-deployment-dc-paused-appeals-court.html'
   outlet: Military.com
   date: '2025-12-05'
+  tier: 2
   archive_url: null
 - title: Appeals court temporarily lets DC deployment of National Guard continue
-  url: https://thehill.com/regulation/court-battles/5634347-appeals-court-dc-deployment-national-guard/
+  url: 'https://thehill.com/regulation/court-battles/5634347-appeals-court-dc-deployment-national-guard/'
   outlet: The Hill
   date: '2025-12-04'
   archive_url: null
-- title: Trump can keep National Guard in Washington, DC, for now, Appeals court rules
-  url: https://www.aljazeera.com/news/2025/12/5/trump-can-keep-national-guard-in-washington-dc-for-now-appeals-court
+  tier: 2
+- title: 'Trump can keep National Guard in Washington, DC, for now, Appeals court rules'
+  url: 'https://www.aljazeera.com/news/2025/12/5/trump-can-keep-national-guard-in-washington-dc-for-now-appeals-court'
   outlet: Al Jazeera
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: Appeals court lets Trump administration keep National Guard deployed in D.C. for now
-  url: https://www.cbsnews.com/news/court-decision-calling-for-end-to-national-guard-deployment-in-dc-paused-by-appeals-court/
+  url: 'https://www.cbsnews.com/news/court-decision-calling-for-end-to-national-guard-deployment-in-dc-paused-by-appeals-court/'
   outlet: CBS News
   date: '2025-12-04'
   archive_url: null
-- title: Judge orders an end to Trump's troop deployment in D.C., calling it 'unlawful'
-  url: https://www.npr.org/2025/11/20/nx-s1-5615399/dc-troops-deployment-blocked-trump
+  tier: 1
+- title: 'Judge orders an end to Trump''s troop deployment in D.C., calling it ''unlawful'''
+  url: 'https://www.npr.org/2025/11/20/nx-s1-5615399/dc-troops-deployment-blocked-trump'
   outlet: NPR
   date: '2025-11-20'
   archive_url: null
+  tier: 1
 - title: Court rules National Guard may remain in D.C. for now
-  url: https://www.upi.com/Top_News/US/2025/12/05/appeals-court-DC-National-Guard-Troops/3141764920350
+  url: 'https://www.upi.com/Top_News/US/2025/12/05/appeals-court-DC-National-Guard-Troops/3141764920350'
   outlet: UPI
   date: '2025-12-05'
   archive_url: null
-notes: Federal appeals court panel temporarily lifted District Judge Jia Cobb's order blocking Trump's deployment of National Guard troops to Washington D.C. Three judges on D.C. Circuit Court of Appeals granted Trump administration's emergency stay request while they consider full appeal. Preserves deployment of over 2,300 National Guard troops from eight states operating under Army Secretary command. Lower court had ruled November 20 that deployment illegally intrudes on local law enforcement authority. Appeals court stressed stay should not be construed as merits ruling.
+  tier: 2
+notes: 'Federal appeals court panel temporarily lifted District Judge Jia Cobb''s order blocking Trump''s deployment of National Guard troops to Washington D.C. Three judges on D.C. Circuit Court of Appeals granted Trump administration''s emergency stay request while they consider full appeal. Preserves deployment of over 2,300 National Guard troops from eight states operating under Army Secretary command. Lower court had ruled November 20 that deployment illegally intrudes on local law enforcement authority. Appeals court stressed stay should not be construed as merits ruling.'
 status: confirmed
 ---
-
 A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit issued an administrative stay on December 4, 2025, temporarily halting enforcement of a lower court order that would have ended President Trump's controversial deployment of thousands of National Guard troops to Washington, D.C. The appeals court decision allows the militarized presence in the nation's capital to continue indefinitely while the Trump administration appeals District Judge Jia Cobb's November 20 ruling that found the deployment "unlawful" and an illegal intrusion on local officials' authority to direct law enforcement in the district. The stay preserves a military occupation of Washington involving more than 2,300 National Guard troops from eight states operating under federal military command, representing an unprecedented peacetime militarization of the capital that raises profound concerns about martial law, executive overreach, and the erosion of civilian control over domestic policing.
 
 The appeals court's order stated that "the purpose of this administrative stay is to give the court sufficient opportunity to consider the motion for stay pending appeal," and emphasized that the decision "should not be construed in any way as a ruling on the merits." However, the practical effect is clear: the stay extends the military deployment indefinitely beyond Judge Cobb's initial 21-day pause, ensuring thousands of troops will remain patrolling Washington's streets while complex constitutional litigation proceeds through the appeals process—a timeline that could extend for months or even years, effectively making the supposedly temporary deployment a permanent militarized presence in the capital.

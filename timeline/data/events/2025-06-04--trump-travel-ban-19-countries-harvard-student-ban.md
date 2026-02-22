@@ -27,10 +27,12 @@ sources:
   url: https://www.fdd.org/analysis/2025/07/03/trump-administration-foreign-policy-tracker-july/
   outlet: Foundation for Defense of Democracies
   date: '2025-07-03'
+  tier: 2
 - title: Executive and Regulatory Actions Under the Second Trump Administration
   url: https://www.nafsa.org/executive-and-regulatory-actions-trump2admin
   outlet: NAFSA
   date: '2025-06-04'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Executive Power Expansion

@@ -22,14 +22,17 @@ sources:
   url: https://www.gpb.org/news/2021/03/25/kemp-signs-98-page-omnibus-elections-bill
   outlet: Georgia Public Broadcasting
   date: 2021-03-25
+  tier: 1
 - title: Georgia Governor Signs Election Overhaul, Including Changes To Absentee Voting
   url: https://www.npr.org/2021/03/25/981357583/georgia-legislature-approves-election-overhaul-including-changes-to-absentee-vot
   outlet: NPR
   date: 2021-03-25
+  tier: 1
 - title: What Does Georgia's New Voting Law SB 202 Do?
   url: https://www.gpb.org/news/2021/03/27/what-does-georgias-new-voting-law-sb-202-do
   outlet: Georgia Public Broadcasting
   date: 2021-03-27
+  tier: 1
 capture_lanes:
 - Democratic Erosion
 - Electoral Manipulation

@@ -29,14 +29,17 @@ sources:
   outlet: NBC News
   date: '2025-07-16'
   url: https://www.nbcnews.com/politics/donald-trump/trump-epstein-hoax-truth-social-supporters
+  tier: 1
 - title: Trump's Truth Social post alienates base over Epstein files reversal
   outlet: The Daily Beast
   date: '2025-07-16'
   url: https://www.thedailybeast.com/trump-truth-social-epstein-hoax-attacks-supporters
+  tier: 2
 - title: Trump dismisses Epstein transparency demands as 'Jeffrey Epstein Hoax'
   outlet: Axios
   date: '2025-07-17'
   url: https://www.axios.com/2025/07/17/trump-epstein-hoax-truth-social-base
+  tier: 2
 status: confirmed
 capture_lanes:
 - Federal Workforce Capture

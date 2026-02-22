@@ -22,14 +22,17 @@ sources:
   outlet: The Washington Post
   date: '2019-07-31'
   url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
+  tier: 1
 - title: 'Exclusive: Newly discovered photos and video shed fresh light on Trump''s ties to Jeffrey Epstein'
   outlet: CNN Politics
   date: '2025-07-22'
   url: https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage
+  tier: 2
 - title: How well did Trump and Epstein really know each other? A timeline
   outlet: Al Jazeera
   date: '2025-07-18'
   url: https://www.aljazeera.com/news/2025/7/18/how-well-did-trump-and-epstein-really-know-each-other-a-timeline
+  tier: 1
 notes: 'The 2000 photo was taken at a charity fundraiser at Mar-a-Lago and shows the social connections within Trump''s Palm Beach circle during the height of the Trump-Epstein relationship. This was during the period when Trump famously told New York Magazine in 2002: "I''ve known Jeff for fifteen years. Terrific guy. He''s a lot of fun to be with." The photo documents the social proximity between all four individuals before the Trump-Epstein relationship ended around 2004.'
 ---
 

@@ -19,14 +19,17 @@ sources:
   outlet: Congress.gov
   url: https://www.congress.gov/bill/98th-congress/senate-bill/1538
   date: '1984-09-24'
+  tier: 1
 - title: 'Hatch-Waxman Act: A Quarter Century Later'
   outlet: Food and Drug Law Journal
   url: https://www.fdli.org/pubs/journal
   date: '2009-01-01'
+  tier: 2
 - title: How Big Pharma Uses Patent Tricks to Extend Profits
   outlet: Harvard Law Review
   url: https://harvardlawreview.org
   date: '2018-01-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture

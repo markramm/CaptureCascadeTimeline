@@ -24,14 +24,16 @@ capture_lanes:
 sources:
 - outlet: Supreme Court Official Records
   title: Supreme Court Docket Analysis
-  url: https://www.supremecourt.gov/docket/2025
+  url: 'https://www.supremecourt.gov/docket/2025'
+  tier: 1
 - outlet: PBS NewsHour
-  title: Lawsuit against Trump's Washington National Guard Deployment Exposes Country's Deep Partisan Divide
-  url: https://www.pbs.org/newshour/politics/lawsuit-against-trumps-washington-national-guard-deployment-exposes-countrys-deep-partisan-divide
+  title: 'Lawsuit against Trump''s Washington National Guard Deployment Exposes Country''s Deep Partisan Divide'
+  url: 'https://www.pbs.org/newshour/politics/lawsuit-against-trumps-washington-national-guard-deployment-exposes-countrys-deep-partisan-divide'
+  tier: 1
 - outlet: NPR
   title: 'Up First Newsletter: Oregon National Guard, Gaza, Supreme Court'
-  url: https://www.npr.org/2025/10/06/g-s1-92172/up-first-newsletter-oregon-national-guard-gaza-eygpt-supreme-court
+  url: 'https://www.npr.org/2025/10/06/g-s1-92172/up-first-newsletter-oregon-national-guard-gaza-eygpt-supreme-court'
+  tier: 1
 status: confirmed
 ---
-
 The Supreme Court heard critical arguments challenging President Trump's authority to unilaterally federalize state National Guard units during the 2025 constitutional crisis. At least 23 Republican-led states support the deployment, while 22 Democratic-led states oppose it. The case centers on fundamental constitutional questions about presidential emergency powers, state sovereignty, and the limits of executive authority during national emergencies. Key legal debates involve the Insurrection Act, Posse Comitatus Act, and Tenth Amendment interpretations.

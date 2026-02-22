@@ -21,18 +21,22 @@ sources:
   url: https://www.afge.org/news/omb-director-project-2025
   outlet: AFGE
   date: '2025-02-01'
+  tier: 2
 - title: Senate confirms Russell Vought, Project 2025 architect, to head OMB
   url: https://19thnews.org/2025/02/senate-confirms-russell-vought-project-2025-architect-omb/
   outlet: The 19th
   date: '2025-02-06'
+  tier: 2
 - title: Civil Rights Coalition Denounces Confirmation of Russell Vought as OMB Director
   url: https://civilrights.org/2025/02/06/civil-rights-coalition-denounces-confirmation-of-russell-vought-as-omb-director/
   outlet: The Leadership Conference on Civil and Human Rights
   date: '2025-02-06'
+  tier: 2
 - title: 'Russell Vought: The Project 2025 Architect and OMB Nominee Coming for Our Democracy'
   url: https://nwlc.org/russell-vought-the-project-2025-architect-and-omb-nominee-coming-for-our-democracy/
   outlet: National Women's Law Center
   date: '2025-01-29'
+  tier: 2
 notes: Project 2025 architect now in position to implement own blueprint
 status: confirmed
 ---

@@ -27,14 +27,17 @@ sources:
   url: https://www.msnbc.com/all-in/watch/trump-pardons-criminals-with-maga-ties-or-deep-pockets-240492613748
   outlet: MSNBC
   date: '2025-05-28'
+  tier: 2
 - title: 'No MAGA Left Behind: Trump''s Pardons Get Even More Political'
   url: https://www.cnn.com/2025/05/28/politics/analysis-trump-pardons-politics
   outlet: CNN
   date: '2025-05-28'
+  tier: 1
 - title: Trump's Flurry of Pardons Include Campaign Contributors
   url: https://abcnews.go.com/US/trumps-flurry-pardons-include-campaign-contributors/story?id=122313284
   outlet: ABC News
   date: '2025-05-28'
+  tier: 1
 connections:
 - Political loyalty as currency
 - Monetization of presidential power

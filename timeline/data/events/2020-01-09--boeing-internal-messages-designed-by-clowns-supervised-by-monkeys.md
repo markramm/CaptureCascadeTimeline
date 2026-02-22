@@ -1,7 +1,7 @@
 ---
 id: 2020-01-09--boeing-internal-messages-designed-by-clowns-supervised-by-monkeys
 date: '2020-01-09'
-title: Boeing Internal Messages Released - "Designed by Clowns, Supervised by Monkeys"
+title: 'Boeing Internal Messages Released - "Designed by Clowns, Supervised by Monkeys"'
 actors:
 - Boeing employees
 - Federal Aviation Administration
@@ -10,17 +10,20 @@ actors:
 - Senator Richard Blumenthal
 sources:
 - outlet: FlyerTalk
-  title: The Doomed Planes "Designed By Clowns Supervised by Monkeys"
-  url: https://www.flyertalk.com/articles/designed-by-clowns-supervised-by-monkeys.html
+  title: 'The Doomed Planes "Designed By Clowns Supervised by Monkeys"'
+  url: 'https://www.flyertalk.com/articles/designed-by-clowns-supervised-by-monkeys.html'
   date: '2020-01-09'
+  tier: 2
 - outlet: City A.M.
-  title: Boeing 737 Max 'Designed by Clowns Supervised by Monkeys', Internal Memos Say
-  url: https://www.cityam.com/boeing-737-max-designed-by-clowns-supervised-by-monkeys-internal-memos-say/
+  title: 'Boeing 737 Max ''Designed by Clowns Supervised by Monkeys'', Internal Memos Say'
+  url: 'https://www.cityam.com/boeing-737-max-designed-by-clowns-supervised-by-monkeys-internal-memos-say/'
   date: '2020-01-09'
+  tier: 2
 - outlet: Reuters
   title: Boeing Releases Embarrassing Internal Messages on 737 MAX
-  url: https://www.reuters.com/article/business/boeing-releases-embarrassing-internal-messages-on-737-max-idUSKBN1Z818R/
+  url: 'https://www.reuters.com/article/business/boeing-releases-embarrassing-internal-messages-on-737-max-idUSKBN1Z818R/'
   date: '2020-01-09'
+  tier: 1
 importance: 9
 tags:
 - boeing
@@ -35,7 +38,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-
 Boeing released hundreds of internal messages to Congressional investigators and the FAA on January 9, 2020, revealing that employees knew the 737 MAX was unsafe, mocked regulators, and conspired to deceive certification authorities. In one April 2017 exchange, just before the aircraft's first delivery, an employee wrote: "This airplane is designed by clowns who in turn are supervised by monkeys."
 
 The messages exposed systematic fraud and contempt for safety. Employees joked about possible flaws in the 737 MAX, discussed plans to resist FAA demands for tougher simulator training requirements (which would cost Boeing money), and celebrated successfully deceiving regulators. One 2018 message stated "I still haven't been forgiven by God for the covering up I did last year," indicating employees knew they were concealing safety problems. Another employee admitted in a 2016 message to "Jedi-mind tricking" regulators about MCAS capabilities.

@@ -27,18 +27,22 @@ sources:
   url: https://www.gao.gov/products/b-337203
   outlet: GAO
   date: '2025-08-05'
+  tier: 1
 - title: Trump illegally froze 1,800 NIH medical research grants, Congress' watchdog says
   url: https://www.govexec.com/oversight/2025/08/trump-illegally-froze-1800-nih-medical-research-grants-congress-watchdog-says/407296
   outlet: Government Executive
   date: '2025-08-05'
+  tier: 2
 - title: Trump administration violated impoundment law by canceling NIH grants, slowing new awards, GAO finds
   url: https://www.statnews.com/2025/08/05/gao-says-nih-cuts-violated-impoundment-control-act/
   outlet: STAT News
   date: '2025-08-05'
+  tier: 1
 - title: 'NIH broke law by withholding funding: GAO'
   url: https://thehill.com/homenews/5437295-nih-broke-law-by-withholding-funding-gao/
   outlet: The Hill
   date: '2025-08-05'
+  tier: 2
 capture_lanes:
 - Legislative Capture
 ---

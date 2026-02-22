@@ -12,15 +12,18 @@ sources:
 - title: 'Thomas Nast: The Rise and Fall of the Father of Political Cartoons'
   outlet: Illustration History
   url: https://www.illustrationhistory.org/essays/thomas-nast-the-rise-and-fall-of-the-father-of-political-cartoons
+  tier: 2
   year: 2024
 - title: The Political Cartoonist Who Helped Lead to Boss Tweed's Downfall
   outlet: History
   url: https://www.history.com/articles/thomas-nast-boss-tweed-cartoons
   year: 2024
+  tier: 1
 - title: Thomas Nast
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Thomas_Nast
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - media-resistance

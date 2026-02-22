@@ -17,17 +17,18 @@ sources:
 - date: '2025-07-12'
   outlet: NPR
   title: Layoffs at the Department of Justice are transforming its workforce
-  url: https://www.npr.org/2025/07/31/nx-s1-5484932/layoffs-at-the-department-of-justice-are-transforming-its-workforce
+  url: 'https://www.npr.org/2025/07/31/nx-s1-5484932/layoffs-at-the-department-of-justice-are-transforming-its-workforce'
+  tier: 1
 - date: '2025-07-12'
   outlet: ABC News
-  title: Attorney General Bondi fired at least 20 officials with ties to Jack Smith
-    investigation
-  url: https://abcnews.go.com/Politics/attorney-general-bondi-fired-20-officials-ties-jack/story?id=123707683
+  title: Attorney General Bondi fired at least 20 officials with ties to Jack Smith investigation
+  url: 'https://abcnews.go.com/Politics/attorney-general-bondi-fired-20-officials-ties-jack/story?id=123707683'
+  tier: 1
 - date: '2025-07-12'
   outlet: NPR
-  title: How Attorney General Pam Bondi has reshaped the Justice Department to suit
-    Trump
-  url: https://www.npr.org/2025/08/20/nx-s1-5507021/how-attorney-general-pam-bondi-has-reshaped-the-justice-department-to-suit-trump
+  title: How Attorney General Pam Bondi has reshaped the Justice Department to suit Trump
+  url: 'https://www.npr.org/2025/08/20/nx-s1-5507021/how-attorney-general-pam-bondi-has-reshaped-the-justice-department-to-suit-trump'
+  tier: 1
 status: confirmed
 tags:
 - pam-bondi
@@ -40,5 +41,4 @@ tags:
 - workforce-transformation
 title: Bondi Fires 20 Justice Department Employees Tied to Trump Prosecutions
 ---
-
 Attorney General Pam Bondi fired at least 20 Justice Department employees specifically linked to Jack Smith's investigations of Trump, including prosecutors, support staff, litigation assistants, and U.S. marshals. This action is part of a broader systematic purge of DOJ personnel involved in Trump-related prosecutions, demonstrating an unprecedented level of political interference in the Justice Department. The firings have created a chilling effect among career DOJ employees, with hundreds of workers leaving the department and entire investigative units being dismantled. The move appears designed to reshape the DOJ's workforce to align more closely with Trump's political interests, effectively weaponizing the department's hiring and firing practices.

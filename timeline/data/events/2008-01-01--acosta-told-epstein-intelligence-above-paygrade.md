@@ -21,18 +21,22 @@ sources:
   url: https://www.thedailybeast.com/jeffrey-epsteins-sick-story-played-out-for-years-in-plain-sight
   outlet: The Daily Beast
   date: '2019-07-09'
+  tier: 2
 - title: Investigation into the Non-Prosecution Agreement with Jeffrey Epstein (Report)
   url: https://www.justice.gov/opr/page/file/1336471/dl
   outlet: U.S. Department of Justice – OPR
   date: '2020-11-12'
+  tier: 1
 - title: 'Perversion of Justice: Jeffrey Epstein (topic hub)'
   url: https://www.miamiherald.com/topics/jeffrey-epstein
   outlet: Miami Herald
   date: '2018-11-28'
+  tier: 2
 - title: Jeffrey Epstein 'Belonged to Intelligence'? (analysis of the claim)
   url: https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/
   outlet: WhoWhatWhy
   date: '2019-10-04'
+  tier: 2
 notes: Treat this as a reported claim, not established fact. The quotation originates with Vicky Ward's Daily Beast reporting; it has been widely re-circulated but not officially corroborated. For context on the 2007 NPA and subsequent scrutiny of Acosta's decisions, see DOJ OPR's 2020 report and the Miami Herald's 'Perversion of Justice' series.
 status: reported
 capture_lanes:

@@ -19,12 +19,15 @@ sources:
 - title: TIME Magazine - Chronology of Enron Collapse
   date: '2002'
   url: https://content.time.com/time/specials/packages/article/0,28804,2021097_2023262_2023247,00.html
+  tier: 1
 - title: FBI Famous Cases - Enron Investigation
   date: '2023'
   url: https://www.fbi.gov/history/famous-cases/enron
+  tier: 1
 - title: 'NBC News: Enron Whistleblower Reveals Accounting Fraud'
   date: '2002'
   url: https://www.nbcnews.com/id/wbna11839694
+  tier: 1
 capture_lanes:
 - Corporate Capture
 - Systematic Corruption

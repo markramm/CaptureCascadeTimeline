@@ -13,12 +13,15 @@ sources:
 - title: McKinsey Global Institute Report
   url: https://www.mckinsey.com/featured-insights/asia-pacific/asian-crisis
   outlet: McKinsey Global Institute
+  tier: 2
 - title: 'Finance & Development: The Asian Crisis and the Changing Role of the IMF'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/fischer.htm
   outlet: International Monetary Fund
+  tier: 1
 - title: The Asian Financial Crisis of 1997-1998
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
   outlet: Federal Reserve History
+  tier: 1
 tags:
 - asian-financial-crisis
 - mckinsey

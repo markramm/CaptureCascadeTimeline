@@ -20,14 +20,17 @@ sources:
   url: https://www.npr.org/2025/02/04/nx-s1-5285333/why-elon-musk-is-driving-such-drastic-changes-in-the-federal-government
   outlet: NPR
   date: '2025-02-04'
+  tier: 1
 - title: Trump gives Musk unprecedented access to federal systems
   url: https://www.pbs.org/newshour/classroom/daily-news-lessons/2025/02/trump-gives-musk-unprecedented-access-to-federal-systems
   outlet: PBS NewsHour
   date: '2025-02-02'
+  tier: 1
 - title: Elon Musk tightens grip on gov't, sparking 'coup' accusations
   url: https://www.aljazeera.com/economy/2025/2/4/elon-musk-accused-of-coup-running-shadow-govt-as-doge-tightens-grip
   outlet: Al Jazeera
   date: '2025-02-04'
+  tier: 1
 connections:
 - Project 2025 implementation
 - Trump administration restructuring

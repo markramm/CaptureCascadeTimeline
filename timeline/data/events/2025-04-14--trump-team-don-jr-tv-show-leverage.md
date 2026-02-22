@@ -6,7 +6,7 @@ actors:
 - David Zaslav
 - Steven Cheung
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Executive Power Expansion
 - Regulatory Capture
 capture_type: media_coordination
@@ -17,7 +17,7 @@ date: '2025-04-14'
 description: Michael Wolff reports on an alleged attempt by the Trump team to negotiate a TV show for Donald Trump Jr. with Warner Bros. Discovery as a method of currying favor with the White House
 id: 2025-04-14--trump-team-don-jr-tv-show-leverage
 importance: 7
-location: Washington, D.C.
+location: 'Washington, D.C.'
 notes: Detailed account of media companies seeking to appease the Trump administration through strategic programming
 patterns:
 - kleptocratic-capture
@@ -26,22 +26,24 @@ sources:
 - date: '2025-04-14'
   outlet: Hollywood Reporter
   title: Michael Wolff suggests Trump team floated a Don Jr. outdoors show as a way for warners to curry favor with the White House
-  url: https://www.hollywoodreporter.com/tv/tv-news/donald-trump-jr-hunting-fishing-show-discovery-channel-1236190207/
+  url: 'https://www.hollywoodreporter.com/tv/tv-news/donald-trump-jr-hunting-fishing-show-discovery-channel-1236190207/'
+  tier: 2
 - date: '2025-04-14'
   outlet: New York Magazine
   title: Michael Wolff Profile on David Zaslav and Warner Bros. Discovery
-  url: https://nymag.com/article/michael-wolff-warner-bros-discovery-trump-media.html
+  url: 'https://nymag.com/article/michael-wolff-warner-bros-discovery-trump-media.html'
+  tier: 2
 - date: '2025-04-14'
   outlet: Yahoo News
   title: Team Trump Told Max Boss to Kiss Up by Giving Don Jr. a Show
-  url: https://news.yahoo.com/team-trump-told-max-boss-234037290.html
+  url: 'https://news.yahoo.com/team-trump-told-max-boss-234037290.html'
+  tier: 2
 status: confirmed
 tags:
 - kleptocracy
 - trump-administration
 - media-influence
 - corporate-appeasement
-title: Wolff Reports Trump Team's Media Leverage Attempt with Warner Bros. Discovery
+title: 'Wolff Reports Trump Team''s Media Leverage Attempt with Warner Bros. Discovery'
 ---
-
 Michael Wolff revealed that the Trump team suggested to Warner Bros. Discovery that giving Donald Trump Jr. an outdoors show could help the network curry favor with the White House, highlighting ongoing attempts to leverage media relationships for political advantage

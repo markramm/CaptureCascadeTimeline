@@ -19,18 +19,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Bill_Clinton_pardon_controversy
   outlet: Wikipedia
   date: '2001-01-20'
+  tier: 2
 - title: FBI Releases Documents On Bill Clinton's Controversial 2001 Pardon Of Marc Rich
   url: https://www.npr.org/2016/11/01/500297580/more-surprises-fbi-releases-files-on-bill-clintons-pardon-of-marc-rich
   outlet: NPR
   date: '2016-11-01'
+  tier: 1
 - title: The Controversial Pardon of International Fugitive Marc Rich
   url: https://www.govinfo.gov/content/pkg/CHRG-107hhrg75593/html/CHRG-107hhrg75593.htm
   outlet: U.S. House of Representatives
   date: '2001-03-01'
+  tier: 1
 - title: Clinton's Pardon of Marc Rich
   url: https://www.pbs.org/newshour/show/clintons-pardon-of-marc-rich
   outlet: PBS NewsHour
   date: '2001-02-14'
+  tier: 1
 id: 2001-01-20--marc-rich-pardon-corruption-allegations
 capture_lanes:
 - Systematic Corruption

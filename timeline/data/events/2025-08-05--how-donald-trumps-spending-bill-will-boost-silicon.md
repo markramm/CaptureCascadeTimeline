@@ -20,14 +20,17 @@ sources:
   url: https://www.ft.com/content/1180de73-a5ab-42d5-8624-6ebc01db2d2c
   outlet: Financial Times
   date: '2025-08-05'
+  tier: 1
 - title: Trump's "Big, Beautiful Bill" Is a Huge Win for the Military-Industrial Complex
   url: https://www.thenation.com/article/economy/big-beautiful-bill-military-industrial-complex/
   outlet: The Nation
   date: '2025-08-05'
+  tier: 2
 - title: How Trump's Budget Bill Sells Out The Future to Big Tech
   url: https://www.techpolicy.press/how-trumps-budget-bill-sells-out-the-future-to-big-tech/
   outlet: TechPolicy.Press
   date: '2025-08-05'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

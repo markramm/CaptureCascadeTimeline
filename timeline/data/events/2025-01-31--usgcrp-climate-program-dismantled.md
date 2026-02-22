@@ -21,18 +21,22 @@ sources:
   url: https://www.scientificamerican.com/article/why-trump-just-axed-a-major-climate-program/
   outlet: Scientific American
   date: '2025-01-31'
+  tier: 1
 - title: Trump administration dismisses nearly 400 scientists working on congressionally mandated national climate report
   url: https://www.cbsnews.com/news/national-climate-assessment-report-scientists-fired/
   outlet: CBS News
   date: '2025-01-30'
+  tier: 1
 - title: Trump Administration Deals Potentially Fatal Blow to National Climate Assessment
   url: https://climate.law.columbia.edu/content/trump-administration-deals-potentially-fatal-blow-national-climate-assessment
   outlet: Sabin Center for Climate Change Law
   date: '2025-01-31'
+  tier: 1
 - title: How the White House is dismantling the heart of US climate policy
   url: https://cen.acs.org/environment/climate-change/White-House-dismantling-basis-US/103/web/2025/07
   outlet: Chemical & Engineering News
   date: '2025-07-20'
+  tier: 2
 notes: Multiple climate websites taken offline as part of dismantling. Program tracked global climate change and shaped regulations across government. Under Vought's proposal, USGCRP would be "confined to more limited advisory role" because "USGCRP actions can frustrate successful litigation defense." OMB would select researchers who question human contributions to climate change, give equal weight to industry studies.
 status: confirmed
 capture_lanes:

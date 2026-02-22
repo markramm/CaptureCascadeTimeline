@@ -24,14 +24,17 @@ sources:
   url: https://www.npr.org/sections/thetwo-way/2017/12/04/567803476/trump-dramatically-shrinks-2-utah-national-monuments
   outlet: NPR
   date: '2017-12-04'
+  tier: 1
 - title: Presidential Proclamation Modifying the Bears Ears National Monument
   url: https://trumpwhitehouse.archives.gov/presidential-actions/presidential-proclamation-modifying-bears-ears-national-monument/
   outlet: White House Archives
   date: '2017-12-04'
+  tier: 1
 - title: Administration Leaders Applaud President Biden's Restoration of National Monuments
   url: https://www.doi.gov/pressreleases/administration-leaders-applaud-president-bidens-restoration-national-monuments
   outlet: U.S. Department of the Interior
   date: '2021-10-08'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

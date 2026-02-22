@@ -22,14 +22,17 @@ sources:
   url: https://www.reuters.com/world/us/us-passenger-railroad-amtrak-ceo-abruptly-steps-down-2025-03-19/
   outlet: Reuters
   date: '2025-03-19'
+  tier: 1
 - title: Amtrak CEO Steps Down as Trump and Musk Threaten to Privatize Company
   url: https://gizmodo.com/amtrak-ceo-steps-down-as-trump-and-musk-threaten-to-privatize-company-2000578304
   outlet: Gizmodo
   date: '2025-03-19'
+  tier: 2
 - title: Amtrak CEO stepping down, weeks after Musk says the rail service should be privatized
   url: https://www.cnn.com/2025/03/19/business/amtrak-ceo-steps-down/index.html
   outlet: CNN
   date: '2025-03-19'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

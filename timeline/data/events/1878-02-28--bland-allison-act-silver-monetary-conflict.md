@@ -12,15 +12,18 @@ sources:
 - title: Bland–Allison Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Bland%E2%80%93Allison_Act
+  tier: 2
   year: 2024
 - title: The Bland-Allison Act of 1878 Explained
   outlet: JM Bullion
   url: https://www.jmbullion.com/investing-guide/facts/bland-allison-act-of-1878/
   year: 2024
+  tier: 2
 - title: Money-in-Politics Timeline
   outlet: OpenSecrets
   url: https://www.opensecrets.org/resources/learn/timeline
   year: 2024
+  tier: 1
 tags:
 - monetary-policy
 - corporate-influence

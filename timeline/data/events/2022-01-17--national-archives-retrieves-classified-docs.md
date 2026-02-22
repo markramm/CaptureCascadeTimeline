@@ -19,14 +19,17 @@ sources:
   url: https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/
   outlet: The Washington Post
   date: '2022-02-07'
+  tier: 1
 - title: 15 boxes of White House records have been recovered at Trump's Mar-a-Lago resort
   url: https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives
   outlet: NPR
   date: '2022-02-07'
+  tier: 1
 - title: FBI affidavit for Trump's Mar-a-Lago says 184 classified documents found
   url: https://www.washingtonpost.com/national-security/2022/08/26/trump-affidavit-released/
   outlet: The Washington Post
   date: '2022-08-26'
+  tier: 1
 notes: 'Boxes also contained Trump''s "love letters" with Kim Jong Un and a letter from Barack Obama.
 
   Federal agents found classified documents in 14 of the 15 boxes. Materials included signals

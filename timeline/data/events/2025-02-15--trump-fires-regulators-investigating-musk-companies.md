@@ -24,14 +24,17 @@ sources:
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
   outlet: Senator Warren's Office
   date: '2025-04-29'
+  tier: 1
 - title: 2025 Dismissals of U.S. Inspectors General
   url: https://en.wikipedia.org/wiki/2025_dismissals_of_inspectors_general
   outlet: Wikipedia
   date: '2025-02-15'
+  tier: 2
 - title: Trump Purges Inspectors General Investigating Musk's Businesses
   url: https://www.levernews.com/trump-purges-inspectors-general-investigating-musks-businesses/
   outlet: Lever News
   date: '2025-02-15'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

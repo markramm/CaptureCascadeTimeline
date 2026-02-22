@@ -10,12 +10,15 @@ sources:
 - title: Trump sells mugshot suit, Mar-a-Lago dinner in latest NFT promotion
   url: https://www.cnbc.com/2023/12/12/trump-sells-mugshot-suit-mar-a-lago-dinner-in-latest-nft-promotion.html
   outlet: CNBC
+  tier: 2
 - title: Donald Trump just sabotaged his old NFT collections with his new NFT collection
   url: https://fortune.com/crypto/2023/12/13/donald-trump-dents-price-of-previous-nfts-with-new-mugshot-collection/
   outlet: Fortune Crypto
+  tier: 2
 - title: Donald Trump Unveils New 'Mugshot' NFTs, Stirring Up Prices for His Previous NFTs
   url: https://www.coindesk.com/markets/2023/12/12/donald-trump-unveils-new-mugshot-nfts-stirring-up-prices-for-his-previous-nfts
   outlet: CoinDesk
+  tier: 2
 tags:
 - nft
 - trump

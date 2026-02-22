@@ -17,10 +17,13 @@ tags:
 sources:
 - title: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
   url: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
+  tier: 1
 - title: https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/
   url: https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/
+  tier: 2
 - title: https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation
   url: https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

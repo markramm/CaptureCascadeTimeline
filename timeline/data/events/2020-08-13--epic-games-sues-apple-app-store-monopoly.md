@@ -16,7 +16,8 @@ sources:
   outlet: DocumentCloud
   tier: 1
 - title: Epic Games vs Apple - The continuing App Store saga
-  url: https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far
+  url: https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga
+  tier: 2----the-story-so-far
   date: '2020-08-23'
   outlet: AppleInsider
   tier: 2

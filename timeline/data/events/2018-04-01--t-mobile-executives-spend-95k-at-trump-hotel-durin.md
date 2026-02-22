@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/politics/t-mobile-executives-seeking-merger-stayed-at-trump-hotel-more-than-52-times/2019/03/05/
   outlet: The Washington Post
   date: '2019-03-05'
+  tier: 1
 - title: T-Mobile admitted it spent $195,000 at Trump Hotel
   url: https://www.reuters.com/article/us-sprint-corp-m-a-trump-idUSKCN1QM1ZU
   outlet: Reuters
   date: '2019-03-05'
+  tier: 1
 - title: How T-Mobile got its Trump Hotel stay
   url: https://www.cnn.com/2019/03/05/tech/t-mobile-trump-hotel/index.html
   outlet: CNN
   date: '2019-03-05'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

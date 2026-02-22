@@ -30,17 +30,20 @@ sources:
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: American Enterprise Institute for Public Policy Research
   url: https://www.ebsco.com/research-starters/history/american-enterprise-institute-public-policy-research
   outlet: EBSCO Research
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: AEI Guards Free Enterprise
   url: https://www.philanthropyroundtable.org/almanac/aei-guards-free-enterprise/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

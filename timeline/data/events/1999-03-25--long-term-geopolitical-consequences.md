@@ -18,12 +18,15 @@ sources:
 - outlet: Foreign Affairs
   title: Geopolitical Shifts in Post-Crisis Asia
   url: https://www.foreignaffairs.com/articles/asia/1999-03-01/asian-financial-crisis-and-changing-global-order
+  tier: 2
 - outlet: IMF
   title: Recovery from the Asian Crisis and the Role of the IMF
   url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
+  tier: 1
 - outlet: Federal Reserve History
   title: 'Asian Financial Crisis: Economic and Geopolitical Transformations'
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+  tier: 1
 status: confirmed
 tags:
 - geopolitical-transformation

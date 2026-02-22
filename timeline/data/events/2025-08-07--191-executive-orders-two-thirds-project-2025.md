@@ -22,25 +22,27 @@ capture_lanes:
 - Executive Power Expansion
 sources:
 - title: 2025 Donald J. Trump Executive Orders
-  url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
+  url: 'https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025'
   outlet: Federal Register
   date: '2025-08-07'
-  archive_url: https://web.archive.org/web/20250807000000/https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
-- title: Trump's Executive Orders Echo Project 2025's Deep Agenda
-  url: https://www.npr.org/2025/08/07/trump-executive-orders-project-2025
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250807000000/https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025'
+- title: 'Trump''s Executive Orders Echo Project 2025''s Deep Agenda'
+  url: 'https://www.npr.org/2025/08/07/trump-executive-orders-project-2025'
   outlet: NPR
   date: '2025-08-07'
-  archive_url: https://web.archive.org/web/20250807000000/https://www.npr.org/2025/08/07/trump-executive-orders-project-2025
-- title: How Trump's Executive Orders Systematically Implement Project 2025
-  url: https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders
+  archive_url: 'https://web.archive.org/web/20250807000000/https://www.npr.org/2025/08/07/trump-executive-orders-project-2025'
+  tier: 1
+- title: 'How Trump''s Executive Orders Systematically Implement Project 2025'
+  url: 'https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders'
   outlet: The Washington Post
   date: '2025-08-07'
-  archive_url: https://web.archive.org/web/20250807000000/https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders
-notes: Nearly one executive order per day pace. Multiple analyses confirm two-thirds alignment with Project 2025 despite campaign denials. Includes DEI elimination, environmental deregulation, Schedule F reinstatement. Heritage Foundation wrote script, Trump executing it.
+  archive_url: 'https://web.archive.org/web/20250807000000/https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders'
+  tier: 1
+notes: 'Nearly one executive order per day pace. Multiple analyses confirm two-thirds alignment with Project 2025 despite campaign denials. Includes DEI elimination, environmental deregulation, Schedule F reinstatement. Heritage Foundation wrote script, Trump executing it.'
 status: confirmed
 validation_status: validated
 ---
-
 By August 7, 2025, President Trump had signed 202 executive orders, with independent analyses confirming that approximately two-thirds mirror the Heritage Foundation's Project 2025 proposals - an agenda Trump previously disavowed during his campaign. Key domains include civil rights dismantling, gender policy reversion, energy deregulation, and border security militarization.
 
 Key Policy Domains:

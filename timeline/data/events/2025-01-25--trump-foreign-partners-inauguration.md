@@ -22,14 +22,17 @@ sources:
   url: https://edition.cnn.com/2025/01/25/politics/trumps-foreign-business-partners-promoting-projects-invs/index.html
   outlet: CNN
   date: '2025-01-25'
+  tier: 1
 - title: 'Second Trump Presidency: Business Partnership Patterns'
   url: https://www.propublica.org/article/second-trump-presidency-issues-contact
   outlet: ProPublica
   date: '2025-01-25'
+  tier: 1
 - title: Trump's Inauguration Brings Business Leaders Together
   url: https://www.npr.org/2025/01/19/nx-s1-5267074/donald-trump-inauguration-2025-analysis
   outlet: NPR
   date: '2025-01-25'
+  tier: 1
 connections:
 - Foreign Business Influence
 - Inauguration Donor Networks

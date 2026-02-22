@@ -19,10 +19,13 @@ actors:
 sources:
 - title: washingtonpost.com
   url: https://www.washingtonpost.com/wp-srv/special/national/nsa-timeline/
+  tier: 1
 - title: theguardian.com
   url: https://www.theguardian.com/us-news/the-nsa-files
+  tier: 1
 - title: aclu.org
   url: https://www.aclu.org/nsa-documents-released-to-the-public-since-june-2013
+  tier: 2
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

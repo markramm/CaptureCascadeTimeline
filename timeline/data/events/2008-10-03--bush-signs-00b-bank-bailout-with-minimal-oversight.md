@@ -25,14 +25,17 @@ sources:
   url: https://www.govinfo.gov/content/pkg/BILLS-110hr1424enr/pdf/BILLS-110hr1424enr.pdf
   outlet: U.S. Government
   date: '2008-10-03'
+  tier: 1
 - title: Troubled Asset Relief Program Monthly Report
   url: https://home.treasury.gov/data/troubled-asset-relief-program
   outlet: U.S. Treasury Department
   date: '2021-04-30'
+  tier: 1
 - title: The Bailout Scorecard
   url: https://projects.propublica.org/bailout/
   outlet: ProPublica
   date: '2021-01-01'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

@@ -18,6 +18,7 @@ capture_lanes:
 sources:
 - title: Project MKULTRA, The CIA's Program of Research in Behavioral Modification
   outlet: U.S. Senate Select Committee on Intelligence
+  tier: 1
   year: 1977
   url: https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
 - title: The Search for the Manchurian Candidate
@@ -25,10 +26,12 @@ sources:
   outlet: CIA FOIA Reading Room
   year: 1979
   url: https://www.cia.gov/readingroom/document/search-manchurian-candidate
+  tier: 1
 - title: CIA Behavior Control Experiments Collection
   outlet: National Security Archive
   year: 2024
   url: https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments
+  tier: 1
 status: confirmed
 validation_notes: Event verified through multiple archival sources, including Senate Intelligence Committee documentation and CIA FOIA records
 ---

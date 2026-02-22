@@ -23,14 +23,17 @@ sources:
   outlet: CNN
   date: '2025-07-23'
   url: https://www.cnn.com/2025/07/23/politics/house-oversight-epstein-subpoena/index.html
+  tier: 1
 - title: Mace, Perry, Jack join Democrats in bipartisan Epstein files subpoena vote
   outlet: Roll Call
   date: '2025-07-23'
   url: https://rollcall.com/2025/07/23/house-oversight-epstein-files-subpoena-bipartisan/
+  tier: 2
 - title: 'Congressional rebellion: GOP members defy Trump on Epstein transparency'
   outlet: The Guardian
   date: '2025-07-24'
   url: https://www.theguardian.com/us-news/2025/jul/24/congress-epstein-files-subpoena-republicans
+  tier: 1
 notes: The bipartisan vote demonstrated how Trump's reversal on Epstein transparency fractured his own party's support. This followed Musk's explosive claims and public pressure campaign that split the MAGA movement on the issue.
 ---
 

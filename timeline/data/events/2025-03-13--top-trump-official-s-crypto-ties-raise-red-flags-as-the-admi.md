@@ -22,18 +22,22 @@ sources:
   url: https://www.cnn.com/2025/03/13/business/trump-officials-crypto-bitcoin/index.html
   outlet: CNN
   date: '2025-03-13'
+  tier: 1
 - title: Trump's Commerce Secretary pick is Howard Lutnick. Here's what to know
   url: https://www.npr.org/2025/01/29/nx-s1-5277129/commerce-secretary-howard-lutnick-trump-nomination-senate-hearing
   outlet: NPR
   date: '2025-01-29'
+  tier: 1
 - title: Analysis Details How Trump's Circle Could Be Profiting From White House Crypto Policies
   url: https://www.commondreams.org/news/accountableus-trump-crypto-lutnick
   outlet: Common Dreams
   date: '2025-03-14'
+  tier: 2
 - title: Warren Probes Lutnick for Ties to Crypto Firm with Long Record of Financing Terrorists, Illicit Activity
   url: https://www.warren.senate.gov/newsroom/press-releases/warren-probes-lutnick-for-ties-to-crypto-firm-with-long-record-of-financing-terrorists-illicit-activity
   outlet: Senator Elizabeth Warren Official Site
   date: '2025-03-14'
+  tier: 1
 connections:
 - Cantor Fitzgerald
 - Crypto Industry Influence

@@ -5,14 +5,17 @@ title: 'Project 2025: Trump Administration Launches Massive Federal Civil Servic
 importance: 9
 sources:
 - outlet: American Federation of Government Employees
-  title: Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal Workers
-  url: https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers
+  title: 'Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal Workers'
+  url: 'https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers'
+  tier: 2
 - outlet: Center for American Progress
   title: Project 2025 Would Destroy the U.S. System of Checks and Balances
-  url: https://www.americanprogress.org/article/project-2025-would-destroy-the-u-s-system-of-checks-and-balances-and-create-an-imperial-presidency/
+  url: 'https://www.americanprogress.org/article/project-2025-would-destroy-the-u-s-system-of-checks-and-balances-and-create-an-imperial-presidency/'
+  tier: 2
 - outlet: Government Executive
   title: Project 2025 Workforce Restructuring
-  url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
+  url: 'https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/'
+  tier: 2
 tags:
 - regulatory-capture
 - institutional-transformation
@@ -31,5 +34,4 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-
 On January 20, 2025, the Trump administration implements Schedule F executive order, enabling systematic purge of federal civil service workforce by stripping job protections from approximately 50,000 nonpartisan public servants. This restructuring, developed by the Heritage Foundation, allows immediate termination of career employees and replacement with political loyalists, fundamentally transforming the executive branch bureaucracy.

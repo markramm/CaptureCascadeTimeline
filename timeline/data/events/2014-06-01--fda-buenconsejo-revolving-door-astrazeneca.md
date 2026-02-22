@@ -20,14 +20,16 @@ capture_lanes:
 sources:
 - outlet: Science Magazine
   title: 'FDA''s revolving door: Companies often hire agency staffers who managed their successful drug reviews'
-  url: https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful
+  url: 'https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful'
+  tier: 2
 - outlet: Anti-Empire
-  title: For Big Pharma, the Revolving Door Keeps Spinning
-  url: https://anti-empire.com/for-big-pharma-the-revolving-door-keeps-spinning/
+  title: 'For Big Pharma, the Revolving Door Keeps Spinning'
+  url: 'https://anti-empire.com/for-big-pharma-the-revolving-door-keeps-spinning/'
+  tier: 2
 - outlet: Public Citizen Health Letter
   title: 'Outrage of the Month: Revolving Door at FDA Undermines Public Confidence'
-  url: https://www.citizen.org/news/outrage-of-the-month-revolving-door-at-fda-undermines-public-confidence/
+  url: 'https://www.citizen.org/news/outrage-of-the-month-revolving-door-at-fda-undermines-public-confidence/'
+  tier: 2
 status: confirmed
 ---
-
 Joan Buenconsejo, who led FDA analysis of medical statistics for drug reviews including AstraZeneca products in 2012-2013, joined AstraZeneca as a director and biometrics team leader in June 2014. This transition exemplifies the systemic 'revolving door' problem in pharmaceutical regulation, where regulatory officials move directly to companies they previously regulated. While Buenconsejo claimed compliance with FDA recusal rules, her move raises significant questions about potential conflicts of interest in pharmaceutical oversight and the independence of regulatory processes.

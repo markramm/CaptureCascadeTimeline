@@ -23,14 +23,17 @@ sources:
   url: https://www.washingtonpost.com/politics/trump-says-his-florida-golf-resort-will-no-longer-host-g-7-summit/2019/10/19/d8bd53b8-f2cd-11e9-8cf0-4cc99f74d127_story.html
   outlet: The Washington Post
   date: '2019-10-19'
+  tier: 1
 - title: Trump wanted to host G-7 at his Doral resort. It's been bleeding money.
   url: https://www.washingtonpost.com/politics/trump-wanted-to-host-g-7-at-his-doral-resort-its-been-bleeding-money/2019/10/17/e7e62558-f0f9-11e9-8693-f487e46784aa_story.html
   outlet: The Washington Post
   date: '2019-10-17'
+  tier: 1
 - title: Trump defends Doral G-7 pick, lashes out at Obama
   url: https://www.cnn.com/2019/08/26/politics/donald-trump-g7-doral-resort-obama/index.html
   outlet: CNN
   date: '2019-08-26'
+  tier: 1
 notes: "This represented one of the most brazen attempts at self-dealing, as Trump tried \nto use the presidency to direct government contracts to his failing business. \nThe Doral resort had seen massive revenue declines since Trump took office, and \nhosting G-7 would have provided a significant financial boost. The reversal only \ncame after Republicans joined Democrats in condemning the plan, showing even \nTrump's allies recognized the constitutional violation was too obvious to defend.\n"
 related_events:
 - 2024-01-04--house-oversight-78-million-foreign-payments

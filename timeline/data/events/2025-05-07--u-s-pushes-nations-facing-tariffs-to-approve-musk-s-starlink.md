@@ -23,14 +23,17 @@ sources:
   url: https://techcrunch.com/2025/05/07/spacexs-starlink-has-become-a-big-benefactor-of-trumps-tariff-trade-war-leaked-memos-show/
   outlet: TechCrunch
   date: '2025-05-07'
+  tier: 2
 - title: Elon Musk's Starlink Is Quietly Benefiting From Tariff Negotiations
   url: https://gizmodo.com/elon-musks-starlink-is-quietly-benefiting-from-tariff-negotiations-2000599325
   outlet: Gizmodo
   date: '2025-05-07'
+  tier: 2
 - title: More Money for Elon? Oversight Democrats Demand Investigation Into Trump Administration's Starlink Support
   url: https://oversightdemocrats.house.gov/news/press-releases/more-money-elon-oversight-democrats-demand-investigation-whether-trump
   outlet: Oversight Democrats Press Release
   date: '2025-05-07'
+  tier: 1
 connections:
 - Trump Administration Tariff Strategy
 - SpaceX Starlink Global Expansion

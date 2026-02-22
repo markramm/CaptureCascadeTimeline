@@ -11,12 +11,15 @@ sources:
 - title: Coal Company Scrip Paid to Miners Often Left Them Deep in Debt
   outlet: ADP ReThink Q
   url: https://rethinkq.adp.com/artifact-coal-company-scrip-miners/
+  tier: 2
 - title: 'Company Towns: 1880s to 1935'
   outlet: Social Welfare History Project
   url: https://socialwelfare.library.vcu.edu/programs/housing/company-towns-1890s-to-1935/
+  tier: 2
 - title: Company Store
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Company_store
+  tier: 2
 tags:
 - labor-suppression
 - corporate-power

@@ -28,37 +28,44 @@ sources:
   url: https://www.hagley.org/librarynews/research-national-association-manufacturers-and-visual-propaganda
   outlet: Hagley Museum
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Our Country's Most Rapacious Capitalists Are Weighing in on How to Defend Democracy
   url: https://jacobin.com/2021/01/national-association-of-manufacturers-history-democracy
   outlet: Jacobin
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: How Manufacturing's Lobby Won and Lost its Political Influence
   url: https://www.promarket.org/2022/01/16/manufacturing-lobby-political-influence-nam/
   outlet: ProMarket
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Corporations and the Rise of the Chicago Law and Economics Movement
   url: https://www.promarket.org/2020/01/15/corporations-and-the-rise-of-the-chicago-law-and-economics-movement/
   outlet: ProMarket
   date: '2020-01-15'
   verified: true
+  tier: 2
 - title: Aaron Director - Wikipedia
   url: https://en.wikipedia.org/wiki/Aaron_Director
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Did Corporations Fund the Rise of Law and Economics in the 1940s and 1950s?
   url: https://reason.com/volokh/2020/01/23/did-corporations-fund-the-rise-of-law-and-economics-in-the-1940s-and-1950s/
   outlet: Reason
   date: '2020-01-23'
   verified: true
+  tier: 2
 - title: Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust
   url: https://www.promarket.org/2019/10/07/aaron-director-and-the-empirical-foundation-for-the-chicago-attitude-on-antitrust/
   outlet: ProMarket
   date: '2019-10-07'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

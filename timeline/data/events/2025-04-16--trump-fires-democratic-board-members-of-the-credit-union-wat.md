@@ -10,7 +10,7 @@ actors:
 - Kyle Hauptman
 - Karoline Leavitt
 - Judge Amir H. Ali
-location: Washington, D.C.
+location: 'Washington, D.C.'
 tags:
 - kleptocracy
 - regulatory-capture
@@ -25,32 +25,30 @@ patterns:
 - executive-branch-transformation
 sources:
 - title: Trump Fires Democratic Members of Credit Union Watchdog
-  url: https://www.usatoday.com/story/news/politics/2025/04/16/trump-fires-national-credit-union-administration-democrats/83119978007/
+  url: 'https://www.usatoday.com/story/news/politics/2025/04/16/trump-fires-national-credit-union-administration-democrats/83119978007/'
   outlet: USA Today
   date: '2025-04-16'
+  tier: 2
 - date: '2025-04-16'
   outlet: The Hill
   title: Trump Administration Removes Democratic Members of Credit Union Watchdog
-  url: https://thehill.com/homenews/administration/5252367-trump-administration-fires-credit-union/
+  url: 'https://thehill.com/homenews/administration/5252367-trump-administration-fires-credit-union/'
+  tier: 2
 - date: '2025-04-16'
-  outlet: U.S. News & World Report
+  outlet: 'U.S. News & World Report'
   title: Trump Fires Democratic Board Members of the Credit Union Watchdog
-  url: https://www.usnews.com/news/politics/articles/2025-04-16/trump-fires-democratic-board-members-of-the-credit-union-watchdog-statements
+  url: 'https://www.usnews.com/news/politics/articles/2025-04-16/trump-fires-democratic-board-members-of-the-credit-union-watchdog-statements'
+  tier: 2
 - date: '2025-07-25'
   outlet: Consumer Finance Monitor
-  title: Reinstated Democratic NCUA Board Members Return to Work After Supreme Court
-    Ruling
-  url: https://www.consumerfinancemonitor.com/2025/07/25/reinstated-democratic-ncua-board-members-fired-by-trump-return-to-work-as-the-supreme-court-allows-trumps-firing-of-democrats-on-the-consumer-products-safety-commission/
+  title: Reinstated Democratic NCUA Board Members Return to Work After Supreme Court Ruling
+  url: 'https://www.consumerfinancemonitor.com/2025/07/25/reinstated-democratic-ncua-board-members-fired-by-trump-return-to-work-as-the-supreme-court-allows-trumps-firing-of-democrats-on-the-consumer-products-safety-commission/'
+  tier: 2
 connections:
 - Ongoing pattern of executive branch power consolidation
 - Systematic removal of independent regulators
 status: confirmed
-notes: Federal court later ruled the firings likely illegal, as board members could
-  only be removed for cause. Demonstrates ongoing attempts to reshape federal regulatory
-  agencies.
-description: President Trump removed two Democratic board members from the National
-  Credit Union Administration, sparking legal challenges and highlighting ongoing
-  efforts to consolidate executive power.
+notes: 'Federal court later ruled the firings likely illegal, as board members could only be removed for cause. Demonstrates ongoing attempts to reshape federal regulatory agencies.'
+description: 'President Trump removed two Democratic board members from the National Credit Union Administration, sparking legal challenges and highlighting ongoing efforts to consolidate executive power.'
 ---
-
 President Trump removed two Democratic board members, Todd Harper and Tanya Otsuka, from the National Credit Union Administration (NCUA), leaving the agency with only one Republican board member. The removals sparked legal challenges, with a federal judge later ruling that the firings were likely illegal, as board members could only be removed for cause.

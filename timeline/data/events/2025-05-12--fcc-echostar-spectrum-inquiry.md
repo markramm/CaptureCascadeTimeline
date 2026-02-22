@@ -24,14 +24,17 @@ sources:
   url: https://www.satellitetoday.com/government-military/2025/05/13/fcc-launches-inquiry-into-echostar-after-spacex-questions-its-use-of-mss-spectrum/
   outlet: Via Satellite
   date: '2025-05-13'
+  tier: 2
 - title: SpaceX Buying EchoStar Satellite Spectrum for $17 Billion
   url: https://broadbandbreakfast.com/spacex-buying-echostar-satellite-spectrum-for-17-billion/
   outlet: Broadband Breakfast
   date: '2025-09-08'
+  tier: 2
 - title: SpaceX Buying EchoStar Satellite Spectrum in $17B Deal After FCC Inquiry
   url: https://www.fierce-network.com/wireless/spacex-scoops-echostar-spectrum-17b
   outlet: Fierce Network
   date: '2025-09-15'
+  tier: 2
 connections:
 - 2025-09-08--spacex-echostar-17b-spectrum-sale
 status: confirmed

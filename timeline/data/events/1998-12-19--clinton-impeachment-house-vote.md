@@ -18,18 +18,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton
   outlet: Wikipedia
   date: '1998-12-19'
+  tier: 2
 - title: President Clinton impeached
   url: https://www.history.com/this-day-in-history/december-19/president-clinton-impeached
   outlet: History.com
   date: '1998-12-19'
+  tier: 2
 - title: William J. Clinton - Federal Impeachment
   url: https://guides.loc.gov/federal-impeachment/bill-clinton
   outlet: Library of Congress
   date: '2024-01-01'
+  tier: 1
 - title: The Clinton impeachment and its fallout
   url: https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout
   outlet: University of Virginia Miller Center
   date: '2024-01-01'
+  tier: 1
 id: 1998-12-19--clinton-impeachment-house-vote
 capture_lanes:
 - Legislative Capture

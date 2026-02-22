@@ -19,18 +19,22 @@ sources:
   url: https://www.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html
   outlet: CNN
   date: '2024-12-01'
+  tier: 1
 - title: Joe Biden pardons his son Hunter Biden
   url: https://www.washingtonpost.com/politics/2024/12/01/hunter-biden-pardon/
   outlet: The Washington Post
   date: '2024-12-01'
+  tier: 1
 - title: Biden pardons his son Hunter on gun and tax charges despite previously saying he wouldn't
   url: https://www.pbs.org/newshour/politics/biden-pardons-his-son-hunter-on-gun-and-tax-charges-despite-previously-saying-he-wouldnt
   outlet: PBS NewsHour
   date: '2024-12-01'
+  tier: 1
 - title: Read Hunter Biden's pardon and President Biden's full statement
   url: https://www.cbsnews.com/news/hunter-biden-pardon-joe-biden-statement/
   outlet: CBS News
   date: '2024-12-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

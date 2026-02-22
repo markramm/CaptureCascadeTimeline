@@ -23,14 +23,17 @@ sources:
   url: https://www.thedailybeast.com/i-tried-to-warn-you-about-jeffrey-epstein-in-2003
   outlet: The Daily Beast
   date: '2019-07-09'
+  tier: 2
 - title: Jeffrey Epstein's Sick Story Played Out for Years in Plain Sight
   url: https://www.thedailybeast.com/jeffrey-epsteins-sick-story-played-out-for-years-in-plain-sight
   outlet: The Daily Beast
   date: '2019-07-09'
+  tier: 2
 - title: The Mystery of Jeffrey Epstein's Fortune (censored version)
   url: https://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303
   outlet: Vanity Fair
   date: '2003-03-01'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration

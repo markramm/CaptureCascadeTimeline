@@ -23,22 +23,27 @@ sources:
   url: https://www.reuters.com/world/us/meta-ceo-zuckerberg-lobbies-trump-avoid-antitrust-trial-wsj-reports-2025-04-02/
   outlet: Reuters
   date: '2025-04-02'
+  tier: 1
 - title: Zuckerberg Lobbies Trump to Avoid Meta Antitrust Trial
   url: https://www.wsj.com/politics/policy/meta-antitrust-trial-zuckerberg-lobbying-trump-67c8f3a5
   outlet: The Wall Street Journal
   date: '2025-04-02'
+  tier: 1
 - title: Inside Mark Zuckerberg's Failed Negotiations to End Meta's Antitrust Case
   url: https://www.wsj.com/us-news/law/mark-zuckerberg-meta-antitrust-ftc-negotiations-a53b3382
   outlet: The Wall Street Journal
   date: '2025-04-03'
+  tier: 1
 - title: Meta CEO Zuckerberg Lobbies Trump to Avoid Antitrust Trial
   url: https://www.usnews.com/news/politics/articles/2025-04-02/meta-ceo-zuckerberg-lobbies-trump-to-avoid-antitrust-trial-wsj-reports
   outlet: U.S. News & World Report
   date: '2025-04-02'
+  tier: 2
 - title: Trump sued to break up Meta in 2020. It's finally going to trial
   url: https://www.washingtonpost.com/technology/2025/04/12/trump-sued-break-up-meta-2020-its-finally-going-trial/
   outlet: The Washington Post
   date: '2025-04-12'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

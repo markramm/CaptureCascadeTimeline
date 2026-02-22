@@ -22,14 +22,17 @@ sources:
   url: https://www.reuters.com/business/energy/former-us-nuclear-power-regulators-blast-trumps-firing-nrc-commissioner-2025-06-24/
   outlet: Reuters
   date: '2025-06-24'
+  tier: 1
 - title: Trump fires a member of the Nuclear Regulatory Commission
   url: https://www.npr.org/2025/06/16/nx-s1-5435285/trump-fires-nuclear-regulatory-commission-member-nrc
   outlet: NPR
   date: '2025-06-16'
+  tier: 1
 - title: White House fires NRC commissioner
   url: https://www.eenews.net/articles/white-house-fires-nrc-commissioner/
   outlet: E&E News by Politico
   date: '2025-06-17'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

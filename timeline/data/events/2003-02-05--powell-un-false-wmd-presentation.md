@@ -21,14 +21,17 @@ sources:
   url: https://www.bbc.com/news/world-us-canada-54709076
   outlet: BBC News
   date: '2020-10-19'
+  tier: 1
 - title: Colin Powell's WMD intelligence 'was circumstantial'
   url: https://www.theguardian.com/world/2004/feb/01/usa.davidteather
   outlet: The Guardian
   date: '2004-02-01'
+  tier: 1
 - title: The Truth About Colin Powell's WMD Presentation
   url: https://theintercept.com/2018/02/06/lie-after-lie-what-colin-powell-knew-about-iraq-fifteen-years-ago-and-what-he-told-the-un/
   outlet: The Intercept
   date: '2018-02-06'
+  tier: 1
 notes: Powell's presentation was based on fabricated intelligence including 'Curveball' testimony and aluminum tubes claims that intelligence agencies had warned were unreliable. The presentation became the centerpiece of the Bush administration's case for war despite internal warnings about the evidence's credibility. Powell himself later acknowledged it as a permanent 'blot' on his record.
 capture_lanes:
 - Regulatory Capture

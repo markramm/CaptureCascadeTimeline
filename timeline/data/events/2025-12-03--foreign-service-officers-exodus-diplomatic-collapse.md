@@ -26,30 +26,37 @@ sources:
   url: https://federalnewsnetwork.com/workforce/2025/12/a-workplace-crisis-nearly-all-foreign-service-employees-report-lower-morale-in-union-led-survey/
   outlet: Federal News Network
   date: '2025-12-03'
+  tier: 2
 - title: Trump administration changes have left US diplomats demoralized and less able to do their jobs, report says
   url: https://www.cnn.com/2025/12/03/politics/state-department-low-morale
   outlet: CNN
   date: '2025-12-03'
+  tier: 1
 - title: New Report Finds U.S. Foreign Service at a Breaking Point After Historic Loss of Capacity
   url: https://afsa.org/new-report-finds-us-foreign-service-breaking-point-after-historic-loss-capacity
   outlet: American Foreign Service Association
   date: '2025-12-03'
+  tier: 2
 - title: '''Dangerously low'' Morale in the U.S. Foreign Service craters under Trump'
   url: https://www.axios.com/2025/12/04/trump-foreign-service-low-morale-survey
   outlet: Axios
   date: '2025-12-04'
+  tier: 2
 - title: Survey finds low morale among U.S. diplomats after sweeping job cuts
   url: https://www.npr.org/2025/12/03/nx-s1-5627198/survey-finds-low-morale-among-u-s-diplomats-after-sweeping-job-cuts
   outlet: NPR
   date: '2025-12-03'
+  tier: 1
 - title: How layoffs will affect the State Department and American diplomacy
   url: https://www.npr.org/2025/07/17/nx-s1-5470145/how-layoffs-will-affect-the-state-department-and-american-diplomacy
   outlet: NPR
   date: '2025-07-17'
+  tier: 1
 - title: At the Breaking Point The State of the U.S. Foreign Service in 2025
   url: https://afsa.org/at-the-breaking-point
   outlet: American Foreign Service Association
   date: '2025-12-03'
+  tier: 2
 connections:
 - State Department Mass Layoffs (July 2025)
 - State Department Finalizes RIFs Despite Shutdown Deal (December 2025)

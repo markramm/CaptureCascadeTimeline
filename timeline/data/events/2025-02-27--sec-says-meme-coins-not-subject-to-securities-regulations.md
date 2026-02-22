@@ -22,14 +22,17 @@ sources:
   outlet: CNBC
   date: '2025-02-27'
   url: https://www.cnbc.com/2025/02/27/sec-says-most-meme-coins-are-not-securities.html
+  tier: 2
 - title: Memecoin Suits Test Trump's SEC on Pivot in Crypto Enforcement
   outlet: Bloomberg Law
   date: '2025-02-27'
   url: https://news.bloomberglaw.com/securities-law/memecoin-suits-test-trumps-sec-on-pivot-in-crypto-enforcement
+  tier: 2
 - title: Trump family memecoins may trigger increased SEC scrutiny on crypto
   outlet: Cointelegraph
   date: '2025-02-27'
   url: https://cointelegraph.com/news/trump-memecoins-sec-regulatory-challenges
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

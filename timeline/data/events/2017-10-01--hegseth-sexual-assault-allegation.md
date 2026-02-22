@@ -13,23 +13,24 @@ actors:
 - Pete Hegseth
 - California Federation of Republican Women
 sources:
-- title: Police report lays out details, timeline of sexual assault allegation
-  url: https://www.npr.org/2024/11/21/nx-s1-5199630/police-report-gives-details-timeline-of-the-sexual-assault-claim-against-pete-hegseth
+- title: 'Police report lays out details, timeline of sexual assault allegation'
+  url: 'https://www.npr.org/2024/11/21/nx-s1-5199630/police-report-gives-details-timeline-of-the-sexual-assault-claim-against-pete-hegseth'
   outlet: NPR
   date: '2024-11-21'
+  tier: 1
 - title: Police report reveals new details from sexual assault allegation against
-    Trump's defense secretary nominee
-  url: https://www.cnn.com/2024/11/21/politics/pete-hegseth-police-report-defense-secretary-trump/index.html
+  tier: 1
+  url: 'https://www.cnn.com/2024/11/21/politics/pete-hegseth-police-report-defense-secretary-trump/index.html'
   outlet: CNN
   date: '2024-11-21'
 - title: NPR Investigates Sexual Misconduct Allegations in Media Industry
-  url: https://www.npr.org/2024/12/01/media-accountability-report-sexual-misconduct
+  url: 'https://www.npr.org/2024/12/01/media-accountability-report-sexual-misconduct'
   outlet: NPR
   date: '2024-12-01'
+  tier: 1
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Financial Capture
 ---
-
 A woman alleged Pete Hegseth sexually assaulted her at a California Federation of Republican Women conference in 2017. She told police she "remembered saying 'no' a lot" and that Hegseth blocked her from leaving his hotel room and took her phone. Hegseth paid the woman $50,000 to prevent a lawsuit that could damage his Fox News career, though he maintains the encounter was consensual.

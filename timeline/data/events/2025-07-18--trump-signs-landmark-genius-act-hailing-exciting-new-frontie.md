@@ -25,14 +25,17 @@ sources:
   url: https://www.axios.com/2025/07/18/trump-signs-stablecoin-bill-into-law-genius
   outlet: Axios
   date: '2025-07-18'
+  tier: 2
 - title: Trump signs 1st major federal cryptocurrency bill into law
   url: https://abcnews.go.com/Politics/trump-sign-1st-major-federal-cryptocurrency-bill-law/story?id=123862419
   outlet: ABC News
   date: '2025-07-18'
+  tier: 1
 - title: 'Fact Sheet: President Donald J. Trump Signs GENIUS Act into Law'
   url: https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/
   outlet: The White House
   date: '2025-07-18'
+  tier: 1
 connections:
 - World Liberty Financial's USD1 stablecoin
 - Trump family financial interests in cryptocurrency

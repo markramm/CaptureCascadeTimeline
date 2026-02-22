@@ -25,18 +25,22 @@ sources:
   url: https://www.nbcnews.com/politics/donald-trump/trump-brendan-carr-federal-communications-commission-rcna180567
   outlet: NBC News
   date: '2024-11-17'
+  tier: 1
 - title: Trump's FCC pick, Brendan Carr, wrote Project 2025's chapter on the agency. Here's what he wants.
   url: https://www.cbsnews.com/news/trump-fcc-brendan-carr-project-2025-what-to-know/
   outlet: CBS News
   date: '2024-11-18'
+  tier: 1
 - title: Brendan Carr wrote the FCC chapter in 'Project 2025.' Now he's Trump's pick to lead the agency
   url: https://www.cnn.com/2024/11/18/media/brendan-carr-trump-fcc-nominee-project-2025/index.html
   outlet: CNN
   date: '2024-11-18'
+  tier: 1
 - title: What Brendan Carr, Trump's FCC Pick, Wrote in 'Project 2025' Chapter
   url: https://www.newsweek.com/brendan-carr-trump-fcc-pick-project-2025-chapter-1987413
   outlet: Newsweek
   date: '2024-11-18'
+  tier: 2
 notes: First Project 2025 contributor to lead a major federal regulatory agency
 status: confirmed
 ---

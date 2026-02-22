@@ -9,21 +9,25 @@ sources:
   outlet: CNN
   date: '2014-05-14'
   url: https://www.cnn.com/2014/05/14/us/nsa-phone-data-telecoms/index.html
+  tier: 1
   type: news_article
 - title: Sprint was the only telco to stand up to the NSA
   outlet: VentureBeat
   url: https://venturebeat.com/security/sprint-was-the-only-telco-to-stand-up-to-the-nsa/
   type: technology_news
+  tier: 2
 - title: Phone Tracking Big Business For Cell Companies
   outlet: NPR
   date: '2012-04-05'
   url: https://www.npr.org/2012/04/05/150083772/phone-tracking-big-business-for-cell-companies
   type: news_analysis
+  tier: 1
 - title: 'Cell Phone Surveillance: Business and Regulation'
   outlet: Bloomberg
   date: '2009-12-15'
   url: https://www.bloomberg.com/news/articles/2009-12-15/cellular-surveillance-law-enforcement-tracking
   type: business_report
+  tier: 1
 tags:
 - surveillance
 - nsa

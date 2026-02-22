@@ -13,15 +13,18 @@ sources:
 - title: Battle of Liberty Place
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Battle_of_Liberty_Place
+  tier: 2
   year: 2024
 - title: Battle of Liberty Place
   outlet: 64 Parishes
   url: https://64parishes.org/entry/battle-of-liberty-place
   year: 2024
+  tier: 2
 - title: 'The Battle of Liberty Place: White League Uprising Sept. 14, 1874'
   outlet: The Reconstruction Era
   url: https://thereconstructionera.com/the-battle-of-liberty-place-white-league-uprising-sept-14-1874/
   year: 2024
+  tier: 2
 tags:
 - white-supremacy
 - reconstruction-sabotage

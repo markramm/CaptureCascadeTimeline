@@ -1,9 +1,9 @@
 ---
 id: 2024-08-03--trump-atlanta-rally-praises-election-board-pit-bulls
 date: '2024-08-03'
-title: Trump Publicly Endorses Georgia Election Board Members at Atlanta Rally, Sparking Electoral Integrity Concerns
+title: 'Trump Publicly Endorses Georgia Election Board Members at Atlanta Rally, Sparking Electoral Integrity Concerns'
 importance: 9
-location: Atlanta, Georgia
+location: 'Atlanta, Georgia'
 actors:
 - Donald Trump
 - Janice Johnston
@@ -26,21 +26,23 @@ capture_lanes:
 - Judicial Capture
 sources:
 - title: Trump Brags About MAGA Takeover of Georgia Election Board
-  url: https://www.rollingstone.com/politics/politics-news/trump-brags-maga-takeover-georgia-election-board-1235073860/
+  url: 'https://www.rollingstone.com/politics/politics-news/trump-brags-maga-takeover-georgia-election-board-1235073860/'
   outlet: Rolling Stone
   date: '2024-08-04'
+  tier: 2
   verified: true
-- title: The Georgia State Election Board Controversy, Explained
-  url: https://www.gpb.org/news/2024/09/03/the-georgia-state-election-board-controversy-explained
+- title: 'The Georgia State Election Board Controversy, Explained'
+  url: 'https://www.gpb.org/news/2024/09/03/the-georgia-state-election-board-controversy-explained'
   outlet: Georgia Public Broadcasting
   date: '2024-09-03'
   verified: true
-- title: Georgia Election Board Member's Appearance at Trump Rally Sparks Debate Over Code of Conduct
-  url: https://www.wsbtv.com/news/local/atlanta/georgia-election-board-members-appearance-trump-rally-sparks-debate-over-code-conduct/S5WFEFGYSZDVBIFIGQZ4J62QSE/
+  tier: 1
+- title: 'Georgia Election Board Member''s Appearance at Trump Rally Sparks Debate Over Code of Conduct'
+  url: 'https://www.wsbtv.com/news/local/atlanta/georgia-election-board-members-appearance-trump-rally-sparks-debate-over-code-conduct/S5WFEFGYSZDVBIFIGQZ4J62QSE/'
   outlet: WSB-TV Channel 2 Atlanta
   date: '2024-08-15'
   verified: true
+  tier: 2
 status: confirmed
 ---
-
 At a pivotal Atlanta rally, Donald Trump publicly praised Georgia State Election Board members Janice Johnston, Rick Jeffares, and Janelle King, calling them "pit bulls fighting for honesty, transparency and victory." Johnston physically attended the rally, while Jeffares and King were referenced. This unprecedented presidential endorsement occurred amid growing controversy over the board's actions, including passing new election rules that critics argue could potentially delay or interfere with election certification. A legal complaint was filed by State Sen. Nabilah Islam, alleging ethics violations and potential partisan manipulation of election processes. The board's three-member majority (Johnston, Jeffares, King) has been accused of making procedural changes that could complicate the 2024 election, raising significant concerns about electoral integrity.

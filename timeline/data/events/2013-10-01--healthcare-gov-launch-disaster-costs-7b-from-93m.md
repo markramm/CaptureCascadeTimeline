@@ -22,14 +22,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2014-09-24/obamacare-website-costs-exceed-2-billion-study-finds
   outlet: Bloomberg
   date: '2014-09-24'
+  tier: 1
 - title: 6 enrolled on first day of Healthcare.gov
   url: https://www.washingtonpost.com/national/health-science/six-people-signed-up-for-obamacare-on-launch-day/2013/10/31/
   outlet: The Washington Post
   date: '2013-10-31'
+  tier: 1
 - title: Oregon's $305 million exchange failure
   url: https://www.politico.com/story/2015/04/oregon-obamacare-website-never-worked-117395
   outlet: Politico
   date: '2015-04-28'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

@@ -19,18 +19,22 @@ sources:
   url: https://www.cbsnews.com/news/epa-considers-ending-solar-for-all-program-funding/
   outlet: CBS News
   date: '2025-08-07'
+  tier: 1
 - title: The Trump administration's EPA wants to end 'Solar for All'
   url: https://www.npr.org/2025/08/08/nx-s1-5493300/solar-climate-change-trump-epa
   outlet: NPR
   date: '2025-08-08'
+  tier: 1
 - title: Trump EPA plans to claw back $7 billion in rooftop solar grants
   url: https://www.washingtonpost.com/climate-environment/2025/08/05/rooftop-solar-grants-epa/
   outlet: The Washington Post
   date: '2025-08-05'
+  tier: 1
 - title: EPA cancels $7B in Solar for All grants
   url: https://www.renewableenergyworld.com/solar/epa-preparing-to-cancel-7b-in-solar-for-all-grants/
   outlet: Renewable Energy World
   date: '2025-08-07'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

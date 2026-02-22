@@ -14,18 +14,22 @@ sources:
   title: Records Could Shed Light on Iraq Group
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
   type: news_analysis
+  tier: 1
 - outlet: The Washington Post
   title: With CIA Push, Movement to War Accelerated
   url: https://www.washingtonpost.com/archive/politics/2004/04/19/with-cia-push-movement-to-war-accelerated/fdb9a48f-6ca3-4efb-8839-3bc8134e7423/
   type: investigative_reporting
+  tier: 1
 - outlet: George Washington University National Security Archive
   title: 'Iraq: The Media War Plan'
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB219/index.htm
   type: historical_document_analysis
+  tier: 1
 - outlet: SourceWatch
   title: White House Iraq Group Overview
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   type: research_compilation
+  tier: 2
 importance: 9
 significance: Demonstrated a systematic mechanism for coordinated propaganda dissemination across major media platforms, eliminating diverse perspectives and independent analysis through carefully choreographed messaging.
 capture_lanes:

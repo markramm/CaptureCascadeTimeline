@@ -1,6 +1,6 @@
 ---
 date: '2025-01-20'
-title: JD Vance Sworn In as 50th Vice President, Positioned for Potential Constitutional Crisis Management
+title: 'JD Vance Sworn In as 50th Vice President, Positioned for Potential Constitutional Crisis Management'
 importance: 9
 status: confirmed
 actors:
@@ -13,16 +13,19 @@ actors:
 sources:
 - outlet: Reuters
   title: JD Vance Sworn In as Vice President
-  url: https://reuters.screenocean.com/record/1902759
+  url: 'https://reuters.screenocean.com/record/1902759'
   access_date: '2025-09-17'
+  tier: 1
 - outlet: NBC News
   title: 'Watch: JD Vance Is Sworn In as Vice President'
-  url: https://www.nbcnews.com/now/video/watch-jd-vance-is-sworn-in-as-vice-president-229771333607
+  url: 'https://www.nbcnews.com/now/video/watch-jd-vance-is-sworn-in-as-vice-president-229771333607'
   access_date: '2025-09-17'
+  tier: 1
 - outlet: CBS News
-  title: Here's Who Is Swearing In Trump and Vance at the 2025 Inauguration
-  url: https://www.cbsnews.com/news/who-is-swearing-trump-vance-in-2025/
+  title: 'Here''s Who Is Swearing In Trump and Vance at the 2025 Inauguration'
+  url: 'https://www.cbsnews.com/news/who-is-swearing-trump-vance-in-2025/'
   access_date: '2025-09-17'
+  tier: 1
 tags:
 - succession-risk
 - jd-vance
@@ -36,9 +39,8 @@ capture_lanes:
 - Democratic Erosion
 - Judicial Capture
 - Executive Power Expansion
-location: U.S. Capitol Rotunda, Washington, D.C.
+location: 'U.S. Capitol Rotunda, Washington, D.C.'
 ---
-
 JD Vance is inaugurated as the 50th Vice President of the United States on January 20, 2025, sworn in by Supreme Court Justice Brett Kavanaugh in an indoor ceremony at the U.S. Capitol Rotunda. At 40 years old, Vance becomes the third-youngest VP in history, the first Millennial generation VP, and the first Marine Corps veteran to hold the office.
 
 Key Developments:

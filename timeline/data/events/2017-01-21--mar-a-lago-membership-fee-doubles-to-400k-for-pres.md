@@ -21,14 +21,17 @@ sources:
   url: https://www.cnbc.com/2017/01/25/mar-a-lago-membership-fee-doubles-to-400000.html
   outlet: CNBC
   date: '2017-01-25'
+  tier: 2
 - title: The Swamp That Trump Built at Mar-a-Lago
   url: https://www.nytimes.com/2019/03/16/us/mar-a-lago-trump.html
   outlet: The New York Times
   date: '2019-03-16'
+  tier: 1
 - title: Chinese woman with malware arrested at Mar-a-Lago
   url: https://www.bbc.com/news/world-us-canada-47787753
   outlet: BBC
   date: '2019-04-02'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

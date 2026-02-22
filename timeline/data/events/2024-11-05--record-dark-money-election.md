@@ -26,14 +26,17 @@ sources:
   url: https://www.brennancenter.org/our-work/analysis-opinion/dark-money-2024-elections
   outlet: Brennan Center for Justice
   date: '2024-11-06'
+  tier: 1
 - title: Wall Street giants funneled $171 million to Project 2025 groups
   url: https://www.desmog.com/2024/11/07/wall-street-project-2025-dark-money/
   outlet: DeSmog
   date: '2024-11-07'
+  tier: 2
 - title: Dark money contributions to super PACs exceed two previous cycles combined
   url: https://www.washingtonpost.com/politics/2024/11/08/dark-money-super-pacs-record/
   outlet: The Washington Post
   date: '2024-11-08'
+  tier: 1
 notes: Nearly double previous record. Shell companies used extensively to hide ultimate funding sources. Donor-advised funds provide complete anonymity while claiming tax benefits.
 ---
 

@@ -3,7 +3,7 @@ id: 2025-12-04--american-alliance-equal-rights-sues-hispanic-scholarship-fund
 date: '2025-12-04'
 importance: 8
 title: American Alliance for Equal Rights Sues Hispanic Scholarship Fund Seeking to Eliminate Race-Conscious Scholarships
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - American Alliance for Equal Rights
 - Edward Blum
@@ -23,34 +23,38 @@ capture_lanes:
 - Civil Rights Suppression
 sources:
 - title: American Alliance for Equal Rights Sues Hispanic Scholarship Fund for Excluding Non-Hispanic Students from Flagship Scholarship Program
-  url: https://www.prnewswire.com/news-releases/american-alliance-for-equal-rights-sues-hispanic-scholarship-fund-for-excluding-non-hispanic-students-from-flagship-scholarship-program-302632129.html
+  url: 'https://www.prnewswire.com/news-releases/american-alliance-for-equal-rights-sues-hispanic-scholarship-fund-for-excluding-non-hispanic-students-from-flagship-scholarship-program-302632129.html'
   outlet: PR Newswire
   date: '2025-12-03'
+  tier: 2
   archive_url: null
-- title: Lawsuit Challenges a Nonprofit's Scholarships for Hispanic Students
-  url: https://dnyuz.com/2025/12/03/lawsuit-challenges-a-nonprofits-scholarships-for-hispanic-students/
+- title: 'Lawsuit Challenges a Nonprofit''s Scholarships for Hispanic Students'
+  url: 'https://dnyuz.com/2025/12/03/lawsuit-challenges-a-nonprofits-scholarships-for-hispanic-students/'
   outlet: DN Yuz
   date: '2025-12-03'
   archive_url: null
+  tier: 2
 - title: Lawsuit - Hispanic Scholarship Fund Illegally Discriminates
-  url: https://www.insidehighered.com/news/students/financial-aid/2025/12/05/lawsuit-hispanic-scholarship-fund-illegally-discriminates
+  url: 'https://www.insidehighered.com/news/students/financial-aid/2025/12/05/lawsuit-hispanic-scholarship-fund-illegally-discriminates'
   outlet: Inside Higher Ed
   date: '2025-12-05'
   archive_url: null
+  tier: 2
 - title: Anti-DEI Group Seeks to Void Hispanic Scholarship Fund Criteria
-  url: https://news.bloomberglaw.com/litigation/anti-dei-group-seeks-to-void-hispanic-scholarship-fund-criteria
+  url: 'https://news.bloomberglaw.com/litigation/anti-dei-group-seeks-to-void-hispanic-scholarship-fund-criteria'
   outlet: Bloomberg Law
   date: '2025-12-04'
   archive_url: null
-- title: A Talented Student, But the Wrong Ancestry - Why We Filed Suit Against the Hispanic Scholarship Fund
-  url: https://freebeacon.com/campus/a-talented-student-but-the-wrong-ancestry-why-we-filed-suit-against-the-hispanic-scholarship-fund/
+  tier: 2
+- title: 'A Talented Student, But the Wrong Ancestry - Why We Filed Suit Against the Hispanic Scholarship Fund'
+  url: 'https://freebeacon.com/campus/a-talented-student-but-the-wrong-ancestry-why-we-filed-suit-against-the-hispanic-scholarship-fund/'
   outlet: Washington Free Beacon
   date: '2025-12-04'
   archive_url: null
-notes: American Alliance for Equal Rights filed federal lawsuit December 3, 2025 in D.C. District Court against Hispanic Scholarship Fund challenging HSF Scholars Program eligibility limited to Hispanic heritage students. Founded by Edward Blum who created Students for Fair Admissions. Employs Reconstruction-era Civil Rights Act of 1866 prohibiting racial discrimination in contracts. Plaintiffs include unnamed Asian American and white individuals. HSF distributes $500-5000 scholarships to 10,000 students annually, $756 million over 50 years. Lawsuit part of broader campaign with approximately 20 suits filed since 2023 Supreme Court affirmative action ruling targeting race-conscious programs.
+  tier: 2
+notes: 'American Alliance for Equal Rights filed federal lawsuit December 3, 2025 in D.C. District Court against Hispanic Scholarship Fund challenging HSF Scholars Program eligibility limited to Hispanic heritage students. Founded by Edward Blum who created Students for Fair Admissions. Employs Reconstruction-era Civil Rights Act of 1866 prohibiting racial discrimination in contracts. Plaintiffs include unnamed Asian American and white individuals. HSF distributes $500-5000 scholarships to 10,000 students annually, $756 million over 50 years. Lawsuit part of broader campaign with approximately 20 suits filed since 2023 Supreme Court affirmative action ruling targeting race-conscious programs.'
 status: confirmed
 ---
-
 The American Alliance for Equal Rights (AAER) filed a federal civil rights lawsuit on December 3, 2025, in the U.S. District Court for the District of Columbia against the Hispanic Scholarship Fund (HSF), challenging the organization's flagship "HSF Scholars Program" on grounds that limiting eligibility to students "who identify as being of Hispanic Heritage" violates the Civil Rights Act of 1866 by excluding Asian, white, Black, and other non-Hispanic applicants from consideration. The organization, founded and led by Edward Blum—the conservative legal strategist who orchestrated the successful 2023 Supreme Court challenge to affirmative action in college admissions through Students for Fair Admissions—represents the latest front in a coordinated nationwide campaign to dismantle race-conscious programs and diversity, equity, and inclusion (DEI) initiatives through aggressive litigation that weaponizes civil rights laws originally designed to protect minorities against discrimination. The lawsuit seeks to bar HSF from considering ethnicity in any way in its scholarship program, threatening the organization's 50-year mission of addressing educational inequities facing Hispanic students and establishing legal precedent that could devastate private scholarship programs, fellowships, and support structures designed to address historic and ongoing barriers to educational access for underrepresented communities.
 
 The American Alliance for Equal Rights filed its complaint seeking injunctive and declaratory relief to prohibit HSF from "knowing or considering ethnicity in any way" in its HSF Scholars Program, which annually distributes scholarships ranging from $500 to $5,000 to approximately 10,000 students. According to HSF, the organization has distributed over $756 million in scholarships during its 50-year history, providing critical financial support that has enabled hundreds of thousands of Hispanic students to access and complete college education despite significant economic and systemic barriers that disproportionately affect Hispanic families.

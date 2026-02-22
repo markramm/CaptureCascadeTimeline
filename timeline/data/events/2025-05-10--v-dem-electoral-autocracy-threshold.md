@@ -20,14 +20,17 @@ sources:
   url: https://www.v-dem.net/publications/democracy-report-2025-q2
   outlet: V-Dem Institute
   date: '2025-05-10'
+  tier: 2
 - title: Academic institute warns of U.S. electoral autocracy
   url: https://www.reuters.com/world/americas/v-dem-us-electoral-autocracy-warning-2025-05-10
   outlet: Reuters
   date: '2025-05-10'
+  tier: 1
 - title: 'Autocracies Outnumber Democracies for the First Time in 20 Years: V-Dem'
   url: https://www.democracywithoutborders.org/36317/autocracies-outnumber-democracies-for-the-first-time-in-20-years-v-dem/
   outlet: Democracy Without Borders
   date: '2025-03-25'
+  tier: 2
 notes: V-Dem's data shows U.S. following Hungary's 2010-2020 autocratization pattern
   but at 5x speed
 status: confirmed

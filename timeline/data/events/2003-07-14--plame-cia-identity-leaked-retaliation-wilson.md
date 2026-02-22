@@ -23,26 +23,32 @@ sources:
   url: https://www.washingtonpost.com/archive/opinions/2003/07/14/mission-to-niger/42dea87d-c4f1-4bb1-a16c-b17b20958aab/
   outlet: The Washington Post
   date: '2003-07-14'
+  tier: 1
 - title: What I Didn't Find in Africa
   url: https://www.nytimes.com/2003/07/06/opinion/what-i-didn-t-find-in-africa.html
   outlet: The New York Times
   date: '2003-07-06'
+  tier: 1
 - title: CIA Agent's Identity Was Blown by Novak
   url: https://www.washingtonpost.com/archive/politics/2003/09/28/cia-agents-identity-was-blown-by-novak/96ab0f6f-e4f2-4a1d-8e8c-b7c8a9b5f1a8/
   outlet: The Washington Post
   date: '2003-09-28'
+  tier: 1
 - title: Leak of Agent's Name Causes Exposure of CIA Front Firm
   url: https://www.washingtonpost.com/archive/politics/2003/10/04/leak-of-agents-name-causes-exposure-of-cia-front-firm/6e4e3ea6-2c8a-4e1c-8f4a-2c4f1e6b3a2c/
   outlet: The Washington Post
   date: '2003-10-04'
+  tier: 1
 - title: Libby Guilty of Lying in C.I.A. Leak Case
   url: https://www.nytimes.com/2007/03/07/washington/07libby.html
   outlet: The New York Times
   date: '2007-03-06'
+  tier: 1
 - title: 'The Plame Affair: A Chronology'
   url: https://www.washingtonpost.com/wp-srv/politics/special/plame/plame_timeline.html
   outlet: The Washington Post
   date: '2007-07-03'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

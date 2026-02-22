@@ -19,14 +19,17 @@ sources:
   outlet: Journal of Health Politics, Policy and Law
   url: https://academic.oup.com/jhppl
   date: '2005-01-01'
+  tier: 1
 - title: The Implementation of Prospective Payment for Medicare
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '1984-01-01'
+  tier: 1
 - title: Social Security Amendments of 1983
   outlet: Congress.gov
   url: https://www.congress.gov/bill/98th-congress/house-bill/1900
   date: '1983-04-20'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 status: confirmed

@@ -23,30 +23,37 @@ sources:
   url: https://abcnews.go.com/US/cfpb-official-testifies-doges-chaotic-attempts-dismantle-agency/story?id=119651855
   outlet: ABC News
   date: '2025-03-10'
+  tier: 1
 - title: Judge blocks dismantling of Consumer Financial Protection Bureau, orders reinstatement
   url: https://abcnews.go.com/Politics/judge-blocks-dismantling-consumer-financial-protection-bureau-orders/story?id=120277275
   outlet: ABC News
   date: '2025-03-12'
+  tier: 1
 - title: Judge orders halt to mass firings at Consumer Financial Protection Bureau
   url: https://abcnews.go.com/Politics/judge-orders-halt-mass-firings-consumer-financial-protection/story?id=120951391
   outlet: ABC News
   date: '2025-03-20'
+  tier: 1
 - title: Trump administration reinstating almost 25,000 fired workers after court order
   url: https://www.reuters.com/legal/trump-administration-reinstating-24500-fired-workers-after-court-order-2025-03-18/
   outlet: Reuters
   date: '2025-03-18'
+  tier: 1
 - title: US judges order Trump administration to reinstate fired federal workers
   url: https://www.reuters.com/world/us/us-judge-extend-block-trump-administration-ordering-mass-firings-2025-03-13/
   outlet: Reuters
   date: '2025-03-13'
+  tier: 1
 - title: Judges order Trump officials to offer jobs back to thousands of fired workers
   url: https://www.washingtonpost.com/dc-md-va/2025/03/13/trump-probationary-federal-worker-firings-judge-ruling/
   outlet: The Washington Post
   date: '2025-03-13'
+  tier: 1
 - title: Court Orders CFPB to Reinstate Employees and Resume Operations
   url: https://www.consumerfinancialserviceslawmonitor.com/2025/03/court-orders-cfpb-to-reinstate-employees-and-resume-operations-cfpb-promptly-files-appeal/
   outlet: Consumer Financial Services Law Monitor
   date: '2025-03-14'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

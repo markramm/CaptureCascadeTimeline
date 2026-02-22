@@ -26,14 +26,17 @@ sources:
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/swiss-national-bank-bought-trump-media-shares/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   date: '2025-01-31'
+  tier: 2
 - title: SEC disclosure shows Swiss National Bank DJT holdings
   url: https://www.sec.gov/Archives/edgar/data/0001281479/000128147925000002/xslForm13F_X02/20250131_SWISS_NATIONAL_BANK_13F.xml
   outlet: SEC EDGAR
   date: '2025-01-31'
+  tier: 1
 - title: Swiss National Bank Investment in Trump Media Raises Emoluments Concerns
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/swiss-national-bank-bought-trump-media-shares/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   date: '2025-02-10'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

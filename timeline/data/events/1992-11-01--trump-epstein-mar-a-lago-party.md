@@ -19,14 +19,17 @@ sources:
   outlet: NBC News
   date: '2019-07-17'
   url: https://www.nbcnews.com/news/us-news/tape-shows-donald-trump-jeffrey-epstein-discussing-women-1992-party-n1030686
+  tier: 1
 - title: Trump-Jeffrey Epstein video from 1992 shows them partying together at Mar-a-Lago
   outlet: The Washington Post
   date: '2019-07-17'
   url: https://www.washingtonpost.com/politics/trump-seen-surrounded-by-cheerleaders-at-a-1992-party-with-jeffrey-epstein/2019/07/17/539d5550-a89e-11e9-9214-246e594de5d5_story.html
+  tier: 1
 - title: Donald Trump and Jeffrey Epstein partied together. Then an oceanfront Palm Beach mansion came between them.
   outlet: The Washington Post
   date: '2019-07-31'
   url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
+  tier: 1
 notes: The footage was shot by NBC for Faith Daniels' talk show "A Closer Look" profiling Trump's lifestyle after his divorce from Ivana. About 15-20 cheerleaders spent the night at Mar-a-Lago. The video was unearthed from NBC archives and aired publicly in July 2019 following Epstein's federal sex trafficking charges, contradicting Trump's later attempts to minimize their relationship.
 ---
 

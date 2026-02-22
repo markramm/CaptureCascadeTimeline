@@ -23,14 +23,17 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/04/11/doge-controls-federal-grant-postings/
   outlet: The Washington Post
   date: '2025-04-11'
+  tier: 1
 - title: Treasury Dept. gives Elon Musk's team access to federal payment system
   url: https://abcnews.go.com/US/treasury-dept-elon-musks-team-access-federal-payment/story?id=118380399
   outlet: ABC News
   date: '2025-04-11'
+  tier: 1
 - title: Elon Musk's 19- to 24-year-old aides take control of $6 trillion in government payments
   url: https://fortune.com/2025/02/03/elon-musk-19-24-year-old-aides-take-control-6-trillion-government-payment-system-social-security-medicare/
   outlet: Fortune
   date: '2025-04-11'
+  tier: 2
 connections:
 - Musk government contract network
 - Federal payment system infiltration

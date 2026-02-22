@@ -9,17 +9,20 @@ actors:
 importance: 7
 sources:
 - outlet: CNBC
-  title: Tesla has bought aluminum from Russian company Rusal since 2020, showing how war complicates supply chain
-  url: https://www.cnbc.com/2022/03/14/tesla-has-bought-aluminum-from-russian-supplier-rusal-since-2020.html
+  title: 'Tesla has bought aluminum from Russian company Rusal since 2020, showing how war complicates supply chain'
+  url: 'https://www.cnbc.com/2022/03/14/tesla-has-bought-aluminum-from-russian-supplier-rusal-since-2020.html'
   date: '2022-03-14'
+  tier: 2
 - outlet: Benzinga
   title: Tesla Has Been Buying Aluminum From Russian Supplier Founded By Sanctioned Oligarch Since 2020
-  url: https://www.benzinga.com/news/22/03/26135346/tesla-has-been-buying-aluminum-from-russian-supplier-founded-by-sanctioned-oligarch-since-2020-repor
+  url: 'https://www.benzinga.com/news/22/03/26135346/tesla-has-been-buying-aluminum-from-russian-supplier-founded-by-sanctioned-oligarch-since-2020-repor'
   date: '2022-03-26'
+  tier: 2
 - outlet: Supply Chain Council of European Union
   title: Tesla Aluminum Procurement from Rusal in Context of European Supply Chains
-  url: https://scceu.org/tesla-has-bought-aluminum-from-russian-supplier-rusal-since-2020/
+  url: 'https://scceu.org/tesla-has-bought-aluminum-from-russian-supplier-rusal-since-2020/'
   date: '2022-03-15'
+  tier: 2
 tags:
 - tesla-russia
 - sanctions-violations
@@ -33,5 +36,4 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 ---
-
 Tesla began sourcing aluminum from Rusal, a Russian metals company founded by oligarch Oleg Deripaska, in late 2020 for its German Giga Berlin manufacturing plant. The procurement occurred after US sanctions against Rusal were lifted in 2019, with Tesla purchasing millions of euros worth of aluminum through a complex international payment structure involving German, Swiss, and Austrian financial entities. The aluminum was specifically used for casting body shells for the Tesla Model Y, highlighting the intricate global supply chain dynamics in the automotive industry.

@@ -25,6 +25,7 @@ sources:
 - title: 'From wooden shack to global media magnate: The rise and fall of Robert Maxwell'
   url: https://www.timesofisrael.com/from-wooden-shack-to-global-media-magnate-the-rise-and-fall-of-robert-maxwell/
   outlet: Times of Israel
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Maxwell acquired Macmillan publishers in 1988
@@ -38,6 +39,7 @@ sources:
   - Maxwell Communications Corporation borrowed $3 billion
   - Acquired Macmillan Publishers and Official Airline Guides
   - Expanded media empire across multiple continents
+  tier: 2
 - title: 'Britain: Death of A Tycoon'
   url: https://time.com/archive/6719003/britain-death-of-a-tycoon/
   outlet: TIME
@@ -46,6 +48,7 @@ sources:
   - Maxwell's acquisition was motivated by rivalry with Rupert Murdoch
   - Purchased Macmillan at nearly $1 billion over its estimated value
   - Contributed to massive corporate debt
+  tier: 1
 status: confirmed
 ---
 

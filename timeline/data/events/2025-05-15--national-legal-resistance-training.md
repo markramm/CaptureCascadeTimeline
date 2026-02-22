@@ -10,16 +10,19 @@ actors:
 sources:
 - outlet: National Association of Criminal Defense Lawyers
   title: Public Defense Training Programs Overview
-  url: https://www.nacdl.org/Content/PublicDefenseTrainingPrograms
+  url: 'https://www.nacdl.org/Content/PublicDefenseTrainingPrograms'
   retrieved: '2025-10-14'
+  tier: 2
 - outlet: U.S. Department of Justice
   title: Federal Funding Opportunities for Public Defense Providers
-  url: https://www.justice.gov/atj/pd-hub/selected-federal-funding-opportunities-public-defense-providers
+  url: 'https://www.justice.gov/atj/pd-hub/selected-federal-funding-opportunities-public-defense-providers'
   retrieved: '2025-10-14'
+  tier: 1
 - outlet: Defender Services Office
   title: Training Division Resources
-  url: https://www.fd.org/training-events
+  url: 'https://www.fd.org/training-events'
   retrieved: '2025-10-14'
+  tier: 2
 tags:
 - legal-training
 - coordinated-litigation
@@ -31,5 +34,4 @@ capture_lanes:
 - Judicial Capture
 status: confirmed
 ---
-
 First nationwide training program established to equip attorneys with advanced strategies for combating institutional overreach. 672 attorneys from 49 states complete intensive 2-week training on constitutional defense, strategic litigation, and resistance methodologies, supported by federal funding initiatives and professional legal organizations.

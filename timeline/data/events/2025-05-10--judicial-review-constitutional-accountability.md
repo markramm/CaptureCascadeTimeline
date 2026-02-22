@@ -22,21 +22,23 @@ capture_lanes:
 status: confirmed
 sources:
 - outlet: Constitutional Accountability Center
-  title: Moore v. Harper, Evasion, and the Ordinary Bounds of Judicial Review
-  url: https://www.theusconstitution.org/think_tank/moore-v-harper-evasion-and-the-ordinary-bounds-of-judicial-review/
+  title: 'Moore v. Harper, Evasion, and the Ordinary Bounds of Judicial Review'
+  url: 'https://www.theusconstitution.org/think_tank/moore-v-harper-evasion-and-the-ordinary-bounds-of-judicial-review/'
   access_date: '2025-10-06'
+  tier: 2
 - outlet: Boston College Law Review
   title: Judicial Review and Constitutional Accountability in the Post-2020 Era
-  url: https://www.theusconstitution.org/think_tank/moore-v-harper-evasion-and-the-ordinary-bounds-of-judicial-review/
+  url: 'https://www.theusconstitution.org/think_tank/moore-v-harper-evasion-and-the-ordinary-bounds-of-judicial-review/'
   publication_date: '2025-04-29'
   publication_volume: 66 B.C. L. Rev. 1295
+  tier: 2
 - outlet: NPR
   title: Are We In a Constitutional Crisis? Expert Analysis on Judicial Review
-  url: https://www.npr.org/2025/02/11/1230674436/are-we-in-a-constitutional-crisis
+  url: 'https://www.npr.org/2025/02/11/1230674436/are-we-in-a-constitutional-crisis'
   access_date: '2025-10-15'
   key_experts:
-  - Amanda Frost, UVA Law Professor
-  - Kristin Hickman, University of Minnesota Law School
+  - 'Amanda Frost, UVA Law Professor'
+  - 'Kristin Hickman, University of Minnesota Law School'
+  tier: 1
 ---
-
 A consortium of constitutional law experts published a comprehensive analysis revealing systematic undermining of judicial review processes. The report documented unprecedented instances of executive branch noncompliance with court orders, highlighting a critical breakdown in the traditional checks and balances system. Scholars argued that the current judicial mechanisms are inadequate to enforce constitutional accountability. Multiple expert analyses, including from NPR, confirmed escalating tensions between the executive and judicial branches, with experts like Amanda Frost from UVA Law describing the situation as a 'constitutional stress test'.

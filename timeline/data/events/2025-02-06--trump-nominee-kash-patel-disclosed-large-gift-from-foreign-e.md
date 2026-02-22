@@ -23,18 +23,22 @@ sources:
   url: https://accountable.us/wp-content/uploads/2025/02/A.US-Kash-Patel-Profited-Millions-Consulting-For-The-Owner-Of-Shein.pdf
   outlet: Accountable US
   date: '2025-02-06'
+  tier: 1
 - title: Sen. Schiff Demands Answers on Foreign Financial Ties
   url: https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-demands-answers-from-kash-patel-on-foreign-financial-ties-and-entanglements
   outlet: Senator Adam Schiff Official Website
   date: '2025-02-06'
+  tier: 1
 - title: Trump Pick Kash Patel Accused of 'Truly Shocking' China Scandal
   url: https://www.rawstory.com/kash-patel-china/
   outlet: Raw Story
   date: '2025-02-06'
+  tier: 3
 - title: Trump nominee Kash Patel disclosed large gift from foreign entity
   url: https://www.wired.com/story/kash-patel-elite-depot-shein/
   outlet: WIRED
   date: '2025-02-06'
+  tier: 2
 connections:
 - Potential conflict of interest with foreign corporation
 - Allegations of human rights violations

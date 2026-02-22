@@ -4,17 +4,17 @@ actors:
 - Mark Zuckerberg
 - Meta Corporation
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Corporate Capture
 capture_type: monetizing_position
 connections:
 - January 6 Capitol Attack
 - Social Media Platform Censorship
 date: '2025-01-29'
-description: Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection, with most of the funds going to his presidential library
+description: 'Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection, with most of the funds going to his presidential library'
 id: 2025-01-29--meta-agrees-to-pay-25-million-to-settle-trump-lawsuit-over-s
 importance: 8
-location: Washington, D.C.
+location: 'Washington, D.C.'
 notes: Settlement highlights complex media capture dynamics and corporate political appeasement
 patterns:
 - kleptocratic-capture
@@ -22,16 +22,19 @@ patterns:
 sources:
 - date: '2025-01-29'
   outlet: NPR
-  title: Meta agrees to pay $25 million to settle Trump's lawsuit over Facebook, Instagram suspensions
-  url: https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions
+  title: 'Meta agrees to pay $25 million to settle Trump''s lawsuit over Facebook, Instagram suspensions'
+  url: 'https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions'
+  tier: 1
 - date: '2025-01-29'
   outlet: CNBC
   title: Meta agrees to pay $25 million in Trump lawsuit settlement over suspended accounts
-  url: https://www.cnbc.com/2025/01/29/meta-agrees-to-pay-25-million-in-trump-lawsuit-settlement-over-suspended-accounts.html
+  url: 'https://www.cnbc.com/2025/01/29/meta-agrees-to-pay-25-million-in-trump-lawsuit-settlement-over-suspended-accounts.html'
+  tier: 2
 - date: '2025-01-29'
   outlet: Al Jazeera
   title: Meta agrees $25m payout to Trump over suspended accounts
-  url: https://www.aljazeera.com/news/2025/1/30/meta-agrees-25m-payout-to-trump-over-suspended-accounts
+  url: 'https://www.aljazeera.com/news/2025/1/30/meta-agrees-25m-payout-to-trump-over-suspended-accounts'
+  tier: 1
 status: confirmed
 tags:
 - media-control
@@ -41,5 +44,4 @@ tags:
 - first-amendment
 title: Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts
 ---
-
 Meta settled a lawsuit brought by Donald Trump for $25 million over his social media account suspensions following the January 6 Capitol attack. Most of the settlement, approximately $22 million, will go to Trump's presidential library. Critics like Senator Elizabeth Warren view the settlement as a form of corporate appeasement.

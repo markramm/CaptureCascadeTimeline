@@ -16,14 +16,17 @@ sources:
   outlet: SourceWatch
   date: '2002-09-01'
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
+  tier: 2
 - title: 'Get Me Rewrite: White House Talking Points on Iraq'
   outlet: ABC News
   date: '2014-06-01'
   url: https://abcnews.go.com/blogs/politics/2014/06/get-me-rewrite-white-house-talking-points-on-iraq-and-al-qaeda
+  tier: 1
 - title: Records Could Shed Light on Iraq Group
   outlet: The Washington Post
   date: '2008-06-09'
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration

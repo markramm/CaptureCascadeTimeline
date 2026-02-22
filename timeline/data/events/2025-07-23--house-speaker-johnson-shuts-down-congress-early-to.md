@@ -19,14 +19,17 @@ sources:
   url: https://www.npr.org/2025/07/23/nx-s1-5476247/house-speaker-johnson-calls-for-early-summer-recess-to-avoid-vote-on-epstein-files
   outlet: NPR
   date: '2025-07-23'
+  tier: 1
 - title: Johnson blocks Epstein transparency vote with early recess
   url: https://www.cnn.com/2025/07/23/politics/johnson-house-early-recess-epstein
   outlet: CNN
   date: '2025-07-23'
+  tier: 1
 - title: House sent home early as Epstein files vote looms
   url: https://www.washingtonpost.com/politics/2025/07/23/house-recess-epstein-files
   outlet: The Washington Post
   date: '2025-07-23'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

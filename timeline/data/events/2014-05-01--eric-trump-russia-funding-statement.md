@@ -19,14 +19,17 @@ sources:
   url: https://redstate.com/sweetie15/2017/05/07/eric-trump-golf-writer-2014-dont-rely-american-banks-n71467
   outlet: RedState
   date: '2017-05-07'
+  tier: 3
 - title: We Don't Rely On American Banks, We Have All The Funding We Need Out Of Russia
   url: https://samuel-warde.com/2018/03/eric-trump-golf-resorts-dont-rely-american-banks-funding-need-russia/
   outlet: Samuel Warde
   date: '2018-03-01'
+  tier: 2
 - title: Business projects of Donald Trump in Russia
   url: https://en.wikipedia.org/wiki/Business_projects_of_Donald_Trump_in_Russia
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 notes: 'Originally reported by WBUR Boston public radio based on James Dodson''s account.
   The
 

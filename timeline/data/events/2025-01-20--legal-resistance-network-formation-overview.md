@@ -13,12 +13,15 @@ sources:
 - title: 'Introducing the Pro Bono Litigation Corps: A New Force in the Fight for Justice'
   url: https://www.lawyersforgoodgovernment.org/blog/2025/7/21/introducing-the-pro-bono-litigation-corps-a-new-force-in-the-fight-for-justice
   outlet: Lawyers for Good Government
+  tier: 2
 - title: Pro Bono | Civil Rights Litigation in 2025
   url: https://www.lawyerscommittee.org/project/pro-bono/
   outlet: Lawyers' Committee for Civil Rights
+  tier: 2
 - title: ACLU Strategic Litigation Network Overview
   url: https://www.aclu.org/
   outlet: American Civil Liberties Union
+  tier: 1
 tags:
 - legal-resistance
 - pro-bono-litigation

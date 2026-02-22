@@ -31,14 +31,17 @@ sources:
   url: https://georgewbush-whitehouse.archives.gov/news/releases/2003/05/20030501-15.html
   outlet: White House Archives
   date: '2003-05-01'
+  tier: 1
 - title: 'Crisis and Leviathan: Critical Episodes in the Growth of American Government'
   url: https://www.amazon.com/Crisis-Leviathan-Critical-Episodes-Government/dp/0195069161
   outlet: Oxford University Press
   date: '1987-06-18'
+  tier: 2
 - title: 'The Shock Doctrine: The Rise of Disaster Capitalism'
   url: https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999
   outlet: Metropolitan Books
   date: '2007-09-18'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Financial Capture

@@ -15,14 +15,17 @@ sources:
   title: Recovery from the Asian Crisis and the Role of the IMF
   url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
   access_date: '2025-10-06'
+  tier: 1
 - outlet: Bloomberg
   title: McKinsey Sees 'Ominous' Signs of Another Asian Debt Crisis
   url: https://www.bloomberg.com/news/articles/2019-08-20/omens-of-another-asian-debt-crisis-seen-by-mckinsey-in-stresses
   access_date: '2025-10-06'
+  tier: 1
 - outlet: IMF
   title: 'The Asian Crisis: Causes, Policy Responses, and Outcomes'
   url: https://www.imf.org/external/pubs/ft/wp/1999/wp99138.pdf
   access_date: '2025-10-15'
+  tier: 1
 tags:
 - mckinsey
 - consulting

@@ -21,17 +21,20 @@ sources:
   url: https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/
   outlet: BillMoyers.com
   date: '2011-09-14'
+  tier: 2
   verified: true
 - title: 'The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy'
   url: https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/
   outlet: Greenpeace USA
   date: '2021-08-23'
   verified: true
+  tier: 1
 - title: 'Lewis Powell memo: notes to the Chamber of Commerce'
   url: https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html
   outlet: Slate
   date: '2021-08-23'
   verified: true
+  tier: 2
 notes: The memo was leaked just over a year after Powell wrote it, and nine months after he joined the Supreme Court. The public exposure revealed the systematic corporate strategy for institutional capture that was already being implemented through Heritage Foundation and other initiatives. Anderson's syndicated column "Washington Merry Go Round" broke the story on September 28-29, 1972.
 status: confirmed
 ---

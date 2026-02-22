@@ -22,14 +22,17 @@ sources:
   url: https://oig.justice.gov/sites/default/files/archive/special/s0809a/final.pdf
   outlet: DOJ Inspector General
   date: '2008-09-29'
+  tier: 1
 - title: 'Timeline: Behind the Firing of Eight U.S. Attorneys'
   url: https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys
   outlet: NPR
   date: '2007-04-15'
+  tier: 1
 - title: Gonzales Resigns as Attorney General
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html
   outlet: The Washington Post
   date: '2007-08-27'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

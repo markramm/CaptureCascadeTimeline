@@ -20,6 +20,7 @@ sources:
   url: https://www.britannica.com/topic/GI-Bill-of-Rights
   outlet: Britannica
   date: '2024-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: GI Bill - National Archives
@@ -47,9 +48,11 @@ sources:
 - title: G.I. Bill
   url: https://en.wikipedia.org/wiki/G.I._Bill
   outlet: Wikipedia
+  tier: 2
 - title: 'Research Starters: The GI Bill'
   url: https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-gi-bill
   outlet: National WWII Museum
+  tier: 2
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

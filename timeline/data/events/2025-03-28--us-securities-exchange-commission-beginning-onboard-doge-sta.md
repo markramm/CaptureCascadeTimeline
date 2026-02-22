@@ -25,14 +25,17 @@ sources:
   url: https://www.sidley.com/en/insights/newsupdates/2025/08/sec-announces-launch-of-project-crypto
   outlet: Sidley Austin LLP
   date: '2025-08-01'
+  tier: 2
 - title: SEC's New Crypto 2.0 Task Force Gets to Work
   url: https://www.hklaw.com/en/insights/publications/2025/02/at-the-same-time-division-of-enforcements-own-crypto-unit
   outlet: Holland & Knight
   date: '2025-02-01'
+  tier: 2
 - title: 'SEC''s Newly Established Crypto Task Force: An Ambitious Agenda to Fill in the Gaps'
   url: https://www.carltonfields.com/insights/publications/2025/secs-newly-established-crypto-task-force
   outlet: Carlton Fields
   date: '2025-03-28'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

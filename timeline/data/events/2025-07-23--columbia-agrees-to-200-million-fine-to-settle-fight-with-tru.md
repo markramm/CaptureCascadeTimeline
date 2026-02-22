@@ -19,26 +19,32 @@ sources:
   url: https://www.nytimes.com/2025/07/23/nyregion/columbia-trump-funding-deal.html
   outlet: The New York Times
   date: '2025-07-23'
+  tier: 1
 - title: Columbia Agrees to $200 Million Fine to Settle Trump Administration Fight
   url: https://www.bloomberg.com/news/articles/2025-07-23/columbia-agrees-to-200-million-fine-to-settle-white-house-fight
   outlet: Bloomberg
   date: '2025-07-23'
+  tier: 1
 - title: Columbia agrees to pay over $220 million in deal with Trump administration to restore federal funding
   url: https://www.cnn.com/2025/07/23/politics/columbia-trump-administration-settlement-federal-funding
   outlet: CNN
   date: '2025-07-23'
+  tier: 1
 - title: What we know about Columbia's $221 million settlement with the Trump administration
   url: https://www.npr.org/2025/07/25/nx-s1-5479240/columbia-trump-administration-settlement-details
   outlet: NPR
   date: '2025-07-25'
+  tier: 1
 - title: Columbia to pay $200 million fine to settle Trump administration dispute
   url: https://www.axios.com/2025/07/24/columbia-trump-federal-funding-deal
   outlet: Axios
   date: '2025-07-24'
+  tier: 2
 - title: What's in the $200m deal Trump has struck with Columbia University?
   url: https://www.aljazeera.com/news/2025/7/24/whats-in-the-200m-deal-trump-has-struck-with-columbia-university
   outlet: Al Jazeera
   date: '2025-07-24'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

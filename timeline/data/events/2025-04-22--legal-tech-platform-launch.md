@@ -25,18 +25,20 @@ capture_lanes:
 sources:
 - outlet: LawSites
   title: Paladin Collaborates with Some 30 Law Schools to Launch A Pro Bono Platform for Law Students
-  url: https://www.lawnext.com/2025/06/paladin-collaborates-with-some-30-law-schools-to-launch-a-pro-bono-platform-for-law-students.html
+  url: 'https://www.lawnext.com/2025/06/paladin-collaborates-with-some-30-law-schools-to-launch-a-pro-bono-platform-for-law-students.html'
   date_accessed: '2025-10-07'
+  tier: 2
 - outlet: Lawyers for Good Government
   title: 'Introducing the Pro Bono Litigation Corps: A New Force in the Fight for Justice'
-  url: https://www.lawyersforgoodgovernment.org/blog/2025/7/21/introducing-the-pro-bono-litigation-corps-a-new-force-in-the-fight-for-justice
+  url: 'https://www.lawyersforgoodgovernment.org/blog/2025/7/21/introducing-the-pro-bono-litigation-corps-a-new-force-in-the-fight-for-justice'
   date_accessed: '2025-10-07'
+  tier: 2
 - date_accessed: '2025-10-14'
   outlet: Law360 Pulse
-  title: Pro Bono 'Corps' Mobilizes Small Firms As BigLaw Pulls Back
-  url: https://www.law360.com/pulse/articles/2367768
+  title: 'Pro Bono ''Corps'' Mobilizes Small Firms As BigLaw Pulls Back'
+  url: 'https://www.law360.com/pulse/articles/2367768'
   key_quote: An untapped resource in pro bono litigation mobilized amid challenges faced by larger law firms
+  tier: 2
 status: confirmed
 ---
-
 Two major legal technology platforms launch to support pro bono litigation and legal resistance: The Pro Bono Litigation Corps by Lawyers for Good Government (L4GG) and Paladin's Pro Bono Platform. These initiatives enable attorneys and law students to coordinate strategic litigation and access critical legal support tools, with a focus on constitutional challenges, civil rights, and environmental justice. The Pro Bono Litigation Corps provides malpractice insurance, administrative support, and legal research tools to help small firms and solo practitioners take on high-impact cases, particularly in response to the challenging legal environment under the Trump administration.

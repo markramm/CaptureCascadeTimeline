@@ -1,8 +1,8 @@
 ---
 id: 2022-04-01--thiel-funds-vance-senate
 date: '2022-04-01'
-title: Peter Thiel Provides $15 Million to J.D. Vance's Ohio Senate Campaign
-description: Peter Thiel contributes record-breaking $15 million to J.D. Vance's Ohio Senate campaign through Protect Ohio Values PAC, largest single investment in Senate race. Funding proves decisive in competitive Republican primary where Vance defeats establishment candidates despite previous anti-Trump statements. Demonstrates Thiel's ability to purchase Senate seats for ideological allies.
+title: 'Peter Thiel Provides $15 Million to J.D. Vance''s Ohio Senate Campaign'
+description: 'Peter Thiel contributes record-breaking $15 million to J.D. Vance''s Ohio Senate campaign through Protect Ohio Values PAC, largest single investment in Senate race. Funding proves decisive in competitive Republican primary where Vance defeats establishment candidates despite previous anti-Trump statements. Demonstrates Thiel''s ability to purchase Senate seats for ideological allies.'
 importance: 8
 tags:
 - jd-vance
@@ -23,16 +23,19 @@ status: confirmed
 sources:
 - outlet: Politico
   date: '2022-04-15'
-  url: https://www.politico.com/news/2022/04/15/thiel-vance-ohio-senate-00025503
+  url: 'https://www.politico.com/news/2022/04/15/thiel-vance-ohio-senate-00025503'
   title: Thiel pours record $15 million into Vance super PAC
+  tier: 1
 - outlet: The New York Times
   date: '2022-05-03'
-  url: https://www.nytimes.com/2022/05/03/us/politics/jd-vance-ohio-republican-senate.html
+  url: 'https://www.nytimes.com/2022/05/03/us/politics/jd-vance-ohio-republican-senate.html'
   title: Vance Wins Ohio Republican Senate Primary
+  tier: 1
 - outlet: OpenSecrets
   date: '2022-11-08'
-  url: https://www.opensecrets.org/news/2022/11/peter-thiel-jd-vance-ohio/
-  title: Peter Thiel's investment in J.D. Vance pays off
+  url: 'https://www.opensecrets.org/news/2022/11/peter-thiel-jd-vance-ohio/'
+  title: 'Peter Thiel''s investment in J.D. Vance pays off'
+  tier: 1
 connections:
 - 2019-01-01--thiel-funds-narya-capital
 - 2022-04-15--trump-endorses-vance
@@ -41,7 +44,7 @@ patterns:
 - oligarch-politics
 - democracy-capture
 - billionaire-kingmaking
-notes: Thiel's $15 million investment represents approximately 75% of pro-Vance super PAC spending, effectively purchasing Ohio Senate seat. Investment pays immediate dividends when Vance wins despite trailing in polls before Thiel's money and Trump's endorsement. This demonstrates new model of political capture where tech billionaires directly purchase political offices for ideological allies, bypassing traditional party structures. Vance's transformation from Trump critic to MAGA champion shows price of Thiel's patronage.
+notes: 'Thiel''s $15 million investment represents approximately 75% of pro-Vance super PAC spending, effectively purchasing Ohio Senate seat. Investment pays immediate dividends when Vance wins despite trailing in polls before Thiel''s money and Trump''s endorsement. This demonstrates new model of political capture where tech billionaires directly purchase political offices for ideological allies, bypassing traditional party structures. Vance''s transformation from Trump critic to MAGA champion shows price of Thiel''s patronage.'
 capture_lanes:
 - Legislative Capture
 ---

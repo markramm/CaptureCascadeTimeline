@@ -23,18 +23,22 @@ sources:
   url: https://www.dailyjournal.com/article/387007-federal-judge-strikes-down-california-deepfake-law
   outlet: Daily Journal
   date: '2025-08-05'
+  tier: 2
 - title: Musk-Challenged California Anti-Deepfake Law Struck by Judge
   url: https://news.bloomberglaw.com/litigation/musk-challenged-california-anti-deepfake-law-struck-by-judge
   outlet: Bloomberg Law
   date: '2025-08-05'
+  tier: 2
 - title: California Deep Fake Law Struck Down
   url: https://www.mediapost.com/publications/article/407997/california-deep-fake-law-struck-down.html
   outlet: MediaPost
   date: '2025-08-07'
+  tier: 2
 - title: Federal Judge Strikes Down California Deepfake Law
   url: https://www.conference-board.org/research/CED-Newsletters-Alerts/federal-judge-strikes-down-california-deepfake-law
   outlet: Conference Board
   date: '2025-08-05'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

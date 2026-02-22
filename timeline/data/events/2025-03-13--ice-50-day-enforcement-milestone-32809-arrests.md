@@ -21,14 +21,17 @@ sources:
   url: https://www.dhs.gov/news/2025/03/13/ice-arrests-first-50-days-trump-administration
   outlet: Department of Homeland Security
   date: '2025-03-13'
+  tier: 1
 - title: ICE Arrests Over 32,000 Migrants in First 50 Days
   url: https://abcnews.go.com/Politics/ice-arrests-32000-migrants-us-illegally-1st-50/story?id=119719975
   outlet: ABC News
   date: '2025-03-13'
+  tier: 1
 - title: ICE Releases Information on Arrests Made During First 50 Days
   url: https://www.aila.org/library/ice-releases-information-on-arrests-made-during-first-50-days-of-trump-administration
   outlet: American Immigration Lawyers Association
   date: '2025-03-13'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

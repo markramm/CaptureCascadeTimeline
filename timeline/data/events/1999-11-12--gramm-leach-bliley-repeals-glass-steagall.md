@@ -23,26 +23,32 @@ sources:
   url: https://www.federalreservehistory.org/essays/gramm-leach-bliley-act
   outlet: Federal Reserve History
   date: '1999-11-12'
+  tier: 1
 - title: Gramm-Leach-Bliley Act Analysis
   url: https://www.sourcewatch.org/index.php/Gramm-Leach-Bliley_Act
   outlet: SourceWatch
   date: '1999-11-12'
+  tier: 2
 - title: The Repeal of Glass-Steagall and the Advent of Broad Banking
   url: https://www.occ.treas.gov/publications-and-resources/publications/economics/working-papers-archived/pub-econ-working-paper-2000-5.pdf
   outlet: Office of the Comptroller of the Currency
   date: '2000-04-13'
+  tier: 1
 - title: 'The Financial Services Modernization Act: A Legal and Policy Analysis'
   url: https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/
   outlet: Duke Center on Law, Finance and Regulation
   date: '1999-11-12'
+  tier: 1
 - title: Impact of the Gramm-Leach-Bliley Act on Financial Services Industry
   url: https://link.springer.com/article/10.1007/BF02751736
   outlet: Journal of Economics and Finance
   date: '2004'
+  tier: 2
 - title: 'The Gramm-Leach-Bliley Act: A Bridge Too Far? Or Not Far Enough?'
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1836668
   outlet: Suffolk University Law Review
   date: '2010'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

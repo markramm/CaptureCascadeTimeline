@@ -17,15 +17,19 @@ sources:
 - title: Electronic Frontier Foundation Security Overview
   url: https://www.eff.org/issues/security
   outlet: Electronic Frontier Foundation
+  tier: 1
 - title: Digital Defense Fund Mission and Work
   url: https://digitaldefensefund.org/about/
   outlet: Digital Defense Fund
+  tier: 2
 - title: Top 5 Collaboration Tools for Law Firms in 2025
   url: https://mylegalsoftware.com/top-5-collaboration-tools-for-law-firms/
   outlet: MYLS Legal Software
+  tier: 2
 - title: 'Beyond Digital Rights: Towards a Fair Information Ecosystem'
   url: https://www.techpolicy.press/beyond-digital-rights-towards-a-fair-information-ecosystem/
   outlet: Tech Policy Press
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

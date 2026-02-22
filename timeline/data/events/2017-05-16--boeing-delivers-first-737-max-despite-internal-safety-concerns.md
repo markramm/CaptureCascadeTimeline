@@ -12,16 +12,19 @@ actors:
 sources:
 - outlet: Wikipedia
   title: Boeing 737 MAX - First Delivery to Malindo Air
-  url: https://en.wikipedia.org/wiki/Boeing_737_MAX
+  url: 'https://en.wikipedia.org/wiki/Boeing_737_MAX'
   date: '2017-05-16'
+  tier: 2
 - outlet: Seattle Times
   title: Southwest Airlines Proposed Ploy to Deceive FAA on Boeing 737 MAX
-  url: https://www.seattletimes.com/business/boeing-aerospace/legal-filing-reveals-southwest-airlines-proposed-a-ploy-to-deceive-faa-on-boeing-737-max/
+  url: 'https://www.seattletimes.com/business/boeing-aerospace/legal-filing-reveals-southwest-airlines-proposed-a-ploy-to-deceive-faa-on-boeing-737-max/'
   date: '2019-10-18'
+  tier: 2
 - outlet: FlyerTalk
-  title: The Doomed Planes "Designed By Clowns Supervised by Monkeys"
-  url: https://www.flyertalk.com/articles/designed-by-clowns-supervised-by-monkeys.html
+  title: 'The Doomed Planes "Designed By Clowns Supervised by Monkeys"'
+  url: 'https://www.flyertalk.com/articles/designed-by-clowns-supervised-by-monkeys.html'
   date: '2020-01-09'
+  tier: 2
 importance: 9
 tags:
 - boeing
@@ -36,7 +39,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-
 Boeing delivered its first 737 MAX 8 aircraft to Malaysian carrier Malindo Air on May 16, 2017, entering revenue service on May 22. The delivery occurred despite internal Boeing communications showing employees knew the aircraft had serious safety problems, including design flaws in the MCAS system that would kill 189 people on a Malindo Air flight just 18 months later. In an April 2017 internal message, just weeks before the first delivery, a Boeing employee wrote: "This airplane is designed by clowns who in turn are supervised by monkeys."
 
 Boeing had rushed the MAX to market to compete with the Airbus A320neo, compressing development timelines and cutting corners on safety testing and pilot training requirements. The company concealed the MCAS system from pilots' manuals and training materials, knowing that revealing its existence would trigger FAA requirements for costly simulator training that would reduce MAX sales. Boeing test pilots had discovered that recovering from uncommanded MCAS activation took more than 10 seconds in simulators—far longer than the 4-second response time assumed in certification standards—but this data was withheld from the FAA.

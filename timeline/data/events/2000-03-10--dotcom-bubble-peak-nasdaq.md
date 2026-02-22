@@ -14,19 +14,23 @@ sources:
 - title: Dot-com bubble
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Dot-com_bubble
+  tier: 2
   retrieval_date: '2025-12-23'
 - title: The Rise and Fall of the Dot-com Era - March 10, 2000
   outlet: HistorySphere
   url: https://historysphere.com/dot-com-bubble-burst-2000/
   retrieval_date: '2025-12-23'
+  tier: 2
 - title: The Dotcom Bubble Burst (2000)
   outlet: International Banker
   url: https://internationalbanker.com/history-of-financial-crises/the-dotcom-bubble-burst-2000/
   retrieval_date: '2025-12-23'
+  tier: 2
 - title: List of companies affected by the dot-com bubble
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/List_of_companies_affected_by_the_dot-com_bubble
   retrieval_date: '2025-12-23'
+  tier: 2
 tags:
 - deregulation
 - regulatory-capture

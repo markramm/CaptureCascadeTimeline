@@ -13,14 +13,17 @@ sources:
   outlet: ProPublica
   url: https://www.propublica.org/article/elon-musk-spacex-china-investors-court-testimony
   date: '2025-03-09'
+  tier: 1
 - title: 'China Investors Buy Up Stakes Worth $30mn in Musk''s Firms: FT'
   outlet: Asia Financial
   url: https://www.asiafinancial.com/china-investors-buy-up-stakes-worth-30m-in-musks-firms-ft
   date: '2025-03-09'
+  tier: 2
 - title: Chinese investors quietly invest millions in Elon Musk's private ventures - report
   outlet: Seeking Alpha
   url: https://seekingalpha.com/news/4418777-chinese-investors-elon-musk-private-companies
   date: '2025-03-09'
+  tier: 2
 tags:
 - regulatory-capture
 - foreign-investment

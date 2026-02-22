@@ -23,14 +23,17 @@ sources:
   url: https://www.propublica.org/article/ice-cancels-contract-immigrant-detention-camp-fort-bliss
   outlet: ProPublica
   date: '2025-04-13'
+  tier: 1
 - title: Mystery surrounds $1.2 billion Army contract to build huge detention tent camp in Texas desert
   url: https://www.readingeagle.com/2025/08/28/trump-immigration-fort-bliss/
   outlet: Reading Eagle
   date: '2025-08-28'
+  tier: 2
 - title: Trump Awards Immigration Detention Center Contract for Fort Bliss in Texas
   url: https://www.bloomberg.com/news/articles/2025-07-22/trump-awards-immigration-detention-center-contract-for-fort-bliss-in-texas
   outlet: Bloomberg
   date: '2025-07-22'
+  tier: 1
 notes: Deployed Resources executives had hired dozens of former government insiders including high-ranking ICE officials. Built behind military walls to reduce transparency and fast-track deportations with minimal accountability.
 status: confirmed
 ---

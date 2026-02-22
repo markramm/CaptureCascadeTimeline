@@ -21,22 +21,27 @@ sources:
   url: https://en.wikipedia.org/wiki/2000_United_States_presidential_election_recount_in_Florida
   outlet: Wikipedia
   date: '2000-11-26'
+  tier: 2
 - title: Bush v. Gore Miller Center Analysis
   url: https://millercenter.org/contested-presidential-elections/bush-v-gore
   outlet: Miller Center
   date: '2000-12-12'
+  tier: 1
 - title: Bush v. Gore Supreme Court Case Summary
   url: https://www.law.cornell.edu/supct/html/00-949.ZPC.html
   outlet: Cornell Law School
   date: '2000-11-26'
+  tier: 1
 - title: 'Bush v. Gore: Certification and Electoral Dispute Analysis'
   url: https://constitutioncenter.org/blog/on-this-day-bush-v-gore-anniversary
   outlet: Constitution Center
   date: '2000-11-26'
+  tier: 2
 - title: Bush v. Gore Case Legal Overview
   url: https://supreme.justia.com/cases/federal/us/531/98/
   outlet: Justia Supreme Court Center
   date: '2000-11-26'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

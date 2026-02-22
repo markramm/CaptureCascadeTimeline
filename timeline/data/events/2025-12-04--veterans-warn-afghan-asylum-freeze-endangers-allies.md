@@ -2,8 +2,8 @@
 id: 2025-12-04--veterans-warn-afghan-asylum-freeze-endangers-allies
 date: '2025-12-04'
 importance: 8
-title: Veterans Warn Trump's Afghan Asylum Freeze Endangers U.S. Allies and Undermines Future Military Partnerships
-location: Afghanistan; Washington, DC
+title: 'Veterans Warn Trump''s Afghan Asylum Freeze Endangers U.S. Allies and Undermines Future Military Partnerships'
+location: 'Afghanistan; Washington, DC'
 actors:
 - Donald Trump
 - Shawn VanDiver
@@ -27,34 +27,38 @@ capture_lanes:
 - Military-Industrial Complex
 sources:
 - title: Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk
-  url: https://www.npr.org/2025/12/04/nx-s1-5630487/asylum-freeze-afghans-national-guard
+  url: 'https://www.npr.org/2025/12/04/nx-s1-5630487/asylum-freeze-afghans-national-guard'
   outlet: NPR
   date: '2025-12-04'
+  tier: 1
   archive_url: null
 - title: Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk
-  url: https://www.kpbs.org/news/national/2025/12/04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk
+  url: 'https://www.kpbs.org/news/national/2025/12/04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk'
   outlet: KPBS
   date: '2025-12-04'
   archive_url: null
-- title: Afghan 'Zero Unit' fighters in the U.S. faced despair before National Guard attack
-  url: https://www.npr.org/2025/12/10/nx-s1-5637497/afghan-zero-unit-fighters-in-the-u-s-faced-despair-before-national-guard-attack
+  tier: 1
+- title: 'Afghan ''Zero Unit'' fighters in the U.S. faced despair before National Guard attack'
+  url: 'https://www.npr.org/2025/12/10/nx-s1-5637497/afghan-zero-unit-fighters-in-the-u-s-faced-despair-before-national-guard-attack'
   outlet: NPR
   date: '2025-12-10'
   archive_url: null
+  tier: 1
 - title: Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk
-  url: https://www.nprillinois.org/2025-12-04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk
+  url: 'https://www.nprillinois.org/2025-12-04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk'
   outlet: NPR Illinois
   date: '2025-12-04'
   archive_url: null
+  tier: 1
 - title: Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk
-  url: https://www.wyomingpublicmedia.org/2025-12-04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk
+  url: 'https://www.wyomingpublicmedia.org/2025-12-04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk'
   outlet: Wyoming Public Media
   date: '2025-12-04'
   archive_url: null
-notes: Trump administration paused all Afghan asylum decisions following National Guard shooting by Afghan national Rahmanullah Lakanwal. Trump stated he would re-examine every Afghan who entered under Biden, freezing thousands of pending cases. U.S. military veterans leading evacuation efforts warn freeze leaves allies at Taliban retribution risk and will cripple future recruitment of allies. Former Green Beret Thomas Kasza emphasized obligation to Afghans who saved American lives. Navy veteran Shawn VanDiver warned future allies will refuse to help citing Afghan betrayal. Afghan woman identified as M who worked for Defense Department warned everyone who worked for U.S. plus families at Taliban risk.
+  tier: 2
+notes: 'Trump administration paused all Afghan asylum decisions following National Guard shooting by Afghan national Rahmanullah Lakanwal. Trump stated he would re-examine every Afghan who entered under Biden, freezing thousands of pending cases. U.S. military veterans leading evacuation efforts warn freeze leaves allies at Taliban retribution risk and will cripple future recruitment of allies. Former Green Beret Thomas Kasza emphasized obligation to Afghans who saved American lives. Navy veteran Shawn VanDiver warned future allies will refuse to help citing Afghan betrayal. Afghan woman identified as M who worked for Defense Department warned everyone who worked for U.S. plus families at Taliban risk.'
 status: confirmed
 ---
-
 The Trump administration suspended all asylum decisions for Afghan nationals on December 4, 2025, following a deadly shooting at a Washington, D.C., National Guard facility in which an Afghan national, Rahmanullah Lakanwal, was charged with murder. President Trump announced he would "re-examine every single alien who has entered our country from Afghanistan under Biden," effectively freezing thousands of pending asylum cases and leaving Afghan allies who aided U.S. forces during the 20-year war at risk of Taliban retribution. U.S. military veterans leading efforts to evacuate and protect Afghan interpreters, special operations partners, and other allies condemned the freeze as a betrayal that endangers thousands who risked their lives supporting American forces and that will devastate future U.S. military efforts to recruit local allies by demonstrating that America abandons those who help in combat zones. The policy punishes an entire national-origin group based on one individual's actions, leaves allies trapped in Afghanistan under Taliban rule facing torture and execution, and creates legal uncertainty for Afghans already in the United States who face potential revocation of protected status.
 
 NPR reported that the Trump administration paused decisions for all Afghan asylum seekers in the aftermath of the National Guard shooting, in which Rahmanullah Lakanwal, a 29-year-old Afghan national who had been vetted by the CIA, was charged with murdering West Virginia National Guard Specialist Sarah Beckstrom on November 27, 2025. Trump stated in announcing the freeze: "We must now re-examine every single alien who has entered our country from Afghanistan under Biden," and declared the United States would not tolerate such assaults by people "who shouldn't even be in the country." This rhetoric characterizes all Afghan refugees as security threats and suggests they are illegitimate presences in the United States regardless of their service to American forces or legal status as asylum seekers or special immigrant visa holders.

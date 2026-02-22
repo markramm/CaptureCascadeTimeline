@@ -19,12 +19,15 @@ sources:
 - outlet: Bloomberg
   title: The Untold Story Behind Saudi Arabia's 41-Year U.S. Debt Secret
   url: https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret
+  tier: 1
 - outlet: U.S. State Department
   title: Milestones in the History of U.S. Foreign Relations - Oil Embargo Period
   url: https://history.state.gov/milestones/1969-1976/oil-embargo
+  tier: 1
 - outlet: US National Archives
   title: Nixon-Kissinger Meeting with Prince Fahd, June 1974
   url: https://www.fordlibrarymuseum.gov/library/document/0314/1552718.pdf
+  tier: 1
 status: confirmed
 id: 1974-06-08--us-saudi-economic-commission-agreement-signed
 priority_id: RT-EXP-28753E16-trilateral-commission-1973-banking-networks

@@ -20,14 +20,17 @@ sources:
   url: https://freedomhouse.org/article/us-democracy-declined-significantly-past-decade
   outlet: Freedom House
   date: '2021-03-03'
+  tier: 2
 - title: 'New Report: US Democracy Has Declined Significantly'
   url: https://www.theguardian.com/us-news/2021/mar/24/us-world-democracy-rankings-freedom-house-trump
   outlet: The Guardian
   date: '2021-03-24'
+  tier: 1
 - title: Freedom in the World 2021
   url: https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege
   outlet: Freedom House
   date: '2021-03-03'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

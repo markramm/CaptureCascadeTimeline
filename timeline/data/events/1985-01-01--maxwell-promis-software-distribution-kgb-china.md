@@ -22,6 +22,7 @@ sources:
   title: Robert Maxwell, Promisgate, and the advent of the Israeli cybersecurity industry
   url: https://www.exposetheenemy.com/robert-maxwell-promisgate-and-the-advent-of-the-israeli-cybersecurity-industry
   verified: true
+  tier: 2
 - key_facts_confirmed:
   - Maxwell sold over $500 million in PROMIS software to multiple countries
   - Countries included UK, Australia, South Korea, Canada, Soviet KGB
@@ -30,6 +31,7 @@ sources:
   title: 'Dirtier than Watergate: The PROMIS Software Scandal'
   url: https://www.newstatesman.com/politics/2011/04/promis-government-inslaw
   verified: true
+  tier: 2
 - key_facts_confirmed:
   - PROMIS software had NSA-enabled back doors for covert electronic surveillance
   - Sold to governments including Iraq, Libya, Korea, UK, Australia, Canada
@@ -38,6 +40,7 @@ sources:
   title: 'The Inslaw Case: Dirtier than Watergate'
   url: https://www.rjgallagher.co.uk/2011/04/inslaw-case-dirtier-than-watergate.html
   verified: true
+  tier: 2
 status: confirmed
 tags:
 - robert-maxwell

@@ -1,13 +1,11 @@
 ---
 id: 2025-02-07--trump-air-force-nominee-arranged-satellite-contract-manner-t
 date: '2025-02-07'
-title: Trump Air Force nominee arranged satellite contract in manner that favored
-  Musk's SpaceX
-description: Air Force Secretary nominee allegedly structured NRO satellite contract
-  to favor SpaceX
+title: 'Trump Air Force nominee arranged satellite contract in manner that favored Musk''s SpaceX'
+description: Air Force Secretary nominee allegedly structured NRO satellite contract to favor SpaceX
 status: confirmed
 importance: 8
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Troy Meink
 - Elon Musk
@@ -25,24 +23,25 @@ tags:
 capture_type: regulatory_capture
 sources:
 - title: Trump Air Force nominee arranged satellite contract in manner that favored
-    Musk's SpaceX
-  url: https://www.reuters.com/world/us/trump-air-force-nominee-arranged-satellite-contract-manner-that-favored-musks-2025-02-07/
+  tier: 1
+  url: 'https://www.reuters.com/world/us/trump-air-force-nominee-arranged-satellite-contract-manner-that-favored-musks-2025-02-07/'
   outlet: Reuters
   date: '2025-02-07'
-- title: Senate Dems asking Air Force secretary nominee if he helped SpaceX secure
-    lucrative satellite contract
-  url: https://federalnewsnetwork.com/air-force/2025/02/senate-dems-press-air-force-secretary-nominee-if-he-helped-spacex-secure-lucrative-satellite-contract/
+- title: Senate Dems asking Air Force secretary nominee if he helped SpaceX secure lucrative satellite contract
+  url: 'https://federalnewsnetwork.com/air-force/2025/02/senate-dems-press-air-force-secretary-nominee-if-he-helped-spacex-secure-lucrative-satellite-contract/'
   outlet: Federal News Network
   date: '2025-02-08'
+  tier: 2
 - title: Senate confirms Meink as next Air Force secretary
-  url: https://www.defensenews.com/air/2025/05/13/senate-confirms-meink-as-next-air-force-secretary/
+  url: 'https://www.defensenews.com/air/2025/05/13/senate-confirms-meink-as-next-air-force-secretary/'
   outlet: Defense News
   date: '2025-05-13'
-- title: Warren, Duckworth Raise Concerns Over Potential Quid Pro Quo Between Elon
-    Musk and Dr. Troy Meink
-  url: https://www.warren.senate.gov/newsroom/press-releases/warren-duckworth-raise-concerns-over-potential-quid-quo-pro-between-elon-musk-and-dr-troy-meink-trumps-air-force-secretary-nominee
+  tier: 2
+- title: 'Warren, Duckworth Raise Concerns Over Potential Quid Pro Quo Between Elon Musk and Dr. Troy Meink'
+  url: 'https://www.warren.senate.gov/newsroom/press-releases/warren-duckworth-raise-concerns-over-potential-quid-quo-pro-between-elon-musk-and-dr-troy-meink-trumps-air-force-secretary-nominee'
   outlet: Senator Warren Press Release
   date: '2025-02-07'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture
@@ -51,7 +50,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 ---
-
 Troy Meink, Trump's Air Force Secretary nominee, allegedly structured a multibillion-dollar
 National Reconnaissance Office spy satellite contract to favor Musk's SpaceX, according
 to Reuters investigation. Democratic senators Warren and Duckworth raised concerns

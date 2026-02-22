@@ -22,18 +22,22 @@ sources:
   url: https://www.cbc.ca/news/world/trump-democracy-report-1.7486317
   outlet: CBC News
   date: '2025-02-28'
+  tier: 1
 - title: Democracy research groups issue joint warning on U.S.
   url: https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus
   outlet: The Guardian
   date: '2025-03-09'
+  tier: 1
 - title: U.S. Democratic Backsliding in Comparative Perspective
   url: https://carnegieendowment.org/research/2025/08/us-democratic-backsliding-in-comparative-perspective?lang=en
   outlet: Carnegie Endowment for International Peace
   date: '2025-08-15'
+  tier: 2
 - title: 'The Global State of Democracy 2025: Democracy on the Move'
   url: https://www.idea.int/publications/catalogue/html/global-state-democracy-2025-democracy-move
   outlet: International IDEA
   date: '2025-02-15'
+  tier: 2
 notes: First time multiple international democracy organizations have issued coordinated
   warnings about U.S. democratic health
 status: confirmed

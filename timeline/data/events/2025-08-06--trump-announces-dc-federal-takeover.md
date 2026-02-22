@@ -20,14 +20,17 @@ sources:
   url: https://www.cnn.com/2025/08/06/politics/trump-federal-take-over-dc-doge-coristine-assault
   outlet: CNN
   date: '2025-08-06'
+  tier: 1
 - title: Trump threatens federal takeover of DC after attack on former DOGE worker
   url: https://www.pbs.org/newshour/politics/trump-threatens-federal-takeover-of-dc-after-attack-on-former-doge-worker
   outlet: PBS NewsHour
   date: '2025-08-06'
+  tier: 1
 - title: Can Trump Federalize D.C.?
   url: https://time.com/7307798/trump-washington-dc-federalize-takeover-big-balls-edward-coristine-assault/
   outlet: TIME
   date: '2025-08-06'
+  tier: 1
 notes: 'Trump''s announcement came two days after Coristine assault. Despite DC Mayor''s
   objections
 

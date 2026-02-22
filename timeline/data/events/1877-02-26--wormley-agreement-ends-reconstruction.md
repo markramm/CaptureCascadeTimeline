@@ -12,15 +12,18 @@ sources:
 - title: Compromise of 1877
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Compromise_of_1877
+  tier: 2
   year: 2024
 - title: Compromise of 1877 - Definition, Results & Significance
   outlet: History
   url: https://www.history.com/articles/compromise-of-1877
   year: 2024
+  tier: 1
 - title: 'March 4, 1877: Hayes Takes Office in 1877 Compromise'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/hayes-takes-office/
   year: 2024
+  tier: 2
 tags:
 - democratic-erosion
 - institutional-capture

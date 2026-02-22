@@ -20,22 +20,27 @@ sources:
   url: https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest
   outlet: House Oversight Democrats
   date: '2025-05-02'
+  tier: 1
 - title: Consensys, Solana, Uniswap CEO donated to Trump inauguration fund
   url: https://cointelegraph.com/news/consensys-solana-uniswap-donald-trump-inauguration-donation
   outlet: Cointelegraph
   date: '2025-04-21'
+  tier: 2
 - title: 'Analysis: Crypto Industry Donated 13M+ To Trump Inauguration, Then Administration Dropped SEC Lawsuits'
   url: https://accountable.us/analysis-crypto-industry-donated-13m-to-trumps-inauguration-then-administration-dropped-sec-lawsuits-probes-against-five-donors-among-other-industry-gifts/
   outlet: Accountable US
   date: '2025-02-20'
+  tier: 1
 - title: Consensys and SEC reach agreement to dismiss MetaMask securities case
   url: https://cryptobriefing.com/consensys-metasmask-securities-case/
   outlet: Crypto Briefing
   date: '2025-02-20'
+  tier: 2
 - title: 'SEC Crypto Reversals: Every Case It Dropped in 2025'
   url: https://www.ccn.com/news/crypto/sec-crypto-reversals-2025-lawsuits/
   outlet: CCN
   date: '2025-02-21'
+  tier: 2
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-02-20--consensys-sec-case-dropped-after-donation'
 _merge_timestamp: '2025-09-05T23:46:55.898684'

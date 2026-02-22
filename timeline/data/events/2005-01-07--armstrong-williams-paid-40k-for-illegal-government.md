@@ -21,14 +21,17 @@ sources:
   url: https://www.gao.gov/products/b-305368
   outlet: GAO
   date: '2005-09-30'
+  tier: 1
 - title: Administration Paid Commentator
   url: https://www.washingtonpost.com/wp-dyn/articles/A56330-2005Jan7.html
   outlet: The Washington Post
   date: '2005-01-07'
+  tier: 1
 - title: 'GAO: Education Dept. PR Deal With Armstrong Williams Violated Law'
   url: https://www.edweek.org/policy-politics/gao-education-dept-s-pr-deal-with-armstrong-williams-violated-law/2005/10
   outlet: Education Week
   date: '2005-10-01'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

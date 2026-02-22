@@ -20,14 +20,17 @@ sources:
   url: https://www.nytimes.com/2025/01/01/us/new-orleans-attack-isis.html
   outlet: The New York Times
   date: '2025-01-01'
+  tier: 1
 - title: DOJ confirms ISIS inspiration in deadly New Orleans attack
   url: https://www.justice.gov/opa/pr/new-orleans-attack-investigation
   outlet: Department of Justice
   date: '2025-01-02'
+  tier: 1
 - title: New Orleans attack marks violent start to 2025
   url: https://www.cnn.com/2025/01/01/us/new-orleans-isis-attack/index.html
   outlet: CNN
   date: '2025-01-01'
+  tier: 1
 notes: Attack demonstrates persistence of both international and domestic terrorism
   threats. Came after brief respite in 2024 when extremist murders hit 20-year low,
   proving decrease was temporary amid broader violence surge.

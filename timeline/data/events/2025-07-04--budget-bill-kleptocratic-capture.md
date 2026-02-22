@@ -26,14 +26,17 @@ sources:
   url: https://www.politico.com/news/2025/07/04/trump-signs-budget-reconciliation-bill
   outlet: Politico
   date: '2025-07-04'
+  tier: 1
 - title: 'CBO Analysis: Budget bill adds $3.4 trillion to deficit over decade'
   url: https://www.cbo.gov/publication/reconciliation-2025-analysis
   outlet: Congressional Budget Office
   date: '2025-07-03'
+  tier: 1
 - title: Budget reconciliation creates unprecedented executive slush funds
   url: https://www.americanprogress.org/article/trump-budget-slush-funds/
   outlet: Center for American Progress
   date: '2025-07-05'
+  tier: 2
 notes: Bill provides $170 billion in immigration enforcement through reconciliation to avoid oversight, creates "significant discretion" for agencies per CBO. Committee for Responsible Federal Budget called accounting gimmicks "would make Enron executives blush."
 ---
 

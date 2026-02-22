@@ -22,14 +22,17 @@ sources:
   url: https://www.huffpost.com/entry/obamas-deal-with-big-phar_b_270607
   outlet: HuffPost
   date: '2009-08-13'
+  tier: 2
 - title: White House confirms deal with pharma
   url: https://www.nytimes.com/2009/08/06/health/policy/06drug.html
   outlet: The New York Times
   date: '2009-08-06'
+  tier: 1
 - title: The $80 Billion Drug Deal That Haunts Obama's Legacy
   url: https://www.politico.com/story/2016/07/obamacare-prescription-drugs-pharma-225444
   outlet: Politico
   date: '2016-07-13'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

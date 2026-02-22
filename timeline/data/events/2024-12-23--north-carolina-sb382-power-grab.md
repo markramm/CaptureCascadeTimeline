@@ -25,14 +25,17 @@ sources:
   url: https://www.brennancenter.org/our-work/analysis-opinion/north-carolina-power-grab
   outlet: Brennan Center for Justice
   date: '2024-12-23'
+  tier: 1
 - title: Cooper, Stein sue over election board power transfer
   url: https://www.democracync.org/news/sb382-lawsuit-filed
   outlet: Democracy NC
   date: '2024-12-23'
+  tier: 2
 - title: Disaster relief bill hides unprecedented elections power grab
   url: https://www.npr.org/2024/12/23/north-carolina-elections-board-power-grab
   outlet: NPR
   date: '2024-12-23'
+  tier: 1
 notes: Law transfers appointment power specifically to prevent Democratic control of elections oversight. Filed as emergency disaster relief to expedite passage. Part of broader pattern of using legislative supermajorities to override election results.
 ---
 

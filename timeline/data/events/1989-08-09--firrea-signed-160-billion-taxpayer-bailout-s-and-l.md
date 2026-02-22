@@ -22,22 +22,26 @@ sources:
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Savings and Loan Crisis
   url: https://www.federalreservehistory.org/essays/savings-and-loan-crisis
   outlet: Federal Reserve History
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: Savings and loan crisis
   url: https://en.wikipedia.org/wiki/Savings_and_loan_crisis
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: The Cost of the Savings and Loan Crisis
   url: https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=12223&context=ypfs-documents
   outlet: Yale Program on Financial Stability
   date: '2024-01-01'
   verified: true
+  tier: 1
 capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture

@@ -17,22 +17,27 @@ sources:
   url: https://apnews.com/article/doge-musk-trump-ai-starlink-gsa-efficiency-d67a41d1be98db11f05ca8e4472f53bd
   outlet: Associated Press
   date: '2025-04-16'
+  tier: 1
 - title: Why Elon Musk installed his top lieutenants at a federal agency you probably haven't heard of
   url: https://www.washingtonpost.com/politics/2025/04/17/doge-musk-trump-ai-starlink-gsa-efficiency/b5c10310-1b40-11f0-9160-306c35f9b3a8_story.html
   outlet: The Washington Post
   date: '2025-04-17'
+  tier: 1
 - title: Why Elon Musk installed his top lieutenants at a federal agency you probably haven't heard of
   url: https://abcnews.go.com/US/wireStory/elon-musk-installed-top-lieutenants-federal-agency-heard-120894612
   outlet: ABC News
   date: '2025-04-16'
+  tier: 1
 - title: Why Elon Musk installed his top lieutenants at GSA
   url: https://www.washingtontimes.com/news/2025/apr/17/elon-musk-installed-top-lieutenants-gsa-federal-agency-probably/
   outlet: Washington Times
   date: '2025-04-17'
+  tier: 2
 - title: Elon Musk's DOGE deputies are targeting government's basic operations
   url: https://www.washingtonpost.com/business/2025/02/05/elon-musk-federal-technology-takeover/
   outlet: The Washington Post
   date: '2025-02-05'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

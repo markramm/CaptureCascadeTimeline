@@ -20,18 +20,22 @@ actors:
 sources:
 - url: https://abcnews.go.com/Business/story?id=87452&page=1
   title: Cheney Reveals Enron Meeting - ABC News
+  tier: 1
   date_accessed: '2025-10-17'
 - url: https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force
   title: Cheney Energy Task Force - SourceWatch
   date_accessed: '2025-10-17'
+  tier: 2
 - url: https://www.pbs.org/newshour/show/vice-president-dick-cheney-on-energy-supply
   title: 'PBS NewsHour: Cheney Discusses National Energy Strategy'
   date: '2001-04-30'
   notes: Provides context on Energy Task Force strategic planning
+  tier: 1
 - url: https://www.cbsnews.com/news/court-sidesteps-cheney-ruling/
   title: 'Supreme Court Case: Cheney Energy Task Force Documents'
   description: Details of private meetings and policy recommendations from CBS News
   date_accessed: '2025-10-17'
+  tier: 1
 policy_impact:
   total_enron_recommendations: 17
   key_adopted_policies:

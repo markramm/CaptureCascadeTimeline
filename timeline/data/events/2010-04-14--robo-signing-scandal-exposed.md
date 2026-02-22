@@ -19,14 +19,17 @@ sources:
   url: https://www.cbsnews.com/news/robo-signing-explained/
   outlet: CBS News
   date: '2010-10-06'
+  tier: 1
 - title: 'Who''s Who in the Foreclosure Scandal: A Primer on the Players'
   url: https://www.propublica.org/article/whos-who-in-the-foreclosure-scandal-a-primer-on-the-players
   outlet: ProPublica
   date: '2010-09-23'
+  tier: 1
 - title: 2010 United States Foreclosure Crisis Overview
   url: https://en.wikipedia.org/wiki/2010_United_States_foreclosure_crisis
   outlet: Wikipedia
   date: '2025-10-14'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Financial Capture

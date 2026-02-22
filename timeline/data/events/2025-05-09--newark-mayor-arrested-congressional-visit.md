@@ -24,14 +24,17 @@ sources:
   url: https://abcnews.go.com/Politics/newark-mayor-arrested-ice-facility-joining-democrats-conduct/story?id=121652689
   outlet: ABC News
   date: '2025-05-09'
+  tier: 1
 - title: Newark Mayor Ras Baraka arrested for alleged trespass at New Jersey ICE detention facility
   url: https://www.cnbc.com/2025/05/09/newark-mayor-arrested-baraka-ice.html
   outlet: CNBC
   date: '2025-05-09'
+  tier: 2
 - title: Newark mayor detained by federal agents during protest at ICE jail
   url: https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/
   outlet: New Jersey Monitor
   date: '2025-05-09'
+  tier: 2
 notes: Video evidence showed Baraka was arrested on public property after complying with orders to leave. Rep. Menendez called it "an act of intimidation." Governor Phil Murphy called the arrest "unjust" and demanded Baraka's immediate release. Baraka had sued GEO Group in April alleging the facility lacked proper permits.
 status: confirmed
 ---

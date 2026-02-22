@@ -28,14 +28,17 @@ sources:
   outlet: Fortune Crypto
   date: '2025-08-19'
   url: https://fortune.com/crypto/2025/08/19/trump-bo-hines-tether-crypto-white-house-stablecoins/
+  tier: 2
 - title: 'Crypto Week: Congress Passes First Major Crypto Legislation'
   outlet: NPR
   date: '2025-07-19'
   url: https://www.npr.org/2025/07/19/nx-s1-5470007/crypto-economy-trump-genius-clarity-act
+  tier: 1
 - title: Tether Launches U.S. Stablecoin with Trump Crypto Guru
   outlet: Fortune Crypto
   date: '2025-09-12'
   url: https://fortune.com/crypto/2025/09/12/tether-paolo-ardoino-bo-hines-stablecoin-crypto-trump-anchorage/
+  tier: 2
 connections:
 - GENIUS Act
 - Trump Administration Crypto Policy

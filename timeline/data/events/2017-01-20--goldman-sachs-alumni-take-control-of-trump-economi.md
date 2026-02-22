@@ -22,14 +22,17 @@ sources:
   url: https://theintercept.com/2017/03/15/goldman-sachs-staff-trump-administration/
   outlet: The Intercept
   date: '2017-03-15'
+  tier: 1
 - title: Trump's Goldman Sachs Cabinet
   url: https://www.propublica.org/article/trump-campaign-gary-cohn-goldman-sachs-drain-swamp
   outlet: ProPublica
   date: '2017-01-20'
+  tier: 1
 - title: Steven Mnuchin
   url: https://en.wikipedia.org/wiki/Steven_Mnuchin
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

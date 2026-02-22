@@ -24,14 +24,17 @@ sources:
   url: https://www.hut8.com/2025/03/31/hut-8-and-eric-trump-launch-american-bitcoin-to-set-a-new-standard-in-bitcoin-mining/
   outlet: Hut 8 Corporate Website
   date: '2025-03-31'
+  tier: 2
 - title: Trump-Backed Bitcoin Miner American Bitcoin Wants to Go Public
   url: https://www.bloomberg.com/news/articles/2025-03-31/trump-family-to-launch-us-bitcoin-mining-venture-with-hut-8
   outlet: Bloomberg
   date: '2025-03-31'
+  tier: 1
 - title: Eric Trump shares details of new Bitcoin mining venture
   url: https://fortune.com/crypto/2025/04/02/eric-trump-hut-8-american-bitcoin-donald-trump-jr/
   outlet: Fortune Crypto
   date: '2025-04-02'
+  tier: 2
 connections:
 - Trump family financial ventures
 - Cryptocurrency infrastructure development

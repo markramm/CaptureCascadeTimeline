@@ -18,10 +18,13 @@ actors:
 sources:
 - title: fsb.org
   url: https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/
+  tier: 2
 - title: financemagnates.com
   url: https://www.financemagnates.com/cryptocurrency/regulatory-winds-of-change-crypto-industry-prepares-for-compliance-in-2024/
+  tier: 2
 - title: gov.uk
   url: https://www.gov.uk/government/publications/regulatory-regime-for-cryptoassets-regulated-activities-draft-si-and-policy-note/future-financial-services-regulatory-regime-for-cryptoassets-regulated-activities-policy-note-accessible
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

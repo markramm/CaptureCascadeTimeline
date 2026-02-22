@@ -23,14 +23,17 @@ sources:
   url: https://www.cbsnews.com/news/convictions-in-the-abramoff-corruption-probe/
   outlet: CBS News
   date: '2006-09-15'
+  tier: 1
 - title: Bob Ney - Wikipedia
   url: https://en.wikipedia.org/wiki/Bob_Ney
   outlet: Wikipedia
   date: '2006-09-15'
+  tier: 2
 - title: Convictions in the Abramoff corruption probe
   url: https://www.foxnews.com/sports/convictions-in-the-abramoff-corruption-probe
   outlet: Fox News
   date: '2006-09-15'
+  tier: 2
 capture_lanes:
 - Legislative Capture
 - Financial Capture

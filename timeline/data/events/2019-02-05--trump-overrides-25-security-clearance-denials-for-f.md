@@ -22,14 +22,17 @@ sources:
   url: https://www.nytimes.com/2019/02/28/us/politics/jared-kushner-security-clearance.html
   outlet: The New York Times
   date: '2019-02-28'
+  tier: 1
 - title: Whistleblower says 25 security clearance denials were overturned
   url: https://www.nbcnews.com/politics/white-house/whistleblower-says-trump-administration-overturned-25-security-clearance-denials-n990186
   outlet: NBC News
   date: '2019-04-01'
+  tier: 1
 - title: White House security clearance crisis
   url: https://www.washingtonpost.com/politics/2019/04/03/white-houses-security-clearance-troubles/
   outlet: The Washington Post
   date: '2019-04-03'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

@@ -29,14 +29,17 @@ sources:
   url: https://www.motherjones.com/politics/2004/01/lie-factory/
   outlet: Mother Jones
   date: '2004-01-01'
+  tier: 1
 - title: 'Serving Patriarchy: Karen Kwiatkowski and the Military Industrial Complex'
   url: https://www.lewrockwell.com/2004/07/karen-kwiatkowski/serving-patriarchy/
   outlet: LewRockwell.com
   date: '2004-07-23'
+  tier: 2
 - title: The New Pentagon Papers
   url: https://harpers.org/archive/2004/10/the-new-pentagon-papers/
   outlet: Harper's Magazine
   date: '2004-10-01'
+  tier: 2
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration

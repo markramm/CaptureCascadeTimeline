@@ -19,18 +19,22 @@ sources:
   url: https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/
   outlet: CBS News
   date: '2025-07-18'
+  tier: 1
 - title: GENIUS Act for Stablecoins Passes House on Way to be First Major U.S. Crypto Law
   url: https://www.coindesk.com/policy/2025/07/17/genius-act-for-stablecoins-passes-house-on-way-to-be-first-major-u-s-crypto-law
   outlet: CoinDesk
   date: '2025-07-17'
+  tier: 2
 - title: 'A ''Crypto Week'' win: Congress passes 1st major crypto legislation in the U.S.'
   url: https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump
   outlet: NPR
   date: '2025-07-17'
+  tier: 1
 - title: 'Congress Passes GENIUS Act: Landmark Framework for Payment Stablecoins'
   url: https://www.pillsburylaw.com/en/news-and-insights/congress-genius-act-framework-stablecoin-digital-asset-regulation-us.html
   outlet: Pillsbury Law
   date: '2025-07-18'
+  tier: 2
 notes: GENIUS requires stablecoin issuers hold liquid asset reserves, grant coin holders bankruptcy priority. Subjects issuers to AML/sanctions compliance. No direct tax changes - IRS still treats crypto as property (Notice 2014-21). House also passed Digital Asset Market Clarity Act (SEC/CFTC roles) and Anti-CBDC Surveillance State Act. Trump fulfilled campaign promise to make US "crypto capital of the world." Bill legitimizes $3T crypto industry.
 status: confirmed
 ---

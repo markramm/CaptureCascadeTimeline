@@ -19,14 +19,17 @@ sources:
   title: U.S. judge refuses to throw out sex abuse lawsuit against Prince Andrew
   outlet: Reuters
   date: '2022-01-12'
+  tier: 1
 - url: https://www.bbc.com/news/uk-59883666
   title: 'Prince Andrew: Judge refuses to dismiss Virginia Giuffre lawsuit'
   outlet: BBC
   date: '2022-01-12'
+  tier: 1
 - url: https://www.theguardian.com/uk-news/2022/jan/12/prince-andrew-sex-abuse-lawsuit-can-proceed-us-judge-rules
   title: Prince Andrew sex abuse lawsuit can proceed, US judge rules
   outlet: The Guardian
   date: '2022-01-12'
+  tier: 1
 importance: 7
 status: confirmed
 capture_lanes:

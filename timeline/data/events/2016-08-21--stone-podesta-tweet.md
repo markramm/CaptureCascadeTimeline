@@ -2,7 +2,7 @@
 id: 2016-08-21--stone-podesta-tweet
 date: '2016-08-21'
 importance: 6
-title: Stone tweets "Podesta's time in the barrel" 47 days before WikiLeaks
+title: 'Stone tweets "Podesta''s time in the barrel" 47 days before WikiLeaks'
 location: United States
 actors:
 - Roger Stone
@@ -17,24 +17,27 @@ capture_lanes:
 - Electoral Manipulation
 sources:
 - title: What you need to know about the indictment against Roger Stone
-  url: https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060
+  url: 'https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060'
   outlet: ABC News
   date: '2019-01-25'
-  archive_url: https://web.archive.org/web/20250814000000/https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20250814000000/https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060'
 - title: 'August 21, 2016: Stone Foreshadows Podesta Email Dump'
-  url: https://themoscowproject.org/collusion/stone-predicts-podesta-emails/
+  url: 'https://themoscowproject.org/collusion/stone-predicts-podesta-emails/'
   outlet: The Moscow Project
   date: '2016-08-21'
-- title: The confusing timeline on Roger Stone's communications with WikiLeaks
-  url: https://www.washingtonpost.com/news/politics/wp/2018/03/13/the-confusing-timeline-on-roger-stones-communications-with-wikileaks/
+  tier: 2
+- title: 'The confusing timeline on Roger Stone''s communications with WikiLeaks'
+  url: 'https://www.washingtonpost.com/news/politics/wp/2018/03/13/the-confusing-timeline-on-roger-stones-communications-with-wikileaks/'
   outlet: The Washington Post
   date: '2018-03-13'
-- title: Misrepresenting Stone's Prescience
-  url: https://www.factcheck.org/2017/03/misrepresenting-stones-prescience/
+  tier: 1
+- title: 'Misrepresenting Stone''s Prescience'
+  url: 'https://www.factcheck.org/2017/03/misrepresenting-stones-prescience/'
   outlet: FactCheck.org
   date: '2017-03-10'
-notes: Direct evidence of campaign coordination with Russian intelligence operations. Rep. Adam Schiff asked - "Is it a coincidence that Roger Stone predicted that John Podesta would be a victim of a Russian hack and have his private emails published, and did so even before Mr. Podesta himself was fully aware that his private emails would be exposed?"
+  tier: 1
+notes: 'Direct evidence of campaign coordination with Russian intelligence operations. Rep. Adam Schiff asked - "Is it a coincidence that Roger Stone predicted that John Podesta would be a victim of a Russian hack and have his private emails published, and did so even before Mr. Podesta himself was fully aware that his private emails would be exposed?"'
 status: confirmed
 ---
-
 Roger Stone tweeted "Trust me, it will soon be the Podesta's time in the barrel" on August 21, 2016 - 47 days before WikiLeaks released Podesta emails on October 7. Even Podesta himself didn't know about the hack until WikiLeaks began leaking. Stone claimed he meant Podesta's business dealings, not emails, despite telling Florida GOP group on August 10 he had "communicated with Julian Assange."

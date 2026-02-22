@@ -26,30 +26,37 @@ sources:
   url: https://fortune.com/2025/12/03/scott-bessent-federal-reserve-veto-regional-bank-presidents/
   outlet: Fortune
   date: '2025-12-03'
+  tier: 2
 - title: Bessent says White House may 'veto' Federal Reserve presidents
   url: https://abcnews.go.com/US/wireStory/bessent-white-house-veto-federal-reserve-presidents-128079402
   outlet: ABC News
   date: '2025-12-03'
+  tier: 1
 - title: White House may 'veto' Federal Reserve presidents US Treasury Secretary
   url: https://www.business-standard.com/world-news/white-house-may-veto-federal-reserve-presidents-us-treasury-secretary-125120400016_1.html
   outlet: Business Standard
   date: '2025-12-04'
+  tier: 2
 - title: Bessent to push residency requirement for regional US Fed bank presidents
   url: https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents
   outlet: Al Jazeera
   date: '2025-12-03'
+  tier: 1
 - title: The Fed just 'Trump-proofed' itself with a unanimous move to preempt a potential leadership shake-up
   url: https://fortune.com/2025/12/12/fed-independence-presidents-reappointment-board-governors-fomc-votes-rate-cuts/
   outlet: Fortune
   date: '2025-12-12'
+  tier: 2
 - title: Federal Reserve reappoints regional bank presidents after Trump officials float changes
   url: https://www.nbcnews.com/business/economy/powell-fed-regional-presidents-rcna248724
   outlet: NBC News
   date: '2025-12-12'
+  tier: 1
 - title: Bessent White House may 'veto' Federal Reserve presidents
   url: https://www.washingtontimes.com/news/2025/dec/3/bessent-white-house-may-veto-federal-reserve-presidents/
   outlet: Washington Times
   date: '2025-12-03'
+  tier: 2
 connections:
 - Trump Attacks Federal Reserve Independence (ongoing pattern)
 patterns:

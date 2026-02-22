@@ -1,8 +1,8 @@
 ---
 id: 2025-08-27--india-50-percent-tariff-russian-oil
 date: '2025-08-27'
-title: US Imposes 50% Tariff on India for Buying Russian Oil, Exempts Apple
-description: Trump adds additional 25% tariff on India (total 50%) explicitly for "directly or indirectly importing Russian Federation oil." Executive order establishes framework to monitor and punish other countries buying Russian energy. Apple products specifically exempted despite being manufactured in India, showing selective corporate favoritism.
+title: 'US Imposes 50% Tariff on India for Buying Russian Oil, Exempts Apple'
+description: 'Trump adds additional 25% tariff on India (total 50%) explicitly for "directly or indirectly importing Russian Federation oil." Executive order establishes framework to monitor and punish other countries buying Russian energy. Apple products specifically exempted despite being manufactured in India, showing selective corporate favoritism.'
 importance: 8
 tags:
 - trade-war
@@ -25,16 +25,19 @@ status: confirmed
 sources:
 - outlet: White House
   date: '2025-08-27'
-  url: https://www.whitehouse.gov/presidential-actions/india-tariff-russian-oil
+  url: 'https://www.whitehouse.gov/presidential-actions/india-tariff-russian-oil'
   title: Executive Order on India tariffs for Russian oil purchases
+  tier: 1
 - outlet: Reuters
   date: '2025-08-27'
-  url: https://www.reuters.com/world/india-tariff-russian-oil
-  title: US hits India with 50% tariff over Russian oil imports
+  url: 'https://www.reuters.com/world/india-tariff-russian-oil'
+  title: 'US hits India with 50% tariff over Russian oil imports'
+  tier: 1
 - outlet: Economic Times India
   date: '2025-08-28'
-  url: https://economictimes.indiatimes.com/news/economy/foreign-trade/us-tariff-russian-oil
-  title: India condemns discriminatory US tariffs, Apple exemption
+  url: 'https://economictimes.indiatimes.com/news/economy/foreign-trade/us-tariff-russian-oil'
+  title: 'India condemns discriminatory US tariffs, Apple exemption'
+  tier: 2
 connections:
 - 2025-08-07--india-25-percent-base-tariff
 - 2022-02-24--russia-ukraine-invasion

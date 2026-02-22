@@ -21,14 +21,17 @@ sources:
   url: https://www.usnews.com/news/education-news/articles/2019-03-12/50-charged-in-largest-college-admissions-scam-ever
   outlet: U.S. News
   date: '2019-03-12'
+  tier: 2
 - title: Lori Loughlin, Felicity Huffman among 50 charged in college admissions scheme
   url: https://www.nbcnews.com/news/us-news/feds-uncover-massive-college-entrance-exam-cheating-plot-n982136
   outlet: NBC News
   date: '2019-03-12'
+  tier: 1
 - title: Investigations of College Admissions and Testing Bribery Scheme
   url: https://www.justice.gov/usao-ma/investigations-college-admissions-and-testing-bribery-scheme
   outlet: Department of Justice
   date: '2019-03-12'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

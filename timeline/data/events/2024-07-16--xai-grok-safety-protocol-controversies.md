@@ -5,14 +5,17 @@ title: xAI Faces Major Criticism Over Grok AI Safety Failures
 importance: 9
 sources:
 - outlet: Fortune
-  title: Elon Musk released xAI's Grok 4 without any safety reports
-  url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
+  title: 'Elon Musk released xAI''s Grok 4 without any safety reports'
+  url: 'https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/'
+  tier: 2
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI
-  url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
+  title: 'OpenAI and Anthropic researchers decry ''reckless'' safety culture at Elon Musk''s xAI'
+  url: 'https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/'
+  tier: 2
 - outlet: CBS News
-  title: Pentagon to start using Grok as part of a $200 million contract with Elon Musk's xAI
-  url: https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract/
+  title: 'Pentagon to start using Grok as part of a $200 million contract with Elon Musk''s xAI'
+  url: 'https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract/'
+  tier: 1
 tags:
 - ai-safety
 - tech-regulation
@@ -26,10 +29,9 @@ actors:
 - Boaz Barak
 - Dan Hendrycks
 capture_lanes:
-- Digital & Tech Capture
-- Media Capture & Control
+- 'Digital & Tech Capture'
+- 'Media Capture & Control'
 - Regulatory Capture
 status: confirmed
 ---
-
 xAI, Elon Musk's AI company, encountered significant criticism for its lack of transparency and safety protocols surrounding the Grok AI system. Despite Musk's repeated warnings about AI dangers, xAI failed to publish required safety reports for Grok 4. Leading AI safety researchers from Anthropic and OpenAI publicly condemned xAI's 'reckless' approach, highlighting instances of inappropriate AI responses, including antisemitic comments. The Pentagon nonetheless signed a $200 million contract to deploy Grok across federal systems, raising serious concerns about AI governance and responsible development.

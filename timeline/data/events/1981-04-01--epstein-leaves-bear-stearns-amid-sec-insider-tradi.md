@@ -22,14 +22,17 @@ sources:
   url: https://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303
   outlet: Vanity Fair
   date: '2003-03-01'
+  tier: 2
 - title: 'Jeffrey Epstein: International Moneyman of Mystery'
   url: https://www.palmbeachpost.com/story/news/crime/2019/07/10/jeffrey-epstein-international-moneyman-mystery/1677951007/
   outlet: Palm Beach Post
   date: '2019-07-10'
+  tier: 2
 - title: The Talented Mr. Epstein
   url: https://nymag.com/nymetro/news/people/n_7912/
   outlet: New York Magazine
   date: '2002-04-28'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

@@ -21,12 +21,15 @@ sources:
 - outlet: U.S. Department of the Treasury
   title: CFIUS Review of Dubai Ports World Transaction
   url: https://home.treasury.gov/news/press-releases/js4071
+  tier: 1
 - outlet: George W. Bush White House Archives
   title: 'Fact Sheet: The CFIUS Process And The DP World Transaction'
   url: https://georgewbush-whitehouse.archives.gov/news/releases/2006/02/20060222-11.html
+  tier: 1
 - outlet: National Nuclear Security Administration
   title: DP World and U.S. Port Security Analysis
   url: https://www.nti.org/analysis/articles/dp-world-and-us-port-security/
+  tier: 2
 status: confirmed
 id: 2005-10-15--dubai-ports-world-initiates-cfius-review-for-us-po
 priority_id: RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover

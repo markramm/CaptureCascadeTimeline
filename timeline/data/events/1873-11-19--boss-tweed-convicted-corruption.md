@@ -12,15 +12,18 @@ sources:
 - title: William M. Tweed
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/William_M._Tweed
+  tier: 2
   year: 2024
 - title: Boss Tweed
   outlet: Britannica
   url: https://www.britannica.com/biography/Boss-Tweed
   year: 2024
+  tier: 2
 - title: 'Notable Resident: William Magear "Boss" Tweed'
   outlet: Green-Wood Cemetery
   url: https://www.green-wood.com/william-magear-boss-tweed/
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - weak-accountability

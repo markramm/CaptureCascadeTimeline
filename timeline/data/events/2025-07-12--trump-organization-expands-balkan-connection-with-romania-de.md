@@ -10,11 +10,11 @@ connections:
 - description: Potential expansion of Trump brand into Balkan real estate markets
   related_event: Trump Tower Belgrade planning
 date: '2025-07-12'
-description: In a strategic expansion move, the Trump Organization announced a partnership with Romanian real estate developer SDC Imobiliare to construct a luxury residential tower in Bucharest, signaling continued international business interests despite previous political controversies
+description: 'In a strategic expansion move, the Trump Organization announced a partnership with Romanian real estate developer SDC Imobiliare to construct a luxury residential tower in Bucharest, signaling continued international business interests despite previous political controversies'
 id: 2025-07-12--trump-organization-expands-balkan-connection-with-romania-de
 importance: 7
-location: Bucharest, Romania
-notes: Event highlights ongoing Trump Organization international business strategy, leveraging previous political connections for real estate development
+location: 'Bucharest, Romania'
+notes: 'Event highlights ongoing Trump Organization international business strategy, leveraging previous political connections for real estate development'
 patterns:
 - kleptocratic-capture
 - international-business-expansion
@@ -22,19 +22,23 @@ sources:
 - date: '2025-07-12'
   outlet: Bloomberg
   title: Trump Organization expands Balkan connection with Romania deal
-  url: https://www.bloomberg.com/news/articles/2025-07-12/trump-organization-expands-balkan-connection-with-romania-deal
+  url: 'https://www.bloomberg.com/news/articles/2025-07-12/trump-organization-expands-balkan-connection-with-romania-deal'
+  tier: 1
 - date: '2025-07-12'
   outlet: Romania Insider
   title: Trump Organization Luxury Project in Romania Announced
-  url: https://www.romania-insider.com/trump-organization-luxury-project-romania-2025
+  url: 'https://www.romania-insider.com/trump-organization-luxury-project-romania-2025'
+  tier: 2
 - date: '2025-07-12'
   outlet: CNBC
   title: Trump Organization plans to build tower block with luxury apartments in Romanian capital
-  url: https://www.cnbc.com/2025/07/12/trump-organization-luxury-apartments-bucharest.html
+  url: 'https://www.cnbc.com/2025/07/12/trump-organization-luxury-apartments-bucharest.html'
+  tier: 2
 - date: '2025-07-12'
-  outlet: U.S. News & World Report
+  outlet: 'U.S. News & World Report'
   title: Trump Organization Plans to Build Tower Block in Romanian Capital
-  url: https://www.usnews.com/news/top-news/articles/2025-07-12/trump-organization-plans-to-build-tower-block-in-romanian-capital
+  url: 'https://www.usnews.com/news/top-news/articles/2025-07-12/trump-organization-plans-to-build-tower-block-in-romanian-capital'
+  tier: 2
 status: confirmed
 tags:
 - kleptocracy
@@ -44,5 +48,4 @@ tags:
 - balkan-expansion
 title: Trump Organization Launches Luxury Tower Project in Romania
 ---
-
 The Trump Organization partnered with SDC Imobiliare to develop Trump Tower Bucharest, marking the brand's first major real estate venture in Romania and expanding its Balkan presence. Eric Trump emphasized the project reflects their commitment to 'excellence, luxury, and innovation'.

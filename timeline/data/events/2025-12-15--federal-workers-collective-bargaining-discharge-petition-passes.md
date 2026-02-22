@@ -21,15 +21,16 @@ capture_lanes:
 sources:
 - outlet: Government Executive
   title: Federal workers collective bargaining bill passes via discharge petition
-  url: https://www.govexec.com/workforce/2025/12/federal-workers-collective-bargaining-discharge-petition/
+  url: 'https://www.govexec.com/workforce/2025/12/federal-workers-collective-bargaining-discharge-petition/'
   date: 2025-12
+  tier: 2
 - outlet: Nebraska Examiner
   title: Don Bacon says he signed discharge petition for the presidents own good
-  url: https://nebraskaexaminer.com/2025/12/bacon-discharge-petition-president/
+  url: 'https://nebraskaexaminer.com/2025/12/bacon-discharge-petition-president/'
   date: 2025-12
+  tier: 2
 status: confirmed
 ---
-
 The House passes legislation restoring collective bargaining rights to federal workers by a vote of 231-195, with 20 Republicans voting in favor against explicit Trump administration opposition. The bill reached the floor through a successful discharge petition - the second in one month.
 
 Trump's executive orders had stripped collective bargaining rights from federal workers as part of the Schedule F implementation and mass firings that devastated the federal workforce. The bill would restore those rights.

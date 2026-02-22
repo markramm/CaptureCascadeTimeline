@@ -15,27 +15,29 @@ capture_lanes:
 - Financial Capture
 - Democratic Erosion
 capture_type: monetizing_position
-location: Washington, D.C.
+location: 'Washington, D.C.'
 sources:
 - outlet: PBS NewsHour
-  title: Treasury watchdog launches audit of DOGE access to federal government's payment system
-  url: https://www.pbs.org/newshour/politics/treasury-watchdog-launches-audit-of-doge-access-to-federal-governments-payment-system
+  title: 'Treasury watchdog launches audit of DOGE access to federal government''s payment system'
+  url: 'https://www.pbs.org/newshour/politics/treasury-watchdog-launches-audit-of-doge-access-to-federal-governments-payment-system'
   date: '2025-03-18'
+  tier: 1
 - outlet: NPR
-  title: DOGE released data about federal contract savings. It doesn't add up
-  url: https://www.npr.org/2025/02/19/nx-s1-5302705/doge-overstates-savings-federal-contracts
+  title: 'DOGE released data about federal contract savings. It doesn''t add up'
+  url: 'https://www.npr.org/2025/02/19/nx-s1-5302705/doge-overstates-savings-federal-contracts'
   date: '2025-02-19'
+  tier: 1
 - outlet: WIRED
   title: '''It''s a heist'': real federal auditors are horrified by DOGE'
-  url: https://www.wired.com/story/federal-auditors-doge-elon-musk/
+  url: 'https://www.wired.com/story/federal-auditors-doge-elon-musk/'
   date: '2025-03-18'
+  tier: 2
 status: confirmed
 connections:
 - Potential misuse of government position
 - Conflicts of interest in federal contracting
-notes: Comprehensive documentation of DOGE's controversial audit practices and potential regulatory capture.
+notes: 'Comprehensive documentation of DOGE''s controversial audit practices and potential regulatory capture.'
 patterns:
 - kleptocratic-capture
 ---
-
 The Department of Government Efficiency (DOGE), led by Elon Musk, faces scrutiny for overstating federal contract savings and potentially using government access to benefit Musk's business interests. The Treasury Department has launched an audit to investigate DOGE's access to payment systems, with initial findings suggesting significant discrepancies in reported savings and potential security risks.

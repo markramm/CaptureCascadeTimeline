@@ -20,18 +20,22 @@ sources:
   url: https://www.npr.org/templates/story/story.php?storyId=5157988
   outlet: NPR
   date: '2006-01-12'
+  tier: 1
 - title: K Street Project
   url: https://www.sourcewatch.org/index.php/K_Street_Project
   outlet: SourceWatch
   date: '2024-01-01'
+  tier: 2
 - title: Republicans take over K Street
   url: https://www.csmonitor.com/2003/0829/p01s01-uspo.html
   outlet: Christian Science Monitor
   date: '2003-08-29'
+  tier: 1
 - title: The K Street Project and Tom DeLay (Detailed Analysis)
   url: https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay
   outlet: NPR
   date: '2006-01-14'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Legislative Capture

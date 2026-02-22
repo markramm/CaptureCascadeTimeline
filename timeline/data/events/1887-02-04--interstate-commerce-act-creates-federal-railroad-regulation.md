@@ -13,15 +13,18 @@ sources:
 - title: Interstate Commerce Act (1887)
   outlet: National Archives
   url: https://www.archives.gov/milestone-documents/interstate-commerce-act
+  tier: 1
   year: 2025
 - title: The Interstate Commerce Act Is Passed
   outlet: U.S. Senate
   url: https://www.senate.gov/artandhistory/history/minute/Interstate_Commerce_Act_Is_Passed.htm
   year: 2025
+  tier: 1
 - title: Interstate Commerce Act of 1887
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Interstate_Commerce_Act_of_1887
   year: 2025
+  tier: 2
 tags:
 - regulatory-framework
 - democratic-resistance

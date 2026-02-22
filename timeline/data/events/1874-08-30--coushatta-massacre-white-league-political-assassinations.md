@@ -13,15 +13,18 @@ sources:
 - title: Coushatta Massacre
   outlet: 64 Parishes
   url: https://64parishes.org/entry/coushatta-massacre
+  tier: 2
   year: 2024
 - title: Coushatta massacre
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Coushatta_massacre
   year: 2024
+  tier: 2
 - title: White League and Red Shirts in Reconstruction
   outlet: Brewminate
   url: https://brewminate.com/white-league-and-red-shirts-racist-paramilitary-terror-in-the-late-19th-century-america/
   year: 2024
+  tier: 2
 tags:
 - white-supremacy
 - reconstruction-sabotage

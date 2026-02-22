@@ -22,14 +22,17 @@ sources:
   url: https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy
   outlet: ProPublica
   date: '2025-04-22'
+  tier: 1
 - title: Politically Connected Corporations Received More Exemptions from U.S. Tariffs on Chinese Imports, Study Finds
   url: https://news.lehigh.edu/politically-connected-corporations-received-more-exemptions-from-us-tariffs-on-chinese-imports
   outlet: Lehigh University News
   date: '2025-04-22'
+  tier: 1
 - title: The Economic Effects of President Trump's Tariffs
   url: https://budgetmodel.wharton.upenn.edu/issues/2025/4/10/economic-effects-of-president-trumps-tariffs
   outlet: Penn Wharton Budget Model
   date: '2025-04-10'
+  tier: 1
 connections:
 - Political donors receiving preferential regulatory treatment
 - Systemic bias in tariff exemption process

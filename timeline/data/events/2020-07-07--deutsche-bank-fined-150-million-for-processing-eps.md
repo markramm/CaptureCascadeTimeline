@@ -23,14 +23,17 @@ sources:
   url: https://www.reuters.com/article/us-deutsche-bank-settlement-epstein/deutsche-bank-to-pay-150-million-for-ties-to-jeffrey-epstein-idUSKBN2481FT
   outlet: Reuters
   date: '2020-07-07'
+  tier: 1
 - title: Deutsche Bank Agrees to Pay $150 Million Over Epstein Ties
   url: https://www.nytimes.com/2020/07/07/business/deutsche-bank-epstein-settlement.html
   outlet: The New York Times
   date: '2020-07-07'
+  tier: 1
 - title: Deutsche Bank to pay $150M penalty over Jeffrey Epstein ties
   url: https://www.cnbc.com/2020/07/07/deutsche-bank-to-pay-150-million-penalty-over-jeffrey-epstein-ties.html
   outlet: CNBC
   date: '2020-07-07'
+  tier: 2
 notes: The fine represents one of the largest penalties related to Epstein's financial network and highlights how major financial institutions enabled his operations.
 capture_lanes:
 - Regulatory Capture

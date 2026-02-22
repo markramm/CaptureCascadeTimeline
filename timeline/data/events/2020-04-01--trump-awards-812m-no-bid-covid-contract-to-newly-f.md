@@ -21,14 +21,17 @@ sources:
   url: https://www.propublica.org/article/trump-administration-gave-firm-812-million-deal-to-make-covid-drugs
   outlet: ProPublica
   date: '2020-05-26'
+  tier: 1
 - title: Kodak's Stock Surges After Securing $765 Million Government Loan
   url: https://www.npr.org/2020/07/29/896661289/kodaks-stock-surges-after-securing-765-million-government-loan
   outlet: NPR
   date: '2020-07-29'
+  tier: 1
 - title: SEC investigating Kodak over government loan disclosure
   url: https://www.reuters.com/article/us-eastman-kodak-loan-sec-idUSKCN2501UW
   outlet: Reuters
   date: '2020-08-04'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

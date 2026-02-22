@@ -22,6 +22,7 @@ sources:
   url: https://time.com/7005267/usc-dirty-tricks-watergate-history/
   outlet: TIME
   date: '2024'
+  tier: 1
   verified: true
   tier: 1
 - title: Canuck letter - Wikipedia
@@ -40,19 +41,23 @@ sources:
   url: https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm
   outlet: Federation of American Scientists
   date: '1992-12-01'
+  tier: 1
 - title: Bank of Credit and Commerce International
   url: https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International
   outlet: Wikipedia
   date: '1972-09-01'
+  tier: 2
 - title: 'Structural Sources of International Crime: Policy Lessons from the BCCI
     Affair'
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/structural-sources-international-crime-policy-lessons-bcci-affair
   outlet: U.S. Department of Justice
   date: '1992-12-01'
+  tier: 1
 - title: 'BCCI: The Inside Story of the World''s Sleaziest Bank'
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/dirty-money-bcci-inside-story-worlds-sleaziest-bank
   outlet: U.S. Department of Justice
   date: '1992-12-01'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Labor Suppression

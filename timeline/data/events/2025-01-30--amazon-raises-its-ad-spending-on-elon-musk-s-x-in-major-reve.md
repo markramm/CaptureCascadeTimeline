@@ -23,14 +23,17 @@ sources:
   url: https://www.foxbusiness.com/technology/amazon-increases-ad-spending-x-major-reversal-report
   outlet: Fox Business
   date: '2025-01-30'
+  tier: 2
 - title: Jeff Bezos and Elon Musk are 'best friends,' and now Amazon plans to buy ads on X
   url: https://fortune.com/2025/02/01/jeff-bezos-elon-musk-friends-x-amazon-advertisements/
   outlet: Fortune
   date: '2025-02-01'
+  tier: 2
 - title: Amazon ramps up ad spending on Elon Musk's X, WSJ reports
   url: https://www.marketscreener.com/quote/stock/AMAZON-COM-INC-12864605/news/Amazon-ramps-up-ad-spending-on-Elon-Musk-s-X-WSJ-reports-48918215/
   outlet: MarketScreener
   date: '2025-01-30'
+  tier: 3
 connections: []
 patterns:
 - kleptocratic-capture

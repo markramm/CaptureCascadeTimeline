@@ -22,14 +22,17 @@ sources:
   url: https://www.heritage.org/press/heritage-announces-2025-presidential-transition-project-hiring-paul-dans-direct-new
   outlet: Heritage Foundation
   date: '2022-04-14'
+  tier: 2
 - title: Project 2025 Publishes Comprehensive Policy Guide
   url: https://www.heritage.org/press/project-2025-publishes-comprehensive-policy-guide-mandate-leadership-the-conservative-promise
   outlet: Heritage Foundation
   date: '2023-04-21'
+  tier: 2
 - title: 'Project 2025: The Conservative Transition Playbook'
   url: https://theconversation.com/heritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542
   outlet: The Conversation
   date: '2024-01-15'
+  tier: 2
 status: confirmed
 ---
 

@@ -23,14 +23,17 @@ sources:
   url: https://www.longislandpress.com/2013/06/14/obamas-crackdown-on-whistleblowers/
   outlet: Long Island Press
   date: '2013-06-14'
+  tier: 2
 - title: Obama and leakers how many prosecutions
   url: https://www.politifact.com/factchecks/2017/jun/09/jeff-sessions/obama-prosecuted-leakers-more-aggressively-sessio/
   outlet: PolitiFact
   date: '2017-06-09'
+  tier: 1
 - title: The war on leaks and journalism
   url: https://www.theguardian.com/commentisfree/2013/may/20/obama-administration-espionage-act-james-goodale
   outlet: The Guardian
   date: '2013-05-20'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

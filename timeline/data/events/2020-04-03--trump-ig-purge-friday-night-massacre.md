@@ -27,14 +27,17 @@ sources:
   url: https://www.cnn.com/2020/04/03/politics/trump-intelligence-community-inspector-general-whistleblower/index.html
   outlet: CNN
   date: '2020-04-04'
+  tier: 1
 - title: Trump's systematic removal of inspectors general creates 'constitutional crisis'
   url: https://www.washingtonpost.com/politics/2020/05/21/trumps-systematic-removal-inspectors-general-creates-constitutional-crisis/
   outlet: The Washington Post
   date: '2020-05-21'
+  tier: 1
 - title: Trump administration's inspector general purge echoes Bush-era oversight destruction
   url: https://www.politico.com/news/2020/05/19/trump-inspector-general-firings-oversight-265219
   outlet: Politico
   date: '2020-05-19'
+  tier: 1
 importance: 9
 status: confirmed
 triggered_by:

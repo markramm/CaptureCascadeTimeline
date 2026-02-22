@@ -13,12 +13,12 @@ connections:
 - US-Hungary Relations
 - Global Magnitsky Act Sanctions
 date: '2025-04-15'
-description: US removes sanctions from Antal Rogán, top aide to Hungary's Viktor Orbán, reversing previous Biden administration action
+description: 'US removes sanctions from Antal Rogán, top aide to Hungary''s Viktor Orbán, reversing previous Biden administration action'
 id: 2025-04-15--us-removes-sanctions-from-antal-rog-n-aide-to-hungary-s-vikt
 importance: 7
 location:
-- Washington, D.C.
-- Budapest, Hungary
+- 'Washington, D.C.'
+- 'Budapest, Hungary'
 notes: Demonstrates shifting geopolitical relationships and potential leverage in diplomatic sanctions
 patterns:
 - kleptocratic-capture
@@ -26,27 +26,30 @@ patterns:
 sources:
 - date: '2025-04-15'
   outlet: Radio Free Europe/Radio Liberty (RFE/RL)
-  title: US Lifts Sanctions Against Member Of Orban's Cabinet
-  url: https://www.rferl.org/a/hungary-orban-rogan-rubio-sanctions-lifted/33386511.html
+  title: 'US Lifts Sanctions Against Member Of Orban''s Cabinet'
+  url: 'https://www.rferl.org/a/hungary-orban-rogan-rubio-sanctions-lifted/33386511.html'
+  tier: 2
 - date: '2025-04-15'
   outlet: Bloomberg
   title: 'Trump''s Gift to Orban: US Lifts Sanctions on Hungary Minister'
-  url: https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban
+  url: 'https://www.bloomberg.com/news/articles/2025-04-15/us-lifts-sanctions-on-hungary-minister-in-trump-s-gift-to-orban'
+  tier: 1
 - date: '2025-04-15'
   outlet: U.S. Department of the Treasury
   title: Treasury Sanctions Corrupt Hungarian Official
-  url: https://home.treasury.gov/news/press-releases/jy2773
+  url: 'https://home.treasury.gov/news/press-releases/jy2773'
+  tier: 1
 - date: '2025-04-15'
   outlet: France 24
-  title: US lifts corruption sanctions on top aide to Hungary's Orban
-  url: https://www.france24.com/en/americas/20250416-us-treasury-lifts-corruption-sanctions-on-top-hungarian-minister
+  title: 'US lifts corruption sanctions on top aide to Hungary''s Orban'
+  url: 'https://www.france24.com/en/americas/20250416-us-treasury-lifts-corruption-sanctions-on-top-hungarian-minister'
+  tier: 2
 status: confirmed
 tags:
 - kleptocracy
 - sanctions
 - foreign-policy
 - trump-administration
-title: US Removes Sanctions from Antal Rogán, Top Orbán Aide
+title: 'US Removes Sanctions from Antal Rogán, Top Orbán Aide'
 ---
-
 The Trump administration lifted US sanctions against Antal Rogán, a top Hungarian government official previously sanctioned for corruption, signaling a significant shift in diplomatic approach toward Hungary and potentially demonstrating geopolitical leverage.

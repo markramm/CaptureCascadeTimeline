@@ -18,22 +18,27 @@ sources:
   url: https://www.reuters.com/sustainability/boards-policy-regulation/ftc-probes-media-matters-over-musks-x-boycott-claims-document-shows-2025-05-22/
   outlet: Reuters
   date: '2025-05-22'
+  tier: 1
 - title: FTC Launches Initial Stage Of Investigation Of Media Matters Over Elon Musk's Ad Boycott Claims
   url: https://deadline.com/2025/05/ftc-media-matters-investigation-1236408820/
   outlet: Deadline
   date: '2025-05-22'
+  tier: 1
 - title: FTC probes Media Matters' exchanges with ad groups, stoking fears of retribution
   url: https://www.cnn.com/2025/05/22/media/ftc-media-matters-ad-groups-elon-musk-retribution
   outlet: CNN
   date: '2025-05-22'
+  tier: 1
 - title: Judge blocks Trump FTC's retaliation against Media Matters
   url: https://www.cnn.com/2025/08/16/media/ftc-trump-media-matters-elon-musk-judge-order
   outlet: CNN
   date: '2025-08-16'
+  tier: 1
 - title: Trump's FTC Goes to War Against Media Group Elon Musk Despises
   url: https://newrepublic.com/post/195657/ftc-investigation-media-matters-elon-musk
   outlet: The New Republic
   date: '2025-05-22'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

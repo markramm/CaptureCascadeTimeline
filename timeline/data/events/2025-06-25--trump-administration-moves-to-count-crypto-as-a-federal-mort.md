@@ -23,14 +23,17 @@ sources:
   url: https://www.foxbusiness.com/economy/us-regulator-directs-fannie-mae-freddie-mac-consider-cryptocurrency-assets
   outlet: Fox Business
   date: '2025-06-25'
+  tier: 2
 - title: Trump Administration Takes Major Step in Crypto Mortgage Asset Recognition
   url: https://fortune.com/crypto/2025/06/26/trump-administration-crypto-assets-home-loan-mortgage-applications-fannie-mae-freddie-mac/
   outlet: Fortune Crypto
   date: '2025-06-26'
+  tier: 2
 - title: FHFA Directs Fannie Mae, Freddie Mac to Develop Cryptocurrency Asset Plans
   url: https://www.consumerfinancemonitor.com/2025/08/14/fhfa-directs-fannie-mae-freddie-mac-to-develop-plans-to-use-cryptocurrency-as-assets-without-conversion-to-dollars/
   outlet: Consumer Finance Monitor
   date: '2025-07-14'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

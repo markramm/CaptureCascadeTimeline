@@ -19,14 +19,17 @@ sources:
   url: https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors
   outlet: U.S. Department of Justice
   date: '2019-07-08'
+  tier: 1
 - title: Billionaire sex offender Jeffrey Epstein arrested for alleged sex trafficking
   url: https://www.nbcnews.com/news/us-news/billionaire-sex-offender-jeffrey-epstein-arrested-alleged-sex-trafficking-n1027126
   outlet: NBC News
   date: '2019-07-06'
+  tier: 1
 - title: Billionaire Jeffrey Epstein arrested on sex trafficking charges
   url: https://www.cnbc.com/2019/07/07/billionaire-jeffrey-epstein-arrested-on-sex-trafficking-charges.html
   outlet: CNBC
   date: '2019-07-07'
+  tier: 2
 notes: Timing suggests potential witness elimination after money laundering revelations
 status: confirmed
 ---

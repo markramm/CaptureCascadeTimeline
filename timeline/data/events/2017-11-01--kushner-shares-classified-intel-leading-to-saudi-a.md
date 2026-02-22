@@ -21,14 +21,17 @@ sources:
   url: https://www.theguardian.com/us-news/2019/mar/21/jared-kushner-whatsapp-house-oversight-information
   outlet: The Guardian
   date: '2019-03-21'
+  tier: 1
 - title: Saudi Crown Prince Boasted Jared Kushner Was 'In His Pocket'
   url: https://theintercept.com/2018/03/21/jared-kushner-saudi-crown-prince-mohammed-bin-salman/
   outlet: The Intercept
   date: '2018-03-21'
+  tier: 1
 - title: The Khashoggi murder and Trump's response
   url: https://www.nytimes.com/2018/11/20/world/middleeast/trump-saudi-khashoggi.html
   outlet: The New York Times
   date: '2018-11-20'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration

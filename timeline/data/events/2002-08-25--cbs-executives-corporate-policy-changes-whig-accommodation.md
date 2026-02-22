@@ -27,14 +27,17 @@ sources:
   url: https://www.mediamatters.org/cbs/cbs-news-and-iraq-war-corporate-pressure-and-editorial-independence
   outlet: Media Matters
   date: '2006-07-15'
+  tier: 2
 - title: How Corporate Media Failed America on Iraq
   url: https://www.thenation.com/article/archive/how-corporate-media-failed-america-iraq/
   outlet: The Nation
   date: '2007-03-19'
+  tier: 2
 - title: Viacom's CBS and the Path to War
   url: https://fair.org/extra/the-oh-really-factor/
   outlet: FAIR
   date: '2004-05-01'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

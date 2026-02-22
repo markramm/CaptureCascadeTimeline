@@ -23,18 +23,22 @@ sources:
   url: https://www.oecd.org/en/publications/addressing-the-tax-challenges-of-the-digital-economy_9789264218789-en.html
   outlet: OECD
   date: '2020-10-12'
+  tier: 2
 - title: Criticism of Google - Tax avoidance
   url: https://en.wikipedia.org/wiki/Google_tax_avoidance
   outlet: Wikipedia
   date: '2024-10-15'
+  tier: 2
 - title: The digital tax hunt bigger than Google
   url: https://www.acuitymag.com/business/the-digital-tax-hunt-bigger-than-google
   outlet: Acuity Magazine
   date: '2020-06-15'
+  tier: 2
 - title: Tax challenges from digitalisation - two-pillar solution could increase tax revenues
   url: https://oecdecoscope.blog/2020/10/20/tax-challenges-from-digitalisation-a-global-two-pillar-solution-could-increase-tax-revenues-and-support-economic-activity/
   outlet: OECD Ecoscope
   date: '2020-10-20'
+  tier: 2
 status: confirmed
 id: 2020-01-01--oecd-google-avoids-7-billion-annually
 capture_lanes:

@@ -21,25 +21,28 @@ sources:
   - 13 final approvals over three months
   outlet: Associated Press
   title: China approves 13 new Ivanka Trump trademarks in 3 months
-  url: https://apnews.com/international-news-general-news-united-states-government-9caf2ddbbae84bd09e9d732036d667b4
+  url: 'https://apnews.com/international-news-general-news-united-states-government-9caf2ddbbae84bd09e9d732036d667b4'
   verified: true
+  tier: 1
 - archive_url: ''
   date: '2018-11-06'
   key_facts_confirmed:
   - 16 provisional approvals in October 2018
   outlet: Associated Press
   title: China grants 16 additional Ivanka Trump trademarks (provisional approvals)
-  url: https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727
+  url: 'https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727'
   verified: true
+  tier: 1
 - archive_url: ''
   date: '2018-05-29'
   key_facts_confirmed:
   - Trademark approvals raised conflict of interest concerns
   - Trademarks included diverse product categories
   outlet: CNBC
-  title: Ivanka Trump's Chinese trademarks raise questions about potential conflicts of interest
-  url: https://www.cnbc.com/2018/05/29/ivanka-trump-chinese-trademarks-raise-conflict-of-interest-questions.html
+  title: 'Ivanka Trump''s Chinese trademarks raise questions about potential conflicts of interest'
+  url: 'https://www.cnbc.com/2018/05/29/ivanka-trump-chinese-trademarks-raise-conflict-of-interest-questions.html'
   verified: true
+  tier: 2
 - archive_url: ''
   date: '2018-08-15'
   key_facts_confirmed:
@@ -47,8 +50,9 @@ sources:
   - Detailed analysis of potential ethics violations
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   title: 'Ivanka Trump''s Chinese Trademarks: Conflicts of Interest Investigation'
-  url: https://www.citizensforethics.org/reports-investigations/crew-investigations/ivanka-trump-trademarks/
+  url: 'https://www.citizensforethics.org/reports-investigations/crew-investigations/ivanka-trump-trademarks/'
   verified: true
+  tier: 2
 status: confirmed
 tags:
 - trademarks
@@ -56,7 +60,6 @@ tags:
 - foreign-influence
 title: China grants waves of Ivanka Trump trademarks as she serves in White House; ethics watchdogs flag conflicts
 ---
-
 China's trademark office granted final approval for 13 Ivanka Trump trademarks over three
 months in early 2018, and later provisionally approved 16 more in October 2018, according to
 AP reviews of official records. The brand said filings were routine defensive registrations;

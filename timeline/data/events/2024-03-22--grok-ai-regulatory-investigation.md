@@ -19,14 +19,17 @@ sources:
   url: https://www.rpclegal.com/snapshots/data-protection/autumn-2024/x-suspends-training-of-ai-chatbot-grok-following-irish-dpc-pressure/
   outlet: RPC Legal
   date: '2024-08-06'
+  tier: 2
 - title: X accused of using EU user data to train Grok without consent
   url: https://www.engadget.com/ai/x-accused-of-using-eu-user-data-to-train-grok-without-consent-133042114.html
   outlet: Engadget
   date: '2024-08-06'
+  tier: 2
 - title: Irish Regulator Launches Investigation into X/Twitter's Use of EU Data to Train Grok AI
   url: https://complydog.com/blog/grok-gdpr-investigation
   outlet: Comply Dog
   date: '2024-08-06'
+  tier: 2
 capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture

@@ -23,12 +23,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Mandate_for_Leadership
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: REAGAN AND HERITAGE - A Unique Partnership
   url: https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership
   outlet: Heritage Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Jack Eckerd, former head of GSA under Ford, proposed at a 1979 trustees meeting that Heritage prepare a conservative plan for the next administration. Robert Krieble suggested a manual to "cut the size of government and manage it more effectively." This began the project that would produce over 2,000 policy recommendations and shape the Reagan administration.
 status: confirmed
 ---

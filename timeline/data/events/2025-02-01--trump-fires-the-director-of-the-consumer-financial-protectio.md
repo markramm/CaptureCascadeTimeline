@@ -23,14 +23,17 @@ sources:
   url: https://apnews.com/article/trump-chopra-consumer-financial-protection-bureau-47b6b39d0eff05ea0c9bca4eacf55b79
   outlet: Associated Press
   date: '2025-02-01'
+  tier: 1
 - title: Trump fires CFPB Director Rohit Chopra
   url: https://www.npr.org/2025/02/01/nx-s1-5254186/cfpb-consumer-financial-protection-cfpb-trump-chopra
   outlet: NPR
   date: '2025-02-01'
+  tier: 1
 - title: Trump fires Rohit Chopra, director of the Consumer Financial Protection Bureau
   url: https://www.cbsnews.com/news/trump-fires-rohit-chopra-director-of-the-consumer-financial-protection-bureau/
   outlet: CBS News
   date: '2025-02-01'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

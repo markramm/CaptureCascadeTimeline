@@ -3,7 +3,7 @@ id: 2025-12-04--fda-prasad-unsubstantiated-vaccine-death-memo
 date: '2025-12-04'
 importance: 9
 title: FDA Vaccine Chief Vinay Prasad Circulates Unsubstantiated Memo Claiming COVID Vaccines Killed At Least Ten Children
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Dr. Vinay Prasad
 - FDA Center for Biologics Evaluation and Research (CBER)
@@ -25,45 +25,51 @@ capture_lanes:
 - Regulatory Capture
 - Federal Workforce Capture
 sources:
-- title: FDA claims Covid vaccine caused kids' deaths. Experts are skeptical
-  url: https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/
+- title: 'FDA claims Covid vaccine caused kids'' deaths. Experts are skeptical'
+  url: 'https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/'
   outlet: STAT News
   date: '2025-11-29'
+  tier: 1
   archive_url: null
-- title: Scoop - FDA vaccine chief's memo cited 10 pediatric Covid-19 vaccine deaths—but the agency's own analysis found 0–7
-  url: https://insidemedicine.substack.com/p/scoop-fda-vaccine-chiefs-memo-cited
+- title: 'Scoop - FDA vaccine chief''s memo cited 10 pediatric Covid-19 vaccine deaths—but the agency''s own analysis found 0–7'
+  url: 'https://insidemedicine.substack.com/p/scoop-fda-vaccine-chiefs-memo-cited'
   outlet: Inside Medicine
   date: '2025-12-01'
   archive_url: null
+  tier: 2
 - title: FDA Memo Claims COVID Vaccine Tied to 10 Child Deaths
-  url: https://www.usnews.com/news/health-news/articles/2025-12-02/fda-memo-claims-covid-vaccine-tied-to-10-child-deaths
-  outlet: U.S. News & World Report
+  url: 'https://www.usnews.com/news/health-news/articles/2025-12-02/fda-memo-claims-covid-vaccine-tied-to-10-child-deaths'
+  outlet: 'U.S. News & World Report'
   date: '2025-12-02'
   archive_url: null
+  tier: 2
 - title: FDA claims Covid shots killed 10 children and vows new vaccine rules
-  url: https://www.nbcnews.com/health/health-news/fda-covid-vaccines-children-deaths-rcna246437
+  url: 'https://www.nbcnews.com/health/health-news/fda-covid-vaccines-children-deaths-rcna246437'
   outlet: NBC News
   date: '2025-12-02'
   archive_url: null
-- title: FDA official, without providing data, claims link between COVID-19 vaccines and pediatric deaths
-  url: https://www.cbsnews.com/news/food-drug-administration-covid-19-vaccines-pediatric-deaths/
+  tier: 1
+- title: 'FDA official, without providing data, claims link between COVID-19 vaccines and pediatric deaths'
+  url: 'https://www.cbsnews.com/news/food-drug-administration-covid-19-vaccines-pediatric-deaths/'
   outlet: CBS News
   date: '2025-12-02'
   archive_url: null
+  tier: 1
 - title: A dozen former FDA commissioners decry Prasad memo on vaccine regulation
-  url: https://www.statnews.com/2025/12/03/fda-former-commissioners-vaccine-policy/
+  url: 'https://www.statnews.com/2025/12/03/fda-former-commissioners-vaccine-policy/'
   outlet: STAT News
   date: '2025-12-03'
   archive_url: null
-- title: How two FDA officials, Prasad and Hoeg, seized vaccine oversight
-  url: https://www.statnews.com/2025/11/12/fda-vaccine-policy-controlled-by-vinay-prasad-tracy-beth-hoeg/
+  tier: 1
+- title: 'How two FDA officials, Prasad and Hoeg, seized vaccine oversight'
+  url: 'https://www.statnews.com/2025/11/12/fda-vaccine-policy-controlled-by-vinay-prasad-tracy-beth-hoeg/'
   outlet: STAT News
   date: '2025-11-12'
   archive_url: null
-notes: Prasad sent memo to FDA staff on November 28, 2025, before FDA scientists completed their assigned analysis. December 5 post-marketing safety memo by FDA scientists found actual deaths linked to COVID vaccines between zero and seven, not at least ten as Prasad claimed. Memo uses highly ideological language, characterizing COVID vaccine requirements as coercive and calling past agency decisions dishonest. Prasad announced sweeping regulatory changes bypassing scientific advisory committees. Twelve former FDA commissioners since 1990 co-wrote opposition article in New England Journal of Medicine. Prasad serves as both FDA Chief Medical and Scientific Officer and Director of CBER overseeing vaccines.
+  tier: 1
+notes: 'Prasad sent memo to FDA staff on November 28, 2025, before FDA scientists completed their assigned analysis. December 5 post-marketing safety memo by FDA scientists found actual deaths linked to COVID vaccines between zero and seven, not at least ten as Prasad claimed. Memo uses highly ideological language, characterizing COVID vaccine requirements as coercive and calling past agency decisions dishonest. Prasad announced sweeping regulatory changes bypassing scientific advisory committees. Twelve former FDA commissioners since 1990 co-wrote opposition article in New England Journal of Medicine. Prasad serves as both FDA Chief Medical and Scientific Officer and Director of CBER overseeing vaccines.'
 status: confirmed
 ---
-
 Dr. Vinay Prasad, director of the FDA's Center for Biologics Evaluation and Research (CBER), circulates an internal memo to FDA staff asserting that COVID-19 vaccines caused "at least 10 deaths in children" and calling for sweeping changes to vaccine regulation—despite providing no supporting data and before FDA scientists completed their assigned analysis of the question. According to STAT News, experts are skeptical of the "extraordinary" claim because it was not presented with detailed data, and subsequent investigation revealed that FDA's own scientific analysis found the actual number of deaths linked to COVID-19 vaccines is somewhere between zero and seven, contradicting Prasad's higher figure.
 
 The November 28, 2025 memo sent by Prasad to FDA staff represents an extraordinary intervention by the agency's top vaccine regulator making definitive claims about vaccine-caused deaths without providing the underlying analysis, patient data, or scientific evidence that would typically accompany such serious allegations. STAT News reported that "outside experts said it was surprising that more data were not included in the memo," noting that standard scientific and regulatory practice requires detailed documentation when claiming causal connections between medical interventions and serious adverse events including death.

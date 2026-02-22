@@ -19,24 +19,26 @@ tags:
 - technological-governance
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
-- Media Capture & Control
+- 'Digital & Tech Capture'
+- 'Media Capture & Control'
 sources:
 - outlet: TechCrunch
-  title: xAI's promised safety report is MIA
-  url: https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/
+  title: 'xAI''s promised safety report is MIA'
+  url: 'https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/'
   retrieved: '2025-10-06'
   date: '2025-05-13'
+  tier: 2
 - outlet: Fortune
-  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'
-  url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
+  title: 'Elon Musk released xAI''s Grok 4 without any safety reports—despite calling AI more ''dangerous than nukes'''
+  url: 'https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/'
   retrieved: '2025-10-06'
   date: '2025-07-17'
+  tier: 2
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI
-  url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
+  title: 'OpenAI and Anthropic researchers decry ''reckless'' safety culture at Elon Musk''s xAI'
+  url: 'https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/'
   retrieved: '2025-10-14'
   date: '2025-07-16'
+  tier: 2
 ---
-
 xAI announced a draft AI safety framework following international pressure, but faced severe criticism from AI safety experts for lack of comprehensive risk mitigation strategies. Industry researchers from OpenAI and Anthropic accused xAI of having a 'reckless' safety culture, highlighting concerns about Grok 4's deployment without proper safety assessments. The incident underscores growing tensions around responsible AI development and the need for standardized safety protocols.

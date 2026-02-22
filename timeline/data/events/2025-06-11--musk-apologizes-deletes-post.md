@@ -18,14 +18,17 @@ sources:
   outlet: Reuters
   date: '2025-06-11'
   url: https://www.reuters.com/technology/musk-apologizes-epstein-trump-post-2025-06-11/
+  tier: 1
 - title: Elon Musk says Epstein comments 'went too far' in rare apology
   outlet: Bloomberg
   date: '2025-06-11'
   url: https://www.bloomberg.com/news/articles/2025-06-11/musk-apologizes-epstein-trump-comments
+  tier: 1
 - title: Musk deletes explosive Epstein post after backlash
   outlet: Financial Times
   date: '2025-06-12'
   url: https://www.ft.com/content/musk-epstein-trump-apology-2025
+  tier: 1
 notes: The apology was temporary as Musk resumed attacks in July.
 ---
 

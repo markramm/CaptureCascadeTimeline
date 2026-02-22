@@ -30,18 +30,22 @@ sources:
   url: https://www.npr.org/2022/11/26/1139258274/us-ban-tech-china-huawei-zte
   outlet: NPR
   date: '2022-11-26'
+  tier: 1
 - title: U.S. bans imports of Chinese tech from Huawei, ZTE
   url: https://www.cbsnews.com/news/huawei-zte-ban-fcc-equipment/
   outlet: CBS News
   date: '2022-11-25'
+  tier: 1
 - title: Secure and Trusted Communications Networks Reimbursement Program
   url: https://www.fcc.gov/supplychain/reimbursement
   outlet: Federal Communications Commission
   date: '2022-11-25'
+  tier: 1
 - title: Carbyne and Rio Grande Council of Governments Texas, Launch Industry-First Cloud-Native i3 911 Contact Center
   url: https://www.prnewswire.com/news-releases/carbyne-and-rio-grande-council-of-governments-texas-launch-industry-first-cloud-native-i3-911-contact-center-301488732.html
   outlet: PR Newswire
   date: '2022-02-22'
+  tier: 2
 notes: FCC Commissioner Brendan Carr stated this marked "the first time in FCC history that we have voted to prohibit the authorization of new equipment based on national security concerns." The $1.9 billion rip-and-replace program was underfunded by over $3 billion, with FCC reporting 24,000 pieces of Huawei/ZTE equipment across 8,400 locations in U.S. networks. Same month, Carbyne—founded by Israeli Unit 8200 veterans—was operational across multiple U.S. states with no documented federal security review despite comparable surveillance capabilities and foreign intelligence origins.
 capture_lanes:
 - Regulatory Capture

@@ -29,17 +29,20 @@ sources:
   url: https://en.wikipedia.org/wiki/McCarran_Internal_Security_Act
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: McCarran Internal Security Act of 1950
   url: https://firstamendment.mtsu.edu/article/mccarran-internal-security-act-of-1950/
   outlet: First Amendment Encyclopedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Veto of the Internal Security Bill
   url: https://www.presidency.ucsb.edu/documents/veto-the-internal-security-bill
   outlet: The American Presidency Project
   date: '2024-01-01'
   verified: true
+  tier: 1
 status: confirmed
 ---
 

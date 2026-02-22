@@ -3,7 +3,7 @@ id: 2025-12-04--lavingia-returns-government-irs-after-doge-firing
 date: '2025-12-04'
 importance: 7
 title: Sahil Lavingia Re-Enters Government at IRS After DOGE Firing for Speaking to Press About Government Efficiency
-location: Washington, DC; San Francisco, CA
+location: 'Washington, DC; San Francisco, CA'
 actors:
 - Sahil Lavingia
 - Sam Corcos
@@ -25,34 +25,38 @@ capture_lanes:
 - Systematic Corruption
 sources:
 - title: Former DOGE Engineer Is Now Back in Government
-  url: https://dnyuz.com/2025/12/05/former-doge-engineer-is-now-back-in-government/
+  url: 'https://dnyuz.com/2025/12/05/former-doge-engineer-is-now-back-in-government/'
   outlet: DN Yuz
   date: '2025-12-05'
+  tier: 2
   archive_url: null
-- title: Ex-DOGE Engineer Joins IRS After VA Firing, Plans 10-Year Stay
-  url: https://www.techbuzz.ai/articles/ex-doge-engineer-joins-irs-after-va-firing-plans-10-year-stay
+- title: 'Ex-DOGE Engineer Joins IRS After VA Firing, Plans 10-Year Stay'
+  url: 'https://www.techbuzz.ai/articles/ex-doge-engineer-joins-irs-after-va-firing-plans-10-year-stay'
   outlet: TechBuzz
   date: '2025-12-04'
   archive_url: null
-- title: VA-based DOGE associate gets 'the boot' after publicly discussing his work
-  url: https://www.govexec.com/management/2025/05/va-based-doge-associate-gets-boot-after-publicly-discussing-his-work/405641/
+  tier: 2
+- title: 'VA-based DOGE associate gets ''the boot'' after publicly discussing his work'
+  url: 'https://www.govexec.com/management/2025/05/va-based-doge-associate-gets-boot-after-publicly-discussing-his-work/405641/'
   outlet: Government Executive
   date: '2025-05-15'
   archive_url: null
-- title: Former DOGE staffer talks about efficiency, his time at the VA, and Elon Musk
-  url: https://www.npr.org/2025/06/13/1254121714/doge-staffer-sahil-lavingia-musk-va-fired
+  tier: 2
+- title: 'Former DOGE staffer talks about efficiency, his time at the VA, and Elon Musk'
+  url: 'https://www.npr.org/2025/06/13/1254121714/doge-staffer-sahil-lavingia-musk-va-fired'
   outlet: NPR
   date: '2025-06-13'
   archive_url: null
-- title: Ex-DOGE official says government isn't recruiting enough tech talent
-  url: https://federalnewsnetwork.com/it-modernization/2025/08/ex-doge-official-says-government-isnt-recruiting-enough-tech-talent/
+  tier: 1
+- title: 'Ex-DOGE official says government isn''t recruiting enough tech talent'
+  url: 'https://federalnewsnetwork.com/it-modernization/2025/08/ex-doge-official-says-government-isnt-recruiting-enough-tech-talent/'
   outlet: Federal News Network
   date: '2025-08-20'
   archive_url: null
-notes: Sahil Lavingia, Gumroad founder and former DOGE engineer, rejoined government as career IRS employee in November 2025 after being fired from VA in May for speaking to reporters. Sam Corcos, fellow DOGE operative who became Treasury CIO, facilitated placement. Lavingia revealed return at WIRED Big Interview event in early December 2025. Now manages online account systems at IRS with plans for 10-year tenure. Firing followed Fast Company interview where he said government was more efficient than expected. Represents DOGE-linked infiltration of IRS.
+  tier: 2
+notes: 'Sahil Lavingia, Gumroad founder and former DOGE engineer, rejoined government as career IRS employee in November 2025 after being fired from VA in May for speaking to reporters. Sam Corcos, fellow DOGE operative who became Treasury CIO, facilitated placement. Lavingia revealed return at WIRED Big Interview event in early December 2025. Now manages online account systems at IRS with plans for 10-year tenure. Firing followed Fast Company interview where he said government was more efficient than expected. Represents DOGE-linked infiltration of IRS.'
 status: confirmed
 ---
-
 Sahil Lavingia, the Gumroad founder and former Department of Government Efficiency (DOGE) engineer who was fired from the Department of Veterans Affairs in May 2025 for publicly discussing his work with reporters, quietly rejoined the federal government in November 2025 as a career employee at the Internal Revenue Service (IRS), where he now manages online account systems with stated plans to remain for the next decade. Lavingia revealed his return to government service during a WIRED "Big Interview" event in early December 2025, disclosing that Sam Corcos—a fellow DOGE operative who became Treasury's Chief Information Officer—reached out and facilitated his placement at the IRS after reading Lavingia's detailed account of his government experience. The case represents a troubling pattern of DOGE-linked personnel infiltrating agencies despite previous terminations for policy violations, raises serious concerns about whistleblower retaliation and agency capture, and specifically threatens IRS independence by placing a DOGE-affiliated engineer with access to taxpayer data and critical tax systems.
 
 Lavingia originally joined government as a senior advisor to the chief of staff at the Department of Veterans Affairs as part of DOGE's effort to identify inefficiencies and implement cost-cutting measures. However, his tenure ended abruptly in May 2025 when he "got the boot" from DOGE without warning the day after Fast Company published an interview in which he candidly discussed his experiences and findings. In that interview, Lavingia made statements that contradicted DOGE's narrative about rampant government waste and inefficiency, notably telling the publication: "It's not as inefficient as I was expecting, to be honest. I was hoping for more easy wins."

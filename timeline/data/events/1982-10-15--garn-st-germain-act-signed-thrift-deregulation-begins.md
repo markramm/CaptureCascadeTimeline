@@ -26,24 +26,28 @@ sources:
   url: https://www.reaganlibrary.gov/archives/speech/remarks-signing-garn-st-germain-depository-institutions-act-1982
   outlet: Ronald Reagan Presidential Library
   date: '1982-10-15'
+  tier: 1
   verified: true
 - title: Garn-St Germain Depository Institutions Act of 1982
   url: https://www.federalreservehistory.org/essays/garn-st-germain-act
   outlet: Federal Reserve History
   date: '2013-11-22'
   verified: true
+  tier: 1
 - title: The Garn-St Germain Depository Institutions Act of 1982
   url: https://www.chicagofed.org/publications/economic-perspectives/1983/march-april-garcia
   outlet: Federal Reserve Bank of Chicago
   date: 1983-03
   verified: true
   key_details: Comprehensive academic analysis of the Act's provisions and financial implications
+  tier: 1
 - title: Legislative History and Economic Impact of the Garn-St Germain Depository Institutions Act
   url: https://www.congress.gov/bill/97th-congress/house-bill/6267
   outlet: Congressional Research Service Archive
   date: '2024-10-15'
   verified: true
   key_details: Official congressional record tracking the bill's passage and legislative context
+  tier: 1
 status: confirmed
 ---
 

@@ -26,18 +26,22 @@ sources:
   url: https://www.justice.gov/archives/opa/pr/justice-department-sues-monopolist-google-violating-antitrust-laws
   outlet: U.S. Department of Justice
   date: '2020-10-20'
+  tier: 1
 - title: Google sued by DOJ in antitrust case over search dominance
   url: https://www.cnbc.com/2020/10/20/doj-antitrust-lawsuit-against-google.html
   outlet: CNBC
   date: '2020-10-20'
+  tier: 2
 - title: 'DOJ Lawsuit: Google Abuses Its Monopoly Power Over Search'
   url: https://www.npr.org/2020/10/20/925736276/google-abuses-its-monopoly-power-over-search-justice-department-says-in-lawsuit
   outlet: NPR
   date: '2020-10-20'
+  tier: 1
 - title: United States v. Google LLC (2020)
   url: https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2020)
   outlet: Wikipedia
   date: '2024-11-01'
+  tier: 2
 status: confirmed
 id: 2020-10-20--doj-sues-google-search-monopoly
 capture_lanes:

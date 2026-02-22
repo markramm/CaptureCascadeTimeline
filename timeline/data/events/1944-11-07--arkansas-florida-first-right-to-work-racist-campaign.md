@@ -26,17 +26,20 @@ sources:
   url: https://www.acslaw.org/expertforum/vance-muse-and-the-racist-origins-of-right-to-work/
   outlet: American Constitution Society
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: The racist roots of 'right to work' laws
   url: https://www.facingsouth.org/2012/12/the-racist-roots-of-right-to-work-laws
   outlet: Facing South
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'The Origins of Right-to-Work: Vance Muse, Anti-Semitism, and the Maintenance of Jim Crow Labor Relations'
   url: https://lawcha.org/2017/01/12/origins-right-work-vance-muse-anti-semitism-maintenance-jim-crow-labor-relations/
   outlet: Labor and Working-Class History Association
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

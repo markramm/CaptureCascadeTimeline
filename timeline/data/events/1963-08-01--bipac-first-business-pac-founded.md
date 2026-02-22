@@ -23,17 +23,20 @@ sources:
   url: https://en.wikipedia.org/wiki/BIPAC
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Business Industry Political Action Committee - SourceWatch
   url: https://www.sourcewatch.org/index.php/Business_Industry_Political_Action_Committee
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'The Business PAC Phenomenon: An Irony of Electoral Reform'
   url: https://www.aei.org/articles/the-business-pac-phenomenon-an-irony-of-electoral-reform/
   outlet: American Enterprise Institute
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Initial funding and staff came from National Association of Manufacturers. A 1966 Tobacco Institute memo listed BIPAC as "then operated by the National Association of Manufacturers." BIPAC was formed by affiliates of NAM during early 1960s and described as "a pale shadow of COPE," the AFL-CIO's political arm. Founded as "independent, nonpartisan group to serve as political action arm for American business and industry." Known as the very first business political action committee. Preceded Federal Election Campaign Act of 1971 by 8 years.
 status: confirmed
 ---

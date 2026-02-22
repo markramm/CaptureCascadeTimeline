@@ -8,7 +8,7 @@ actors:
 - Nigel Oakes
 - Alexander Nix
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Intelligence Penetration
 - Electoral Manipulation
 date: '2014-06-01'
@@ -18,24 +18,28 @@ sources:
 - date: '2014-06-01'
   outlet: Bipartisan Policy Center
   title: History of Cambridge Analytica Controversy
-  url: https://bipartisanpolicy.org/blog/cambridge-analytica-controversy/
+  url: 'https://bipartisanpolicy.org/blog/cambridge-analytica-controversy/'
+  tier: 2
 - date: '2014-06-01'
   outlet: Wikipedia
   title: Cambridge Analytica Wikipedia
-  url: https://en.wikipedia.org/wiki/Cambridge_Analytica
+  url: 'https://en.wikipedia.org/wiki/Cambridge_Analytica'
+  tier: 2
 - date: '2019-07-24'
   outlet: Federal Trade Commission
   title: Cambridge Analytica Administrative Complaint
-  url: https://www.ftc.gov/system/files/documents/cases/182_3107_cambridge_analytica_administrative_complaint_7-24-19.pdf
+  url: 'https://www.ftc.gov/system/files/documents/cases/182_3107_cambridge_analytica_administrative_complaint_7-24-19.pdf'
+  tier: 1
 - date: '2015-12-11'
   outlet: The Guardian
-  title: 'Cambridge Analytica: How Aleksandr Kogan and Cambridge Analytica Harvested
-    Facebook Users'' Data'
-  url: https://www.theguardian.com/technology/2015/dec/11/facebook-cambridge-analytica-kogan-data-research
+  title: 'Cambridge Analytica: How Aleksandr Kogan and Cambridge Analytica Harvested Facebook Users'' Data'
+  url: 'https://www.theguardian.com/technology/2015/dec/11/facebook-cambridge-analytica-kogan-data-research'
+  tier: 1
 - date: '2018-03-17'
   outlet: University of Nebraska Digital Commons
   title: Facebook-Cambridge Analytica Data Harvesting Research
-  url: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=5833&context=libphilprac
+  url: 'https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=5833&context=libphilprac'
+  tier: 1
 status: confirmed
 tags:
 - scl-elections
@@ -47,5 +51,4 @@ tags:
 - digital-surveillance
 title: SCL Elections Contracts with Kogan to Launch Cambridge Analytica Data Operation
 ---
-
 Strategic Communication Laboratories (SCL) Group enters into contract with Aleksandr Kogan's Global Science Research to acquire Facebook user data for Cambridge Analytica's political targeting operations. This partnership transforms Kogan's academic research into a commercial data harvesting operation serving political campaigns. SCL, a private intelligence company describing itself as a "global election management agency," seeks to weaponize social media data for electoral manipulation. The contract establishes the systematic pipeline from Facebook's platform to political operatives, demonstrating how academic research can be corrupted for partisan purposes. Approximately 270,000 users take Kogan's quiz, but the app harvests data from up to 87 million Facebook users through friend network access.

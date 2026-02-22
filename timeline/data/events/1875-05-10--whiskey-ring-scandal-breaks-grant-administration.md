@@ -13,19 +13,23 @@ sources:
 - title: Grant, Babcock, and the Whiskey Ring
   outlet: National Archives
   url: https://www.archives.gov/publications/prologue/2000/fall/whiskey-ring-1
+  tier: 1
   year: 2000
 - title: Whiskey Ring
   outlet: Britannica
   url: https://www.britannica.com/money/Whiskey-Ring
   year: 2025
+  tier: 2
 - title: Ulysses S. Grant, the Whiskey Ring and America's First Special Prosecutor
   outlet: History Channel
   url: https://www.history.com/articles/the-whiskey-ring-and-americas-first-special-prosecutor
   year: 2025
+  tier: 2
 - title: Whiskey Ring
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Whiskey_Ring
   year: 2024
+  tier: 2
 tags:
 - systematic-corruption
 - tax-evasion

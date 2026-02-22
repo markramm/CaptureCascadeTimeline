@@ -21,18 +21,21 @@ capture_lanes:
 - International Kleptocracy
 sources:
 - title: Fix the Court Gift Database
-  url: https://fixthecourt.com/supreme-court-gifts/
+  url: 'https://fixthecourt.com/supreme-court-gifts/'
   outlet: Fix the Court
   date: '2023-12-31'
-  archive_url: https://web.archive.org/web/20231231000000/https://fixthecourt.com/supreme-court-gifts/
-- title: Database Reveals 'Staggering' $6.6 Million in Gifts to Supreme Court Justices
-  url: https://www.commondreams.org/news/supreme-court-gifts
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20231231000000/https://fixthecourt.com/supreme-court-gifts/'
+- title: 'Database Reveals ''Staggering'' $6.6 Million in Gifts to Supreme Court Justices'
+  url: 'https://www.commondreams.org/news/supreme-court-gifts'
   outlet: Common Dreams
   date: '2023-12-31'
+  tier: 2
 - title: Supreme Court justices have taken millions in gifts
-  url: https://www.rawstory.com/supreme-court-gifts-database/
+  url: 'https://www.rawstory.com/supreme-court-gifts-database/'
   outlet: Raw Story
   date: '2023-12-31'
+  tier: 3
 notes: Database shows systematic pattern of undisclosed gifts. Thomas received largest share. Pattern shows correlation between gifts and favorable rulings for donors. Scale proves institutional corruption not isolated incidents.
 status: confirmed
 ---

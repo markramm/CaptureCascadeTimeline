@@ -24,14 +24,17 @@ sources:
   url: https://www.ossoff.senate.gov/wp-content/uploads/2025/08/250721_Pregnancy_Report_v7.pdf
   outlet: Senate Committee Report
   date: '2025-08-07'
+  tier: 1
 - title: Hundreds of alleged human rights abuses in immigrant detention, report finds
   url: https://www.nbcnews.com/news/us-news/immigration-detention-human-rights-abuses-report-rcna222499
   outlet: NBC News
   date: '2025-08-11'
+  tier: 1
 - title: Krome Detention Center was most overcrowded ICE facility in country, new data shows
   url: https://www.wptv.com/news/state/miami-dade/krome-detention-center-was-most-overcrowded-ice-facility-in-country-new-data-shows
   outlet: WPTV
   date: '2025-04-24'
+  tier: 2
 notes: By March, Krome detention increased 249% from pre-inauguration levels. Investigation based on interviews with correctional staff, law enforcement, attorneys, detainees, doctors, and nurses. DHS systematically obstructed site visits and detainee interviews.
 status: confirmed
 ---

@@ -21,22 +21,27 @@ sources:
   url: https://newrepublic.com/post/195550/trump-org-resort-tariffed-country-vietnam
   outlet: New Republic
   date: '2025-05-21'
+  tier: 2
 - title: Trump Organization to break ground on golf club in Vietnam amid trade talks
   url: https://www.reuters.com/world/asia-pacific/trump-organization-break-ground-golf-club-vietnam-amid-trade-talks-2025-05-21/
   outlet: Reuters
   date: '2025-05-21'
+  tier: 1
 - title: Vietnam approves Trump Organization's $1.5 billion golf resort
   url: https://apnews.com/article/vietnam-trump-golf-estate-investment-f2aa09af5467654dff4dcf19fcdc25c9
   outlet: AP News
   date: '2025-05-16'
+  tier: 1
 - title: Eric Trump Vows $1.5B Vietnam Resort Will Be Envy of World
   url: https://www.bloomberg.com/news/articles/2025-05-21/eric-trump-attends-groundbreaking-event-for-1-5b-vietnam-resort
   outlet: Bloomberg
   date: '2025-05-21'
+  tier: 1
 - title: The Trump Organization has been approved for a $1.5 billion resort
   url: https://fortune.com/2025/05/16/trump-organization-vietnam-golf-resort/
   outlet: Fortune
   date: '2025-05-16'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

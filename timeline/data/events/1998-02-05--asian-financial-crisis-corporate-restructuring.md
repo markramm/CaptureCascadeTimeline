@@ -7,12 +7,15 @@ sources:
 - outlet: International Monetary Fund
   title: Financial Sector Crisis and Restructuring Lessons from Asia
   url: https://www.imf.org/external/pubs/ft/op/opfinsec/op188.pdf
+  tier: 1
 - outlet: Federal Reserve History
   title: Asian Financial Crisis Historical Analysis
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+  tier: 1
 - outlet: World Bank
   title: Social Consequences of the East Asian Financial Crisis
   url: https://documents1.worldbank.org/curated/en/486441468770742543/pdf/310410PAPER0Social0consequences0eacrisis.pdf
+  tier: 1
 tags:
 - asian-financial-crisis
 - imf-intervention

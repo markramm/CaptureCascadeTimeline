@@ -21,14 +21,17 @@ sources:
   url: https://www.cnn.com/2020/02/11/politics/roger-stone-sentencing-recommendation/index.html
   outlet: CNN
   date: '2020-02-11'
+  tier: 1
 - title: More than 2,000 ex-DOJ officials call for Barr's resignation
   url: https://www.nbcnews.com/politics/justice-department/more-1-100-former-justice-department-officials-call-barr-resign-n1137481
   outlet: NBC News
   date: '2020-02-16'
+  tier: 1
 - title: Judge calls Barr move to drop Flynn case 'gross abuse of power'
   url: https://www.politico.com/news/2020/12/08/judge-emmet-sullivan-michael-flynn-443652
   outlet: Politico
   date: '2020-12-08'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

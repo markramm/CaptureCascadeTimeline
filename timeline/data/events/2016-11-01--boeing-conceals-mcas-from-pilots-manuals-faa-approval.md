@@ -10,17 +10,20 @@ actors:
 - FAA certification officials
 sources:
 - outlet: Seattle Times
-  title: Flawed Analysis, Failed Oversight - How Boeing, FAA Certified the Suspect 737 MAX Flight Control System
-  url: https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/
+  title: 'Flawed Analysis, Failed Oversight - How Boeing, FAA Certified the Suspect 737 MAX Flight Control System'
+  url: 'https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/'
   date: '2019-03-17'
+  tier: 2
 - outlet: House Transportation Committee
-  title: The Design, Development & Certification of the Boeing 737 MAX
-  url: https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf
+  title: 'The Design, Development & Certification of the Boeing 737 MAX'
+  url: 'https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf'
   date: '2020-09-16'
+  tier: 1
 - outlet: National Center for Biotechnology Information
   title: The Boeing 737 MAX - Lessons for Engineering Ethics
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/
+  url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/'
   date: '2020-07-08'
+  tier: 1
 importance: 10
 tags:
 - boeing
@@ -34,7 +37,6 @@ capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 ---
-
 Boeing obtained FAA approval to exclude the MCAS (Maneuvering Characteristics Augmentation System) from pilot manuals, flight crew operations manuals, and all pilot training materials for the 737 MAX. This deliberate concealment meant that pilots flying the aircraft had no knowledge that a powerful automated system could repeatedly override their control inputs and force the nose down based on a single sensor reading. The decision to hide MCAS was driven entirely by Boeing's contractual requirement to minimize training costs for airline customers.
 
 Boeing had negotiated agreements with major customers, particularly Southwest Airlines, that included million-dollar-per-aircraft penalties if the FAA required simulator training for the MAX. By concealing MCAS and characterizing the MAX as essentially identical to previous 737 models, Boeing could ensure pilots needed only minimal computer-based "differences training" rather than expensive simulator sessions. This financial incentive drove the company to hide safety-critical information from the people whose lives would depend on knowing it.

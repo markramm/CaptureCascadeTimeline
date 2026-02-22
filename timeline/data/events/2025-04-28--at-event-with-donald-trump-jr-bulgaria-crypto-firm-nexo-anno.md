@@ -21,14 +21,17 @@ sources:
   url: https://www.reuters.com/sustainability/boards-policy-regulation/event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-announces-us-return-2025-04-28/
   outlet: Reuters
   date: '2025-04-28'
+  tier: 1
 - title: At event with Donald Trump Jr in Bulgaria, crypto firm Nexo announces US return
   url: https://www.usnews.com/news/top-news/articles/2025-04-28/at-event-with-donald-trump-jr-in-bulgaria-crypto-firm-nexo-announces-us-return
   outlet: U.S. News & World Report
   date: '2025-04-28'
+  tier: 2
 - title: Digital Asset Platform Nexo to Return to U.S., Cites Crypto Optimism Under Donald Trump
   url: https://www.coindesk.com/policy/2025/04/28/nexo-to-return-to-us-after-2022-exit-citing-renewed-crypto-optimism-under-trump
   outlet: CoinDesk
   date: '2025-04-28'
+  tier: 2
 connections:
 - Trump Administration Crypto Policy
 - Regulatory Easing for Digital Assets

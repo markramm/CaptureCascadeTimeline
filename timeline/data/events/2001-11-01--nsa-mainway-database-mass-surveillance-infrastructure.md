@@ -25,14 +25,17 @@ sources:
   url: https://www.washingtonpost.com/investigations/us-surveillance-architecture-includes-collection-of-revealing-internet-phone-metadata/2013/06/15/e9bf004a-d511-11e2-b05f-3ea3f0e7bb5a_story.html
   outlet: The Washington Post
   date: '2013-06-15'
+  tier: 1
 - title: MAINWAY - Wikipedia
   url: https://en.wikipedia.org/wiki/MAINWAY
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 - title: President's Surveillance Program worked with private sector to collect data after Sept. 11, 2001
   url: https://www.washingtonpost.com/investigations/presidents-surveillance-program-worked-with-private-sector-to-collect-data-after-sept-11-2001/2013/06/27/2c7a7e74-df57-11e2-b2d4-ea6d8f477a01_story.html
   outlet: The Washington Post
   date: '2013-06-27'
+  tier: 1
 notes: MAINWAY represented the technical infrastructure enabling STELLARWIND's mass surveillance capabilities. The database's unprecedented scale - 1.9 trillion records - demonstrates the scope of domestic surveillance conducted without warrants. The system was ordered by Vice President Dick Cheney and built to support contact chaining analysis, fundamentally changing NSA operations from targeted to bulk collection.
 capture_lanes:
 - Judicial Capture

@@ -11,6 +11,7 @@ significance: Completes the institutional capture of major network news operatio
 sources:
 - url: https://en.wikipedia.org/wiki/White_House_Iraq_Group
   title: 'White House Iraq Group: Media Coordination Strategy'
+  tier: 2
   type: reference
   outlet: Wikipedia
   retrieval_date: '2025-10-06'
@@ -19,11 +20,13 @@ sources:
   type: analysis
   outlet: SourceWatch
   retrieval_date: '2025-10-06'
+  tier: 2
 - url: http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group
   title: 'White House Iraq Group: Media Campaign Timeline'
   type: timeline
   outlet: History Commons
   retrieval_date: '2025-10-06'
+  tier: 2
 tags:
 - whig
 - network-capture

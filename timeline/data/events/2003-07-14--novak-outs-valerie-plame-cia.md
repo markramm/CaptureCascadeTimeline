@@ -21,10 +21,13 @@ tags:
 sources:
 - title: 'NPR Timeline: The CIA Leak Case'
   url: https://www.npr.org/2007/07/02/4764919/timeline-the-cia-leak-case
+  tier: 1
 - title: 'New York Times: Armitage First Source of CIA Leak'
   url: https://www.nytimes.com/2006/08/29/washington/29leak.html
+  tier: 1
 - title: 'CIA Leak Investigation: United States v. Libby Legal Documents'
   url: https://en.wikipedia.org/wiki/Plame_affair_criminal_investigation
+  tier: 2
 legal_context:
   investigation: Special Prosecutor Patrick Fitzgerald's inquiry
   charges:

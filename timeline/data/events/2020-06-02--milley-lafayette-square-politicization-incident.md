@@ -26,14 +26,17 @@ sources:
   url: https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/11/875019346/gen-mark-milley-says-accompanying-trump-to-church-photo-op-was-a-mistake
   outlet: NPR
   date: '2020-06-11'
+  tier: 1
 - title: Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op
   url: https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials
   outlet: NPR
   date: '2020-06-01'
+  tier: 1
 - title: Top General Apologizes For Role In Trump's Photo During Protests
   url: https://www.npr.org/2020/06/11/875047527/top-general-apologizes-for-role-in-trumps-photo-during-protests
   outlet: NPR
   date: '2020-06-11'
+  tier: 1
 status: confirmed
 notes: A pivotal moment demonstrating potential military involvement in domestic political theater, with significant implications for civilian-military relationships. Milley's public apology underscores the gravity of maintaining military neutrality.
 ---

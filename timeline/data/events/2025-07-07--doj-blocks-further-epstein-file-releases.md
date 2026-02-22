@@ -22,18 +22,22 @@ sources:
   url: https://www.pbs.org/newshour/nation/epstein-client-list-doesnt-exist-doj-says-walking-back-theory-bondi-promoted
   outlet: PBS NewsHour
   date: '2025-07-07'
+  tier: 1
 - title: 'Analysis: Pam Bondi''s botched handling of the Epstein files'
   url: https://www.cnn.com/2025/07/07/politics/bondi-epstein-files-client-list-suicide-memo
   outlet: CNN
   date: '2025-07-07'
+  tier: 1
 - title: Justice department says no 'client list' exists in Epstein sex trafficking files
   url: https://www.washingtonpost.com/national-security/2025/07/07/justice-pam-bondi-epstein-no-client-list/
   outlet: The Washington Post
   date: '2025-07-07'
+  tier: 1
 - title: 'DOJ, FBI review finds no Jeffrey Epstein ''client list,'' confirms suicide: Memo'
   url: https://abcnews.go.com/US/doj-fbi-review-finds-jeffrey-epstein-client-list/story?id=123526125
   outlet: ABC News
   date: '2025-07-07'
+  tier: 1
 notes: Active obstruction to prevent revelation of financial crimes. White House claimed Bondi meant "entirety of all paperwork" not client list. Trump said "The attorney general has handled that very well." Conservative backlash over broken promise of transparency.
 status: confirmed
 ---

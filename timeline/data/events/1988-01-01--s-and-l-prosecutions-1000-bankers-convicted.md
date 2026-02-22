@@ -21,17 +21,20 @@ sources:
   url: https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/
   outlet: PBS Frontline
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: Hundreds of Wall Street Execs Went to Prison During Last Fraud-Fueled Crisis
   url: https://billmoyers.com/2013/09/17/hundreds-of-wall-street-execs-went-to-prison-during-the-last-fraud-fueled-bank-crisis/
   outlet: Bill Moyers
   date: '2013-09-17'
   verified: true
+  tier: 2
 - title: 'Saving and Loan Scandal: 102 High-Level Executives Convicted'
   url: http://www.allgov.com/news/top-stories/saving-and-loan-scandal-of-80s-and-90s-102-highlevel-executives-convicted-2008-financial-crisis-scandal-1?news=854255
   outlet: AllGov
   date: '2013-09-13'
   verified: true
+  tier: 3
 capture_lanes:
 - Systematic Corruption
 - Regulatory Capture

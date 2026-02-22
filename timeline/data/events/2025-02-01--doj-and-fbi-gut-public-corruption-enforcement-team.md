@@ -22,22 +22,27 @@ sources:
   url: https://www.nbcnews.com/politics/justice-department/democrats-probe-trump-administrations-retreat-public-corruption-cases-rcna227629
   outlet: NBC News
   date: '2025-02-01'
+  tier: 1
 - title: FBI folds the public corruption squad that aided Jack Smith's Trump investigations
   url: https://www.nbcnews.com/politics/justice-department/fbi-folds-public-corruption-squad-aided-jack-smiths-trump-investigatio-rcna207029
   outlet: NBC News
   date: '2025-05-15'
+  tier: 1
 - title: Firings, pardons and policy changes have gutted DOJ anti-corruption efforts, experts say
   url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
   outlet: NBC News
   date: '2025-06-03'
+  tier: 1
 - title: Justice Department office that prosecutes public corruption slashed in size
   url: https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928
   outlet: NBC News
   date: '2025-03-12'
+  tier: 1
 - title: 'From Pardons to Purges: Pressing Questions that Bondi and Patel Must Answer Now'
   url: https://www.justsecurity.org/107278/bondi-patel-fbi-purges/
   outlet: Just Security
   date: '2025-02-15'
+  tier: 1
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-02-01--doj-fbi-public-corruption-enforcement-gutted'
 _merge_timestamp: '2025-09-05T23:46:55.899901'

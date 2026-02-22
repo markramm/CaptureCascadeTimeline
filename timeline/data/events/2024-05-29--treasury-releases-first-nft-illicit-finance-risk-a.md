@@ -9,12 +9,15 @@ sources:
 - title: Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment
   url: https://home.treasury.gov/news/press-releases/jy2382
   outlet: U.S. Treasury
+  tier: 1
 - title: U.S. Treasury Describes NFTs as 'Highly Susceptible to Use in Fraud and Scams'
   url: https://www.coindesk.com/policy/2024/05/29/us-treasury-describes-nfts-as-highly-susceptible-to-use-in-fraud-and-scams
   outlet: CoinDesk
+  tier: 2
 - title: Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment
   url: https://www.globalsecurity.org/security/library/news/2024/05/sec-240529-treasury01.htm
   outlet: Global Security Organization
+  tier: 2
 tags:
 - nft
 - money-laundering

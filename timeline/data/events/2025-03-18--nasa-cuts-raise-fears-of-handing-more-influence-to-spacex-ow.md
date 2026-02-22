@@ -22,14 +22,17 @@ sources:
   url: https://www.theguardian.com/science/2025/mar/18/nasa-cuts-elon-musk-spacex
   outlet: The Guardian
   date: '2025-03-18'
+  tier: 1
 - title: NASA fires chief scientist, more Trump cuts to come
   url: https://phys.org/news/2025-03-nasa-chief-scientist-trump.html
   outlet: Phys.org
   date: '2025-03-10'
+  tier: 2
 - title: NASA closes offices, lays off staff as it prepares for larger workforce reductions
   url: https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/
   outlet: Space News
   date: '2025-03-18'
+  tier: 2
 connections:
 - Potential SpaceX influence expansion
 - Reduction of climate research capabilities

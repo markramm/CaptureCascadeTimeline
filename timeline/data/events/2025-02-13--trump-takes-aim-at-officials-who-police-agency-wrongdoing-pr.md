@@ -23,14 +23,17 @@ sources:
   url: https://www.govexec.com/management/2025/02/ethics-and-whistleblower-officials-fired-trump/402887/
   outlet: Government Executive
   date: '2025-02-13'
+  tier: 2
 - title: Trump Fires Top Government Ethics, Whistleblower Officials
   url: https://federalnewsnetwork.com/agency-oversight/2025/02/trump-fires-top-government-ethics-whistleblower-officials/
   outlet: Federal News Network
   date: '2025-02-13'
+  tier: 2
 - title: Trump takes aim at officials who police agency wrongdoing, protect workers
   url: https://www.washingtonpost.com/politics/2025/02/13/trump-firings-watchdogs/
   outlet: The Washington Post
   date: '2025-02-13'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

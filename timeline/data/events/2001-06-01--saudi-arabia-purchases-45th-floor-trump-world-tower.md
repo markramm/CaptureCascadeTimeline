@@ -17,19 +17,23 @@ tags:
 status: confirmed
 sources:
 - title: 'PolitiFact: Donald Trump''s claim of "no financial interests" in Saudi Arabia?
+  tier: 2
     That''s Half True at best'
   url: https://www.politifact.com/factchecks/2018/oct/18/donald-trump/donald-trumps-claim-no-financial-interests-saudi-a
   outlet: PolitiFact
   date: '2018-10-18'
+  tier: 1
 - title: 'Saudi rentals at Trump World Tower raise conflict-of-interest concerns:
     Report'
   url: https://www.middleeasteye.net/news/foreign-counties-lease-trump-world-tower-emoluments-concerns-heighten
   outlet: Middle East Eye
   date: '2019-05-16'
+  tier: 2
 - title: 'Trump and Saudi Arabia: Deep business ties spark new scrutiny'
   url: https://www.cbsnews.com/news/trump-and-saudi-arabia-deep-business-ties-spark-new-scrutiny
   outlet: CBS News
   date: '2018-10-16'
+  tier: 1
 notes: The purchase occurred several months before 9/11. In 2008, Saudi Arabia converted
   the apartments into part of their UN Mission. During Trump's presidency, the Saudi
   government paid over $537,080 in building charges and fees, raising emoluments clause

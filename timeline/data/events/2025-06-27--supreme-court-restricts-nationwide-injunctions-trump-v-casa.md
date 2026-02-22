@@ -29,18 +29,22 @@ sources:
   url: https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts
   outlet: Roll Call
   date: '2025-06-27'
+  tier: 2
 - title: Senate appropriators reject House proposal to halve GAO's budget next year
   url: https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year
   outlet: Federal News Network
   date: '2025-07-10'
+  tier: 2
 - title: House GOP advances bill 'gutting' government watchdog
   url: https://thehill.com/homenews/5372396-house-gop-advances-bill-gutting-government-watchdog/
   outlet: The Hill
   date: '2025-06-27'
+  tier: 2
 - title: Cutting Congress's Watchdog Would Be a Costly Mistake
   url: https://www.ntu.org/foundation/detail/cutting-congresss-watchdog-would-be-a-costly-mistake
   outlet: National Taxpayers Union
   date: '2025-06-27'
+  tier: 2
 - title: 24A884 Trump v. CASA, Inc. Supreme Court Opinion
   url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
   outlet: Supreme Court

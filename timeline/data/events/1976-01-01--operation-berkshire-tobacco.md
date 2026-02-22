@@ -19,14 +19,17 @@ sources:
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1118337
   outlet: BMJ Tobacco Control (via PMC)
   date: '2003-01-01'
+  tier: 1
 - title: Tobacco Industry Documents Archive (UCSF) – industry plans and memos
   url: https://www.industrydocuments.ucsf.edu/tobacco/
   outlet: UCSF Truth Tobacco Industry Documents
   date: '2000-01-01'
+  tier: 1
 - title: WHO/IARC—Tobacco industry and scientific research (Monograph excerpts)
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1434157/
   outlet: WHO / IARC (via PMC)
   date: '2004-01-01'
+  tier: 1
 notes: Operation Berkshire began with a December 1976 proposal by Imperial Tobacco's
   Tony Garrett to coordinate a "defensive strategy" against smoking health concerns.
   The conspiracy culminated in a secret June 1977 meeting at Shockerwick House where

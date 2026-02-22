@@ -22,14 +22,17 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder
   outlet: Brennan Center for Justice
   date: 2018-08-06
+  tier: 1
 - title: Shelby County - One Year Later
   url: https://www.brennancenter.org/our-work/research-reports/shelby-county-one-year-later
   outlet: Brennan Center for Justice
   date: 2014-06-24
+  tier: 1
 - title: After Shelby County Ruling, Are Voting Rights Endangered?
   url: https://www.brennancenter.org/our-work/research-reports/after-shelby-county-ruling-are-voting-rights-endangered
   outlet: Brennan Center for Justice
   date: 2013-06-25
+  tier: 1
 capture_lanes:
 - Electoral Manipulation
 - Judicial Capture

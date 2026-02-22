@@ -12,15 +12,18 @@ sources:
 - title: The Panic of 1873
   outlet: Library of Congress
   url: https://guides.loc.gov/this-month-in-business-history/september/panic-of-1873
+  tier: 1
   year: 2024
 - title: Panic of 1873
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Panic_of_1873
   year: 2024
+  tier: 2
 - title: Financial Panic of 1873
   outlet: U.S. Department of the Treasury
   url: https://home.treasury.gov/about/history/freedmans-bank-building/financial-panic-of-1873
   year: 2024
+  tier: 1
 tags:
 - economic-crisis
 - systematic-corruption

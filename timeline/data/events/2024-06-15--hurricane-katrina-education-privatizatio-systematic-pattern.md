@@ -10,18 +10,21 @@ actors:
 - New Orleans School Board
 sources:
 - title: 'When Education Ceases to be Public: The Privatization of the New Orleans School System After Hurricane Katrina'
-  url: https://scholarworks.uno.edu/td/911/
+  url: 'https://scholarworks.uno.edu/td/911/'
   outlet: University of New Orleans
+  tier: 1
   type: Academic Thesis
 - title: 'The Politics of Institutional Reform: Katrina, Education, and the Second Face of Power'
-  url: https://politicalscience.stanford.edu/publications/politics-institutional-reform-katrina-education-and-second-face-power
+  url: 'https://politicalscience.stanford.edu/publications/politics-institutional-reform-katrina-education-and-second-face-power'
   outlet: Stanford Political Science
   type: Academic Publication
-- title: What to know about New Orleans' post-Katrina charter school boom
-  url: https://www.npr.org/2025/08/25/nx-s1-5435783/education-hurricane-katrina-anniversary-charter-schools
+  tier: 1
+- title: 'What to know about New Orleans'' post-Katrina charter school boom'
+  url: 'https://www.npr.org/2025/08/25/nx-s1-5435783/education-hurricane-katrina-anniversary-charter-schools'
   outlet: NPR
   type: News Article
   date_published: '2025-08-25'
+  tier: 1
 tags:
 - systematic-corruption
 - institutional-capture
@@ -33,5 +36,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-
 Comprehensive research reveals a systematic corruption pattern in Hurricane Katrina's education system transformation. Academic studies and journalistic investigations document how disaster was strategically used to rapidly privatize New Orleans public schools. Before Katrina, the school system was dysfunctional with frequent superintendent turnover. Post-disaster, 100 out of 117 schools were converted to charters, creating the first all-charter school system in the U.S. While metrics like graduation rates improved from 56% to 80%, the transformation displaced over 4,000 experienced teachers and raised significant concerns about institutional capture and potential systemic racism in educational reform.

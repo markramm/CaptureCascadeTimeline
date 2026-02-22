@@ -23,6 +23,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: Telecommunications Act of 1996
@@ -47,26 +48,32 @@ sources:
   outlet: Stop the Cap
   url: https://stopthecap.com/2018/07/19/historical-truths-the-telecom-act-of-1996-sowed-the-seeds-of-a-telecom-oligopoly/
   retrieval_date: '2025-12-23'
+  tier: 2
 - date: '2000-01-01'
   outlet: FCC
   title: Media Consolidation Impact Statement by Commissioner Gloria Tristani
   url: https://transition.fcc.gov/Speeches/Tristani/Statements/2000/stgt045.html
+  tier: 1
 - date: '2004-01-01'
   outlet: American University Law Review
   title: On Media Consolidation, the Public Interest, and Angels Earning Wings
   url: https://repository.law.indiana.edu/cgi/viewcontent.cgi?article=1447&context=fclj
+  tier: 1
 - date: '2002-01-01'
   outlet: John Marshall Journal of Computer and Information Law
   title: 'Big Media: Its Effect on the Marketplace of Ideas and How to Slow the Urge to Merge'
   url: https://repository.upenn.edu/cgi/viewcontent.cgi?article=1759&context=asc_papers
+  tier: 1
 - title: Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill
   url: https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest
   outlet: NPR
   date: '1996-02-15'
+  tier: 1
 - title: 'The Net @ Risk: Big, Bigger, Biggest Media'
   url: http://www.pbs.org/moyers/citizensclass/the_net_risk/big_bigger_biggest_media/
   outlet: PBS
   date: 2006-09
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

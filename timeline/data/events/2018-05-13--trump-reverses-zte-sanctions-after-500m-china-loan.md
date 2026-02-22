@@ -21,14 +21,17 @@ sources:
   url: https://www.nationalreview.com/news/china-contributing-500-million-trump-linked-project-indonesia/
   outlet: National Review
   date: '2018-05-14'
+  tier: 2
 - title: Trump helps ZTE as China provides financing for Indonesia project
   url: https://www.nytimes.com/2018/05/15/world/asia/trump-hotel-china-indonesia.html
   outlet: The New York Times
   date: '2018-05-15'
+  tier: 1
 - title: Trump says he's working with Xi to save ZTE
   url: https://www.cnn.com/2018/05/13/politics/trump-xi-jinping-zte/index.html
   outlet: CNN
   date: '2018-05-13'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

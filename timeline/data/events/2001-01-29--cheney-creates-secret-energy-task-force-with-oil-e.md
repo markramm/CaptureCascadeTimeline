@@ -24,14 +24,17 @@ sources:
   url: https://www.washingtonpost.com/wp-dyn/content/article/2005/11/15/AR2005111501842.html
   outlet: The Washington Post
   date: '2005-11-16'
+  tier: 1
 - title: Cheney v. United States District Court
   url: https://supreme.justia.com/cases/federal/us/542/367/
   outlet: Supreme Court
   date: '2004-06-24'
+  tier: 1
 - title: Energy Task Force Process Used to Develop National Energy Policy
   url: https://www.gao.gov/products/gao-03-894
   outlet: GAO
   date: '2003-08-25'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

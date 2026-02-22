@@ -22,17 +22,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Paul_Weyrich
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: American Legislative Exchange Council - Wikipedia
   url: https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
   url: https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/
   outlet: The American Prospect
   date: '2023-10-04'
   verified: true
+  tier: 2
 notes: Weyrich served as ALEC's first director from 1975 to 1978. By 1975, ALEC had been renamed from the Conservative Caucus of State Legislators and moved from Chicago to Washington, D.C. This consolidation under Weyrich's leadership aligned ALEC with Heritage Foundation and his other institutions.
 status: confirmed
 ---

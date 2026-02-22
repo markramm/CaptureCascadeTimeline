@@ -26,14 +26,17 @@ sources:
   url: https://www.justice.gov/archives/sco/file/1373816/download
   outlet: Department of Justice
   date: '2019-04-18'
+  tier: 1
 - title: Trump signed letter of intent for Trump Tower Moscow project during campaign
   url: https://www.cnn.com/2018/12/18/politics/trump-signed-letter-of-intent-rudy-giuliani/index.html
   outlet: CNN
   date: '2018-12-18'
+  tier: 1
 - title: 'Timeline: Trump Tower Moscow talks during campaign'
   url: https://www.washingtonpost.com/politics/2019/01/21/timeline-trump-tower-moscow-talks/
   outlet: The Washington Post
   date: '2019-01-21'
+  tier: 1
 notes: Mueller Report pages 67-80 detail how negotiations continued through June 2016, with Cohen briefing Trump multiple times. Project explicitly linked campaign success to business opportunities in Russia.
 ---
 

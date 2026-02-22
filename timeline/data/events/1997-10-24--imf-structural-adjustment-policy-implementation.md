@@ -20,14 +20,17 @@ sources:
 - title: Globalization and the Asian Financial Crisis
   url: https://www.globalpolicy.org/social-and-economic-policy/global-economy/globalization-and-the-asian-financial-crisis.html
   outlet: Global Policy Forum
+  tier: 2
 - title: Recovery from the Asian Crisis and the Role of the IMF
   url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
   outlet: International Monetary Fund
   date: '2000'
+  tier: 1
 - title: 'The 1997-98 Asian Financial Crisis: Causes, Policy Responses, and Outcomes'
   url: https://sgp.fas.org/crs/row/crs-asia2.htm
   outlet: Congressional Research Service
   date: '1998'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Financial Capture

@@ -14,18 +14,22 @@ sources:
   url: https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/
   outlet: Challenger, Gray & Christmas
   date: '2025-04-03'
+  tier: 2
 - title: DOGE drove layoff announcements to their third-highest-ever level in March
   url: https://www.cnn.com/2025/04/03/economy/us-jobs-report-preview-march-doge-layoffs/index.html
   outlet: CNN Business
   date: '2025-04-03'
+  tier: 1
 - title: Layoffs spiked by 205% last month to third-highest ever recorded, fueled by DOGE mass firings
   url: https://www.cbsnews.com/news/layoffs-job-cuts-march-2025-third-highest-ever-recorded-doge/
   outlet: CBS News
   date: '2025-04-03'
+  tier: 1
 - title: Project 2025 wanted to hobble the federal workforce. DOGE has hastily done that, and more
   url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
   outlet: Government Executive
   date: '2025-04-15'
+  tier: 2
 notes: March 2025 was third-highest layoff month since tracking began, behind only April 2020 (671K) and May 2020 (397K) during pandemic
 status: confirmed
 tags:

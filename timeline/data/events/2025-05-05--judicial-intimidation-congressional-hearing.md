@@ -16,21 +16,25 @@ actors:
 - Department of Justice
 sources:
 - outlet: NPR
-  title: Judges Threatened with Impeachment, Bombs for Ruling Against Trump Agenda
-  url: https://www.npr.org/2025/03/13/nx-s1-5316340/threats-judges-trump
+  title: 'Judges Threatened with Impeachment, Bombs for Ruling Against Trump Agenda'
+  url: 'https://www.npr.org/2025/03/13/nx-s1-5316340/threats-judges-trump'
   date: '2025-03-13'
+  tier: 1
 - outlet: Fix the Court
   title: 'An Attack on All of Us: Judges Condemn Threats to Judicial Independence'
-  url: https://fixthecourt.com/2025/04/an-attack-on-all-of-us-judges-condemn-threats-to-judicial-independence/
+  url: 'https://fixthecourt.com/2025/04/an-attack-on-all-of-us-judges-condemn-threats-to-judicial-independence/'
   date: 2025-04
+  tier: 2
 - outlet: Senate Judiciary Committee Press Release
   title: Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S. Marshals Service On Escalating Threats Against Judges
-  url: https://www.judiciary.senate.gov/press/dem/releases/whitehouse-leads-senate-judiciary-committee-democrats-in-new-letter-to-us-marshals-service-on-escalating-marshals-service-on-escalating-threats-against-judges
+  url: 'https://www.judiciary.senate.gov/press/dem/releases/whitehouse-leads-senate-judiciary-committee-democrats-in-new-letter-to-us-marshals-service-on-escalating-marshals-service-on-escalating-threats-against-judges'
   date: '2025-04-11'
+  tier: 1
 - outlet: Senate Judiciary Democrats
-  title: Durbin Demands DOJ, FBI Investigation Into Spiking Threats Against Federal Judges
-  url: https://www.judiciary.senate.gov/press/dem/releases/durbin-demands-doj-fbi-investigation-into-spiking-threats-against-federal-judges
+  title: 'Durbin Demands DOJ, FBI Investigation Into Spiking Threats Against Federal Judges'
+  url: 'https://www.judiciary.senate.gov/press/dem/releases/durbin-demands-doj-fbi-investigation-into-spiking-threats-against-federal-judges'
   date: 2025-05
+  tier: 1
 tags:
 - judicial-intimidation
 - constitutional-crisis
@@ -44,5 +48,4 @@ capture_lanes:
 - Intelligence Penetration
 status: confirmed
 ---
-
 The Senate Judiciary Committee held a critical hearing investigating unprecedented threats to judicial independence in 2025, documenting rising levels of violence, intimidation, disinformation, and defiance of lawful court judgments. Testimony revealed a disturbing pattern of physical threats, including bomb threats against judges' families, social media harassment, and attempts to impeach judges who issue rulings against the administration's agenda. According to the U.S. Marshals Service, over 197 federal judges were threatened between March and May, with more than 600 social media posts targeting judges' families viewed over 200 million times.

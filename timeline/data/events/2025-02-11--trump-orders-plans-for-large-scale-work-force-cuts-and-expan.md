@@ -12,10 +12,10 @@ connections:
 - Project 2025
 - Heritage Foundation workforce reduction strategy
 date: '2025-02-11'
-description: Trump signed an executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, to dramatically reduce the federal workforce through strategic layoffs and hiring restrictions.
+description: 'Trump signed an executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, to dramatically reduce the federal workforce through strategic layoffs and hiring restrictions.'
 id: 2025-02-11--trump-orders-plans-for-large-scale-work-force-cuts-and-expan
 importance: 8
-location: Washington, D.C.
+location: 'Washington, D.C.'
 notes: Part of systematic effort to transform federal bureaucracy through workforce reduction and centralized hiring control.
 patterns:
 - kleptocratic-capture
@@ -24,15 +24,18 @@ sources:
 - date: '2025-02-11'
   outlet: Government Executive
   title: Trump Orders Agencies to Plan Widespread Layoffs and Attrition-Based Hiring
-  url: https://www.govexec.com/workforce/2025/02/trump-orders-agencies-plan-widespread-layoffs-and-attrition-based-hiring/402938/
+  url: 'https://www.govexec.com/workforce/2025/02/trump-orders-agencies-plan-widespread-layoffs-and-attrition-based-hiring/402938/'
+  tier: 2
 - date: '2025-02-11'
   outlet: PBS News
   title: 'Watch: Trump Makes Appearance with Musk, Signs Executive Order Downsizing Federal Workforce'
-  url: https://www.pbs.org/newshour/politics/watch-trump-makes-appearance-with-musk-signs-executive-order-downsizing-federal-workforce
+  url: 'https://www.pbs.org/newshour/politics/watch-trump-makes-appearance-with-musk-signs-executive-order-downsizing-federal-workforce'
+  tier: 1
 - date: '2025-02-12'
   outlet: Axios
-  title: Trump Orders 'Large-Scale' Cuts to Federal Workforce and Gives DOGE More Power
-  url: https://www.axios.com/2025/02/12/trump-doge-executive-order-musk-federal-staff-cuts
+  title: 'Trump Orders ''Large-Scale'' Cuts to Federal Workforce and Gives DOGE More Power'
+  url: 'https://www.axios.com/2025/02/12/trump-doge-executive-order-musk-federal-staff-cuts'
+  tier: 2
 status: confirmed
 tags:
 - kleptocracy
@@ -42,5 +45,4 @@ tags:
 - musk-influence
 title: Trump Signs Executive Order for Large-Scale Federal Workforce Cuts Under DOGE
 ---
-
 President Trump signed a sweeping executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, which mandates massive federal workforce reductions. The order requires agencies to hire only one new employee for every four who depart, with exemptions for military, immigration enforcement, and public safety roles. Musk's DOGE will have unprecedented control over federal hiring, with a team lead stationed in each agency to oversee workforce optimization.

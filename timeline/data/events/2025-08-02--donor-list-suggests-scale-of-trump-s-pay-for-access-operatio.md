@@ -18,22 +18,27 @@ sources:
   url: https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html
   outlet: The New York Times
   date: '2025-08-02'
+  tier: 1
 - title: Trump's super PAC raises a massive 177 million, bolstering his political influence
   url: https://www.nbcnews.com/politics/trump-administration/trumps-super-pac-raises-massive-177-million-bolstering-political-influ-rcna222400
   outlet: NBC News
   date: '2025-08-01'
+  tier: 1
 - title: Trump PAC Filing Reveals Pay-for-Access Scheme
   url: https://www.thedailybeast.com/trump-pac-filing-reveals-pay-for-access-scheme/
   outlet: The Daily Beast
   date: '2025-08-02'
+  tier: 2
 - title: Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire Influence Buyers
   url: https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/
   outlet: Public Citizen
   date: '2025-08-02'
+  tier: 2
 - title: 'Pardons, positions and power: Trump donor list raises questions about pay-for-access'
   url: https://www.yahoo.com/news/articles/pardons-positions-power-trump-donor-015028316.html
   outlet: Yahoo News
   date: '2025-08-02'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

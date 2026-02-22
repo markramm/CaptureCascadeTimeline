@@ -33,18 +33,22 @@ sources:
   url: https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts
   outlet: Roll Call
   date: '2025-06-27'
+  tier: 2
 - title: Senate appropriators reject House proposal to halve GAO's budget next year
   url: https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year
   outlet: Federal News Network
   date: '2025-07-10'
+  tier: 2
 - title: House GOP advances bill 'gutting' government watchdog
   url: https://thehill.com/homenews/5372396-house-gop-advances-bill-gutting-government-watchdog/
   outlet: The Hill
   date: '2025-06-27'
+  tier: 2
 - title: Cutting Congress's Watchdog Would Be a Costly Mistake
   url: https://www.ntu.org/foundation/detail/cutting-congresss-watchdog-would-be-a-costly-mistake
   outlet: National Taxpayers Union
   date: '2025-06-27'
----
+
+  tier: 2---
 
 House Appropriations Committee advanced a Legislative Branch bill on June 27, 2025, proposing to cut the Government Accountability Office (GAO) budget by nearly 50% and limiting its ability to enforce impoundment laws. The cuts would cripple Congress's primary watchdog agency responsible for investigating government waste and illegal spending. The proposal would have led to an immediate staff reduction of about 2,220 GAO employees (63% of workforce). Senate appropriators later rejected these cuts, recognizing GAO's critical oversight role, and approved a budget on par with current spending levels.

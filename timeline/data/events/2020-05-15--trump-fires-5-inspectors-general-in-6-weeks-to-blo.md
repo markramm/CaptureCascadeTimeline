@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html
   outlet: The Washington Post
   date: '2020-04-07'
+  tier: 1
 - title: Trump Has Fired 5 Inspectors General. Here Are the Reasons He Gave
   url: https://www.npr.org/2020/05/16/857090494/trump-has-fired-5-inspectors-general-here-are-the-reasons-he-gave
   outlet: NPR
   date: '2020-05-16'
+  tier: 1
 - title: Firing of inspectors general
   url: https://en.wikipedia.org/wiki/2020_dismissal_of_inspectors_general
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

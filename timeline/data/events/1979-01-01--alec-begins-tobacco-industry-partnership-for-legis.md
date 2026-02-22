@@ -10,12 +10,15 @@ sources:
 - title: Some ALEC Funders Flee, but Koch, Big Tobacco, and PhRMA Remain Loyalists
   url: https://www.prwatch.org/news/2014/07/12552/alec-funders-flee-but-koch-tobacco-phrma-remain-loyal
   outlet: PR Watch
+  tier: 2
 - title: What is ALEC
   url: https://www.alecexposed.org/wiki/What_is_ALEC
   outlet: ALEC Exposed
+  tier: 2
 - title: Who Still Funds ALEC?
   url: https://www.commoncause.org/articles/who-still-funds-alec/
   outlet: Common Cause
+  tier: 2
 tags:
 - alec
 - tobacco-industry

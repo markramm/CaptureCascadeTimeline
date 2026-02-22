@@ -19,14 +19,17 @@ sources:
   outlet: Democracy Forward
   date: '2025-08-08'
   url: https://democracyforward.org/updates/fbi-epstein-foia/
+  tier: 2
 - title: Trump administration faces first lawsuit to force release of Epstein files
   outlet: Axios
   date: '2025-08-08'
   url: https://www.axios.com/2025/08/08/democracy-forward-lawsuit-trump-epstein-files
+  tier: 2
 - title: Lawsuit over Epstein files could expose Trump administration's handling of the matter
   outlet: MSNBC
   date: '2025-08-08'
   url: https://www.msnbc.com/deadline-white-house/deadline-legal-blog/lawsuit-epstein-files-foia-trump-administration-rcna224254
+  tier: 2
 notes: First legal challenge to the administration's refusal to release files.
 ---
 

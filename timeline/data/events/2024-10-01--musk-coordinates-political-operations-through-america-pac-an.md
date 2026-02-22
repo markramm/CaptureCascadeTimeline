@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - America PAC
 - Twitter
-location: Austin, TX, United States
+location: 'Austin, TX, United States'
 tags:
 - election-interference
 - social-media-manipulation
@@ -16,24 +16,26 @@ tags:
 - campaign-finance
 - media-capture
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Electoral Manipulation
 sources:
 - outlet: NPR
-  title: 2 years in, Trump surrogate Elon Musk has remade X as a conservative megaphone
-  url: https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter
+  title: '2 years in, Trump surrogate Elon Musk has remade X as a conservative megaphone'
+  url: 'https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter'
   retrieved: '2025-10-01'
+  tier: 1
 - outlet: Fortune
-  title: Elon Musk's America PAC spent $200 million to elect Donald Trump
-  url: https://fortune.com/2024/11/12/elon-musk-america-pac-200-million-elect-donald-trump-vast-majority-tesla-ceo/
+  title: 'Elon Musk''s America PAC spent $200 million to elect Donald Trump'
+  url: 'https://fortune.com/2024/11/12/elon-musk-america-pac-200-million-elect-donald-trump-vast-majority-tesla-ceo/'
   retrieved: '2025-10-01'
+  tier: 2
 - outlet: NBC News
   title: How an Elon Musk-backed PAC is gathering data to boost Trump
-  url: https://www.nbcnews.com/tech/tech-news/elon-musk-super-pac-gathers-voter-data-boost-trump-rcna164859
+  url: 'https://www.nbcnews.com/tech/tech-news/elon-musk-super-pac-gathers-voter-data-boost-trump-rcna164859'
   retrieved: '2025-10-01'
+  tier: 1
 status: confirmed
 priority_id: RT-CLAUDE-2025-musk-twitter-x-speech-manipulation
 category: information-warfare
 ---
-
 Elon Musk established comprehensive political warfare operations through America PAC, combining financial, organizational, and information manipulation to support the Trump 2024 campaign. The PAC spent approximately $200 million, with Musk providing the vast majority of funds, to influence voter targeting and platform messaging. Musk transformed X into a conservative megaphone, systematically amplifying unverified claims and conspiracy theories that benefit the Trump campaign.

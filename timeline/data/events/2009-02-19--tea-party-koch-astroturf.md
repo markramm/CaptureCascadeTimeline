@@ -20,12 +20,16 @@ actors:
 sources:
 - title: jstor.org
   url: https://www.jstor.org/stable/perspoli/article/10.1017/S1537592711001019
+  tier: 2
 - title: journals.sagepub.com
   url: https://journals.sagepub.com/doi/10.1177/23294965221123808
+  tier: 2
 - title: desmog.com
   url: https://www.desmog.com/2010/10/13/david-koch-has-direct-contact-tea-party-astroturf-organizers-americans-prosperity-event/
+  tier: 2
 - title: theguardian.com
   url: https://www.theguardian.com/world/2010/aug/30/koch-brothers-tea-party-group
+  tier: 1
 status: confirmed
 capture_lanes:
 - Corporate Capture

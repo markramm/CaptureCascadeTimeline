@@ -28,18 +28,22 @@ sources:
   url: https://allvotingislocal.org/press-releases/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election/
   outlet: All Voting Is Local
   date: '2025-04-02'
+  tier: 2
 - title: Voting rights organization highlights increase in Ohio provisional ballots rejected over ID
   url: https://ohiocapitaljournal.com/2024/04/03/voting-rights-organization-highlights-increase-in-ohio-provisional-ballots-rejected-over-id/
   outlet: Ohio Capital Journal
   date: '2024-04-03'
+  tier: 2
 - title: 'HB 458: What Changed and Why Does it Harm Ohio Voters?'
   url: https://www.acluohio.org/news/hb-458-what-changed-and-why-does-it-harm-ohio-voters/
   outlet: ACLU of Ohio
   date: '2023-04-12'
+  tier: 2
 - title: The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot Box
   url: https://allvotingislocal.org/wp-content/uploads/TheUncountedBallotsof2024Ohio.pdf
   outlet: All Voting Is Local
   date: '2025-04-02'
----
+
+  tier: 2---
 
 All Voting Is Local analysis on April 2, 2025, revealed 34,364 Ohio provisional ballots rejected in 2024 election (10,000 more than 2020 despite lower turnout) after HB 458's photo ID law took effect. Rejection rate for ID issues tripled, jumping to 28.4% in November 2023. Multiple local races decided by 1-2 votes while 25% of provisional ballots went uncounted. Voters lost 3 days to cure ballots.

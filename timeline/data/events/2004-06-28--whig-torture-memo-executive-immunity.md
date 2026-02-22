@@ -30,14 +30,17 @@ sources:
   url: https://www.amazon.com/Torture-Truth-America-Ghraib-Terror/dp/1590171195
   outlet: The New York Review of Books
   date: '2004-10-07'
+  tier: 2
 - title: 'The Torture Papers: The Road to Abu Ghraib'
   url: https://www.amazon.com/Torture-Papers-Road-Abu-Ghraib/dp/0521857732
   outlet: Cambridge University Press
   date: '2005-01-17'
+  tier: 1
 - title: Constitutional Crisis in the War on Terror
   url: https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3089&context=dlj
   outlet: Duke Law Journal
   date: '2005-02-01'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

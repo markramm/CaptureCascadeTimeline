@@ -14,15 +14,18 @@ sources:
 - title: Immigration and Nationality Act of 1965
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965
+  tier: 2
   year: 2024
 - title: The Hart-Celler Immigration Act of 1965
   outlet: Center for Immigration Studies
   url: https://cis.org/Report/HartCeller-Immigration-Act-1965
   year: 2024
+  tier: 2
 - title: Immigration and Nationality Act of 1965
   outlet: U.S. House of Representatives History, Art & Archives
   url: https://history.house.gov/Historical-Highlights/1951-2000/Immigration-and-Nationality-Act-of-1965/
   year: 2024
+  tier: 1
 tags:
 - immigration
 - civil-rights

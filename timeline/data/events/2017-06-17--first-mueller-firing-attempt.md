@@ -25,14 +25,17 @@ sources:
   url: https://www.justice.gov/archives/sco/file/1373816/download
   outlet: Department of Justice
   date: '2019-04-18'
+  tier: 1
 - title: Trump Ordered Mueller Fired, but Backed Off When White House Counsel Threatened to Quit
   url: https://www.nytimes.com/2018/01/25/us/politics/trump-mueller-special-counsel-russia.html
   outlet: The New York Times
   date: '2018-01-25'
+  tier: 1
 - title: McGahn told Mueller that Trump asked him to fire special counsel
   url: https://www.washingtonpost.com/politics/mcgahn-told-mueller-that-trump-asked-him-to-fire-special-counsel/2019/04/25/7b4f5b50-67a4-11e9-a1b6-b29b90efa879_story.html
   outlet: The Washington Post
   date: '2019-04-25'
+  tier: 1
 notes: Mueller Report pages 77-89, 113-119 document multiple attempts. Represents conscious crisis escalation to test institutional resistance, invoking Nixon precedent to normalize extraordinary obstruction.
 ---
 

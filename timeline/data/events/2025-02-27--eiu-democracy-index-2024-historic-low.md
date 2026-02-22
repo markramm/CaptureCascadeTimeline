@@ -9,13 +9,16 @@ actors:
 sources:
 - outlet: Axios
   title: 'Global democracy score hits historic low: report'
-  url: https://www.axios.com/2025/02/27/global-democracy-score-record-low-report
+  url: 'https://www.axios.com/2025/02/27/global-democracy-score-record-low-report'
+  tier: 2
 - outlet: Democracy Without Borders
   title: 'Authoritarian suppression further on the rise: EIU 2024 democracy report'
-  url: https://www.democracywithoutborders.org/35822/authoritarian-suppression-further-on-the-rise-eiu-2024-democracy-report/
+  url: 'https://www.democracywithoutborders.org/35822/authoritarian-suppression-further-on-the-rise-eiu-2024-democracy-report/'
+  tier: 2
 - outlet: Yahoo Finance
   title: 'EIU''s 2024 Democracy Index: trend of global democratic decline and strengthening authoritarianism continues through 2024'
-  url: https://finance.yahoo.com/news/eius-2024-democracy-index-trend-000100049.html
+  url: 'https://finance.yahoo.com/news/eius-2024-democracy-index-trend-000100049.html'
+  tier: 2
 tags:
 - democracy-index
 - global-decline
@@ -29,5 +32,4 @@ capture_lanes:
 - Intelligence Penetration
 - Democratic Erosion
 ---
-
 The Economist Intelligence Unit's 2024 Democracy Index revealed a historic low global democracy score of 5.17 (on a 0-10 scale), indicating a significant decline in democratic health worldwide. The report showed that 130 of 167 countries experienced democratic erosion, with 39.2% of the world's population living under authoritarian rule. Notable downgrades included France and South Korea moving from 'full' to 'flawed' democracies.

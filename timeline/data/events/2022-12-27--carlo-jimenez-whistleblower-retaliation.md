@@ -22,14 +22,17 @@ sources:
   url: https://theintercept.com/2025/06/03/ice-houston-deportation-immigrants-whistleblower/
   outlet: The Intercept
   date: '2025-06-03'
+  tier: 1
 - title: ICE Whistleblower Carlos Jimenez Protected from Retaliation Under MSPB Ruling
   url: https://oversightdemocrats.house.gov/news/press-releases/ice-whistleblower-protected-retaliation-mspb
   outlet: House Committee on Oversight
   date: '2025-05-15'
+  tier: 1
 - title: Federal Employee Whistleblower Rights and 2022 Retaliation Cases
   url: https://www.dol.gov/agencies/oalj/PUBLIC/WHISTLEBLOWER/REFERENCES/CASELISTS/FEDERAL_2022
   outlet: Department of Labor
   date: '2022-12-31'
+  tier: 1
 notes: Houston Field Office has over 16,000 allegations of potential misconduct under review by ICE's Office of Professional Responsibility. Jimenez filed additional complaints in 2025 against Houston Field Office Director Bradford for colluding to keep false evaluations in his personnel file.
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2022-12-27--ice-whistleblower-faces-retaliation-after-reportin'

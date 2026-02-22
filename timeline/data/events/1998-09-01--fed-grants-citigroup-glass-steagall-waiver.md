@@ -22,43 +22,53 @@ sources:
   outlet: Federal Register
   title: Fed Waiver for Citicorp Merger
   url: https://www.federalregister.gov/documents/1998/09/23/98-25456/citicorp-new-york-new-york-order-approving-formation-of-a-bank-holding-company
+  tier: 1
 - date: '1998-04-06'
   outlet: The Wall Street Journal
   title: Citigroup Merger Creates Financial Giant
   url: https://www.wsj.com/articles/SB891132908068471000
+  tier: 1
 - date: '1998-06-26'
   outlet: Federal Reserve
   title: Federal Reserve Public Meeting Regarding Citicorp and Travelers Group Merger - Regulatory Concerns
   url: https://www.federalreserve.gov/supervisionreg/publicmeetings/19980626_panel21.htm
+  tier: 1
 - date: '1998-04-06'
   outlet: CNN Money
   title: 'CNN Money - Travelers, Citicorp Merge: Financial Services Revolution Begins'
   url: https://money.cnn.com/1998/04/06/deals/travelers/
+  tier: 1
 - date: '2017'
   outlet: George Washington University Law School
   title: The Road to Repeal of the Glass-Steagall Act
   author: Arthur E. Wilmarth Jr.
   url: https://scholarship.law.gwu.edu/faculty_publications/1301/
+  tier: 1
 - date: '2017'
   outlet: Columbia Law School Blue Sky Blog
   title: The Road to Repeal of the Glass-Steagall Act
   url: https://clsbluesky.law.columbia.edu/2017/10/03/the-road-to-repeal-of-the-glass-steagall-act/
+  tier: 1
 - date: '1999'
   outlet: Duke University Center for Predatory Lending Research
   title: The Financial Services Modernization Act of 1999 and Its Impact
   url: https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/
+  tier: 1
 - date: '2019'
   outlet: Northeastern University
   title: The Repeal of Glass-Steagall and the 2008 Economic Crash
   url: https://josephgiglio.sites.northeastern.edu/2016/04/30/2017-7-12-the-repeal-of-a-depression-era-banking-law-and-the-economic-crash-of-2008/
+  tier: 2
 - date: '1998-06-25'
   outlet: Federal Reserve Public Meeting
   title: 'Public Hearing Transcript: Citicorp-Travelers Merger Community Impact'
   url: https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_panel11.htm
+  tier: 1
 - date: '1998'
   outlet: Nova Southeastern University Law Review
   title: Impact of the Citicorp-Travelers Group Merger
   url: https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1415&context=nlr
+  tier: 1
 status: confirmed
 tags:
 - federal-reserve

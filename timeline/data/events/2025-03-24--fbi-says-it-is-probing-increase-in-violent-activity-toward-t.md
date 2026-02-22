@@ -13,10 +13,10 @@ connections:
 - Escalating political tensions
 - Domestic terrorism investigations
 date: '2025-03-24'
-description: FBI announced a task force to investigate a series of violent incidents targeting Tesla properties and vehicles, characterizing the attacks as domestic terrorism
+description: 'FBI announced a task force to investigate a series of violent incidents targeting Tesla properties and vehicles, characterizing the attacks as domestic terrorism'
 id: 2025-03-24--fbi-says-it-is-probing-increase-in-violent-activity-toward-t
 importance: 7
-location: Multiple U.S. States (Austin, TX Headquarters)
+location: 'Multiple U.S. States (Austin, TX Headquarters)'
 notes: Part of broader pattern of political violence and institutional tension
 patterns:
 - kleptocratic-capture
@@ -25,16 +25,19 @@ patterns:
 sources:
 - date: '2025-03-24'
   outlet: Reuters
-  title: FBI says it is probing 'increase in violent activity toward Tesla'
-  url: https://www.reuters.com/business/autos-transportation/fbi-says-it-is-probing-increase-violent-activity-toward-tesla-2025-03-24/
+  title: 'FBI says it is probing ''increase in violent activity toward Tesla'''
+  url: 'https://www.reuters.com/business/autos-transportation/fbi-says-it-is-probing-increase-violent-activity-toward-tesla-2025-03-24/'
+  tier: 1
 - date: '2025-03-25'
   outlet: NBC News
   title: FBI launches task force to crack down on attacks against Tesla
-  url: https://www.nbcnews.com/news/us-news/fbi-launches-task-force-crack-attacks-tesla-rcna197932
+  url: 'https://www.nbcnews.com/news/us-news/fbi-launches-task-force-crack-attacks-tesla-rcna197932'
+  tier: 1
 - date: '2025-03-24'
   outlet: MarketScreener
   title: FBI investigating increase in violent activity toward Tesla
-  url: https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/FBI-says-it-is-probing-increase-violent-activity-toward-Tesla-49417903/
+  url: 'https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/FBI-says-it-is-probing-increase-violent-activity-toward-Tesla-49417903/'
+  tier: 3
 status: confirmed
 tags:
 - kleptocracy
@@ -44,5 +47,4 @@ tags:
 - tesla
 title: FBI launches task force investigating violent attacks on Tesla
 ---
-
 The FBI launched a specialized task force to investigate over 80 reported incidents of vandalism, arson, and violent attacks targeting Tesla vehicles, dealerships, and facilities across multiple U.S. states. FBI Director Kash Patel characterized these attacks as 'domestic terrorism' and pledged to pursue and prosecute those responsible.

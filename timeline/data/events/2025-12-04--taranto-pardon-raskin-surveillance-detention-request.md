@@ -2,8 +2,8 @@
 id: 2025-12-04--taranto-pardon-raskin-surveillance-detention-request
 date: '2025-12-04'
 importance: 8
-title: DOJ Seeks to Detain Jan 6 Pardoned Defendant Taylor Taranto After Surveilling Rep. Jamie Raskin's Neighborhood
-location: Takoma Park, Maryland
+title: 'DOJ Seeks to Detain Jan 6 Pardoned Defendant Taylor Taranto After Surveilling Rep. Jamie Raskin''s Neighborhood'
+location: 'Takoma Park, Maryland'
 actors:
 - Taylor Taranto
 - Rep. Jamie Raskin
@@ -26,44 +26,50 @@ capture_lanes:
 - Civil Rights Suppression
 sources:
 - title: Scoop - Security upped for Rep. Jamie Raskin after alleged incident involving Jan. 6 defendant
-  url: https://www.axios.com/2025/12/04/jamie-raskin-taylor-taranto-obama-security-court
+  url: 'https://www.axios.com/2025/12/04/jamie-raskin-taylor-taranto-obama-security-court'
   outlet: Axios
   date: '2025-12-04'
+  tier: 2
   archive_url: null
-- title: DOJ Asks Judge to Rejail Jan. 6 Rioter Pardoned by Trump, After Threats to Rep. Jamie Raskin
-  url: https://www.democracynow.org/2025/12/5/headlines/doj_asks_judge_to_rejail_jan_6_rioter_pardoned_by_trump_after_threats_to_rep_jamie_raskin
-  outlet: Democracy Now!
+- title: 'DOJ Asks Judge to Rejail Jan. 6 Rioter Pardoned by Trump, After Threats to Rep. Jamie Raskin'
+  url: 'https://www.democracynow.org/2025/12/5/headlines/doj_asks_judge_to_rejail_jan_6_rioter_pardoned_by_trump_after_threats_to_rep_jamie_raskin'
+  outlet: 'Democracy Now!'
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: Pardoned January 6 defendant Taylor Taranto faces new legal trouble in DC
-  url: https://www.foxnews.com/politics/jan-6-defendant-pardoned-trump-lands-legal-trouble-again
+  url: 'https://www.foxnews.com/politics/jan-6-defendant-pardoned-trump-lands-legal-trouble-again'
   outlet: Fox News
   date: '2025-12-04'
   archive_url: null
-- title: Police Beg Judge to Jail Pardoned J6er Seen Lurking Near Dem Jamie Raskin's House
-  url: https://www.thedailybeast.com/police-beg-judge-to-jail-pardoned-j6er-seen-lurking-near-dem-jamie-raskins-house/
+  tier: 2
+- title: 'Police Beg Judge to Jail Pardoned J6er Seen Lurking Near Dem Jamie Raskin''s House'
+  url: 'https://www.thedailybeast.com/police-beg-judge-to-jail-pardoned-j6er-seen-lurking-near-dem-jamie-raskins-house/'
   outlet: The Daily Beast
   date: '2025-12-05'
   archive_url: null
+  tier: 2
 - title: DOJ Asks Judge to Re-Jail Jan. 6 Defendant Trump Pardoned
-  url: https://www.newsweek.com/doj-asks-judge-rejail-jan-6-defendant-trump-pardoned-11159588
+  url: 'https://www.newsweek.com/doj-asks-judge-rejail-jan-6-defendant-trump-pardoned-11159588'
   outlet: Newsweek
   date: '2025-12-04'
   archive_url: null
-- title: Jan. 6 defendant arrested near Obama's home had guns and 400 rounds of ammunition in his van
-  url: https://www.nbcnews.com/politics/justice-department/jan-6-defendant-arrested-obamas-home-guns-400-rounds-ammunition-van-rcna92094
+  tier: 2
+- title: 'Jan. 6 defendant arrested near Obama''s home had guns and 400 rounds of ammunition in his van'
+  url: 'https://www.nbcnews.com/politics/justice-department/jan-6-defendant-arrested-obamas-home-guns-400-rounds-ammunition-van-rcna92094'
   outlet: NBC News
   date: '2023-06-29'
   archive_url: null
-- title: Former Jan. 6 defendant who was arrested near Obama's house is convicted on gun charges
-  url: https://www.nbcnews.com/politics/justice-department/former-jan-6-defendant-taylor-taranto-obama-house-convicted-gun-rcna207980
+  tier: 1
+- title: 'Former Jan. 6 defendant who was arrested near Obama''s house is convicted on gun charges'
+  url: 'https://www.nbcnews.com/politics/justice-department/former-jan-6-defendant-taylor-taranto-obama-house-convicted-gun-rcna207980'
   outlet: NBC News
   date: '2024-10-18'
   archive_url: null
-notes: Taylor Taranto was one of approximately 1,500 January 6 defendants pardoned by Trump on first day of second term. Previously arrested in June 2023 near Obama home with two guns, 400 rounds of ammunition, and machete after Trump posted Obama's address. Convicted on weapons and false information charges. Taranto was living out of his van while conducting what he described as independent journalism investigating major crimes. Probation violations include failing to check in with parole officer, not participating in mental health treatment, and consuming controlled substances.
+  tier: 1
+notes: 'Taylor Taranto was one of approximately 1,500 January 6 defendants pardoned by Trump on first day of second term. Previously arrested in June 2023 near Obama home with two guns, 400 rounds of ammunition, and machete after Trump posted Obama''s address. Convicted on weapons and false information charges. Taranto was living out of his van while conducting what he described as independent journalism investigating major crimes. Probation violations include failing to check in with parole officer, not participating in mental health treatment, and consuming controlled substances.'
 status: confirmed
 ---
-
 The Department of Justice files a motion requesting a federal judge detain Taylor Taranto, a January 6 insurrection participant pardoned by President Trump, after Taranto was discovered surveilling Representative Jamie Raskin's neighborhood in Takoma Park, Maryland. According to Axios, Rep. Raskin (D-Md.) had his security increased this week after Taranto allegedly showed up near the Maryland congressman's house, prompting concerns about witness intimidation and potential violence against the member of Congress who served on the January 6 House Select Committee.
 
 Taranto was pardoned by President Trump for January 6-related charges as part of a mass clemency issued on the first day of Trump's second term, which granted pardons to approximately 1,500 Capitol insurrection participants. Following his pardon, Taranto returned to Washington, D.C., where he was spotted by local police near Raskin's home early Tuesday morning, December 3, conducting surveillance activities that alarmed law enforcement and prompted the Justice Department's detention request.

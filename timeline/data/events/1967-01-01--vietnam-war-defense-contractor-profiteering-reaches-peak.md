@@ -14,15 +14,18 @@ sources:
 - title: RMK-BRJ
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/RMK-BRJ
+  tier: 2
   year: 2024
 - title: Understanding the Vietnam War Machine
   outlet: Jacobin
   url: https://jacobin.com/2018/06/namric-antiwar-research-vietnam-war
   year: 2018
+  tier: 2
 - title: War Profiteering from Vietnam to Iraq
   outlet: CounterPunch
   url: https://www.counterpunch.org/2003/12/11/war-profiteering-from-vietnam-to-iraq/
   year: 2003
+  tier: 2
 tags:
 - military-industrial-complex
 - war-profiteering

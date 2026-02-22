@@ -25,14 +25,17 @@ sources:
   url: https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller
   outlet: Axios
   date: '2025-05-28'
+  tier: 2
 - title: ICE officials ousted amid demands for more immigrant arrests
   url: https://www.axios.com/2025/05/29/ice-firings-immigrant-arrests
   outlet: Axios
   date: '2025-05-29'
+  tier: 2
 - title: Trump administration shakes up leadership at ICE amid frustrations with arrest, deportation levels
   url: https://www.cbsnews.com/news/trump-administration-shakes-up-ice-leadership-over-deportation-levels/
   outlet: CBS News
   date: '2025-05-29'
+  tier: 1
 notes: Meeting attendees left feeling their jobs were in jeopardy. The 3,000 daily target would result in over 1 million deportations annually if sustained. Career officials Marcos Charles and Derek Gordon replaced the ousted veterans.
 status: confirmed
 ---

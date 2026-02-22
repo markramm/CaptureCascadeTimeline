@@ -18,18 +18,22 @@ sources:
   url: https://home.treasury.gov/about/history/prior-secretaries/robert-e-rubin-1995-1999
   outlet: U.S. Department of the Treasury
   date: '1995-01-10'
+  tier: 1
 - title: The Revolving Door, Robert Rubin, and Citigroup
   url: https://sunlightfoundation.com/2008/11/24/the-revolving-door-robert-rubin-and-citigroup/
   outlet: Sunlight Foundation
   date: '2008-11-24'
+  tier: 1
 - title: Robert Rubin (1995–1999) | Clinton Administration Treasury Secretary
   url: https://millercenter.org/president/clinton/essays/rubin-1995-secretary-of-the-treasury
   outlet: Miller Center
   date: '2025-01-01'
+  tier: 1
 - title: 'Expert Profile: Robert E. Rubin'
   url: https://www.cfr.org/expert/robert-e-rubin
   outlet: Council on Foreign Relations
   date: '2025-01-01'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -19,26 +19,32 @@ sources:
   url: https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest
   outlet: House Oversight Democrats
   date: '2025-05-02'
+  tier: 1
 - title: CFPB Probes of Big Tech and Finance Frozen Under Trump
   url: https://www.propublica.org/article/trump-cfpb-investigation-capital-one-rocket-meta-carvana-greenlight
   outlet: ProPublica
   date: '2025-02-27'
+  tier: 1
 - title: The CFPB drops its lawsuit against Capital One, marking a major reversal
   url: https://www.npr.org/2025/02/27/nx-s1-5311561/cfpb-confirmation-mckernan-lawsuits-capital-one
   outlet: NPR
   date: '2025-02-27'
+  tier: 1
 - title: CFPB drops Capital One lawsuit and other cases launched under Biden
   url: https://www.washingtonpost.com/business/2025/02/27/cfpb-drops-capital-one-lawsuit-other-cases-launched-under-biden/
   outlet: The Washington Post
   date: '2025-02-27'
+  tier: 1
 - title: Trump Drops or Pauses Cases Against 17 Corporations That Funded His Inauguration
   url: https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/
   outlet: Truthout
   date: '2025-04-21'
+  tier: 2
 - title: Trump's Inauguration Donor Pool Includes 0 Million from Corporations Under Investigation
   url: https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/
   outlet: Public Citizen
   date: '2025-03-12'
+  tier: 2
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-02-15--capital-one-cfpb-case-dropped-after-1-million-inau'
 _merge_timestamp: '2025-09-05T23:46:55.902041'

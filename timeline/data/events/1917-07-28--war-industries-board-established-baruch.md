@@ -12,12 +12,15 @@ sources:
 - title: War Industries Board
   outlet: 1914-1918 Online Encyclopedia
   url: https://encyclopedia.1914-1918-online.net/article/war-industries-board/
+  tier: 2
 - title: United States Establishes the War Industries Board
   outlet: EBSCO Research
   url: https://www.ebsco.com/research-starters/military-history-and-science/united-states-establishes-war-industries-board
+  tier: 2
 - title: War Industries Board
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/War_Industries_Board
+  tier: 2
 tags:
 - world-war-i
 - corporate-power

@@ -7,12 +7,15 @@ sources:
 - outlet: Philanthropy Roundtable
   title: Joe Coors Brews Up the Heritage Foundation
   url: https://www.philanthropyroundtable.org/almanac/joe-coors-brews-up-the-heritage-foundation/
+  tier: 2
 - outlet: Political Research Associates
   title: 'Profile on the Right: The Heritage Foundation'
   url: https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation
+  tier: 2
 - outlet: InfluenceWatch
   title: Heritage Foundation Organizational Profile
   url: https://www.influencewatch.org/non-profit/heritage-foundation/
+  tier: 2
 tags:
 - conservative-movement
 - think-tank-founding

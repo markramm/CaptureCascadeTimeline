@@ -19,14 +19,17 @@ sources:
   outlet: CMS.gov
   url: https://www.cms.gov/regulations-and-guidance/legislation/emtala
   date: '2024-01-01'
+  tier: 1
 - title: 'EMTALA: The Impact of Twenty-Five Years of Unfunded Mandates'
   outlet: Annals of Emergency Medicine
   url: https://www.annemergmed.com
   date: '2011-01-01'
+  tier: 2
 - title: Uncompensated Care and the American Health Care System
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2003-01-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Corporate Capture

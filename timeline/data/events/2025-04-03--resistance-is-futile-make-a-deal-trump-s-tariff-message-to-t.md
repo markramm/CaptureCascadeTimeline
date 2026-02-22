@@ -21,18 +21,22 @@ sources:
   url: https://www.npr.org/2025/04/02/nx-s1-5345802/trump-tariffs-liberation-day
   outlet: NPR
   date: '2025-04-02'
+  tier: 1
 - title: Trump announces broad tariffs at 'Liberation Day' White House event
   url: https://www.pbs.org/newshour/politics/watch-live-trump-announces-broad-tariffs-at-liberation-day-white-house-event
   outlet: PBS NewsHour
   date: '2025-04-03'
+  tier: 1
 - title: Trump rolls out sweeping tariffs as he deems deficits a 'national emergency'
   url: https://abcnews.go.com/Politics/trumps-liberation-day-arrives-gambles-big-risky-tariff/story?id=120382209
   outlet: ABC News
   date: '2025-04-03'
+  tier: 1
 - title: Trump just massively escalated his trade war. Here's what he announced
   url: https://www.cnn.com/2025/04/02/business/liberation-day-trump-tariffs
   outlet: CNN Business
   date: '2025-04-02'
+  tier: 1
 connections:
 - Tariff Policy
 - Economic Emergency Declaration

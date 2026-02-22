@@ -26,17 +26,20 @@ sources:
   url: https://politicalresearch.org/2015/03/17/religious-right-has-been-pushing-anti-union-right-work-laws-century
   outlet: Political Research Associates
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Right-to-work law - Wikipedia
   url: https://en.wikipedia.org/wiki/Right-to-work_law
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: For 60 Years, This Powerful Conservative Group Has Worked to Crush Labor
   url: https://www.thenation.com/article/archive/group-turned-right-work-crusade-crush-labor/
   outlet: The Nation
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

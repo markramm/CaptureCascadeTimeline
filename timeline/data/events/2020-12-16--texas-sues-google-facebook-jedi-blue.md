@@ -25,18 +25,22 @@ sources:
   url: https://www.texasattorneygeneral.gov/news/releases/paxton-files-third-amendment-antitrust-lawsuit-against-google
   outlet: Texas Attorney General
   date: '2022-01-14'
+  tier: 1
 - title: Lawsuit - Google allegedly creates ad monopoly with Facebook according to Jedi Blue
   url: https://searchengineland.com/google-allegedly-creates-ad-monopoly-with-facebook-to-favor-its-own-exchange-according-to-new-unredacted-details-from-project-jedi-375487
   outlet: Search Engine Land
   date: '2022-01-15'
+  tier: 2
 - title: Zuckerberg Pichai Signed Off On Backroom Facebook-Google Collusion
   url: https://dailycaller.com/2022/01/14/mark-zuckerberg-sundar-pichai-google-facebook-jedi-blue/
   outlet: The Daily Caller
   date: '2022-01-14'
+  tier: 3
 - title: US states are suing Google - here''s what you need to know
   url: https://www.technologyreview.com/2020/12/16/1014886/texas-lawsuit-google-antitrust-facebook/
   outlet: MIT Technology Review
   date: '2020-12-16'
+  tier: 1
 status: confirmed
 id: 2020-12-16--texas-sues-google-facebook-jedi-blue
 capture_lanes:

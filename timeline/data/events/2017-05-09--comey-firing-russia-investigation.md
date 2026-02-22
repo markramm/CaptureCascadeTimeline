@@ -25,14 +25,17 @@ sources:
   url: https://www.justice.gov/archives/sco/file/1373816/download
   outlet: Department of Justice
   date: '2019-04-18'
+  tier: 1
 - title: Trump told Russians that firing "nut job" Comey eased pressure from investigation
   url: https://www.nytimes.com/2017/05/19/us/politics/trump-russia-comey.html
   outlet: The New York Times
   date: '2017-05-19'
+  tier: 1
 - title: Trump says he was thinking of Russia controversy when he decided to fire Comey
   url: https://www.nbcnews.com/news/us-news/trump-says-he-was-thinking-russia-controversy-when-he-decided-n757821
   outlet: NBC News
   date: '2017-05-11'
+  tier: 1
 notes: Mueller Report pages 62-77 detail how Trump decided to fire Comey before receiving any DOJ recommendation, explicitly to neutralize Russia investigation. Pattern of targeting institutions designed to investigate corruption.
 ---
 

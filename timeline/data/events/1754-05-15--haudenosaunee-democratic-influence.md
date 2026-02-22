@@ -22,14 +22,17 @@ sources:
   title: The Haudenosaunee Confederacy and the Constitution
   url: https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/
   date_accessed: '2025-10-06'
+  tier: 1
 - outlet: Historical Society of the New York Courts
   title: How the Great Law of Peace Helped Shape New York and American Democracy
   url: https://history.nycourts.gov/great-law-of-peace-shape-ny-american-democracy/
   date_accessed: '2025-10-06'
+  tier: 1
 - outlet: History.com
   title: The Native American Government That Helped Inspire the US Constitution
   url: https://www.history.com/articles/iroquois-confederacy-influence-us-constitution
   date_accessed: '2025-10-06'
+  tier: 2
 status: confirmed
 ---
 

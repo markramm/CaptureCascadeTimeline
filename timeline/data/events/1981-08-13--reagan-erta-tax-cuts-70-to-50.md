@@ -50,6 +50,7 @@ sources:
   url: https://reagan.blogs.archives.gov/2016/08/15/reaganomics-the-economic-recovery-tax-act-of-1981/
   outlet: Reagan Library
   date: '2016-08-15'
+  tier: 1
   verified: true
 ---
 

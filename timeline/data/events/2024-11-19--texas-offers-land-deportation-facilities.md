@@ -23,14 +23,17 @@ sources:
   url: https://www.glo.texas.gov/about-glo/press-releases/texas-land-commissioner-buckingham-offers-trump-administration-over-1400
   outlet: Texas General Land Office
   date: '2024-11-19'
+  tier: 1
 - title: Texas land commissioner offers 1,402 acres to Trump for 'deportation facilities'
   url: https://abcnews.go.com/US/texas-land-commissioner-offers-acres-trump-deportation/story?id=116048937
   outlet: ABC News
   date: '2024-11-20'
+  tier: 1
 - title: Texas offers Trump administration more land and support for mass deportations
   url: https://www.texastribune.org/2024/11/26/texas-donald-trump-deportation-land-offer/
   outlet: Texas Tribune
   date: '2024-11-26'
+  tier: 1
 notes: Property is flat farmland currently yielding onions, grain sorghum, corn and soybeans. Buckingham stated "We are completely united with President Trump to rid our country of illegal, violent criminals." Represents state-level coordination for federal deportation infrastructure before Trump takes office.
 status: confirmed
 ---

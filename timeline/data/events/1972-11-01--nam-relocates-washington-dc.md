@@ -20,12 +20,14 @@ sources:
   url: https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/
   outlet: BillMoyers.com
   date: '2011-09-14'
+  tier: 2
   verified: true
 - title: '1970s: A corporate blueprint to dominate democracy'
   url: https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html
   outlet: Al Jazeera
   date: '2017-01-01'
   verified: true
+  tier: 1
 notes: The move from New York to Washington represented a strategic shift in corporate political engagement. NAM's chief stated "The thing that affects business most today is government" - echoing Powell's memo emphasis on political power. This relocation was part of the broader corporate mobilization triggered by the Powell Memo.
 status: confirmed
 ---

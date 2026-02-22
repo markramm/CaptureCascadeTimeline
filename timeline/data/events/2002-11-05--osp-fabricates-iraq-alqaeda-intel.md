@@ -18,14 +18,17 @@ sources:
   title: Pentagon Offices' Misleading Intelligence
   url: https://publicintegrity.org/politics/pentagon-offices-misleading-intelligence/
   retrieved: '2025-10-01'
+  tier: 1
 - outlet: Federation of American Scientists
   title: IG Report on DoD Intel Office Declassified
   url: https://fas.org/publication/ig_report_on_dod_intel_office_/
   retrieved: '2025-10-01'
+  tier: 1
 - outlet: Government Information
   title: DoD Inspector General's Report on OSP Pre-Iraq War Activities
   url: https://www.govinfo.gov/content/pkg/CHRG-110shrg35438/html/CHRG-110shrg35438.htm
   retrieved: '2025-10-01'
+  tier: 1
 tags:
 - osp
 - whig

@@ -27,14 +27,17 @@ sources:
   url: https://www.justice.gov/archives/sco/file/1373816/download
   outlet: Department of Justice
   date: '2019-04-18'
+  tier: 1
 - title: 'Trump Tower meeting: At least eight people in room'
   url: https://www.cnn.com/2017/07/14/politics/donald-trump-jr-meeting/index.html
   outlet: CNN
   date: '2017-07-14'
+  tier: 1
 - title: Trump dictated son's misleading statement on meeting with Russian lawyer
   url: https://www.washingtonpost.com/politics/trump-dictated-sons-misleading-statement-on-meeting-with-russian-lawyer/2017/07/31/04c94f96-73ae-11e7-8f39-eeb7d3a2d304_story.html
   outlet: The Washington Post
   date: '2017-07-31'
+  tier: 1
 notes: Mueller Report pages 110-123 detail meeting setup and cover-up. Email explicitly stated Russian government support, establishing precedent for accepting foreign assistance as electoral currency.
 ---
 

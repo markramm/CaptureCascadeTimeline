@@ -23,18 +23,23 @@ sources:
 - outlet: Brennan Center for Justice
   title: Citizens United Explained
   url: https://www.brennancenter.org/our-work/research-reports/citizens-united-explained
+  tier: 1
 - outlet: Federal Election Commission
   title: Buckley v. Valeo Legal Resources
   url: https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/
+  tier: 1
 - outlet: Congress.gov
   title: 'The State of Campaign Finance Policy: Recent Developments and Issues'
   url: https://www.congress.gov/crs-product/R41542
+  tier: 1
 - outlet: Brookings Institution
   title: Myths and Realities About Campaign Finance Reform
   url: https://www.brookings.edu/articles/myths-and-realities-about-the-bipartisan-campaign-reform-act-of-2002/
+  tier: 1
 - outlet: GAO
   title: Campaign Finance Overview
   url: https://www.gao.gov/assets/gao-20-66r.pdf
----
+
+  tier: 1---
 
 By the year 2000, sophisticated legal strategies emerge revealing how corporate political action committees (PACs) systematically exploit legal loopholes from the Buckley v. Valeo Supreme Court decision. Wealthy donors and industry actors develop intricate mechanisms to circumvent campaign finance restrictions, creating a coordinated system of 'independent' expenditures that effectively bypasses traditional campaign finance limitations. The emerging strategies facilitate unprecedented corporate political influence through soft money, issue advocacy, and strategic expenditure coordination.

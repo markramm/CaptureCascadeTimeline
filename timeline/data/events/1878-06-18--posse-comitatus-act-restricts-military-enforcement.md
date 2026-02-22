@@ -10,15 +10,18 @@ sources:
 - title: Posse Comitatus Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Posse_Comitatus_Act
+  tier: 2
   year: 2024
 - title: The Posse Comitatus Act, Explained
   outlet: Brennan Center for Justice
   url: https://www.brennancenter.org/our-work/research-reports/posse-comitatus-act-explained
   year: 2024
+  tier: 1
 - title: The Posse Comitatus Act and using military as a police force
   outlet: Rutherford B. Hayes Presidential Library & Museums
   url: https://www.rbhayes.org/scholarlyworks/the-posse-comitatus-act-and-using-military-as-a-police-force/
   year: 2024
+  tier: 2
 tags:
 - reconstruction-sabotage
 - military-policy

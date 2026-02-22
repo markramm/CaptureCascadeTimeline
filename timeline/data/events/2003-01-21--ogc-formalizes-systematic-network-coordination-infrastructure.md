@@ -27,14 +27,17 @@ sources:
   url: https://www.federalregister.gov/documents/2003/01/24/03-1798/establishing-the-office-of-global-communications
   outlet: Federal Register
   date: '2003-01-24'
+  tier: 1
 - title: New White House Office Coordinates Global Communications
   url: https://georgewbush-whitehouse.archives.gov/news/releases/2003/01/text/20030121-4.html
   outlet: White House Archives
   date: '2003-01-21'
+  tier: 1
 - title: Office of Global Communications
   url: https://www.sourcewatch.org/index.php/Office_of_Global_Communications
   outlet: SourceWatch
   date: '2007'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

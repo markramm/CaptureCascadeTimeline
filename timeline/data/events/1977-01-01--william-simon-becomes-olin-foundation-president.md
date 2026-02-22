@@ -22,12 +22,14 @@ sources:
   url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: John M. Olin Foundation - SourceWatch
   url: https://www.sourcewatch.org/index.php/John_M._Olin_Foundation
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Simon had served as Secretary of the Treasury under Nixon and Ford (1974-1977) before joining Olin. The Foundation had been largely inactive until 1969 when John Olin was disturbed by the Willard Straight Hall takeover at Cornell University. Simon's appointment marked the beginning of focused, strategic conservative philanthropy that would fund law and economics programs at major universities.
 status: confirmed
 ---

@@ -15,12 +15,16 @@ actors:
 sources:
 - title: justice.gov
   url: https://www.justice.gov/archives/opa/speech/special-counsel-robert-s-mueller-iii-makes-statement-investigation-russian-interference
+  tier: 1
 - title: washingtonpost.com
   url: https://www.washingtonpost.com/politics/2019/05/29/muellers-statement-annotated-if-we-had-confidence-that-president-clearly-did-not-commit-crime-we-would-have-said-so/
+  tier: 1
 - title: lawfaremedia.org
   url: https://www.lawfaremedia.org/article/defending-muellers-constitutional-analysis-obstruction-and-faithful-execution
+  tier: 2
 - title: americanprogress.org
   url: https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/
+  tier: 2
 status: confirmed
 capture_lanes:
 - Digital & Tech Capture

@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/immigration/trump-border-wall-fisher-sand-gravel/2019/12/02/
   outlet: The Washington Post
   date: '2019-12-02'
+  tier: 1
 - title: Fisher Industries wins $2 billion in border wall contracts
   url: https://www.propublica.org/article/fisher-sand-and-gravel-border-wall-contract
   outlet: ProPublica
   date: '2020-05-06'
+  tier: 1
 - title: Border wall built by Trump ally Fisher showing erosion
   url: https://www.texastribune.org/2020/07/02/texas-border-wall-private/
   outlet: Texas Tribune
   date: '2020-07-02'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

@@ -23,22 +23,27 @@ sources:
   url: https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general
   outlet: NPR
   date: '2025-01-25'
+  tier: 1
 - title: Trump Fired 17 Inspectors General—Was It Legal?
   url: https://www.lawfaremedia.org/article/trump-fired-17-inspectors-general-was-it-legal
   outlet: Lawfare
   date: '2025-01-26'
+  tier: 1
 - title: Trump fires inspectors general from more than a dozen federal agencies
   url: https://www.cnn.com/2025/01/25/politics/trump-fires-inspectors-general/index.html
   outlet: CNN
   date: '2025-01-25'
+  tier: 1
 - title: Trump fires 17 independent watchdogs at multiple agencies in late-night move
   url: https://abcnews.go.com/Politics/trump-fires-17-independent-watchdogs-multiple-agencies-late/story?id=118097873
   outlet: ABC News
   date: '2025-01-25'
+  tier: 1
 - title: Trump's Firing of Independent Watchdog Officials Draws Criticism
   url: https://www.usnews.com/news/top-news/articles/2025-01-24/trump-fires-at-least-12-independent-inspectors-general-washington-post-reports
   outlet: U.S. News & World Report
   date: '2025-01-24'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

@@ -20,6 +20,7 @@ actors:
 sources:
 - url: https://www.cambridge.org/core/journals/business-history-review/article/abs/national-association-of-manufacturers-and-the-militarization-of-american-conservatism/A2C2009CB0F2E90E7C98036326E70411
   title: The National Association of Manufacturers and the Militarization of American
+  tier: 2
     Conservatism
   outlet: Cambridge University Press - Business History Review
   tier: 1
@@ -56,11 +57,13 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: American Enterprise Institute (AEI)
   url: https://www.britannica.com/topic/American-Enterprise-Institute
   outlet: Britannica
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

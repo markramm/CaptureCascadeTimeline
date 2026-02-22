@@ -31,14 +31,17 @@ sources:
   url: https://www.americanprogress.org/article/the-bush-administrations-assault-on-the-separation-of-powers/
   outlet: Center for American Progress
   date: '2006-09-25'
+  tier: 2
 - title: 'State of War: The Secret History of the CIA and the Bush Administration'
   url: https://www.amazon.com/State-War-Secret-History-Administration/dp/0743270665
   outlet: Free Press
   date: '2006-01-03'
+  tier: 3
 - title: 'Constitutional Crisis and the Rule of Law: Executive Power in Times of War'
   url: https://scholarship.law.georgetown.edu/facpub/1847/
   outlet: Georgetown University Law Center
   date: '2007-03-15'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

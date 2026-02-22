@@ -20,14 +20,17 @@ sources:
   url: https://www.newsweek.com/donald-trump-phone-jack-smith-trial-1963160
   outlet: Newsweek
   date: '2024-10-25'
+  tier: 2
 - title: Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump
   url: https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html
   outlet: CNN
   date: '2024-10-02'
+  tier: 1
 - title: Report of Special Counsel Smith Volume 1 January 2025
   url: https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf
   outlet: Department of Justice
   date: '2025-01-14'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

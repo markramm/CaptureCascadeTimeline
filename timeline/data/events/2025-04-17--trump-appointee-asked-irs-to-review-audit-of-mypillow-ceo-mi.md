@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/business/2025/04/17/lindell-irs-audit/
   outlet: The Washington Post
   date: '2025-04-17'
+  tier: 1
 - title: Trump Official Requests IRS Audit Reconsideration for MyPillow CEO
   url: https://thehill.com/homenews/administration/5254664-trump-official-asked-irs-to-re-examine-audit-of-mypillows-mike-lindell/
   outlet: The Hill
   date: '2025-04-17'
+  tier: 2
 - title: Trump Administration's Unusual IRS Audit Intervention Raises Questions
   url: https://www.newsweek.com/mike-lindell-irs-audit-1831953
   outlet: Newsweek
   date: '2025-04-17'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

@@ -6,7 +6,7 @@ title: DJT Stock Begins Trading as Trump Owns Majority of $8.4 Billion Media Com
 location: New York Stock Exchange
 actors:
 - Donald Trump
-- Trump Media & Technology Group
+- 'Trump Media & Technology Group'
 - NYSE
 - Digital World Acquisition Corp
 - Donald Trump Jr.
@@ -20,32 +20,35 @@ tags:
 - spac-merger
 sources:
 - title: Truth Social surges in DJT stock debut
-  url: https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/
+  url: 'https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/'
   outlet: The Washington Post
   date: '2024-03-26'
-  archive_url: https://web.archive.org/web/20240326000000/https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20240326000000/https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/'
 - title: DJT stock creates unique new ethical nightmare
-  url: https://www.cnn.com/2024/03/26/politics/djt-stock-trump-what-matters/index.html
+  url: 'https://www.cnn.com/2024/03/26/politics/djt-stock-trump-what-matters/index.html'
   outlet: CNN
   date: '2024-03-26'
-  archive_url: https://web.archive.org/web/20240326000000/https://www.cnn.com/2024/03/26/politics/djt-stock-trump-what-matters/index.html
-- title: Trump Media stock jumps as much as 50% after DJT ticker debut
-  url: https://www.cnbc.com/2024/03/26/trump-media-stock-ticker-djt-debuts-after-dwac-merger.html
+  archive_url: 'https://web.archive.org/web/20240326000000/https://www.cnn.com/2024/03/26/politics/djt-stock-trump-what-matters/index.html'
+  tier: 1
+- title: 'Trump Media stock jumps as much as 50% after DJT ticker debut'
+  url: 'https://www.cnbc.com/2024/03/26/trump-media-stock-ticker-djt-debuts-after-dwac-merger.html'
   outlet: CNBC
   date: '2024-03-26'
-  description: Detailed coverage of initial trading day, stock volatility, and ownership structure
-- title: Trump Media & Technology Group Corp. (DJT) SEC Filings
-  url: https://www.nasdaq.com/market-activity/stocks/djt/sec-filings
+  description: 'Detailed coverage of initial trading day, stock volatility, and ownership structure'
+  tier: 2
+- title: 'Trump Media & Technology Group Corp. (DJT) SEC Filings'
+  url: 'https://www.nasdaq.com/market-activity/stocks/djt/sec-filings'
   outlet: NASDAQ
   date: '2024-03-26'
   description: Official SEC filing repository for company financial disclosures
+  tier: 2
 notes: First time in history a presidential candidate owns publicly traded media company. Stock valuation and trading volume demonstrate significant market speculation. Potential for unprecedented conflicts of interest through media ownership and foreign investment.
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Intelligence Penetration
 - Executive Power Expansion
 - Financial Capture
 ---
-
 Trump Media begins trading under ticker DJT at $8.4 billion valuation, with Trump holding 69-78.75% of shares, creating unprecedented presidential conflict of interest through media and financial entanglement. Trading was volatile, with stock price jumping over 50% and trading briefly halted.

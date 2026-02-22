@@ -19,22 +19,27 @@ sources:
   url: https://www.wsj.com/finance/regulation/binance-world-liberty-financial-crypto-deals-70c817c3?mod=hp_lead_pos6
   outlet: The Wall Street Journal
   date: '2025-04-11'
+  tier: 1
 - title: Binance seeks to curb US oversight during deal talks with Trump's crypto company, WSJ says
   url: https://www.investing.com/news/stock-market-news/binance-seeks-to-curb-us-oversight-while-in-deal-talks-with-trumps-crypto-company-wsj-reports-3982382
   outlet: Investing.com
   date: '2025-04-11'
+  tier: 2
 - title: Binance seeks to curb US oversight during deal talks with Trump's crypto company
   url: https://ca.finance.yahoo.com/news/binance-seeks-curb-us-oversight-013333727.html
   outlet: Yahoo Finance
   date: '2025-04-11'
+  tier: 2
 - title: Binance seeks to loosen U.S. oversight and forge ties with Trump family crypto venture
   url: https://www.mitrade.com/insights/news/live-news/article-3-756342-20250412
   outlet: Mitrade
   date: '2025-04-12'
+  tier: 2
 - title: Binance Seeks to Curb US Oversight During Deal Talks With Trump's Crypto Company
   url: https://money.usnews.com/investing/news/articles/2025-04-11/binance-seeks-to-curb-us-oversight-while-in-deal-talks-with-trumps-crypto-company-wsj-reports
   outlet: US News
   date: '2025-04-11'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

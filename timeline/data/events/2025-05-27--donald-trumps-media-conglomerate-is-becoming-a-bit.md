@@ -20,22 +20,27 @@ sources:
   url: https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/
   outlet: The New York Times
   date: '2025-05-27'
+  tier: 1
 - title: Trump Media Announces Approximately .5 Billion Bitcoin Treasury Deal
   url: https://www.globenewswire.com/news-release/2025/05/27/3088703/0/en/Trump-Media-Announces-Approximately-2-5-Billion-Bitcoin-Treasury-Deal.html
   outlet: GlobeNewswire
   date: '2025-05-27'
+  tier: 3
 - title: DJT shares fall 10% as Trump Media says it's raising .5 billion to buy bitcoin
   url: https://www.cnbc.com/2025/05/27/djt-trump-media-bitcoin.html
   outlet: CNBC
   date: '2025-05-27'
+  tier: 2
 - title: Trump Media group announces plan to establish .5 billion Bitcoin treasury
   url: https://fortune.com/crypto/2025/05/27/trump-media-group-raise-money-bitcoin-treasury/
   outlet: Fortune
   date: '2025-05-27'
+  tier: 2
 - title: Trump Media builds  billion bitcoin hoard, as cryptocurrency swells president's net worth
   url: https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html
   outlet: CNBC
   date: '2025-07-21'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

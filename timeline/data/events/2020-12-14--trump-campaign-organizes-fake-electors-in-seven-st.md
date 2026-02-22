@@ -22,14 +22,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Trump_fake_electors_plot
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
 - title: 'Exclusive: RNC email shows coordination of Trump fake electors plan'
   url: https://www.cnn.com/2022/01/20/politics/rnc-fake-electors-trump-campaign/index.html
   outlet: CNN
   date: '2022-01-20'
+  tier: 1
 - title: Michigan charges 16 fake Trump electors with felonies
   url: https://www.npr.org/2023/07/18/1188363691/michigan-charges-16-fake-trump-electors-with-felonies
   outlet: NPR
   date: '2023-07-18'
+  tier: 1
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration

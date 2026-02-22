@@ -26,26 +26,32 @@ sources:
   url: https://www.washingtonpost.com/politics/2007/05/15/hospital-visit-highlights-surveillance-dispute/
   outlet: The Washington Post
   date: '2007-05-15'
+  tier: 1
 - title: Comey Testifies on Hospital Room Drama
   url: https://www.nytimes.com/2007/05/16/washington/16justice.html
   outlet: The New York Times
   date: '2007-05-16'
+  tier: 1
 - title: The Hospital Confrontation That Shook DOJ
   url: https://www.cnn.com/2007/POLITICS/05/15/gonzales.hospital/
   outlet: CNN
   date: '2007-05-15'
+  tier: 1
 - title: Gonzales Hospital Episode Detailed
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/05/15/AR2007051500864.html
   outlet: The Washington Post
   date: '2007-05-15'
+  tier: 1
 - title: '10 years ago: Comey testifies about confrontation with Bush White House'
   url: https://www.cnn.com/2017/05/15/politics/comey-gonzalez-surveillance-showdown/index.html
   outlet: CNN
   date: '2017-05-15'
+  tier: 1
 - title: NSA program led to standoff at Ashcroft's sickbed
   url: https://www.seattlepi.com/national/article/NSA-program-led-to-standoff-at-Ashcroft-s-sickbed-1237491.php
   outlet: Seattle Post-Intelligencer
   date: '2007-05-16'
+  tier: 2
 _merge_note: 'Enhanced with information from duplicate event: 2004-03-10--hospital-confrontation-ashcroft-gonzales-comey-nsa-surveillance'
 _merge_timestamp: '2025-09-05T23:46:55.905511'
 capture_lanes:

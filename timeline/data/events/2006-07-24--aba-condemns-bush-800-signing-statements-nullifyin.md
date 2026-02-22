@@ -21,14 +21,17 @@ sources:
   url: https://www.americanbar.org/content/dam/aba/administrative/government_affairs_office/signingstatementsreport.pdf
   outlet: American Bar Association
   date: '2006-07-24'
+  tier: 2
 - title: 'Takeover: The Return of the Imperial Presidency'
   url: https://www.amazon.com/Takeover-Imperial-Presidency-Subversion-Democracy/dp/0316118044
   outlet: Charlie Savage
   date: '2007-05-01'
+  tier: 2
 - title: Presidential Signing Statements Accompanying the Fiscal Year 2006 Appropriations Acts
   url: https://www.gao.gov/products/gao-07-720
   outlet: GAO
   date: '2007-06-18'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

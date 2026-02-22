@@ -19,18 +19,22 @@ sources:
   url: https://money.cnn.com/2016/03/10/news/trump-model-visas/index.html
   outlet: CNN Money
   date: '2016-03-10'
+  tier: 1
 - title: Former Models for Donald Trump's Agency Say They Violated Immigration Rules
   url: https://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration/
   outlet: Mother Jones
   date: '2016-08-30'
+  tier: 1
 - title: 'Trump Model: Felt Like ''Slave'' Working for Donald''s Agency'
   url: https://abcnews.go.com/Politics/trump-model-felt-slave-working-donalds-agency/story?id=37313993
   outlet: ABC News
   date: '2024-07-15'
+  tier: 1
 - title: 'Former Trump Models: We Were Told to Lie About Immigration Status'
   url: https://www.thedailybeast.com/former-trump-models-we-were-told-to-lie-about-immigration-status
   outlet: The Daily Beast
   date: '2024-08-01'
+  tier: 2
 capture_lanes:
 - Intelligence Penetration
 ---

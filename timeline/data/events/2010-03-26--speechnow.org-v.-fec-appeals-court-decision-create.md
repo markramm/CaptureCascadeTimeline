@@ -19,13 +19,16 @@ sources:
 - title: 'FEC Legal Resources: SpeechNow.org v. FEC'
   url: https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/
   outlet: Federal Election Commission
+  tier: 1
 - title: 'Free Speech for People: SpeechNow v. FEC Case Created Super PACs'
   url: https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/
   outlet: Free Speech for People
+  tier: 2
 - title: The Landscape For Campaign Finance, 10 Years After Citizens United
   url: https://www.npr.org/2020/01/21/798252685/the-landscape-for-campaign-finance-10-years-after-citizens-united
   outlet: NPR
   date: '2020-01-21'
+  tier: 1
 status: confirmed
 id: 2010-03-26--speechnow.org-v.-fec-appeals-court-decision-create
 priority_id: claude-priority-citizens-united-corporate-spending

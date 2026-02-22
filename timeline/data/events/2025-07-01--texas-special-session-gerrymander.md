@@ -26,14 +26,17 @@ sources:
   url: https://www.texastribune.org/2025/07/01/texas-democrats-flee-redistricting/
   outlet: The Texas Tribune
   date: '2025-07-01'
+  tier: 2
 - title: Abbott calls special session at Trump request for redistricting
   url: https://www.houstonchronicle.com/politics/texas/article/abbott-trump-redistricting-special-session.php
   outlet: Houston Chronicle
   date: '2025-07-01'
+  tier: 2
 - title: Democrats break quorum to prevent gerrymandering vote
   url: https://www.cnn.com/2025/07/01/politics/texas-democrats-flee-redistricting/index.html
   outlet: CNN
   date: '2025-07-01'
+  tier: 1
 notes: Mid-cycle redistricting historically rare and destabilizing to democratic norms. Trump's direct involvement in state redistricting unprecedented. Would have guaranteed Republican supermajority despite 50-50 state partisan split.
 ---
 

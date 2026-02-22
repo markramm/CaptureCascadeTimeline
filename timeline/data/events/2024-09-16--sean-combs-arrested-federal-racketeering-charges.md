@@ -6,15 +6,18 @@ sources:
 - date: '2024-09-16'
   outlet: Department of Justice
   title: Sean Combs Charged In Manhattan Federal Court With Sex Trafficking And Other Federal Offenses
-  url: https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses
+  url: 'https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses'
+  tier: 1
 - date: '2024-09-17'
   outlet: CNN
-  title: Takeaways from the racketeering conspiracy and sex trafficking indictment against Sean 'Diddy' Combs
-  url: https://edition.cnn.com/2024/09/17/us/takeaways-indictment-sean-diddy-combs/index.html
+  title: 'Takeaways from the racketeering conspiracy and sex trafficking indictment against Sean ''Diddy'' Combs'
+  url: 'https://edition.cnn.com/2024/09/17/us/takeaways-indictment-sean-diddy-combs/index.html'
+  tier: 1
 - date: '2024-09-16'
   outlet: The Washington Post
-  title: Sean 'Diddy' Combs indicted on sex-trafficking charges, denied bail
-  url: https://www.washingtonpost.com/style/2024/09/16/diddy-arrested-sean-combs-new-york-indictment/
+  title: 'Sean ''Diddy'' Combs indicted on sex-trafficking charges, denied bail'
+  url: 'https://www.washingtonpost.com/style/2024/09/16/diddy-arrested-sean-combs-new-york-indictment/'
+  tier: 1
 actors:
 - Sean Combs
 - Department of Justice
@@ -33,7 +36,6 @@ capture_lanes:
 - Financial Capture
 importance: 10
 status: confirmed
-notes: This case represents a landmark federal prosecution of a high-profile music industry figure, alleging systemic criminal behavior spanning over a decade.
+notes: 'This case represents a landmark federal prosecution of a high-profile music industry figure, alleging systemic criminal behavior spanning over a decade.'
 ---
-
 Sean "Diddy" Combs was arrested on September 16, 2024, by the Southern District of New York (SDNY) on federal charges including racketeering conspiracy, sex trafficking, and transportation for purposes of prostitution. The indictment alleges Combs led a criminal enterprise from 2008 to the present that engaged in sex trafficking, forced labor, kidnapping, arson, bribery, and obstruction of justice. The charges carry potential life sentences, with Combs denied bail and held in the Special Housing Unit of the Metropolitan Detention Center in Brooklyn. The arrest follows multiple sexual assault lawsuits and federal raids on his properties in March 2024.

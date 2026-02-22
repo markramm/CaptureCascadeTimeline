@@ -25,18 +25,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Double_Irish_arrangement
   outlet: Wikipedia
   date: '2024-10-15'
+  tier: 2
 - title: Doubling Down on Double Sandwich Tax Schemes
   url: https://cmr.berkeley.edu/2020/03/doubling-down/
   outlet: California Management Review
   date: '2020-03-15'
+  tier: 1
 - title: 'Explainer: Google and its double Irish tax scheme'
   url: https://www.irishtimes.com/business/economy/explainer-google-and-its-double-irish-tax-scheme-1.4128929
   outlet: The Irish Times
   date: '2020-01-02'
+  tier: 1
 - title: The Double Irish Dutch Sandwich - End of a Tax Evasion Strategy
   url: https://conversableeconomist.com/2024/09/12/the-double-irish-dutch-sandwich-end-of-a-tax-evasion-strategy/
   outlet: Conversable Economist
   date: '2024-09-12'
+  tier: 2
 status: confirmed
 id: 2003-01-01--google-double-irish-dutch-sandwich-tax
 capture_lanes:

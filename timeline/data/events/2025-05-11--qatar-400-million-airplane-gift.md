@@ -19,22 +19,27 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/05/11/trump-air-force-one-qatar/
   outlet: The Washington Post
   date: '2025-05-11'
+  tier: 1
 - title: Trump administration officially accepts jet from Qatar for use as Air Force One
   url: https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one
   outlet: NPR
   date: '2025-05-21'
+  tier: 1
 - title: Trump administration will accept a luxury jet from Qatar to use as Air Force One
   url: https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111
   outlet: NBC News
   date: '2025-05-11'
+  tier: 1
 - title: Trump poised to accept Qatar jet gift as Air Force One
   url: https://www.cnbc.com/2025/05/11/trump-jumbo-jet-qatar-air-force-one-gift.html
   outlet: CNBC
   date: '2025-05-11'
+  tier: 2
 - title: Unwrapping Qatar's 400 Million Winged Gift to Trump
   url: https://www.factcheck.org/2025/05/unwrapping-qatars-400-million-winged-gift-to-trump/
   outlet: FactCheck.org
   date: '2025-05-12'
+  tier: 1
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-05-11--qatar-gifts-trump-400-million-airplane-as-replacem'
 _merge_timestamp: '2025-09-05T23:46:55.901536'

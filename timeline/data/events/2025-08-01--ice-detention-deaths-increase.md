@@ -23,14 +23,17 @@ sources:
   url: https://www.ice.gov/detain/detainee-death-reporting
   outlet: ICE
   date: '2025-08-01'
+  tier: 1
 - title: Private prisons and local jails are ramping up as ICE detention exceeds capacity
   url: https://www.npr.org/2025/06/04/nx-s1-5417980/private-prisons-and-local-jails-are-ramping-up-as-ice-detention-exceeds-capacity
   outlet: NPR
   date: '2025-06-04'
+  tier: 1
 - title: 'Policy Brief - Snapshot of ICE Detention: Inhumane Conditions and Alarming Expansion'
   url: https://immigrantjustice.org/research/policy-brief-snapshot-of-ice-detention-inhumane-conditions-and-alarming-expansion/
   outlet: National Immigrant Justice Center
   date: '2025-07-15'
+  tier: 1
 notes: Deaths included Ge at GEO Group's Moshannon Valley facility and Marie Ange Blaise on April 25. Previous ACLU reports found 95% of ICE detention deaths could have been prevented with adequate medical care. DHS oversight mechanisms have failed to impose meaningful consequences on contractors.
 status: confirmed
 ---

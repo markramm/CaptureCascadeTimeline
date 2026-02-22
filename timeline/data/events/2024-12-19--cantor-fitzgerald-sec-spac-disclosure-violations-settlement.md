@@ -14,14 +14,17 @@ sources:
   url: https://www.sec.gov/news/press-release/2024-172
   date: '2024-12-19'
   outlet: SEC.gov
+  tier: 1
 - title: Cantor Fitzgerald pays $6.75 mn to settle 'misleading' SPAC disclosures
   url: https://www.business-standard.com/world-news/cantor-fitzgerald-pays-6-75-mn-to-settle-misleading-spac-disclosures-124121300111_1.html
   date: '2024-12-12'
   outlet: Business Standard
+  tier: 2
 - title: Cantor Fitzgerald pays $6.75 million to settle SEC charges over misleading SPAC disclosures
   url: https://www.marketscreener.com/quote/stock/SATELLOGIC-INC-132401546/news/Cantor-Fitzgerald-pays-6-75-million-to-settle-SEC-charges-over-misleading-SPAC-disclosures-48583816/
   date: '2024-12-12'
   outlet: MarketScreener
+  tier: 3
 tags:
 - spac-fraud
 - disclosure-violations

@@ -18,6 +18,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Fairness_doctrine
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: Fairness doctrine
@@ -42,14 +43,17 @@ sources:
   outlet: Journal of Health Politics, Policy and Law
   url: https://academic.oup.com/jhppl
   date: '1993-01-01'
+  tier: 1
 - title: 'Insuring the Nation: The Healthcare Battles That Built America'
   outlet: Oxford University Press
   url: https://academic.oup.com
   date: '2012-01-01'
+  tier: 2
 - title: AMA Campaigns Against Universal Health Care
   outlet: Social Welfare History Project
   url: https://socialwelfare.library.vcu.edu/programs/health-care/american-medical-association/
   date: '2024-01-01'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

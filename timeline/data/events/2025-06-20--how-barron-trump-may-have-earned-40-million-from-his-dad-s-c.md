@@ -21,14 +21,17 @@ sources:
   url: https://fortune.com/crypto/2025/06/15/trump-crypto-earnings-world-liberty-financial-meme-coin-nft/
   outlet: Fortune
   date: '2025-06-15'
+  tier: 2
 - title: Trump Family Profits from World Liberty Financial Crypto Venture
   url: https://abcnews.go.com/US/trump-family-profits-launch-world-liberty-financial-crypto/story?id=125179318
   outlet: ABC News
   date: '2025-06-20'
+  tier: 1
 - title: Trump Family Share of World Liberty Crypto Grows to $6 Billion
   url: https://finance.yahoo.com/news/trump-family-share-world-liberty-174943786.html
   outlet: Yahoo Finance
   date: '2025-06-20'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

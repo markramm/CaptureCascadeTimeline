@@ -29,14 +29,17 @@ sources:
   url: https://azmirror.com/2025/05/02/election-certification-trial-pushed-back-pending-judges-decision-on-motion-to-dismiss/
   outlet: Arizona Mirror
   date: '2025-05-02'
+  tier: 2
 - title: As Cochise trial approaches, a judge throws out Arizona's rules for certifying elections
   url: https://www.votebeat.org/arizona/2025/04/28/cochise-county-supervisor-tom-crosby-trial-delaying-election-certification/
   outlet: Votebeat
   date: '2025-04-28'
+  tier: 2
 - title: Cochise County asks insurer to cover indicted supervisor's legal bills in election case
   url: https://www.votebeat.org/arizona/2025/07/11/cochise-county-supervisor-thomas-crosby-2022-election-legal-bills-insurance/
   outlet: Votebeat
   date: '2025-07-11'
----
+
+  tier: 2---
 
 Cochise County Supervisor Thomas Crosby's trial for conspiring to delay the 2022 election certification was pushed back from May to September 2025. Crosby faces felony charges for refusing to certify the county's votes by the legal deadline, risking 47,000 voters' ballots. He has incurred $263,000 in legal fees and seeks $300,000 from the county's insurer. Co-supervisor Peggy Judd pleaded guilty to a misdemeanor. An appeals court ruled Crosby wasn't protected by legislative immunity.

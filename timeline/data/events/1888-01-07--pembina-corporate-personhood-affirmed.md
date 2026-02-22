@@ -12,12 +12,15 @@ sources:
 - title: Pembina Consolidated Silver Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)
   url: https://supreme.justia.com/cases/federal/us/125/181/
   outlet: Justia U.S. Supreme Court Center
+  tier: 1
 - title: 'U.S. Reports: Pembina Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)'
   url: https://www.loc.gov/item/usrep125181/
   outlet: Library of Congress
+  tier: 1
 - title: Pembina Consolidated Silver Mining & Milling Co. v. Commonwealth of Pennsylvania - Case Brief
   url: https://www.quimbee.com/cases/pembina-consolidated-silver-mining-milling-co-v-commonwealth-of-pennsylvania
   outlet: Quimbee
+  tier: 2
 tags:
 - corporate-personhood
 - supreme-court

@@ -13,14 +13,17 @@ sources:
   url: https://www.sec.gov/news/press-release/2021-267
   date: '2021-12-21'
   outlet: SEC
+  tier: 1
 - title: Nikola Corp. agrees to pay $125 million penalty to SEC
   url: https://www.teslarati.com/nikola-corp-125-million-sec-penalty-trevor-milton/
   date: '2021-12-21'
   outlet: Teslarati
+  tier: 3
 - title: Nikola Bankruptcy Strands SEC's $80 Million Claim Atop List of Unpaid Bills
   url: https://www.bloomberg.com/news/articles/2025-02-20/nikola-bankruptcy-strands-sec-s-80-million-claim-atop-list-of-unpaid-bills
   date: '2025-02-20'
   outlet: Bloomberg
+  tier: 1
 tags:
 - spac-fraud
 - electric-vehicles

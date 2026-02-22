@@ -26,14 +26,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-01-10/greenland-eyes-benefits-in-trump-s-proposed-land-grab
   outlet: Bloomberg
   date: '2025-01-10'
+  tier: 1
 - title: Trump's Persistent Greenland Strategy Raises Ethical Questions
   url: https://www.npr.org/2025/01/07/nx-s1-5251168/trump-greenland
   outlet: NPR
   date: '2025-01-07'
+  tier: 1
 - title: Trump Donors Eye Potential Bonanza
   url: https://www.theguardian.com/us-news/2025/apr/15/trump-greenland-donors-investors-finance
   outlet: The Guardian
   date: '2025-04-15'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

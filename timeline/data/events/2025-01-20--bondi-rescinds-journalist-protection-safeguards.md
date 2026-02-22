@@ -11,12 +11,15 @@ sources:
 - title: The Trump administration spied on journalists. The Biden administration defended it.
   url: https://www.cjr.org/the_media_today/trump_washington_post_surveillance_biden.php
   outlet: Columbia Journalism Review
+  tier: 2
 - title: Justice Department revokes Biden-era protections for reporters in leak investigations
   url: https://www.npr.org/2025/04/25/nx-s1-5377624/pam-bondi-reporters-subpoena-leaks
   outlet: NPR
+  tier: 1
 - title: 'Special analysis: DOJ rescinds Biden-era news media guidelines'
   url: https://www.rcfp.org/doj-rescinds-news-media-guidelines-analysis/
   outlet: Reporters Committee for Freedom of the Press
+  tier: 2
 importance: 9
 tags:
 - pam-bondi

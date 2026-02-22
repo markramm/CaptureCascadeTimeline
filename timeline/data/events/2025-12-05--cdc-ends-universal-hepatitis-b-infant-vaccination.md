@@ -9,7 +9,7 @@ actors:
 - Robert F. Kennedy Jr.
 - Advisory Committee on Immunization Practices
 - American Academy of Pediatrics
-- Jim O'Neill
+- 'Jim O''Neill'
 - Dr. Susan Kressly
 - Dr. Cody Meissner
 tags:
@@ -25,40 +25,45 @@ capture_lanes:
 - Regulatory Capture
 - Federal Workforce Capture
 sources:
-- title: CDC's ACIP changes recommendations for hepatitis B vaccination for infants
-  url: https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting
+- title: 'CDC''s ACIP changes recommendations for hepatitis B vaccination for infants'
+  url: 'https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting'
   outlet: NPR
   date: '2025-12-05'
+  tier: 1
   archive_url: null
 - title: CDC panel recommends delaying birth dose of hepatitis B vaccine
-  url: https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/
+  url: 'https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/'
   outlet: STAT News
   date: '2025-12-05'
   archive_url: null
-- title: Fact-checking the CDC panel's reasons for dropping universal newborn hepatitis B vaccine recommendation
-  url: https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation
+  tier: 1
+- title: 'Fact-checking the CDC panel''s reasons for dropping universal newborn hepatitis B vaccine recommendation'
+  url: 'https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation'
   outlet: PBS NewsHour
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns
-  url: https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/
+  url: 'https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/'
   outlet: CBS News
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: CDC advisory panel rolls back hepatitis B vaccine guidelines
-  url: https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482
+  url: 'https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482'
   outlet: NBC News
   date: '2025-12-05'
   archive_url: null
+  tier: 1
 - title: ACIP Recommends Individual-Based Decision-Making for Hepatitis B Vaccine for Infants
-  url: https://www.cdc.gov/media/releases/2025/2025-acip-recommends-individual-based-decision-making-for-hepatitis-b-vaccine-for-infants-born-to-women.html
+  url: 'https://www.cdc.gov/media/releases/2025/2025-acip-recommends-individual-based-decision-making-for-hepatitis-b-vaccine-for-infants-born-to-women.html'
   outlet: CDC
   date: '2025-12-05'
   archive_url: null
-notes: Most extreme public health rollback yet. AAP, ACP, Infectious Diseases Society of America, and dozens of other medical organizations denounced the change. AAP told members to ignore ACIP vote and continue vaccinating all newborns. Previous policy in place for 34 years reduced hepatitis B infections in children by 99%.
+  tier: 1
+notes: 'Most extreme public health rollback yet. AAP, ACP, Infectious Diseases Society of America, and dozens of other medical organizations denounced the change. AAP told members to ignore ACIP vote and continue vaccinating all newborns. Previous policy in place for 34 years reduced hepatitis B infections in children by 99%.'
 status: confirmed
 ---
-
 The CDC's Advisory Committee on Immunization Practices (ACIP) votes 8-3 to end the universal recommendation that all newborns receive hepatitis B vaccination at birth, reversing a 34-year policy that reduced pediatric hepatitis B infections by 99%. The committee, entirely reconstituted by HHS Secretary Robert F. Kennedy Jr. after he fired all 17 sitting members in June 2025, recommends "individual-based decision-making" for infants born to mothers who test negative for the virus, with delayed vaccination until at least 2 months of age.
 
 The policy change represents the most significant rollback of childhood vaccination recommendations in modern U.S. public health history. Before universal birth-dose vaccination began in 1991, approximately 20,000 newborns contracted hepatitis B annually; that number has fallen to fewer than 20 per year. Medical data shows that 90% of infants infected with hepatitis B develop chronic infection, with approximately 25% dying prematurely from liver complications including cirrhosis and liver cancer.

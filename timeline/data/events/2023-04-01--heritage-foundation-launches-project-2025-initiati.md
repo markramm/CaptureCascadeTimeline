@@ -3,7 +3,7 @@ id: 2023-04-01--heritage-foundation-launches-project-2025-initiati
 date: '2023-04-01'
 importance: 8
 title: Heritage Foundation launches Project 2025 initiative
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Heritage Foundation
 - Kevin Roberts
@@ -24,23 +24,27 @@ capture_lanes:
 - Executive Power Expansion
 sources:
 - title: Project 2025 Implementation Analysis
-  url: https://www.heritage.org/project2025
+  url: 'https://www.heritage.org/project2025'
   outlet: Heritage Foundation
   date: '2023-04-01'
-  archive_url: https://web.archive.org/web/20240701000000/https://www.heritage.org/project2025
-- title: Project 2025, Explained
-  url: https://www.aclu.org/project-2025-explained
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20240701000000/https://www.heritage.org/project2025'
+- title: 'Project 2025, Explained'
+  url: 'https://www.aclu.org/project-2025-explained'
   outlet: ACLU
   date: '2024-07-01'
+  tier: 1
 - title: What is Project 2025? What to know about the conservative blueprint for a second Trump administration
-  url: https://www.cbsnews.com/news/what-is-project-2025-trump-conservative-blueprint-heritage-foundation/
+  url: 'https://www.cbsnews.com/news/what-is-project-2025-trump-conservative-blueprint-heritage-foundation/'
   outlet: CBS News
   date: '2024-07-09'
+  tier: 1
 - title: New Trump Administration Packed with Project 2025 Architects
-  url: https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/
+  url: 'https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/'
   outlet: AFGE
   date: '2025-01-21'
-notes: Most comprehensive conservative governing blueprint in modern history. Despite Trump distancing himself during campaign, after winning 2024 election he nominated several Project 2025 architects to positions. Four days into second term, Time found nearly two-thirds of Trump's executive actions "mirror or partially mirror" Project 2025 proposals. CNN found 36 of 53 first-week orders matched Heritage Foundation's brief.
+  tier: 2
+notes: 'Most comprehensive conservative governing blueprint in modern history. Despite Trump distancing himself during campaign, after winning 2024 election he nominated several Project 2025 architects to positions. Four days into second term, Time found nearly two-thirds of Trump''s executive actions "mirror or partially mirror" Project 2025 proposals. CNN found 36 of 53 first-week orders matched Heritage Foundation''s brief.'
 monitoring_status: active
 followup_schedule: monthly
 search_keywords:
@@ -67,5 +71,4 @@ fallout_indicators:
 - constitutional crisis
 status: confirmed
 ---
-
 Heritage Foundation launched $22 million "2025 Presidential Transition Project" published April 2023, bringing together 140+ former Trump staffers and 100+ conservative organizations. Created 920-page "Mandate for Leadership" blueprint, LinkedIn-style personnel database, Presidential Administration Academy training, and 180-day action playbook. Authors include Trump officials Russ Vought (OMB), Chris Miller (Defense), and Stephen Miller.

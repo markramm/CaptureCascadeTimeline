@@ -23,18 +23,22 @@ sources:
   url: https://www.pogo.org/investigations/private-prison-giant-hired-ice-detention-chief
   outlet: Project on Government Oversight
   date: '2024-11-15'
+  tier: 1
 - title: Revolving door between ICE and private prison companies is boosting Trump deportation plans
   url: https://www.yahoo.com/news/articles/revolving-door-between-ice-private-232739971.html
   outlet: Yahoo News
   date: '2024-11-20'
+  tier: 2
 - title: Jayapal Calls for Investigation of ICE Detention Centers and Contracts
   url: https://jayapal.house.gov/2025/09/25/jayapal-calls-for-investigation-of-ice-detention-centers-and-contracts/
   outlet: Office of Rep. Pramila Jayapal
   date: '2025-09-25'
+  tier: 1
 - title: Ethics Disclosure for Senior Government Official's Private Sector Transition
   url: https://www.ice.gov/doclib/leadership/bio/danielBible.pdf
   outlet: ICE Leadership Biographies
   date: '2024-10-17'
+  tier: 1
 notes: As of 2023, funding from ICE makes up nearly half of GEO Group's total revenue. The revolving door pattern includes 2017 Deputy Director Daniel Ragsdale and 2022 hire Matthew Albence, who led ICE during Trump's first term.
 status: confirmed
 ---

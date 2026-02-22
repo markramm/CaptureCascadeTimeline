@@ -24,18 +24,22 @@ sources:
   url: https://www.cnbc.com/2018/08/03/saudi-guests-boosted-revenue-at-trumps-new-york-hotel-reversing-drop.html
   outlet: CNBC
   date: '2018-08-03'
+  tier: 2
 - title: How the Saudis' Khashoggi Story Changed
   url: https://www.nytimes.com/2018/10/20/world/middleeast/saudi-khashoggi-crisis.html
   outlet: The New York Times
   date: '2018-10-20'
+  tier: 1
 - title: 'This Week in Conflicts: Saudi-Funded Lobbyists Pay for Rooms at Trump Hotel'
   url: https://sunlightfoundation.com/2018/12/07/this-week-in-conflicts-saudi-funded-lobbyists-pay-for-rooms-at-trump-hotel-trump-jr-s-lettuce-company-and-subpoenas-issued-in-emoluments-lawsuit/
   outlet: Sunlight Foundation
   date: '2018-12-07'
+  tier: 1
 - title: Thanks to Saudis, Revenue for Trump's New York Hotel Goes up After Years of Decline
   url: https://www.newsweek.com/saudi-arabia-increase-trump-hotel-revenue-1057255
   outlet: Newsweek
   date: '2018-03-01'
+  tier: 2
 notes: "The timing of these payments is critical - the Saudi government was funneling money \nto Trump's business while orchestrating the murder of a Washington Post journalist \nand U.S. resident. Trump's subsequent defense of MBS despite CIA conclusions about \nhis role in the murder demonstrates how foreign payments may have influenced U.S. \nforeign policy decisions. Trump repeatedly cited Saudi economic ties when defending \nthe kingdom.\n"
 related_events:
 - 2016-12-01--saudi-lobbyists-book-500-trump-hotel-rooms

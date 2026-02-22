@@ -19,25 +19,28 @@ tags:
 sources:
 - outlet: TIME
   title: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge
-  url: https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/
+  url: 'https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/'
   date: '2025-08-29'
+  tier: 1
 - outlet: Government of the United Kingdom
   title: AI Safety Institute Overview
-  url: https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute
+  url: 'https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute'
   date: '2024-02-01'
+  tier: 1
 - outlet: Fortune
-  title: British Lawmakers Accuse Google DeepMind of 'Breach of Trust' Over Delayed Gemini 2.5 Pro Safety Report
-  url: https://fortune.com/2025/08/29/british-lawmakers-accuse-google-deepmind-of-breach-of-trust-over-delayed-gemini-2-5-pro-safety-report/
+  title: 'British Lawmakers Accuse Google DeepMind of ''Breach of Trust'' Over Delayed Gemini 2.5 Pro Safety Report'
+  url: 'https://fortune.com/2025/08/29/british-lawmakers-accuse-google-deepmind-of-breach-of-trust-over-delayed-gemini-2-5-pro-safety-report/'
   date: '2025-08-29'
+  tier: 2
 - outlet: MLex
   title: Google DeepMind Accused of Breaking AI Safety Commitments by UK Lawmakers
-  url: https://www.mlex.com/mlex/artificial-intelligence/articles/2382751/google-deepmind-accused-of-breaking-ai-safety-commitments-by-uk-lawmakers
+  url: 'https://www.mlex.com/mlex/artificial-intelligence/articles/2382751/google-deepmind-accused-of-breaking-ai-safety-commitments-by-uk-lawmakers'
   date: '2024-03-25'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 Sixty U.K. lawmakers accused Google DeepMind of violating international AI safety commitments by releasing Gemini 2.5 Pro without comprehensive public safety disclosures. The allegations center on Google's failure to 'publicly report' system capabilities and risk assessments as pledged at a February 2024 international AI summit co-hosted by the U.K. and South Korea.
 
 Key concerns include:

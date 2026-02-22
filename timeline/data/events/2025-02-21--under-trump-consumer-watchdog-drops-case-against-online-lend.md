@@ -22,14 +22,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-02-22/cfpb-agrees-to-drop-case-against-solo-funds-as-agency-cuts-back
   date: '2025-02-22'
   outlet: Bloomberg
+  tier: 1
 - title: CFPB Dismisses Lawsuit Against Lending Platform Solo Funds | American Banker
   url: https://www.americanbanker.com/news/cfpb-dismisses-lawsuit-against-lending-platform-solo-funds
   date: '2025-02-24'
   outlet: American Banker
+  tier: 2
 - title: Predatory Fintechs Score as Trump-Musk CFPB Caves on Lawsuit | Americans for Financial Reform
   url: https://ourfinancialsecurity.org/2025/02/blog-predatory-fintechs-score-as-trump-musk-cfpb-caves-on-lawsuit/
   date: '2025-02-25'
   outlet: Americans for Financial Reform
+  tier: 2
 connections:
 - Project 2025
 - CFPB Transformation

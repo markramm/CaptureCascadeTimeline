@@ -22,6 +22,7 @@ sources:
   url: https://americanarchive.org/primary_source_sets/watergate/3-512-251fj2b06r
   outlet: American Archive
   date: '2024'
+  tier: 2
   verified: true
   tier: 2
 - title: 'Watergate: How John Dean Helped Bring Down Nixon'
@@ -39,12 +40,15 @@ sources:
 - title: Ut Sit Apostolic Constitution
   url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19821128_ut-sit.html
   outlet: Vatican
+  tier: 1
 - title: Opus Dei Prelature Status
   url: https://opusdei.org/en/article/personal-prelature/
   outlet: Opus Dei Official
+  tier: 2
 - title: 'Opus Dei: History and Canonical Status'
   url: https://www.britannica.com/topic/Opus-Dei
   outlet: Britannica Encyclopedia
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

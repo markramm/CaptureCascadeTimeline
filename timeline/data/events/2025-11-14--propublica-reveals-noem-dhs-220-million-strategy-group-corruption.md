@@ -29,18 +29,22 @@ sources:
   url: https://www.propublica.org/article/kristi-noem-dhs-ad-campaign-strategy-group
   outlet: ProPublica
   date: '2025-11-14'
+  tier: 1
 - title: Bombshell Report Claims ICE Barbie's Friend Cashed in on 'Corrupt' $200M Secret Deal
   url: https://www.thedailybeast.com/bombshell-report-claims-ice-barbies-friend-cashed-in-on-corrupt-200m-secret-deal/
   outlet: The Daily Beast
   date: '2025-11-15'
+  tier: 2
 - title: Firm Tied to Kristi Noem Secretly Got Money From $220 Million DHS Ad Contracts
   url: https://www.dcreport.org/2025/11/14/kristi-noem-dhs-ad-contracts-ethics/
   outlet: DCReport
   date: '2025-11-14'
+  tier: 2
 - title: Kristi Noem-linked firm secretly got money from $220 million DHS ad contracts
   url: https://www.salon.com/2025/11/15/kristi-noem-linked-firm-secretly-got-money-from-220-million-dhs-ad-contracts_partner/
   outlet: Salon
   date: '2025-11-15'
+  tier: 2
 connections:
 - DHS Awards $200 Million Ad Contract to Republican Firms Without Full Competitive Bidding (2025-03-11)
 - Kristi Noem Secretly Took $80,000 from Dark Money Group Without Disclosure (2025-06-30)

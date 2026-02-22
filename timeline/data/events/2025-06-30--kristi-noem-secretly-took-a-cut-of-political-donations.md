@@ -1,14 +1,11 @@
 ---
 id: 2025-06-30--kristi-noem-secretly-took-a-cut-of-political-donations
 date: '2025-06-30'
-title: Kristi Noem Secretly Took $80,000 from Dark Money Group Without Disclosure
-description: ProPublica investigation reveals Kristi Noem's personal LLC received
-  $80,000 from a dark money nonprofit while she was governor of South Dakota, which
-  was not disclosed on federal ethics forms, raising significant concerns about financial
-  transparency and potential ethics violations.
+title: 'Kristi Noem Secretly Took $80,000 from Dark Money Group Without Disclosure'
+description: 'ProPublica investigation reveals Kristi Noem''s personal LLC received $80,000 from a dark money nonprofit while she was governor of South Dakota, which was not disclosed on federal ethics forms, raising significant concerns about financial transparency and potential ethics violations.'
 status: confirmed
 importance: 7
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Kristi Noem
 - Trevor Stanley
@@ -21,33 +18,33 @@ tags:
 capture_type: regulatory_capture
 sources:
 - title: Kristi Noem Secretly Took Personal Cut of Political Donations
-  url: https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics
+  url: 'https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics'
   outlet: ProPublica
   date: '2025-06-30'
+  tier: 1
 - title: ProPublica Investigation Finds Kristi Noem Secretly Took a Cut of Political
-    Donations
-  url: https://www.democracynow.org/2025/7/1/headlines/propublica_investigation_finds_kristi_noem_secretly_took_a_cut_of_political_donations
-  outlet: Democracy Now!
+  tier: 1
+  url: 'https://www.democracynow.org/2025/7/1/headlines/propublica_investigation_finds_kristi_noem_secretly_took_a_cut_of_political_donations'
+  outlet: 'Democracy Now!'
   date: '2025-07-01'
-- title: 'Kristi Noem secretly accepted huge sum of money from mystery donor - then
-    failed to declare it: report'
-  url: https://www.yahoo.com/news/kristi-noem-secretly-accepted-huge-152942068.html
+- title: 'Kristi Noem secretly accepted huge sum of money from mystery donor - then failed to declare it: report'
+  url: 'https://www.yahoo.com/news/kristi-noem-secretly-accepted-huge-152942068.html'
   outlet: Yahoo News
   date: '2025-07-01'
+  tier: 2
 - title: Kristi Noem Accused of Secretly Taking a Cut of Political Donations
-  url: https://www.thedailybeast.com/kristi-noem-accused-of-secretly-taking-a-cut-of-political-donations/
+  url: 'https://www.thedailybeast.com/kristi-noem-accused-of-secretly-taking-a-cut-of-political-donations/'
   outlet: The Daily Beast
   date: '2025-07-02'
+  tier: 2
 connections:
 - Trump Administration DHS Secretary Appointment
 patterns:
 - kleptocratic-capture
 - dark-money-networks
-notes: The payment of $80,000 was not disclosed on federal ethics forms, a potential
-  violation of transparency requirements.
+notes: 'The payment of $80,000 was not disclosed on federal ethics forms, a potential violation of transparency requirements.'
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-
 While serving as governor of South Dakota, Kristi Noem received $80,000 from a dark money nonprofit called American Resolve Policy Fund to her personal LLC, Ashwood Strategies, which she failed to disclose on federal ethics forms before her confirmation as DHS Secretary. The payment structure involves a 10% fundraising fee, raising significant ethical concerns about financial transparency.

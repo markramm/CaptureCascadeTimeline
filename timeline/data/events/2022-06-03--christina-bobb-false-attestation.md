@@ -17,25 +17,23 @@ tags:
 status: confirmed
 sources:
 - title: Trump lawyer claimed no classified material was at Mar-a-Lago in signed letter
-    to Justice Department
-  url: https://www.cnn.com/2022/08/13/politics/trump-attorney-classified-documents-mar-a-lago-search/index.html
+  tier: 1
+  url: 'https://www.cnn.com/2022/08/13/politics/trump-attorney-classified-documents-mar-a-lago-search/index.html'
   outlet: CNN
   date: '2022-08-13'
-- title: 'Christina Bobb and Evan Corcoran: Trump''s attorneys face scrutiny over
-    level of cooperation'
-  url: https://www.cnn.com/2022/08/31/politics/christina-bobb-evan-corcoran/index.html
+- title: 'Christina Bobb and Evan Corcoran: Trump''s attorneys face scrutiny over level of cooperation'
+  url: 'https://www.cnn.com/2022/08/31/politics/christina-bobb-evan-corcoran/index.html'
   outlet: CNN
   date: '2022-08-31'
-- title: Trump lawyer Christina Bobb speaks to federal investigators in Mar-a-Lago
-    case
-  url: https://www.nbcnews.com/politics/donald-trump/trump-lawyer-christina-bobb-speaks-federal-investigators-mar-lago-case-rcna51459
+  tier: 1
+- title: Trump lawyer Christina Bobb speaks to federal investigators in Mar-a-Lago case
+  url: 'https://www.nbcnews.com/politics/donald-trump/trump-lawyer-christina-bobb-speaks-federal-investigators-mar-lago-case-rcna51459'
   outlet: NBC News
   date: '2022-10-10'
-notes: 'Bobb told investigators that Corcoran drafted the statement and told her to
-  sign it. She
+  tier: 1
+notes: 'Bobb told investigators that Corcoran drafted the statement and told her to sign it. She
 
-  later cooperated with federal investigators. The FBI''s August search recovered
-  documents
+  later cooperated with federal investigators. The FBI''s August search recovered documents
 
   in a matter of hours that Trump''s team claimed didn''t exist after "weeks" of diligent
 
@@ -43,7 +41,6 @@ notes: 'Bobb told investigators that Corcoran drafted the statement and told her
 capture_lanes:
 - Intelligence Penetration
 ---
-
 Trump attorney Christina Bobb signed a certification stating that all classified documents
 requested by the May 11 grand jury subpoena had been returned to the government. The
 attestation, drafted by Evan Corcoran, proved false when the FBI found 103 additional

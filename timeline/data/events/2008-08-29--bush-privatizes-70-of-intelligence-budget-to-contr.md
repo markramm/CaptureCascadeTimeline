@@ -23,14 +23,17 @@ sources:
   url: https://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/
   outlet: The Washington Post
   date: '2013-08-29'
+  tier: 1
 - title: Private contractors play key role in U.S. intelligence work
   url: https://www.seattletimes.com/nation-world/private-contractors-play-key-role-in-us-intelligence-work/
   outlet: Seattle Times
   date: '2013-06-10'
+  tier: 2
 - title: Intelligence Community Contractor Inventory
   url: https://www.dni.gov/files/documents/ODNI_A_to_Z.pdf
   outlet: Office of Director of National Intelligence
   date: '2008-08-27'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

@@ -17,21 +17,23 @@ tags:
 - americans-for-prosperity
 - freedom-partners
 sources:
-- title: The Koch Brothers' Political Network Spent $400 Million in 2012
-  url: https://www.motherjones.com/politics/2013/02/koch-brothers-400-million-2012-election/
+- title: 'The Koch Brothers'' Political Network Spent $400 Million in 2012'
+  url: 'https://www.motherjones.com/politics/2013/02/koch-brothers-400-million-2012-election/'
   outlet: Mother Jones
   date: '2013-02-05'
+  tier: 1
 - date: '2014-01-05'
   outlet: ProPublica
   title: How Dark Money Flows Through the Koch Network
-  url: https://projects.propublica.org/graphics/koch
+  url: 'https://projects.propublica.org/graphics/koch'
+  tier: 1
 - date: '2013-02-05'
   outlet: Center for Responsive Politics
   title: Koch Network 2012 Election Spending Breakdown
-  url: https://www.opensecrets.org/news/2013/02/koch-network-2012-election-spending
+  url: 'https://www.opensecrets.org/news/2013/02/koch-network-2012-election-spending'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
 ---
-
 The Koch brothers coordinated an extensive political donor network in the 2012 election cycle, spending approximately $407 million through multiple nonprofit organizations. Freedom Partners Chamber of Commerce emerged as the primary funding vehicle, distributing $250 million to 30 different nonprofits. Key recipients included Americans for Prosperity, which received $32.3 million, and the Center to Protect Patient Rights, which funneled millions to various dark money groups. This sophisticated funding mechanism allowed the Koch network to significantly influence the 2012 election while largely operating outside traditional campaign finance reporting requirements.

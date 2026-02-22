@@ -11,19 +11,23 @@ sources:
 - title: Pardons for ex-Confederates
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Pardons_for_ex-Confederates
+  tier: 2
   year: 2024
 - title: 'May 29, 1865: Proclamation Pardoning Persons who Participated in the Rebellion'
   outlet: Miller Center
   url: https://millercenter.org/the-presidency/presidential-speeches/may-29-1865-proclamation-pardoning-persons-who-participated
   year: 2024
+  tier: 1
 - title: Andrew Johnson and Reconstruction
   outlet: National Park Service
   url: https://www.nps.gov/anjo/andrew-johnson-and-reconstruction.htm
   year: 2024
+  tier: 1
 - title: Andrew Johnson Issues "Christmas Amnesty" Pardoning Former Confederates for Treason
   outlet: The Reconstruction Era
   url: https://thereconstructionera.com/andrew-johnson-issues-christmas-amnesty-pardoning-former-confederates-for-treason-on-dec-25-1868/
   year: 2024
+  tier: 2
 tags:
 - reconstruction-sabotage
 - institutional-capture

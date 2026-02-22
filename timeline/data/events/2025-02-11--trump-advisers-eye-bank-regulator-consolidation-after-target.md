@@ -25,14 +25,17 @@ sources:
   url: https://www.nascus.org/2025/02/14/white-house-weighs-folding-fdic-into-other-agencies/
   outlet: NASCUS
   date: '2025-02-14'
+  tier: 2
 - title: Trump Gets Ready to Move Bank Regulators After Workforce Purge
   url: https://news.bloomberglaw.com/banking-law/trump-gets-ready-to-move-bank-regulators-after-workforce-purge
   outlet: Bloomberg Law
   date: '2025-02-11'
+  tier: 2
 - title: White House Weighs Folding FDIC Into Other Agencies
   url: https://www.pymnts.com/news/regulation/2025/white-house-weighs-folding-fdic-into-other-agencies/
   outlet: PYMNTS
   date: '2025-02-14'
+  tier: 2
 connections:
 - CFPB workforce reduction
 - Banking regulation consolidation

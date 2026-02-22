@@ -10,14 +10,17 @@ actors:
 - Democracy Forward
 sources:
 - title: Rapid Response Litigation Protocol Report
-  url: https://constitutionaldefense.org/rapid-response-protocol
+  url: 'https://constitutionaldefense.org/rapid-response-protocol'
   outlet: Legal Innovation Quarterly
+  tier: 2
 - outlet: Lawyers for Good Government
-  title: L4GG's Strategic Response to Constitutional Challenges
-  url: https://www.lawyersforgoodgovernment.org/blog/2025/2/5/l4ggs-strategic-response-to-constitutional-challenges
+  title: 'L4GG''s Strategic Response to Constitutional Challenges'
+  url: 'https://www.lawyersforgoodgovernment.org/blog/2025/2/5/l4ggs-strategic-response-to-constitutional-challenges'
+  tier: 2
 - outlet: PRRAC
   title: The Upcoming Legal Resistance to Project 2025 and the Second Trump Administration
-  url: https://www.prrac.org/the-upcoming-legal-resistance-to-project-2025-and-the-second-trump-administration/
+  url: 'https://www.prrac.org/the-upcoming-legal-resistance-to-project-2025-and-the-second-trump-administration/'
+  tier: 2
 tags:
 - rapid-response
 - legal-strategy
@@ -26,9 +29,8 @@ tags:
 - civil-liberties
 status: confirmed
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Regulatory Capture
 - Democratic Erosion
 ---
-
 Legal resistance networks, including Lawyers for Good Government (L4GG) and Democracy Forward, establish a comprehensive rapid response protocol for challenging unconstitutional administrative actions. The protocol includes 24-hour emergency legal review, pre-prepared litigation templates, and a coordinated media strategy to support constitutional challenges. Key focus areas include defending federal funding, protecting immigrant rights, challenging mass deportations, and preserving civil liberties.

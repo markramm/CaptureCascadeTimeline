@@ -24,14 +24,17 @@ sources:
   url: https://www.reuters.com/world/us/trump-mobile-wants-sell-you-telehealth-car-care-insurance-2025-07-31/
   outlet: Reuters
   date: '2025-07-31'
+  tier: 1
 - title: What to know about Trump Mobile, the Trump Organization's new phone plan
   url: https://abcnews.go.com/Business/trump-mobile-trump-organizations-new-phone-plan/story?id=122892797
   outlet: ABC News
   date: '2025-07-31'
+  tier: 1
 - title: 'The Trump family announces its newest business venture: a mobile phone service'
   url: https://www.pbs.org/newshour/politics/the-trump-family-announces-its-newest-business-venture-a-mobile-phone-service
   outlet: PBS News
   date: '2025-07-31'
+  tier: 1
 connections:
 - Trump Organization
 - Liberty Mobile

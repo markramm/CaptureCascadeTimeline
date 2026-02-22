@@ -14,12 +14,15 @@ sources:
 - outlet: IMF
   title: Recovery from the Asian Crisis and the Role of the IMF
   url: https://www.imf.org/external/np/exr/ib/2000/062300.htm
+  tier: 1
 - outlet: IMF
   title: 'IMF Press Release: Stand-By Credit for Indonesia'
   url: https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr9750
+  tier: 1
 - outlet: Congressional Research Service
   title: The 1997-98 Asian Financial Crisis
   url: https://sgp.fas.org/crs/row/crs-asia2.htm
+  tier: 1
 tags:
 - asian-financial-crisis
 - imf-intervention

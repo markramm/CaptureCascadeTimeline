@@ -25,14 +25,17 @@ sources:
   url: https://www.usatoday.com/story/news/politics/2025/08/04/donald-trump-jr-eric-trump-manufacturing-spac-crypto/85510237007/
   outlet: USA Today
   date: '2025-08-04'
+  tier: 2
 - title: Manufacturing-focused SPAC backed by Trump brothers seeks $300M IPO
   url: https://www.manufacturingdive.com/news/manufacturing-spac-backed-trump-brothers-seeks-300-million-ipo/757442/
   outlet: Manufacturing Dive
   date: '2025-08-04'
+  tier: 3
 - title: Trump Sons Back $300 Million SPAC Aimed At 'Revitalizing Domestic Manufacturing'
   url: https://www.benzinga.com/markets/macro-economic-events/25/08/46849303/trump-sons-back-300-million-spac-aimed-at-revitalizing-us-manufacturing-boosting-critical-supply-chains
   outlet: Benzinga
   date: '2025-08-04'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

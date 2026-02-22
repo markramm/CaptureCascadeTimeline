@@ -20,14 +20,17 @@ sources:
   url: https://www.npr.org/2022/11/18/1137736663/special-counsel-trump-justice-department-jan-6-mar-a-lago
   outlet: NPR
   date: '2022-11-18'
+  tier: 1
 - title: Attorney General Merrick Garland names Jack Smith special counsel in Trump criminal probes
   url: https://www.cnbc.com/2022/11/18/attorney-general-merrick-garland-to-name-special-counsel-in-trump-criminal-probe-report-says.html
   outlet: CNBC
   date: '2022-11-18'
+  tier: 2
 - title: Merrick Garland names special counsel for Trump, Jan. 6 investigations
   url: https://www.washingtonpost.com/national-security/2022/11/18/justice-trump-garland-special-counsel/
   outlet: The Washington Post
   date: '2022-11-18'
+  tier: 1
 notes: 'Garland cited "extraordinary circumstances" including Trump''s presidential candidacy and
 
   Biden''s stated intention to run. Smith previously led DOJ''s Public Integrity Section

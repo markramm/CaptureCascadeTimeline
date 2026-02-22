@@ -9,12 +9,15 @@ sources:
 - outlet: Princeton Alumni Weekly
   title: 'Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn'
   url: https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57
+  tier: 1
 - outlet: Wikipedia
   title: Carl Icahn - Corporate Raiding and TWA Takeover
   url: https://en.wikipedia.org/wiki/Carl_Icahn
+  tier: 2
 - outlet: Britannica Money
   title: Carl Icahn Biography and Corporate Strategies
   url: https://www.britannica.com/money/Carl-C-Icahn
+  tier: 1
 importance: 9
 tags:
 - corporate-raiding

@@ -18,14 +18,17 @@ sources:
   url: https://www.sourcewatch.org/index.php?title=Citizens_for_a_Sound_Economy
   outlet: SourceWatch
   date: '2004-07-22'
+  tier: 2
 - title: Koch Network Organizational Transformation
   url: https://www.influencewatch.org/non-profit/americans-for-prosperity/
   outlet: InfluenceWatch
   date: '2004-07-22'
+  tier: 2
 - title: 'Climate Deniers and Front Groups: CSE''s Evolution'
   url: https://www.greenpeace.org/usa/fighting-climate-chaos/climate-deniers/front-groups/citizens-for-a-sound-economy-now-freedomworks/
   outlet: Greenpeace
   date: '2004-07-22'
+  tier: 2
 importance: 9
 tags:
 - regulatory-capture

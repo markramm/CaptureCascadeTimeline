@@ -24,14 +24,17 @@ sources:
   url: https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/
   outlet: American Immigration Council
   date: '2025-06-13'
+  tier: 2
 - title: Democrats demand details from Palantir on federal contracts after Social Security, IRS report
   url: https://thehill.com/policy/technology/5355388-democrats-request-data-from-palantir/
   outlet: The Hill
   date: '2025-06-14'
+  tier: 2
 - title: Democrats push Palantir for answers on reports of IRS 'mega-database'
   url: https://fedscoop.com/palantir-irs-mega-database-democrats-letter/
   outlet: FedScoop
   date: '2025-06-15'
+  tier: 2
 notes: The Trump administration spent $113 million on Palantir contracts with DHS and Pentagon by May 2025, plus $795 million with DOD. Between 2020-2024, Palantir received $228-542 million annually in government contracts. The data integration violates privacy laws designed to keep tax and immigration records separate.
 status: confirmed
 ---

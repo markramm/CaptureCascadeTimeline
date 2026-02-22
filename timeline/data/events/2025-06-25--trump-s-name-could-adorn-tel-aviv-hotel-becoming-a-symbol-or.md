@@ -21,14 +21,17 @@ sources:
   url: https://www.nytimes.com/2025/06/25/us/politics/israel-hotel-trump-destination-target.html
   outlet: The New York Times
   date: '2025-06-25'
+  tier: 1
 - title: Trump Org said looking to resume talks for Israel hotel properties when war is over
   url: https://www.timesofisrael.com/trump-org-said-looking-to-resume-talks-for-israel-hotel-properties-when-war-is-over/
   outlet: The Times of Israel
   date: '2025-07-15'
+  tier: 2
 - title: Donald Trump planned Israeli hotel chain, paused by October 7
   url: https://www.jpost.com/israel-news/article-824495
   outlet: The Jerusalem Post
   date: '2025-08-10'
+  tier: 2
 connections:
 - Trump Middle East Property Deals
 - Trump Organization International Expansion

@@ -23,18 +23,22 @@ sources:
   url: https://www.ftc.gov/news-events/news/press-releases/2007/12/federal-trade-commission-closes-googledoubleclick-investigation
   outlet: Federal Trade Commission
   date: '2007-12-20'
+  tier: 1
 - title: Google Finalizes $3.1 Billion DoubleClick Acquisition
   url: https://www.informationweek.com/it-sectors/google-finalizes-3-1-billion-doubleclick-acquisition
   outlet: InformationWeek
   date: '2008-04-13'
+  tier: 2
 - title: FTC OKs Google's $3.1 billion DoubleClick buy
   url: https://www.nbcnews.com/id/wbna22341749
   outlet: NBC News
   date: '2007-12-20'
+  tier: 1
 - title: 'Google''s DoubleClick Acquisition: A Case Study Highlighting the Conglomerate Merger Blind Spot'
   url: https://scl-llp.com/googles-doubleclick-acquisition-a-case-study-highlighting-the-conglomerate-merger-blind-spot-in-u-s-antitrust-enforcement/
   outlet: Shinder Cantor Lerner
   date: '2020-01-15'
+  tier: 2
 status: confirmed
 id: 2008-04-13--google-acquires-doubleclick-advertising
 capture_lanes:

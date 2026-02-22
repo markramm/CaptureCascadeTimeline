@@ -20,18 +20,22 @@ sources:
   url: https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption
   outlet: U.S. Senator Richard Blumenthal
   date: '2025-05-06'
+  tier: 1
 - title: Senate Democrat Opens Investigation Into Trump's Crypto Businesses
   url: https://www.coindesk.com/policy/2025/05/06/senate-democrat-says-hes-looking-into-trumps-crypto-businesses
   outlet: CoinDesk
   date: '2025-05-06'
+  tier: 2
 - title: Democrats push back against Trump's growing crypto empire
   url: https://www.cnbc.com/2025/05/07/democrats-push-back-against-trumps-growing-crypto-empire.html
   outlet: CNBC
   date: '2025-05-07'
+  tier: 2
 - title: Trump Faces Senate Subcommittee Inquiry Over 'Crypto Corruption'
   url: https://decrypt.co/318358/democratic-senator-investigates-trumps-chilling-crypto-ventures
   outlet: Decrypt
   date: '2025-05-07'
+  tier: 2
 notes: Congressional oversight targets unprecedented crypto conflicts
 status: confirmed
 ---

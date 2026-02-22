@@ -23,14 +23,17 @@ sources:
   url: https://www.scotusblog.com/2021/01/supreme-court-dismisses-emoluments-cases-against-trump/
   outlet: SCOTUSblog
   date: '2021-01-25'
+  tier: 1
 - title: Supreme Court ends Trump emoluments lawsuits
   url: https://www.cnn.com/2021/01/25/politics/emoluments-supreme-court-trump/index.html
   outlet: CNN
   date: '2021-01-25'
+  tier: 1
 - title: Supreme Court Dismisses Challenges to Trump's Business Profits
   url: https://www.nytimes.com/2021/01/25/us/politics/trump-emoluments-supreme-court.html
   outlet: The New York Times
   date: '2021-01-25'
+  tier: 1
 notes: By waiting until Trump left office to dismiss cases, Supreme Court effectively
   immunized presidential profiteering from foreign governments. No president has ever
   been held accountable for emoluments violations.

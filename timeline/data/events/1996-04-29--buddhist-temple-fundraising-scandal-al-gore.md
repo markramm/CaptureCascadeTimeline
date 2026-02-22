@@ -19,18 +19,22 @@ sources:
   url: https://en.wikipedia.org/wiki/1996_United_States_campaign_finance_controversy
   outlet: Wikipedia
   date: '1996-04-29'
+  tier: 2
 - title: Al Gore and the Temple of Doom
   url: https://prospect.org/features/al-gore-temple-doom/
   outlet: The American Prospect
   date: '2000-08-14'
+  tier: 2
 - title: Campaign finance scandal in the 1990s
   url: https://www.ebsco.com/research-starters/law/campaign-finance-scandal-1990s
   outlet: EBSCO Research Starters
   date: '2024-01-01'
+  tier: 2
 - title: FEC Issues Record Fines In Democrats' Scandals
   url: https://www.washingtonpost.com/archive/politics/2002/09/21/fec-issues-record-fines-in-democrats-scandals/2d2ed242-98e1-40a8-8574-caef4b7570e3/
   outlet: The Washington Post
   date: '2002-09-21'
+  tier: 1
 id: 1996-04-29--buddhist-temple-fundraising-scandal-al-gore
 capture_lanes:
 - Systematic Corruption

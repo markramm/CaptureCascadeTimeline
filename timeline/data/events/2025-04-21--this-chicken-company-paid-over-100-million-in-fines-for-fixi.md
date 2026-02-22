@@ -22,14 +22,17 @@ sources:
   url: https://readsludge.com/2025/04/21/trumps-top-inaugural-donor-is-poultry-company-fined-for-price-fixing-and-antitrust-violations/
   outlet: Sludge
   date: '2025-04-21'
+  tier: 2
 - title: Warren Pushes Giant Meat Processor on Trump Inaugural Donation
   url: https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-meat-processor-pilgrims-pride-largest-donor-to-the-trump-vance-inaugural-committee-on-potential-corruption
   outlet: Senator Elizabeth Warren Official Website
   date: '2025-05-19'
+  tier: 1
 - title: Pilgrim's Pride donated $5 million to Trump inauguration
   url: https://www.meatpoultry.com/articles/31799-pilgrims-pride-donated-5-million-to-trump-inauguration
   outlet: MEAT+POULTRY
   date: '2025-04-22'
+  tier: 2
 connections:
 - Antitrust Litigation
 - Inaugural Committee Fundraising

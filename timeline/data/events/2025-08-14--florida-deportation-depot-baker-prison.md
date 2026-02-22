@@ -22,14 +22,17 @@ sources:
   url: https://abcnews.go.com/US/desantis-announces-2nd-immigration-detention-facility-dubbed-deportation/story?id=124649346
   outlet: ABC News
   date: '2025-08-14'
+  tier: 1
 - title: DeSantis announces plans for second immigration detention facility dubbed 'Deportation Depot'
   url: https://www.pbs.org/newshour/politics/desantis-announces-plans-for-second-immigration-detention-facility-dubbed-deportation-depot
   outlet: PBS NewsHour
   date: '2025-08-14'
+  tier: 1
 - title: Governor Ron DeSantis Announces Expansion of Florida's Capacity to Detain and Deport Illegal Aliens
   url: https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-announces-expansion-floridas-capacity-detain-and-deport
   outlet: Florida Governor's Office
   date: '2025-08-14'
+  tier: 2
 notes: Facility operational in 14-16 days from announcement. Baker prison was closed in 2021 during COVID. State can recoup costs from federal government. Pivot from temporary tents to permanent prison infrastructure shows adaptation after legal defeats.
 status: confirmed
 ---

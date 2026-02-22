@@ -21,22 +21,26 @@ sources:
   url: https://pubmed.ncbi.nlm.nih.gov/8500951/
   outlet: PubMed (Academic Journal)
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: Rising income inequality in U.S. fuelled by Reagan attacks on unions
   url: https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/
   outlet: London School of Economics
   date: '2014-08-12'
   verified: true
+  tier: 1
 - title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 capture_lanes:
 - Labor Suppression
 - Legislative Capture

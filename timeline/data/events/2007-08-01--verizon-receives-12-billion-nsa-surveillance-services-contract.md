@@ -7,16 +7,19 @@ significance: Demonstrates the extensive collaboration between telecommunication
 sources:
 - url: https://www.intelligence.gov/assets/documents/702 Documents/declassified/NSA Alexander 2007 Declassified Verizon Declaration.pdf
   title: NSA Alexander 2007 Declassified Verizon Declaration
+  tier: 1
   type: government_document
   outlet: Office of the Director of National Intelligence
 - url: https://newsinfo.iu.edu/news/page/normal/24313.html
   title: Disclosure of NSA's Secret Verizon Order
   type: academic_source
   outlet: Indiana University News
+  tier: 1
 - url: https://www.brookings.edu/articles/reaction-to-nsa-surveillance-of-u-s-citizens-phone-records/
   title: Reaction to NSA Surveillance of U.S. Citizens' Phone Records
   type: policy_analysis
   outlet: Brookings Institution
+  tier: 1
 tags:
 - surveillance
 - nsa

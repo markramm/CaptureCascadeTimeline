@@ -13,12 +13,15 @@ sources:
 - title: Grok AI Safety Protocol Enhancements
   url: https://techcrunch.com/2024/05/15/xai-grok-safety-updates/
   outlet: TechCrunch
+  tier: 2
 - title: Frontier AI Safety Commitments, AI Seoul Summit 2024
   url: https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024
   outlet: UK Government
+  tier: 1
 - title: Elon Musk's xAI Fails to Publish Promised Safety Framework
   url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
   outlet: Fortune
+  tier: 2
 tags:
 - ai-safety
 - tech-ethics

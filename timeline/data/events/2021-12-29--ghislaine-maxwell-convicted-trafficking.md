@@ -18,14 +18,17 @@ sources:
   title: Ghislaine Maxwell Sentenced to 20 Years in Prison for Facilitating Jeffrey Epstein's Sexual Abuse of Minor Girls
   outlet: U.S. Attorney SDNY
   date: '2022-06-28'
+  tier: 1
 - url: https://www.reuters.com/legal/ghislaine-maxwell-convicted-helping-jeffrey-epstein-abuse-teenage-girls-2021-12-29/
   title: Ghislaine Maxwell convicted of helping Jeffrey Epstein abuse teenage girls
   outlet: Reuters
   date: '2021-12-29'
+  tier: 1
 - url: https://www.bbc.com/news/world-us-canada-59814516
   title: 'Ghislaine Maxwell: Epstein associate guilty of sex trafficking'
   outlet: BBC
   date: '2021-12-29'
+  tier: 1
 importance: 9
 status: confirmed
 capture_lanes:

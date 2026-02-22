@@ -20,14 +20,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-02-12/musk-calls-for-wave-of-judicial-impeachments-amid-pushback
   outlet: Bloomberg
   date: '2025-02-12'
+  tier: 1
 - title: Hill Republicans aim to rein in judges but divided on strategy
   url: https://www.npr.org/2025/03/25/nx-s1-5338955/republicans-judges-strategy
   outlet: NPR
   date: '2025-03-25'
+  tier: 1
 - title: Judges threatened with impeachment, bombs for ruling against Trump agenda
   url: https://www.npr.org/2025/03/13/nx-s1-5316340/threats-judges-trump
   outlet: NPR
   date: '2025-03-13'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

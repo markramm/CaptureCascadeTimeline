@@ -26,14 +26,17 @@ sources:
   url: https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents
   outlet: U.S. Press Freedom Tracker
   date: '2025-04-15'
+  tier: 2
 - title: Statement on WH changes to wire pool positions
   url: https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions
   outlet: White House Correspondents' Association
   date: '2025-04-15'
+  tier: 2
 - title: White House says it's changing the pool of journalists who travel with the president
   url: https://www.npr.org/2025/02/25/nx-s1-5308234/white-house-says-its-changing-the-pool-of-journalists-who-travel-with-the-president
   outlet: NPR
   date: '2025-02-25'
----
+
+  tier: 1---
 
 The U.S. Press Freedom Tracker documented on April 15, 2025, how the White House wrested control of the presidential press pool from journalists, eliminating the permanent wire service position days after a court ordered restoration of AP access. This unprecedented move allows the administration to hand-pick which journalists cover the president, ending decades of independent press pool composition controlled by the White House Correspondents' Association.

@@ -31,12 +31,15 @@ sources:
 - title: Triangle Shirtwaist Fire
   outlet: AFL-CIO
   url: https://aflcio.org/about/history/labor-history-events/triangle-shirtwaist-fire
+  tier: 2
 - title: Triangle Shirtwaist Factory fire
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire
+  tier: 2
 - title: Triangle Shirtwaist Factory Fire
   outlet: History.com
   url: https://www.history.com/articles/triangle-shirtwaist-fire
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

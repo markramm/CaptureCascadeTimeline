@@ -1,7 +1,7 @@
 ---
 id: 2017-11-05--paradise-papers-reveal-further-offshore-tax-avoida
 date: '2017-11-05'
-title: Paradise Papers Expose Global Elite's Systematic Offshore Financial Manipulation
+title: 'Paradise Papers Expose Global Elite''s Systematic Offshore Financial Manipulation'
 actors:
 - Appleby
 - Estera
@@ -16,16 +16,19 @@ importance: 9
 sources:
 - outlet: ICIJ
   title: 'Paradise Papers: Secrets of the Global Elite'
-  url: https://www.icij.org/investigations/paradise-papers/
+  url: 'https://www.icij.org/investigations/paradise-papers/'
   date: '2017-11-05'
+  tier: 1
 - outlet: Wikipedia
   title: Paradise Papers
-  url: https://en.wikipedia.org/wiki/Paradise_Papers
+  url: 'https://en.wikipedia.org/wiki/Paradise_Papers'
   date: '2023'
+  tier: 2
 - outlet: PBS News
-  title: Paradise Papers reveal offshore accounts of world's wealthy
-  url: https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy
+  title: 'Paradise Papers reveal offshore accounts of world''s wealthy'
+  url: 'https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy'
   date: '2017-11-05'
+  tier: 1
 tags:
 - paradise-papers
 - offshore-finance
@@ -65,5 +68,4 @@ investigation_details:
   - Exposing sophisticated financial engineering
   - Demonstrating limitations of international financial regulation
 ---
-
 The International Consortium of Investigative Journalists (ICIJ) released the Paradise Papers, a massive leak of 13.4 million confidential documents revealing extensive offshore financial activities of global elites. The investigation exposed how powerful individuals and corporations systematically use legal loopholes to avoid taxes, including revelations about Queen Elizabeth II's investments, Russian oligarchs' financial networks, and connections within the Trump administration. The documents, sourced from Appleby and Estera, demonstrated the sophisticated financial engineering used by the world's wealthiest to obscure their economic activities.

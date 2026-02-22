@@ -20,17 +20,20 @@ sources:
   url: https://millercenter.org/president/reagan/domestic-affairs
   outlet: Miller Center (University of Virginia)
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Reagan AIDS Legacy: Silence Equals Death'
   url: https://www.sfgate.com/opinion/openforum/article/Reagan-s-AIDS-Legacy-Silence-equals-death-2751030.php
   outlet: San Francisco Chronicle
   date: '2004-06-08'
   verified: true
+  tier: 2
 capture_lanes:
 - Systematic Corruption
 - Digital & Tech Capture

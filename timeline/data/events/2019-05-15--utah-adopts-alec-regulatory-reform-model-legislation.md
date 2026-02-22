@@ -20,13 +20,16 @@ sources:
   url: https://alec.org/article/alec-policy-champions-return-major-rule-making-authority-to-utah-legislature/
   outlet: American Legislative Exchange Council
   date: '2019-05-15'
+  tier: 2
 - title: How the American Legislative Exchange Council Turns Disinformation into Law
   url: https://blog.ucs.org/elliott-negin/how-the-american-legislative-exchange-council-turns-disinformation-into-law/
   outlet: Union of Concerned Scientists
   date: '2020-11-19'
+  tier: 1
 - title: ALEC Exposed
   url: https://www.alecexposed.org/wiki/ALEC_Exposed
   outlet: Center for Media and Democracy
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

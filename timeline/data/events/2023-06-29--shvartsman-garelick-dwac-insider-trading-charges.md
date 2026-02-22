@@ -12,14 +12,19 @@ actors:
 sources:
 - title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals
   url: https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10
+  tier: 1
 - title: SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC Securities
   url: https://www.sec.gov/newsroom/press-releases/2023-121
+  tier: 1
 - title: Three Charged with Illegal Trading Ahead of Trump Media Merger
   url: https://www.cnbc.com/2023/06/29/three-charged-with-illegal-trading-ahead-of-trump-media-merger.html
+  tier: 2
 - title: US Government Continues to Crack Down on Insider Trading with Four Coordinated Actions
   url: https://www.morganlewis.com/pubs/2023/07/us-government-continues-to-crack-down-on-insider-trading-with-four-coordinated-actions
+  tier: 2
 - title: 2 Investors Plead Guilty to Insider Trading Linked to Trump Media Deal
   url: https://www.upi.com/Top_News/US/2024/04/03/Trump-Media-investors-guilty-insider-trading/6551712170472/
+  tier: 2
 status: confirmed
 tags:
 - insider-trading

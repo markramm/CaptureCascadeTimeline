@@ -23,14 +23,17 @@ sources:
   url: https://www.heritage.org/impact/trump-administration-embraces-heritage-foundation-policy-recommendations
   outlet: Heritage Foundation
   date: '2018-01-23'
+  tier: 2
 - title: How Heritage Foundation shaped Trump administration
   url: https://www.nytimes.com/2018/06/20/magazine/trump-government-heritage-foundation-think-tank.html
   outlet: The New York Times
   date: '2018-06-20'
+  tier: 1
 - title: Heritage Foundation's unprecedented influence
   url: https://www.politico.com/story/2018/01/23/heritage-foundation-trump-administration-358756
   outlet: Politico
   date: '2018-01-23'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion

@@ -28,6 +28,7 @@ sources:
   url: https://www.newstatesman.com/politics/2011/04/promis-government-inslaw
   outlet: New Statesman
   date: '2011-04-01'
+  tier: 2
   verified: true
   key_facts_confirmed:
   - PROMIS distributed to multiple intelligence agencies globally
@@ -42,6 +43,7 @@ sources:
   - CIA was aware of PROMIS software as early as 1981
   - Evidence of early intelligence community interest in software
   - Confirms potential for technological espionage
+  tier: 2
 - title: 'The Inslaw Affair: House Judiciary Committee Investigation'
   url: https://www.archives.gov/files/research/kavanaugh/releases/docid-70105136.pdf
   outlet: U.S. House Judiciary Committee
@@ -51,6 +53,7 @@ sources:
   - Government officials permitted PROMIS software distribution
   - Software used for intelligence and foreign policy objectives
   - Detailed investigation of software misappropriation
+  tier: 1
 status: confirmed
 ---
 

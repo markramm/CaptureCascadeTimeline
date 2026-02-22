@@ -22,14 +22,17 @@ sources:
   url: https://www.cnbc.com/2023/03/22/trump-linked-digital-world-acquisition-corp-fires-ceo.html
   outlet: CNBC
   date: '2023-03-22'
+  tier: 2
 - title: Trump Media Merger Partner DWAC Fires CEO Patrick Orlando
   url: https://variety.com/2023/digital/news/trump-media-merger-dwac-fires-ceo-patrick-orlando-1235561215/
   outlet: Variety
   date: '2023-03-22'
+  tier: 1
 - title: DWAC fires its CEO amid stalled deal to buy Trump's Truth Social
   url: https://www.axios.com/2023/03/22/dwac-fires-ceo-trump-truth-social-spac
   outlet: Axios
   date: '2023-03-22'
+  tier: 2
 importance: 8
 status: confirmed
 capture_lanes:

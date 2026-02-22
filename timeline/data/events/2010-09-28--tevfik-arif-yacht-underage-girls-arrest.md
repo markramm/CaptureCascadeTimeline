@@ -1,8 +1,7 @@
 ---
 id: 2010-09-28--tevfik-arif-yacht-underage-girls-arrest
 date: '2010-09-28'
-title: Trump associate Tevfik Arif arrested on yacht with underage Eastern European
-  girls
+title: Trump associate Tevfik Arif arrested on yacht with underage Eastern European girls
 importance: 9
 tags:
 - tevfik-arif
@@ -20,21 +19,22 @@ actors:
 - Turkish police
 sources:
 - title: Turkish Court Releases Four in Savarona Yacht Prostitution Trial
-  url: https://www.bloomberg.com/news/articles/2010-12-20/turkish-court-releases-four-in-savarona-yacht-prostitution-trial
+  url: 'https://www.bloomberg.com/news/articles/2010-12-20/turkish-court-releases-four-in-savarona-yacht-prostitution-trial'
   outlet: Bloomberg
   date: '2010-12-20'
-- title: 'Football Leaks: Kazakh moguls, the pal of Donald Trump, teen models and
-    the yacht'
-  url: https://theblacksea.eu/stories/football-leaks/football-leaks-kazakh-moguls-pal-donald-trump-teen-models-yacht/
+  tier: 1
+- title: 'Football Leaks: Kazakh moguls, the pal of Donald Trump, teen models and tier: 2 the yacht'
+  url: 'https://theblacksea.eu/stories/football-leaks/football-leaks-kazakh-moguls-pal-donald-trump-teen-models-yacht/'
   outlet: The Black Sea
   date: '2016-12-15'
+  tier: 2
 - title: Tevfik Arif
-  url: https://investigaterussia.org/media/2018-09-20/tevfik-arif
+  url: 'https://investigaterussia.org/media/2018-09-20/tevfik-arif'
   outlet: Committee to Investigate Russia
   date: '2018-09-20'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
 ---
-
 Tevfik Arif, Trump's business partner in Trump SoHo, was arrested aboard the Savarona yacht in Turkey during a police raid that found "underage Eastern European girls" allegedly involved in a prostitution ring. The Kazakh "trio" of oligarchs - Alexander Mashkevich, Patokh Shodiev, and Alijan Ibragimov - were reportedly also on the yacht. Though charges were later dropped, the incident established patterns of post-Soviet oligarch networks involved in trafficking operations connected to both Trump and Epstein circles.

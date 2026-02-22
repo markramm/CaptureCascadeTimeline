@@ -18,14 +18,17 @@ sources:
   title: The Inside Story of Drexel Burnham and the Rise of the Junk Bond Raiders
   url: https://www.penguinrandomhouse.com/books/298264/the-predators-ball-by-connie-bruck/
   type: book
+  tier: 2
 - outlet: Encyclopedia.com
   title: Ronald Perelman Business Profile
   url: https://www.encyclopedia.com/education/economics-magazines/perelman-ronald-owen
   type: reference
+  tier: 2
 - outlet: FundingUniverse
   title: History of MacAndrews & Forbes Holdings Inc.
   url: https://www.fundinguniverse.com/company-histories/macandrews-forbes-holdings-inc-history/
   type: historical source
+  tier: 2
 capture_lanes:
 - Systematic Corruption
 - Financial Capture

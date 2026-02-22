@@ -22,14 +22,17 @@ sources:
   url: https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff
   outlet: NPR
   date: '2006-01-11'
+  tier: 1
 - title: 'K Street Project: Anatomy of a Political Enforcement Mechanism'
   url: https://rollcall.com/2004/02/10/new-heat-on-k-street/
   outlet: Roll Call
   date: '2004-02-10'
+  tier: 2
 - title: How Republicans Transformed Washington's Lobbying Culture
   url: https://www.sourcewatch.org/index.php?title=K_Street_Project
   outlet: SourceWatch
   date: '2005-12-15'
+  tier: 2
 importance: 9
 status: confirmed
 id: 1998-10-01--electronic-industries-alliance-blacklisting-k-str

@@ -21,14 +21,17 @@ sources:
   url: https://www.cbsnews.com/news/congress-swatting-attacks-december-2024/
   outlet: CBS News
   date: '2024-12-28'
+  tier: 1
 - title: FBI warns of sophisticated swatting campaign against lawmakers
   url: https://www.cnn.com/2024/12/27/politics/swatting-congress-members-fbi/index.html
   outlet: CNN
   date: '2024-12-27'
+  tier: 1
 - title: Romanian national pleads guilty to leading swatting network
   url: https://www.justice.gov/opa/pr/romanian-national-swatting-network-guilty-plea
   outlet: Department of Justice
   date: '2025-06-15'
+  tier: 1
 notes: Swatting weaponizes law enforcement as unwitting tool of harassment. December
   2024 surge represented most concentrated attack on Congress members through this
   tactic. International coordination reveals global nature of political violence networks.

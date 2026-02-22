@@ -20,14 +20,17 @@ sources:
   url: https://www.npr.org/2025/03/21/g-s1-55121/elon-musk-pentagon
   outlet: NPR
   date: '2025-03-21'
+  tier: 1
 - title: 'Pentagon changed course for Musk visit after report about him viewing China war plans: Officials'
   url: https://abcnews.go.com/Politics/trump-denies-musk-briefed-china-war-plans/story?id=120024341
   outlet: ABC News
   date: '2025-03-21'
+  tier: 1
 - title: Trump Denies Musk Will Get Briefed on Top-Secret US War Plans With China
   url: https://www.bloomberg.com/news/articles/2025-03-21/elon-musk-to-see-secret-us-plan-for-possible-china-war-nyt-says
   outlet: Bloomberg
   date: '2025-03-21'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

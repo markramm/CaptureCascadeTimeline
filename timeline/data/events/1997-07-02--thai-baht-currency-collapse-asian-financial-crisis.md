@@ -13,12 +13,15 @@ sources:
 - title: IMF Asian Crisis Response
   url: https://www.imf.org/external/pubs/ft/wp/1998/wp9855.pdf
   outlet: IMF Working Paper
+  tier: 2
 - title: 'Finance & Development - The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
   outlet: IMF Publication
+  tier: 2
 - title: 'Asian Financial Crisis: Origins and Implications'
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
   outlet: Federal Reserve History
+  tier: 1
 tags:
 - asian-financial-crisis
 - imf

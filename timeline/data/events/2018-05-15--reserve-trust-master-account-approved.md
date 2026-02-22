@@ -20,19 +20,21 @@ actors:
 - Pat Toomey
 - Cynthia Lummis
 sources:
-- url: https://www.cnbc.com/2022/02/15/bank-regulator-disputes-kc-fed-claim-about-firm-linked-to-biden-nominee-raskin.html
-  title: State bank regulator disputes KC Fed's claim about fintech firm linked to
-    Biden nominee Raskin
+- url: 'https://www.cnbc.com/2022/02/15/bank-regulator-disputes-kc-fed-claim-about-firm-linked-to-biden-nominee-raskin.html'
+  title: 'State bank regulator disputes KC Fed''s claim about fintech firm linked to'
+  tier: 2
   outlet: CNBC
   date: '2022-02-15'
-- url: https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/
-  title: KC Fed has revoked Reserve Trust's master account, Toomey says
+- url: 'https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/'
+  title: 'KC Fed has revoked Reserve Trust''s master account, Toomey says'
   outlet: Banking Dive
   date: '2022-02-28'
-- url: https://www.banking.senate.gov/newsroom/minority/toomey-congress-and-the-american-people-deserve-answers-on-raskins-revolving-door
-  title: Congress and the American People Deserve Answers on Raskin's Revolving Door
-  outlet: U.S. Senate Committee on Banking, Housing, and Urban Affairs
+  tier: 2
+- url: 'https://www.banking.senate.gov/newsroom/minority/toomey-congress-and-the-american-people-deserve-answers-on-raskins-revolving-door'
+  title: 'Congress and the American People Deserve Answers on Raskin''s Revolving Door'
+  outlet: 'U.S. Senate Committee on Banking, Housing, and Urban Affairs'
   date: '2022-02-11'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture
@@ -41,5 +43,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 The Federal Reserve Bank of Kansas City reversed its 2017 denial and approved Reserve Trust Company's master account application in May 2018, approximately nine months after former Fed Governor Sarah Bloom Raskin allegedly contacted Kansas City Fed President Esther George. The approval raised significant corruption concerns about the revolving door between government regulatory positions and private sector financial firms. Senator Pat Toomey claimed he was 'stonewalled' when requesting documents about the decision process, and the incident later contributed to Raskin's withdrawn nomination as Fed vice chair for supervision in 2022.

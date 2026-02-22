@@ -24,12 +24,14 @@ sources:
   url: https://en.wikipedia.org/wiki/Mandate_for_Leadership
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: 'REAGAN AND HERITAGE: A Unique Partnership'
   url: https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership
   outlet: Heritage Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Meese made a surprise appearance at a Heritage dinner for the Mandate project's team chairmen and co-chairmen while serving as Reagan's campaign aide. This demonstrated direct coordination between the presidential campaign and privately-funded think tank policy development before the election. Meese later became Reagan's Attorney General.
 status: confirmed
 ---

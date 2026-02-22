@@ -23,18 +23,22 @@ sources:
   url: https://www.ftc.gov/news-events/news/press-releases/2012/08/google-will-pay-225-million-settle-ftc-charges-it-misrepresented-privacy-assurances-users-apples
   outlet: Federal Trade Commission
   date: '2012-08-09'
+  tier: 1
 - title: Milking cookies - the FTC's $22.5 million settlement with Google
   url: https://www.ftc.gov/business-guidance/blog/2012/08/milking-cookies-ftcs-225-million-settlement-google
   outlet: Federal Trade Commission
   date: '2012-08-17'
+  tier: 1
 - title: Google to pay $22.5 million fine for Safari privacy evasion
   url: https://money.cnn.com/2012/07/11/technology/google-ftc-settlement/index.htm
   outlet: CNN Money
   date: '2012-07-11'
+  tier: 1
 - title: Google Settles With FTC, Agrees To Pay $22.5M Penalty For Bypassing Safari Privacy Settings
   url: https://techcrunch.com/2012/08/09/google-settles-with-ftc-agrees-to-pay-22-5m-penalty-for-bypassing-safari-privacy-settings/
   outlet: TechCrunch
   date: '2012-08-09'
+  tier: 2
 status: confirmed
 id: 2012-08-09--google-safari-cookie-override-ftc-fine
 capture_lanes:

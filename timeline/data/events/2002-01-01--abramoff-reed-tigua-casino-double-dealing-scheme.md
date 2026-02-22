@@ -14,12 +14,15 @@ sources:
 - outlet: NPR
   title: Tigua Indians Learn Tough Lesson From Abramoff
   url: https://www.npr.org/templates/story/story.php?storyId=5220081
+  tier: 1
 - outlet: Ethics Unwrapped, University of Texas
   title: 'Abramoff: Lobbying Congress Case Study'
   url: https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress
+  tier: 1
 - outlet: United States Senate
   title: Senate Report 109-325 - Investigation of Tribal Lobbying Matters
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
+  tier: 1
 tags:
 - political-corruption
 - double-dealing

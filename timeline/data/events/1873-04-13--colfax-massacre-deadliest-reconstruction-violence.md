@@ -12,19 +12,23 @@ sources:
 - title: The Colfax Massacre
   outlet: History.com
   url: https://www.history.com/this-day-in-history/april-13/colfax-massacre-louisiana
+  tier: 2
   year: 2024
 - title: 'On Apr 13, 1873: Armed White Mob Kills 150 Black Citizens After Gubernatorial Election In Colfax, Louisiana'
   outlet: Equal Justice Initiative
   url: https://calendar.eji.org/racial-injustice/apr/13
   year: 2024
+  tier: 2
 - title: The Colfax Massacre (1873)
   outlet: BlackPast
   url: https://blackpast.org/african-american-history/colfax-massacre-1873/
   year: 2024
+  tier: 2
 - title: 'April 13, 1873: Colfax Massacre'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/colfax-massacre/
   year: 2024
+  tier: 2
 tags:
 - racial-terrorism
 - reconstruction-sabotage

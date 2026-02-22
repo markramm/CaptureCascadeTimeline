@@ -19,14 +19,17 @@ sources:
   url: https://www.nbcnews.com/politics/justice-department/biggest-fraud-generation-looting-covid-relief-program-known-ppp-n1279664
   outlet: NBC News
   date: '2021-09-08'
+  tier: 1
 - title: COVID-19 Pandemic EIDL and PPP Loan Fraud Landscape
   url: https://www.sba.gov/document/report-23-09-covid-19-pandemic-eidl-ppp-loan-fraud-landscape
   outlet: SBA Office of Inspector General
   date: '2023-06-27'
+  tier: 1
 - title: Fraudsters may have stolen $200 billion in federal Covid relief funds
   url: https://www.nbcnews.com/news/us-news/200-billion-fraud-federal-covid-relief-ppp-eidl-sba-rcna91427
   outlet: NBC News
   date: '2023-06-27'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

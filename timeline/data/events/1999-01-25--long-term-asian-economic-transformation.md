@@ -13,12 +13,15 @@ sources:
 - title: 'Aftermath: The Remaking of the Global Economy'
   url: https://www.worldbank.org/economic-interventions
   outlet: World Bank Economic Report
+  tier: 2
 - title: 'The Asian Crisis: Lessons Learned'
   url: https://www.imf.org/external/pubs/ft/fandd/1999/09/lane.htm
   outlet: IMF Finance & Development
+  tier: 2
 - title: 'Asian Financial Crisis: Structural Intervention'
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
   outlet: Federal Reserve History
+  tier: 1
 tags:
 - imf-intervention
 - economic-transformation

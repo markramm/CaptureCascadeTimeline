@@ -24,22 +24,27 @@ sources:
   url: https://thehill.com/policy/international/5035089-trump-organization-officially-launches-new-saudi-arabia-tower/
   outlet: The Hill
   date: '2024-12-11'
+  tier: 2
 - title: Trump Tower is coming to Saudi Arabia
   url: https://www.cnn.com/2024/07/01/business/trump-tower-saudi-arabia/index.html
   outlet: CNN Business
   date: '2024-07-01'
+  tier: 1
 - title: Dar Global and The Trump Organization Expand Collaboration with SAR 2 Billion Trump Tower
   url: https://darglobal.co.uk/press/Dar-Global-and-The-Trump-Organization-Expand-Collaboration-with-the-Launch-of-SAR-2-Billion-Trump-Tower-to-Tranform-Jeddah-Skyline
   outlet: Dar Global
   date: '2024-12-15'
+  tier: 2
 - title: Eric Trump reveals rendering of Trump Tower project in Saudi Arabia
   url: https://www.foxbusiness.com/real-estate/eric-trump-reveals-rendering-trump-tower-project-saudi-arabia
   outlet: Fox Business
   date: '2024-12-11'
+  tier: 2
 - title: Ahead of Trump's inauguration, Trump Organization expands its global business
   url: https://abcnews.go.com/US/ahead-trumps-inauguration-trump-organization-expands-global-business/story?id=116746951
   outlet: ABC News
   date: '2024-12-16'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

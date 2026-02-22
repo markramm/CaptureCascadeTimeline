@@ -15,14 +15,17 @@ sources:
   title: President Bush's Speech on Iraq Threat
   url: https://georgewbush-whitehouse.archives.gov/news/releases/2002/10/20021007-8.html
   date: '2002-10-07'
+  tier: 1
 - outlet: History Commons
   title: 'Context: WHIG Decides to Adopt ''Smoking Gun'' and ''Mushroom Cloud'' Phrases'
   url: http://www.historycommons.org/context.jsp?item=GersonMushroomCloud
   date: '2002-09-05'
+  tier: 2
 - outlet: CNN
   title: Condoleezza Rice Interview Transcript
   url: https://transcripts.cnn.com/show/le/date/2002-09-08/segment/00
   date: '2002-09-08'
+  tier: 1
 importance: 9
 tags:
 - whig-crisis-implementation

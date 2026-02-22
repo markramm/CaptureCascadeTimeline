@@ -17,12 +17,16 @@ actors:
 sources:
 - title: en.wikipedia.org
   url: https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies
+  tier: 2
 - title: columbusfreepress.com
   url: https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections
+  tier: 2
 - title: money.cnn.com
   url: https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/
+  tier: 1
 - title: verifiedvoting.org
   url: https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -22,17 +22,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: James G. Watt
   url: https://en.wikipedia.org/wiki/James_G._Watt
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: How Reagan EPA Chief Paved Way for Trump Assault on Agency
   url: https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency
   outlet: The New Republic
   date: '2017-02-14'
   verified: true
+  tier: 2
 capture_lanes:
 - Labor Suppression
 - Legislative Capture

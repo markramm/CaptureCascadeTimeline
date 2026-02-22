@@ -41,14 +41,17 @@ sources:
   outlet: Journal of the American Medical Association
   url: https://jamanetwork.com/journals/jama
   date: '1992-01-01'
+  tier: 1
 - title: 'RUC: The Secret Committee that Runs Healthcare'
   outlet: Washington Monthly
   url: https://washingtonmonthly.com
   date: '2013-07-01'
+  tier: 2
 - title: Medicare Physician Payment Reform and the RUC
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2016-01-01'
+  tier: 1
 - title: Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Executive Summary
   url: https://www.sec.gov/files/oig-509-exec-summary.pdf
   outlet: SEC Office of Inspector General

@@ -19,14 +19,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Whitewater_controversy
   outlet: Wikipedia
   date: '1994-01-12'
+  tier: 2
 - title: Clinton Scandals - A Guide From Whitewater To The Clinton Foundation
   url: https://www.npr.org/2016/06/12/481718785/clinton-scandals-a-guide-from-whitewater-to-the-clinton-foundation
   outlet: NPR
   date: '2016-06-12'
+  tier: 1
 - title: Whitewater affair
   url: https://www.britannica.com/topic/Whitewater-affair
   outlet: Encyclopedia Britannica
   date: '2024-01-01'
+  tier: 2
 id: 1994-01-12--whitewater-investigation-begins-robert-fiske
 capture_lanes:
 - Surveillance Infrastructure

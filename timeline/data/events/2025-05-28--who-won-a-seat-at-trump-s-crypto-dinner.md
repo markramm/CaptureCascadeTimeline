@@ -23,14 +23,17 @@ sources:
   url: https://www.nytimes.com/2025/05/23/us/politics/trump-crypto-dinner-attendees.html
   outlet: The New York Times
   date: '2025-05-28'
+  tier: 1
 - title: Top Trump Memecoin Holders Reveal Stunning Foreign Influence in Crypto Dinner Guest List
   url: https://www.bloomberg.com/news/articles/2025/05/28/trump-crypto-dinner-foreign-national-investors
   outlet: Bloomberg
   date: '2025-05-28'
+  tier: 1
 - title: 50 Trump Crypto Dinner Invitees Hold Tokens Linked to Alt-Right Symbols and Racist Language
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/50-trump-crypto-dinner-invitees-hold-tokens-linked-to-alt-right-symbols-and-racist-language/
   outlet: Citizens for Responsibility and Ethics in Washington
   date: '2025-05-28'
+  tier: 1
 connections:
 - Crypto Regulatory Manipulation
 - Foreign Influence in Political Fundraising

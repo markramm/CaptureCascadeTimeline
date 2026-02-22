@@ -17,19 +17,21 @@ tags:
 - federal-state-relations
 sources:
 - outlet: NPR
-  title: Appeals court blocks earlier ruling, allows Trump to command California Guard for now
-  url: https://www.npr.org/2025/06/12/nx-s1-5429752/trump-newsom-california-national-guard-ice-immigration
+  title: 'Appeals court blocks earlier ruling, allows Trump to command California Guard for now'
+  url: 'https://www.npr.org/2025/06/12/nx-s1-5429752/trump-newsom-california-national-guard-ice-immigration'
+  tier: 1
 - outlet: Brennan Center for Justice
-  title: The President's Power to Call Out the National Guard Is Not a Blank Check
-  url: https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check
+  title: 'The President''s Power to Call Out the National Guard Is Not a Blank Check'
+  url: 'https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check'
+  tier: 1
 - outlet: New York Attorney General Press Release
   title: Attorney General James Urges Court to Block Unlawful Federalization of National Guard
-  url: https://ag.ny.gov/press-release/2025/attorney-general-james-urges-court-block-unlawful-federalization-national-guard
+  url: 'https://ag.ny.gov/press-release/2025/attorney-general-james-urges-court-block-unlawful-federalization-national-guard'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture
 - Executive Power Expansion
 ---
-
 Ongoing federal court cases challenge the president's authority to unilaterally federalize state National Guard units, with multiple states filing legal challenges to Trump's deployment of California's National Guard. The Ninth Circuit Court of Appeals ruled that the president likely has authority to federalize Guard troops, while 20 states argue this power violates constitutional principles of state sovereignty and federal-state balance.

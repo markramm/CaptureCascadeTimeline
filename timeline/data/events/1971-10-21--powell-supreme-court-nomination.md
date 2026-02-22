@@ -21,22 +21,26 @@ sources:
   url: https://www.presidency.ucsb.edu/documents/address-the-nation-announcing-intention-nominate-lewis-f-powell-jr-and-william-h-rehnquist
   outlet: The American Presidency Project
   date: '1971-10-21'
+  tier: 1
   verified: true
 - title: 'On This Day: William Rehnquist and Lewis Powell Confirmed as Associate Justices'
   url: https://www.nixonfoundation.org/2014/12/day-william-reihnquist-lewis-powell-confirmed-associate-justices-supreme-court/
   outlet: Richard Nixon Foundation
   date: '2014-12-07'
   verified: true
+  tier: 2
 - title: 'Previous Associate Justices: Lewis F. Powell, Jr., 1972-1987'
   url: https://supremecourthistory.org/associate-justices/lewis-f-powell-jr-1972-1987/
   outlet: Supreme Court Historical Society
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: 'U.S. Senate: Supreme Court Nominations (1789-Present)'
   url: https://www.senate.gov/legislative/nominations/SupremeCourtNominations1789present.htm
   outlet: U.S. Senate
   date: '2024-01-01'
   verified: true
+  tier: 1
 notes: Only Senator Fred R. Harris (D-OK) voted against confirmation, calling Powell an "elitist" who lacked compassion for "little people." Powell took oath of office January 7, 1972, with $60,000 salary. Nomination came just 59 days after Powell's August 23, 1971 memo advising Chamber of Commerce that "political power is necessary" and courts are "most important instrument for social, economic and political change." Powell's corporate law background at Hunton & Williams included representing Tobacco Institute.
 status: confirmed
 ---

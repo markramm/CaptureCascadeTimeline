@@ -21,14 +21,17 @@ sources:
   url: https://apnews.com/article/trump-scotland-golf-course-opening-legal-issues-92aa09043e036d6aa87ad99e5fd755bb
   outlet: Associated Press
   date: '2025-07-25'
+  tier: 1
 - title: Trump's Golf Business in Scotland and British Open Bid
   url: https://abcnews.go.com/Politics/trumps-golf-business-scotland-british-open-bid-amid/story?id=123972692
   outlet: ABC News
   date: '2025-07-25'
+  tier: 1
 - title: Trump Opens Scotland Golf Course on Taxpayer-Funded Trip
   url: https://www.npr.org/2025/06/26/nx-s1-5446114/trump-wealth-business-crypto-brand-golf-course
   outlet: NPR
   date: '2025-07-25'
+  tier: 1
 connections:
 - Ongoing pattern of mixing presidential duties with personal business interests
 patterns:

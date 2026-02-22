@@ -16,19 +16,23 @@ sources:
 - title: Signing of the Securities Exchange Act of 1934
   outlet: Library of Congress - This Month in Business History
   url: https://guides.loc.gov/this-month-in-business-history/june/signing-securities-exchange-act-1934
+  tier: 1
   retrieval_date: '2024-12-24'
 - title: 431 Days - Joseph P. Kennedy and the Creation of the SEC
   outlet: SEC Historical Society
   url: https://www.sechistorical.org/museum/galleries/kennedy/
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: Securities Exchange Act of 1934
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Securities_Exchange_Act_of_1934
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: United States Securities and Exchange Commission
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_Securities_and_Exchange_Commission
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: U.S. Senate - Subcommittee on Senate Resolutions 84 and 234
   url: https://www.senate.gov/about/powers-procedures/investigations/pecora.htm
   outlet: U.S. Senate

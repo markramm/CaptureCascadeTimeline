@@ -29,26 +29,32 @@ sources:
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
   outlet: Senate Select Committee on Intelligence
   date: '2014-12-09'
+  tier: 1
 - title: 'The Dark Side: The Inside Story of How The War on Terror Turned Into a War on American Ideals'
   url: https://www.penguinrandomhouse.com/books/294688/the-dark-side-by-jane-mayer/
   outlet: Jane Mayer
   date: '2008-07-01'
+  tier: 2
 - title: DOJ Office of Legal Counsel Torture Memos (August 1, 2002)
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB127/02.08.01.pdf
   outlet: Department of Justice Office of Legal Counsel
   date: '2002-08-01'
+  tier: 1
 - title: FBI E-mails Detail Objections to CIA Torture Techniques
   url: https://www.aclu.org/other/fbi-e-mails-detail-objections-cia-torture-techniques
   outlet: American Civil Liberties Union
   date: '2004-12-20'
+  tier: 1
 - title: Report of the International Committee of the Red Cross on the Treatment of Fourteen 'High Value Detainees'
   url: https://assets.documentcloud.org/documents/278885/icrc-report-on-the-treatment-of-fourteen-high.pdf
   outlet: International Committee of the Red Cross
   date: '2007-02-14'
+  tier: 2
 - title: Vice President Defends Harsh Interrogations
   url: https://abcnews.go.com/Nightline/story?id=6287413
   outlet: ABC News
   date: '2008-12-15'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

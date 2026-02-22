@@ -26,18 +26,22 @@ sources:
   url: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html
   outlet: The New York Times
   date: '2025-03-19'
+  tier: 1
 - title: Trump Jr. Meets Embattled Leader Vucic in Surprise Serbia Visit
   url: https://www.bloomberg.com/news/articles/2025-03-11/trump-jr-meets-embattled-leader-vucic-in-surprise-serbia-visit
   outlet: Bloomberg
   date: '2025-03-11'
+  tier: 1
 - title: Donald Trump Jr. meets Serbian president in Belgrade
   url: https://www.intellinews.com/donald-trump-jr-meets-serbian-president-in-belgrade-371096/
   outlet: bne IntelliNews
   date: '2025-03-11'
+  tier: 2
 - title: Donald Trump Jr Visits Serbia, Meets President Aleksandar Vucic
   url: https://www.usnews.com/news/world/articles/2025-03-11/donald-trump-jr-visits-serbia-meets-president-aleksandar-vucic
   outlet: U.S. News & World Report
   date: '2025-03-11'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

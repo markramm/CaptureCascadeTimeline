@@ -22,12 +22,14 @@ sources:
   url: https://www.britannica.com/money/Arthur-Laffer
   outlet: Britannica
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Reagan Promotes Supply-Side Economics
   url: https://www.ebsco.com/research-starters/politics-and-government/reagan-promotes-supply-side-economics
   outlet: EBSCO Research Starters
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Wanniski published 1978 Public Interest article "Taxes, Revenues, and the 'Laffer Curve'" giving the theory its name. His 1978 book lamented failure of high tax rates under Nixon and Carter, advocating lower income taxes and return to gold standard. Wanniski was Wall Street Journal associate editor, giving supply-side theory mainstream media platform.
 status: confirmed
 ---

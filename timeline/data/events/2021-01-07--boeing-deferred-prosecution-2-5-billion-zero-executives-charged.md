@@ -1,30 +1,34 @@
 ---
 id: 2021-01-07--boeing-deferred-prosecution-2-5-billion-zero-executives-charged
 date: '2021-01-07'
-title: Boeing Pays $2.5 Billion in Deferred Prosecution Deal, Zero Executives Charged for 346 Deaths
+title: 'Boeing Pays $2.5 Billion in Deferred Prosecution Deal, Zero Executives Charged for 346 Deaths'
 actors:
 - Department of Justice
 - Boeing
 - 346 crash victims
-- Victims' families
+- 'Victims'' families'
 - Criminal Division Fraud Section
 sources:
 - outlet: U.S. Department of Justice
   title: Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion
-  url: https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion
+  url: 'https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion'
   date: '2021-01-07'
+  tier: 1
 - outlet: Bloomberg
   title: Boeing Settles 737 Max Fraud Charge With $2.5 Billion Agreement
-  url: https://www.bloomberg.com/news/articles/2021-01-07/boeing-agrees-to-pay-2-5-billion-to-settle-737-max-fraud-charge
+  url: 'https://www.bloomberg.com/news/articles/2021-01-07/boeing-agrees-to-pay-2-5-billion-to-settle-737-max-fraud-charge'
   date: '2021-01-07'
+  tier: 1
 - outlet: CNBC
-  title: Boeing, Justice Department Reach Deal to Avoid Prosecution Over Deadly 737 Max Crashes
-  url: https://www.cnbc.com/2021/01/07/boeing-737-max-crashes-doj-prosecution.html
+  title: 'Boeing, Justice Department Reach Deal to Avoid Prosecution Over Deadly 737 Max Crashes'
+  url: 'https://www.cnbc.com/2021/01/07/boeing-737-max-crashes-doj-prosecution.html'
   date: '2021-01-07'
+  tier: 2
 - outlet: Clifford Law
-  title: Boeing Victims' Families Ask Court to Reject Plea Agreement
-  url: https://www.cliffordlaw.com/boeing-victims-families-ask-court-to-reject-plea-agreement/
+  title: 'Boeing Victims'' Families Ask Court to Reject Plea Agreement'
+  url: 'https://www.cliffordlaw.com/boeing-victims-families-ask-court-to-reject-plea-agreement/'
   date: '2021-01-07'
+  tier: 2
 importance: 10
 tags:
 - boeing
@@ -39,7 +43,6 @@ capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
 ---
-
 The Department of Justice charged Boeing with one count of conspiracy to defraud the United States in connection with the 737 MAX evaluation and entered a deferred prosecution agreement requiring Boeing to pay $2.5 billion in penalties. Despite evidence that Boeing executives knowingly deceived the FAA about MCAS capabilities, concealed safety-critical information from pilots and regulators, and prioritized profits over 346 human lives, zero individual executives were criminally charged.
 
 The $2.5 billion payment included $243.6 million in criminal penalties, $500 million for a victim compensation fund, and $1.77 billion for airline customers who suffered losses from the MAX grounding. The criminal penalty portion represented a rounding error for Boeing, which had $58 billion in revenue in 2020. Under the deferred prosecution agreement, if Boeing complied with certain conditions for three years, the criminal charge would be dismissed entirely, allowing the corporation to avoid a criminal conviction.

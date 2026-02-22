@@ -30,14 +30,17 @@ sources:
   url: https://www.cnn.com/2025/04/30/politics/federal-election-commissions-resignations-quorum/index.html
   outlet: CNN Politics
   date: '2025-04-30'
+  tier: 2
 - title: FEC to lose quorum after another commissioner resigns
   url: https://thehill.com/homenews/campaign/5275679-federal-election-commission-resignation-quorum/
   outlet: The Hill
   date: '2025-04-30'
+  tier: 2
 - title: FEC Commissioner Resigns, Paralyzing Campaign Watchdog
   url: https://campaignsandelections.com/industry-news/fec-commissioner-resigns/
   outlet: Campaigns & Elections
   date: '2025-04-30'
+  tier: 2
 status: confirmed
 ---
 

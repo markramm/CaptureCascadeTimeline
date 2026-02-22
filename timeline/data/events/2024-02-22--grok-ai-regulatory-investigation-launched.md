@@ -1,7 +1,7 @@
 ---
 id: 2024-02-22--grok-ai-regulatory-investigation-launched
 date: '2024-02-22'
-title: AI Regulatory Bodies Begin Scrutiny of xAI's Grok
+title: 'AI Regulatory Bodies Begin Scrutiny of xAI''s Grok'
 importance: 8
 actors:
 - Elon Musk
@@ -12,13 +12,16 @@ actors:
 sources:
 - outlet: Fortune
   title: 'Data Sheet: FTC''s Broader AI Regulatory Landscape'
-  url: https://fortune.com/2024/11/29/ftc-antitrust-investigation-microsoft-computing-software-licensing-practices/
+  url: 'https://fortune.com/2024/11/29/ftc-antitrust-investigation-microsoft-computing-software-licensing-practices/'
+  tier: 2
 - outlet: CNBC
-  title: Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety for kids
-  url: https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html
+  title: 'Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety for kids'
+  url: 'https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html'
+  tier: 2
 - outlet: The Register
-  title: Ireland opens probe into Musk's X over Grok's AI data practices
-  url: https://www.theregister.com/2025/04/14/ireland_investigation_into_x/
+  title: 'Ireland opens probe into Musk''s X over Grok''s AI data practices'
+  url: 'https://www.theregister.com/2025/04/14/ireland_investigation_into_x/'
+  tier: 2
 tags:
 - ai-regulation
 - tech-oversight
@@ -30,5 +33,4 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 ---
-
 While no specific FTC investigation was definitively confirmed in 2024, xAI's Grok AI faced increasing regulatory attention from multiple agencies. The AI chatbot encountered potential regulatory challenges related to content generation practices, data privacy, and AI safety, particularly in European jurisdictions and US federal agencies.

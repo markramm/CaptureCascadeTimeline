@@ -30,17 +30,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Operation_Dixie
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Operation Dixie Failed but Pushed Racial Equality Forward
   url: https://jacobin.com/2024/09/operation-dixie-cio-civil-rights
   outlet: Jacobin
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'The Anti-Union South: Operation Dixie'
   url: https://georgia-exhibits.galileo.usg.edu/spotlight/fighting-for-freedom-labor-and-civil-rights-in-the-american-south/feature/the-anti-union-south-operation-dixie
   outlet: University of Georgia
   date: '2024-01-01'
   verified: true
+  tier: 1
 status: confirmed
 ---
 

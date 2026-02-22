@@ -27,14 +27,17 @@ sources:
   url: https://www.cnbc.com/2025/03/28/trump-pardons-nikola-trevor-milton-ceo-securities-fraud-electric-vehicle.html
   outlet: CNBC
   date: '2025-03-28'
+  tier: 2
 - title: Trump pardons Trevor Milton, Nikola founder and Utah entrepreneur
   url: https://www.axios.com/local/salt-lake-city/2025/04/01/trump-pardon-nikola-trevor-milton-utah-fraud
   outlet: Axios
   date: '2025-03-28'
+  tier: 2
 - title: Nikola Founder Milton Pardoned by Trump After Fraud Conviction
   url: https://www.bloomberg.com/news/articles/2025-03-28/nikola-founder-milton-pardoned-by-trump-after-fraud-conviction
   outlet: Bloomberg
   date: '2025-03-28'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

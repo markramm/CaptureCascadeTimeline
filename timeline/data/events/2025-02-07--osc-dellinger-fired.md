@@ -29,14 +29,17 @@ sources:
   url: https://www.npr.org/2025/02/10/nx-s1-5292259/hampton-dellinger-trump-special-counsel
   outlet: NPR
   date: '2025-02-10'
+  tier: 1
 - title: Trump asks court to allow firing of watchdog agency official
   url: https://www.scotusblog.com/2025/02/trump-asks-court-to-allow-firing-of-watchdog-agency-official
   outlet: SCOTUSblog
   date: '2025-02-18'
+  tier: 1
 - title: Judge rules that Trump's firing of whistleblower office chief was unlawful
   url: https://www.cbsnews.com/news/judge-rules-trump-firing-whistleblower-office-chief-hampton-dellinger-unlawful/
   outlet: CBS News
   date: '2025-03-01'
----
+
+  tier: 1---
 
 President Trump fired Hampton Dellinger from his position as head of the Office of Special Counsel via email on Friday night, February 7, 2025, stating simply "your position...is terminated, effective immediately." Dellinger immediately sued, arguing his removal violated statutory for-cause protections requiring "inefficiency, neglect of duty, or malfeasance." Judge Amy Berman Jackson initially ordered Dellinger reinstated while the case proceeded. The OSC investigates whistleblower retaliation and Hatch Act violations.

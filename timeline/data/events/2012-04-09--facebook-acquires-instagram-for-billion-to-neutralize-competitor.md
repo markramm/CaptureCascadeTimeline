@@ -20,14 +20,19 @@ actors:
 sources:
 - title: ftc.gov
   url: https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc
+  tier: 1
 - title: fortune.com
   url: https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/
+  tier: 2
 - title: techcrunch.com
   url: https://techcrunch.com/2012/08/22/ftc-facebook-instagram/
+  tier: 2
 - title: thehill.com
   url: https://thehill.com/policy/technology/509635-zuckerberg-pushes-back-on-accusations-that-instagram-acquisition-was/
+  tier: 2
 - title: npr.org
   url: https://www.npr.org/2025/04/13/nx-s1-5358434/ftc-meta-antitrust-trial
+  tier: 1
 status: confirmed
 capture_lanes:
 - Digital & Tech Capture

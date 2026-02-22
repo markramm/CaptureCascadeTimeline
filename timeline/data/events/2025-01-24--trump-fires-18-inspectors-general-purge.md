@@ -25,30 +25,37 @@ sources:
   url: https://www.cnn.com/2025/01/24/politics/trump-fires-inspectors-general/index.html
   outlet: CNN
   date: '2025-01-24'
+  tier: 1
 - title: Warren Condemns Mass Firing of Government Watchdogs
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
   outlet: Senator Warren's Office
   date: '2025-04-29'
+  tier: 1
 - title: Trump fires independent inspectors general in Friday night purge
   url: https://www.politico.com/news/2025/01/25/donald-trump-inspectors-general-firing-00200611
   outlet: Politico
   date: '2025-01-25'
+  tier: 1
 - title: 8 inspectors general fired by Trump file lawsuit
   url: https://www.cbsnews.com/news/inspectors-general-fired-trump-lawsuit/
   outlet: CBS News
   date: '2025-02-12'
+  tier: 1
 - title: Trump administration abruptly fires at least 17 inspectors general
   url: https://apnews.com/article/trump-inspectors-general-fired-2025-01-25
   outlet: Associated Press
   date: '2025-01-25'
+  tier: 1
 - title: Late-night firings criticized as illegal
   url: https://www.reuters.com/world/us/trump-fires-least-12-independent-inspectors-general-washington-post-reports-2025-01-25/
   outlet: Reuters
   date: '2025-01-25'
+  tier: 1
 - title: Grassley, Durbin seek presidential explanation for IG dismissals
   url: https://www.judiciary.senate.gov/press/rep/releases/grassley-durbin-seek-presidential-explanation-for-ig-dismissals
   outlet: Senate Judiciary Committee
   date: '2025-01-28'
+  tier: 1
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2025-01-24--inspector-general-mass-firings'
 _merge_timestamp: '2025-09-05T23:46:55.898503'

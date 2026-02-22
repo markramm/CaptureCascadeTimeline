@@ -27,30 +27,37 @@ sources:
   url: https://alabamareflector.com/2025/12/02/university-of-alabama-suspends-student-magazines-citing-federal-memo/
   outlet: Alabama Reflector
   date: '2025-12-02'
+  tier: 2
 - title: University of Alabama suspends Black, female student magazines citing Donald Trump's DEI rules
   url: https://thehill.com/homenews/education/5631873-university-of-alabama-shutters-diverse-student-magazines/
   outlet: The Hill
   date: '2025-12-03'
+  tier: 2
 - title: Alabama Ends Black-, Women-Focused Student Magazines
   url: https://www.insidehighered.com/news/students/free-speech/2025/12/03/alabama-ends-black-women-focused-student-magazines
   outlet: Inside Higher Ed
   date: '2025-12-03'
+  tier: 2
 - title: University of Alabama suspends Black and female student magazines, citing D.E.I. guidance
   url: https://www.editorandpublisher.com/stories/university-of-alabama-suspends-black-and-female-student-magazines-citing-dei-guidance,259058
   outlet: Editor and Publisher
   date: '2025-12-03'
+  tier: 2
 - title: University of Alabama suspends two student magazines over DEI
   url: https://www.alreporter.com/2025/12/03/university-of-alabama-suspends-two-student-magazines-over-dei/
   outlet: Alabama Political Reporter
   date: '2025-12-03'
+  tier: 2
 - title: U Of Alabama Suspends Black, Women-Centered Student Magazines
   url: https://newsone.com/6657558/university-alabama-suspends-black-centered-student-mag/
   outlet: NewsOne
   date: '2025-12-03'
+  tier: 2
 - title: University Of Alabama Suspends Black And Female Magazines Citing Anti-DEI
   url: https://www.blackenterprise.com/university-alabama-suspends-black-female-magazines-anti-dei/
   outlet: Black Enterprise
   date: '2025-12-03'
+  tier: 2
 connections:
 - Federal Anti-DEI Campaign (2025 ongoing)
 - Bondi Anti-DEI Guidance (July 2025)

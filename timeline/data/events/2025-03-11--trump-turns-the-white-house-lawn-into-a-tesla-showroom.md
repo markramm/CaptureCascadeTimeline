@@ -22,14 +22,17 @@ sources:
   url: https://www.cnbc.com/2025/03/11/trump-turns-the-white-house-lawn-into-a-tesla-showroom.html
   outlet: CNBC
   date: '2025-03-11'
+  tier: 2
 - title: Trump buys a Tesla with Elon Musk in tow, at the White House
   url: https://www.npr.org/2025/03/11/nx-s1-5325306/trump-elon-musk-tesla
   outlet: NPR
   date: '2025-03-11'
+  tier: 1
 - title: Trump's White House Tesla showcase raises ethics concerns
   url: https://abcnews.go.com/Politics/trumps-white-house-tesla-showcase-raises-ethics-concerns/story?id=119719123
   outlet: ABC News
   date: '2025-03-11'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

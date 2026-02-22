@@ -2,7 +2,7 @@
 id: 2008-07-16--rybolovlev-trump-mansion-sale
 date: '2008-07-16'
 importance: 6
-title: Trump sells Palm Beach 'Maison de L'Amitié' to Dmitry Rybolovlev for $95M
+title: 'Trump sells Palm Beach ''Maison de L''Amitié'' to Dmitry Rybolovlev for $95M'
 actors:
 - Dmitry Rybolovlev
 - Donald Trump
@@ -16,27 +16,32 @@ tags:
 status: confirmed
 sources:
 - title: That time a Russian billionaire paid Trump $95 million for a mansion
-  url: https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+  url: 'https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html'
   outlet: CNN
   date: '2016-07-27'
+  tier: 1
 - title: Only in Palm Beach—The $95 Million Tear-Down
-  url: https://www.nytimes.com/2016/08/28/realestate/donald-trump-palm-beach-mansion-tear-down.html
+  url: 'https://www.nytimes.com/2016/08/28/realestate/donald-trump-palm-beach-mansion-tear-down.html'
   outlet: The New York Times
   date: '2016-08-27'
-- title: Senator probes Trump's $95 million Palm Beach mansion sale
-  url: https://abcnews.go.com/Politics/follow-money-senator-probes-trumps-95-million-palm/story?id=52970095
+  tier: 1
+- title: 'Senator probes Trump''s $95 million Palm Beach mansion sale'
+  url: 'https://abcnews.go.com/Politics/follow-money-senator-probes-trumps-95-million-palm/story?id=52970095'
   outlet: ABC News
   date: '2018-02-09'
-- title: Maison de L'Amitie - Wikipedia
-  url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+  tier: 1
+- title: 'Maison de L''Amitie - Wikipedia'
+  url: 'https://en.wikipedia.org/wiki/Maison_de_L''Amitie'
   outlet: Wikipedia
   date: '2024-01-01'
-  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
-- title: Why did a Russian pay $95M to buy Trump's Palm Beach mansion?
-  url: https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Maison_de_L''Amitie'
+- title: 'Why did a Russian pay $95M to buy Trump''s Palm Beach mansion?'
+  url: 'https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion'
   outlet: Seattle Times
   date: '2018-01-01'
-  archive_url: https://web.archive.org/web/20240101000000/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/
+  archive_url: 'https://web.archive.org/web/20240101000000/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/'
+  tier: 2
 notes: 'Price and timing confirmed by property reporting. High price drew scrutiny; a
 
   Senate inquiry sought records but found no public allegation of illegality.
@@ -50,7 +55,6 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 ---
-
 Donald Trump sold the Palm Beach estate to Russian businessman Dmitry
 Rybolovlev for $95 million in July 2008. The structure was demolished in 2016
 and the land subdivided; subsequent lot sales totaled roughly $108 million.

@@ -1,8 +1,8 @@
 ---
 id: 2025-08-19--nexstar-tegna-media-merger
 date: '2025-08-19'
-title: Nexstar-Tegna $6.2 Billion Merger Creates Media Giant Reaching 80% of US Households
-description: Nexstar Media Group announces $6.2 billion acquisition of Tegna, creating broadcasting giant reaching 80% of US TV households. Deal represents massive media consolidation after Trump administration creates "regulatory-friendly environment" following Biden-era restrictions. Industry describes "significant pent-up demand" for mergers.
+title: 'Nexstar-Tegna $6.2 Billion Merger Creates Media Giant Reaching 80% of US Households'
+description: 'Nexstar Media Group announces $6.2 billion acquisition of Tegna, creating broadcasting giant reaching 80% of US TV households. Deal represents massive media consolidation after Trump administration creates "regulatory-friendly environment" following Biden-era restrictions. Industry describes "significant pent-up demand" for mergers.'
 importance: 8
 tags:
 - media-consolidation
@@ -24,16 +24,19 @@ status: confirmed
 sources:
 - outlet: Nexstar Media Group
   date: '2025-08-19'
-  url: https://www.nexstar.tv/press-releases/nexstar-tegna-acquisition
+  url: 'https://www.nexstar.tv/press-releases/nexstar-tegna-acquisition'
   title: Nexstar announces $6.2 billion Tegna acquisition
-- outlet: Broadcasting & Cable
+  tier: 2
+- outlet: 'Broadcasting & Cable'
   date: '2025-08-19'
-  url: https://www.broadcastingcable.com/news/nexstar-tegna-merger
-  title: Nexstar-Tegna deal creates TV giant reaching 80% of households
+  url: 'https://www.broadcastingcable.com/news/nexstar-tegna-merger'
+  title: 'Nexstar-Tegna deal creates TV giant reaching 80% of households'
+  tier: 2
 - outlet: Variety
   date: '2025-08-20'
-  url: https://variety.com/2025/tv/news/nexstar-tegna-merger-media-consolidation
+  url: 'https://variety.com/2025/tv/news/nexstar-tegna-merger-media-consolidation'
   title: Media consolidation accelerates under Trump FCC
+  tier: 1
 connections:
 - 2025-08-08--gray-media-allen-acquisition
 - 2025-01-21--fcc-deregulation-agenda
@@ -42,9 +45,9 @@ patterns:
 - capture-information-space
 - media-consolidation
 - monopolization
-notes: This merger represents dangerous media consolidation that threatens local journalism and democratic discourse. When one company controls TV stations reaching 80% of American households, it gains unprecedented power to shape public opinion and political narratives. The Trump administration's explicit creation of a "regulatory-friendly environment" shows how deregulation serves media monopolization. Combined with the Gray Media acquisitions, we're seeing rapid consolidation of local news into a few corporate hands, reducing diverse perspectives and enabling coordinated propaganda. Local news, trusted by communities, becomes a vector for centralized messaging.
+notes: 'This merger represents dangerous media consolidation that threatens local journalism and democratic discourse. When one company controls TV stations reaching 80% of American households, it gains unprecedented power to shape public opinion and political narratives. The Trump administration''s explicit creation of a "regulatory-friendly environment" shows how deregulation serves media monopolization. Combined with the Gray Media acquisitions, we''re seeing rapid consolidation of local news into a few corporate hands, reducing diverse perspectives and enabling coordinated propaganda. Local news, trusted by communities, becomes a vector for centralized messaging.'
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Legislative Capture
 ---
 Nexstar Media Group announced a $6.2 billion acquisition of Tegna Inc. in August 2025, creating a broadcasting giant that would control television stations reaching approximately 80% of U.S. television households. Broadcasting & Cable and Variety reported on the deal, noting that it represented the acceleration of local broadcast television consolidation under the Trump administration's FCC, which had created what industry observers described as a "regulatory-friendly environment" for media mergers following Biden-era restrictions on broadcast consolidation. The merger came shortly after the FCC's approval of the Skydance-Paramount deal and was part of a broader wave of broadcast consolidation.

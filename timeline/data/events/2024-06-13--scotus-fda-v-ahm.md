@@ -3,7 +3,7 @@ id: 2024-06-13--scotus-fda-v-ahm
 title: 'SCOTUS: No standing in challenge to mifepristone changes (FDA v. AHM)'
 date: '2024-06-13'
 importance: 6
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Supreme Court of the United States
 - Food and Drug Administration
@@ -16,33 +16,36 @@ tags:
 capture_lanes:
 - Judicial Capture
 citations:
-- https://supreme.justia.com/cases/federal/us/602/23-235
-- https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2
-- https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance
-- https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/
+- 'https://supreme.justia.com/cases/federal/us/602/23-235'
+- 'https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2'
+- 'https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance'
+- 'https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/'
 notes: ''
 status: confirmed
 sources:
-- title: FDA v. Alliance for Hippocratic Medicine, 602 U.S. ___ (2024)
-  url: https://supreme.justia.com/cases/federal/us/602/23-235
+- title: 'FDA v. Alliance for Hippocratic Medicine, 602 U.S. ___ (2024)'
+  url: 'https://supreme.justia.com/cases/federal/us/602/23-235'
   outlet: Supreme Court via Justia
   date: '2024-06-13'
-  archive_url: https://web.archive.org/web/20240614000000*/https://supreme.justia.com/cases/federal/us/602/23-235/
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20240614000000*/https://supreme.justia.com/cases/federal/us/602/23-235/'
 - title: Food and Drug Administration v. Alliance for Hippocratic Medicine
-  url: https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2
+  url: 'https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2'
   outlet: SCOTUSblog
   date: '2024-06-13'
-  archive_url: https://web.archive.org/web/20240614000000*/https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/
-- title: Attorney General Merrick B. Garland Statement on the Supreme Court's Decision in FDA v. Alliance for Hippocratic Medicine
-  url: https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance
+  archive_url: 'https://web.archive.org/web/20240614000000*/https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/'
+  tier: 1
+- title: 'Attorney General Merrick B. Garland Statement on the Supreme Court''s Decision in FDA v. Alliance for Hippocratic Medicine'
+  url: 'https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance'
   outlet: U.S. Department of Justice
   date: '2024-06-13'
-  archive_url: https://web.archive.org/web/20240615000000*/https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance
+  archive_url: 'https://web.archive.org/web/20240615000000*/https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance'
+  tier: 1
 - title: 'Looking to the Future: Implications of the SCOTUS Ruling on Mifepristone'
-  url: https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/
+  url: 'https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/'
   outlet: Kaiser Family Foundation (KFF)
   date: '2024-06-13'
-  archive_url: https://web.archive.org/web/20240615000000*/https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/
+  archive_url: 'https://web.archive.org/web/20240615000000*/https://www.kff.org/womens-health-policy/looking-to-the-future-implications-of-the-scotus-ruling-on-mifepristone/'
+  tier: 2
 ---
-
 The Supreme Court unanimously held the plaintiffs lacked Article III standing to challenge FDA's 2016/2021 actions on mifepristone, leaving the agency's changes in place. Justice Kavanaugh delivered the opinion, with the Court finding that the Alliance for Hippocratic Medicine failed to demonstrate a concrete injury that would grant them legal standing to challenge the FDA's regulation of the abortion medication. This ruling preserves current access to mifepristone through telemedicine and pharmacies.

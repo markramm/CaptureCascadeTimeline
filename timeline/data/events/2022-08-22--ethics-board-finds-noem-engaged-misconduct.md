@@ -19,18 +19,22 @@ sources:
   url: https://www.pbs.org/newshour/politics/ethics-board-says-south-dakota-gov-kristi-noem-may-have-engaged-in-misconduct
   outlet: PBS NewsHour
   date: '2022-08-22'
+  tier: 1
 - title: South Dakota Governor Kristi Noem accused of misconduct
   url: https://www.axios.com/2022/08/23/south-dakota-kristi-noem-misconduct-investigation
   outlet: Axios
   date: '2022-08-23'
+  tier: 2
 - title: S.D. Gov. Kristi Noem may have 'engaged in misconduct,' ethics board says
   url: https://www.nbcnews.com/politics/politics-news/sd-gov-kristi-noem-may-engaged-misconduct-ethics-board-says-rcna44356
   outlet: NBC News
   date: '2022-08-22'
+  tier: 1
 - title: Kristi Noem Faces Possible Misconduct Findings in South Dakota
   url: https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/
   outlet: CBS News
   date: '2022-08-22'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

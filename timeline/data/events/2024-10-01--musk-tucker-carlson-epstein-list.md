@@ -18,14 +18,17 @@ sources:
   outlet: Benzinga
   date: '2024-10-07'
   url: https://www.benzinga.com/news/24/10/41220104/elon-musk-says-billionaires-supporting-kamala-harris-are-scared-epstein-list-will-be-made-public-if
+  tier: 2
 - title: Elon Musk Drops Names of Billionaires Who Are "Terrified" About Trump Releasing Epstein List
   outlet: The Gateway Pundit
   date: '2024-10-07'
   url: https://www.thegatewaypundit.com/2024/10/elon-musk-drops-names-billionaires-who-are-terrified/
+  tier: 2
 - title: 'Musk: Gates, Hoffman Terrified of Trump Victory Due to Epstein Client List'
   outlet: Breitbart
   date: '2024-10-08'
   url: https://www.breitbart.com/tech/2024/10/08/elon-musk-bill-gates-reid-hoffman-are-terrified-of-a-trump-victory-because-epstein-client-list-is-going-to-become-public/
+  tier: 3
 notes: This statement foreshadowed Musk's later explosive intervention in June 2025.
 ---
 

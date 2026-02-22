@@ -21,12 +21,14 @@ sources:
   url: https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/
   outlet: BillMoyers.com
   date: '2011-09-14'
+  tier: 2
   verified: true
 - title: '1970s: A corporate blueprint to dominate democracy'
   url: https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html
   outlet: Al Jazeera
   date: '2017-01-01'
   verified: true
+  tier: 1
 notes: The Chamber's task force included executives from U.S. Steel, GE, ABC, GM, CBS, 3M, Phillips Petroleum, and Amway - representing a cross-section of American corporate power. Their recommendations formalized Powell's blueprint into actionable corporate strategy. By this date, Heritage Foundation had already been founded (February 1973) and ALEC established (September 1973).
 status: confirmed
 ---

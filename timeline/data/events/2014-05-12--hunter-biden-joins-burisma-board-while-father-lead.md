@@ -19,14 +19,17 @@ sources:
   url: https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/HSGAC_Finance_Report_FINAL.pdf
   outlet: Senate Committee on Homeland Security and Governmental Affairs
   date: '2020-09-23'
+  tier: 1
 - title: Devon Archer testifies Hunter Biden sold 'illusion' of access to Joe Biden
   url: https://www.cbsnews.com/news/devon-archer-testimony-hunter-biden-joe-biden-house-oversight-committee/
   outlet: CBS News
   date: '2023-07-31'
+  tier: 1
 - title: 'Timeline: Hunter Biden, Burisma and Ukraine'
   url: https://www.nbcnews.com/politics/2020-election/timeline-hunter-biden-burisma-ukraine-n1122161
   outlet: NBC News
   date: '2020-01-18'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

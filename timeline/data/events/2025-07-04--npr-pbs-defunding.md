@@ -25,14 +25,17 @@ sources:
   url: https://www.npr.org/2025/07/04/congress-eliminates-npr-pbs-funding
   outlet: NPR
   date: '2025-07-04'
+  tier: 1
 - title: FCC Commissioner warns public broadcasting cuts threaten emergency alerts
   url: https://www.washingtonpost.com/media/2025/07/05/fcc-commissioner-npr-pbs-emergency
   outlet: The Washington Post
   date: '2025-07-05'
+  tier: 1
 - title: Republicans fulfill long-sought goal of defunding public media
   url: https://www.nytimes.com/2025/07/04/business/media/npr-pbs-funding-eliminated.html
   outlet: The New York Times
   date: '2025-07-04'
+  tier: 1
 notes: Defunding accomplished through rescission package attached to reconciliation bill, bypassing normal appropriations process. Removes critical source of independent journalism and emergency communications infrastructure.
 ---
 

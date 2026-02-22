@@ -15,26 +15,30 @@ tags:
 capture_lanes:
 - International Kleptocracy
 sources:
-- title: Trump campaign starts taking cryptocurrency donations, vows to build a 'crypto army'
-  url: https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html
+- title: 'Trump campaign starts taking cryptocurrency donations, vows to build a ''crypto army'''
+  url: 'https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html'
   outlet: CNBC
   date: '2024-05-21'
-  archive_url: https://web.archive.org/web/20240815000000/https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20240815000000/https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html'
 - title: Crypto industry surpasses traditional giants with at least $238M in election spending
-  url: https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants
+  url: 'https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants'
   outlet: Fox Business
   date: '2024-05-01'
-  archive_url: https://web.archive.org/web/20240815000000/https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants
+  archive_url: 'https://web.archive.org/web/20240815000000/https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants'
+  tier: 2
 - title: Trump Becomes First Major Party Candidate to Accept Crypto Donations
-  url: https://www.coindesk.com/business/2024/05/21/trump-becomes-first-major-party-candidate-to-accept-crypto-donations
+  url: 'https://www.coindesk.com/business/2024/05/21/trump-becomes-first-major-party-candidate-to-accept-crypto-donations'
   outlet: CoinDesk
   date: '2024-05-21'
   archive_url: null
+  tier: 2
 - title: Trump campaign will now accept crypto contributions
-  url: https://www.marketplace.org/story/2024/05/27/trump-campaign-will-now-accept-crypto-contributions
+  url: 'https://www.marketplace.org/story/2024/05/27/trump-campaign-will-now-accept-crypto-contributions'
   outlet: Marketplace
   date: '2024-05-27'
   archive_url: null
+  tier: 2
 notes: Strategic timing to capture crypto industry political spending. First major party candidate to fully embrace cryptocurrency donations.
 status: confirmed
 ---

@@ -28,18 +28,22 @@ sources:
   url: https://www.govexec.com/workforce/2025/07/some-agencies-are-walking-back-planned-layoffs-trump-administration-says/406737/
   outlet: Government Executive
   date: '2025-07-08'
+  tier: 2
 - title: Trump Administration's Mass Layoffs of Federal Workers Are Illegal
   url: https://www.cbpp.org/research/federal-budget/trump-administrations-mass-layoffs-of-federal-workers-are-illegal
   outlet: Center on Budget and Policy Priorities
   date: '2025-07-08'
+  tier: 1
 - title: Supreme Court lifts injunctions on federal workforce mass firings
   url: https://www.npr.org/2025/07/08/nx-s1-5429615/supreme-court-federal-rifs
   outlet: NPR
   date: '2025-07-08'
+  tier: 1
 - title: Supreme Court clears the way for Trump's plans to downsize the federal workforce
   url: https://federalnewsnetwork.com/workforce/2025/07/supreme-court-clears-the-way-for-trumps-plans-to-downsize-the-federal-workforce/
   outlet: Federal News Network
   date: '2025-07-08'
+  tier: 2
 notes: Landmark Supreme Court decision enabling unprecedented federal workforce reduction
 status: confirmed
 ---

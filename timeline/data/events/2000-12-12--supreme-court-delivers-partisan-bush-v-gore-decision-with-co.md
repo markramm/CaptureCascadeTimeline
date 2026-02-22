@@ -26,18 +26,22 @@ sources:
   url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/bush-v-gore
   outlet: National Constitution Center
   date: '2000-12-12'
+  tier: 1
 - title: Bush v. Gore | Legal Analysis and Full Case Text
   url: https://www.law.cornell.edu/wex/bush_v_gore_(2000)
   outlet: Cornell Legal Information Institute
   date: '2000-12-12'
+  tier: 1
 - title: Bush v. Gore | Supreme Court Decision Details
   url: https://www.oyez.org/cases/2000/00-949
   outlet: Oyez Supreme Court Repository
   date: '2000-12-12'
+  tier: 2
 - title: How Amy Coney Barrett played a role in Bush v. Gore
   url: https://www.washingtonpost.com/politics/amy-coney-barrett-bush-gore/2020/10/10/594641b8-09e3-11eb-991c-be6ead8c4018_story.html
   outlet: The Washington Post
   date: '2020-10-10'
+  tier: 1
 id: 2000-12-12--supreme-court-delivers-partisan-bush-v-gore-decision-with-co
 capture_lanes:
 - Judicial Capture

@@ -1,7 +1,7 @@
 ---
 id: 2000-12-21--commodity-futures-modernization-act
 date: '2000-12-21'
-title: Clinton Signs Commodity Futures Modernization Act, Cementing Derivatives Deregulation
+title: 'Clinton Signs Commodity Futures Modernization Act, Cementing Derivatives Deregulation'
 importance: 10
 actors:
 - Bill Clinton
@@ -18,35 +18,39 @@ tags:
 - shadow-banking
 sources:
 - title: Commodity Futures Modernization Act of 2000
-  url: https://www.congress.gov/106/plaws/publ554/PLAW-106publ554.pdf
+  url: 'https://www.congress.gov/106/plaws/publ554/PLAW-106publ554.pdf'
   outlet: U.S. Congress
   date: '2000-12-21'
+  tier: 1
 - title: 2000 Commodities Act Paved Way For Problems
-  url: https://www.npr.org/templates/story/story.php?storyId=102185942
+  url: 'https://www.npr.org/templates/story/story.php?storyId=102185942'
   outlet: NPR
   date: '2009-03-30'
-- title: It's Time for Sensible Regulation of Derivatives
-  url: https://www.brookings.edu/opinions/its-time-for-sensible-regulation-of-derivatives/
+  tier: 1
+- title: 'It''s Time for Sensible Regulation of Derivatives'
+  url: 'https://www.brookings.edu/opinions/its-time-for-sensible-regulation-of-derivatives/'
   outlet: Brookings Institution
   date: '2023'
+  tier: 1
   comment: Retrospective analysis of derivatives deregulation
-- title: Examining the Commodity Futures Modernization Act of 2000 and Recent Market
-    Developments
-  url: https://www.banking.senate.gov/hearings/examining-the-commodity-futures-modernization-act-of-2000-and-recent-market-developments
-  outlet: Senate Committee on Banking, Housing, and Urban Affairs
+- title: Examining the Commodity Futures Modernization Act of 2000 and Recent Market Developments
+  url: 'https://www.banking.senate.gov/hearings/examining-the-commodity-futures-modernization-act-of-2000-and-recent-market-developments'
+  outlet: 'Senate Committee on Banking, Housing, and Urban Affairs'
   date: '2023'
-  comment: Official senate examination of the act's long-term implications
+  comment: 'Official senate examination of the act''s long-term implications'
+  tier: 1
 - title: Derivatives and the Legal Origin of the 2008 Credit Crisis
-  url: https://scholarship.law.cornell.edu/facpub/720/
+  url: 'https://scholarship.law.cornell.edu/facpub/720/'
   outlet: Cornell Law School
   date: '2020'
   comment: Academic analysis of derivatives and financial crisis
-- title: 'The Commodity Futures Modernization Act of 2000: Derivatives Regulation
-    Reconsidered'
-  url: https://www.everycrsreport.com/reports/RL30434.html
+  tier: 1
+- title: 'The Commodity Futures Modernization Act of 2000: Derivatives Regulation Reconsidered'
+  url: 'https://www.everycrsreport.com/reports/RL30434.html'
   outlet: Congressional Research Service
   date: '2021'
   comment: Congressional Research Service scholarly analysis
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture
@@ -55,7 +59,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 President Bill Clinton signed the Commodity Futures Modernization Act (CFMA) into law on his last day before Christmas recess, completing the deregulation of the derivatives market that Brooksley Born had warned against two years earlier. The legislation, inserted into a 10,000-page authorization bill by Senator Phil Gramm, removed regulatory oversight of over-the-counter derivatives, including credit default swaps, and prohibited states from regulating derivatives.
 
 Treasury Secretary Lawrence Summers had lobbied extensively for the legislation, providing testimony that derivatives should remain largely unregulated. The Clinton Administration's letter supporting the act was used by Phil Gramm to help sell the legislation. The CFMA represented the final victory of Wall Street's deregulatory agenda, removing the last major regulatory barrier to the free use of derivatives and setting the stage for the explosive growth of the shadow banking system that would collapse in 2008.

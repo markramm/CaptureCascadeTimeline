@@ -13,12 +13,15 @@ sources:
 - title: Pro Bono Support Network Launch Report
   url: https://constitutionaldefense.org/pro-bono-launch
   outlet: Legal Support Quarterly
+  tier: 2
 - title: Pro Bono Net 2025 Initiatives Overview
   url: https://www.probono.net/
   outlet: Pro Bono Net
+  tier: 2
 - title: 'Legal Services Corporation: America''s Partner for Equal Justice'
   url: https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help
   outlet: Legal Services Corporation
+  tier: 1
 tags:
 - pro-bono-legal
 - constitutional-defense

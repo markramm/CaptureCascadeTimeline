@@ -18,18 +18,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Ken_Starr
   outlet: Wikipedia
   date: '1994-08-05'
+  tier: 2
 - title: Kenneth Starr
   url: https://www.pbs.org/wgbh/americanexperience/features/clinton-interview-kenneth-starr/
   outlet: PBS American Experience
   date: '2018-01-01'
+  tier: 1
 - title: Whitewater affair
   url: https://www.britannica.com/topic/Whitewater-affair
   outlet: Encyclopedia Britannica
   date: '2024-01-01'
+  tier: 2
 - title: Ken Starr Biography
   url: https://www.britannica.com/biography/Kenneth-W-Starr
   outlet: Encyclopedia Britannica
   date: '2024-01-01'
+  tier: 2
 id: 1994-08-05--kenneth-starr-replaces-fiske-whitewater-investigation
 capture_lanes:
 - Judicial Capture

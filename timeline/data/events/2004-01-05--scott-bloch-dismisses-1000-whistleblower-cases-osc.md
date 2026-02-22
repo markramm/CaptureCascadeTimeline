@@ -20,14 +20,17 @@ sources:
   url: https://www.whistleblower.org/press-releases/good-riddance-special-counsel-scott-bloch-enemy-whistleblowers-forced-out-office/
   outlet: Government Accountability Project
   date: '2008-10-23'
+  tier: 1
 - title: Former Head of OSC Pleads Guilty to Criminal Contempt
   url: https://www.justice.gov/opa/pr/former-head-us-office-special-counsel-pleads-guilty-criminal-contempt-congress
   outlet: U.S. Department of Justice
   date: '2010-04-27'
+  tier: 1
 - title: Whistleblower groups call on President Bush to fire Scott Bloch
   url: https://www.pogo.org/press-release/2007/05/whistleblower-groups-call-on-president-bush-to-fire-special-counsel-scott-bloch/
   outlet: Project on Government Oversight
   date: '2007-05-24'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

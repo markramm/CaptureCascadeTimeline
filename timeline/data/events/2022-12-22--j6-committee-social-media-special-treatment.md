@@ -28,14 +28,17 @@ sources:
   url: https://www.washingtonpost.com/technology/2022/12/22/jan6-twitter-facebook-report/
   outlet: The Washington Post
   date: '2022-12-22'
+  tier: 1
 - title: House Jan. 6 report details how tech companies bent rules to avoid penalizing conservatives
   url: https://www.cnn.com/2022/12/23/tech/jan-6-committee-social-media-report/index.html
   outlet: CNN
   date: '2022-12-23'
+  tier: 1
 - title: Jan. 6 Committee Report Shows Big Tech Platforms Failed to Act on Extremist Content
   url: https://www.nytimes.com/2022/12/23/technology/jan-6-committee-report-social-media.html
   outlet: The New York Times
   date: '2022-12-23'
+  tier: 1
 notes: 122-page internal committee memo documented extensive platform bias. Facebook's former head of dangerous organizations Brian Fishman testified platforms feared conservative backlash more than violence risk.
 ---
 

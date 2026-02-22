@@ -21,18 +21,22 @@ sources:
   url: https://www.eac.gov/news/2025/06/30/us-election-assistance-commission-releases-2024-election-administration-and-voting
   outlet: U.S. Election Assistance Commission
   date: '2025-06-30'
+  tier: 1
 - title: 2024 EAVS Comprehensive Report
   url: https://www.eac.gov/sites/default/files/2025-06/2024_EAVS_Report_508c.pdf
   outlet: U.S. Election Assistance Commission
   date: '2025-06-30'
+  tier: 1
 - title: June 2025 EAC Monthly Updates and Events
   url: https://www.eac.gov/june-2025-eac-monthly-updates-and-events
   outlet: U.S. Election Assistance Commission
   date: '2025-06-01'
+  tier: 1
 - title: 'Agency Information Collection Activities: 2024 Election Administration and Voting Survey'
   url: https://www.federalregister.gov/documents/2024/03/04/2024-04401/agency-information-collection-activities-2024-election-administration-and-voting-survey
   outlet: Federal Register
   date: '2024-03-04'
----
+
+  tier: 1---
 
 EAC releases comprehensive 2024 EAVS with 100% response rate from all states/territories. Shows 65% turnout (158M ballots), 72% in-person voting, mail voting down to 30%. 211M registered voters (86.6% of eligible). 98% of jurisdictions use paper ballots or auditable records. Only 80 jurisdictions in 3 states lack paper trail.

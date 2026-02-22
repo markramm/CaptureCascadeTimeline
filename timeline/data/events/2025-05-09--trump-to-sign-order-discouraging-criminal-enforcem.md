@@ -18,22 +18,27 @@ sources:
   url: https://www.reuters.com/world/us/trump-sign-order-discouraging-criminal-enforcement-regulatory-offenses-2025-05-09/
   outlet: Reuters
   date: '2025-05-09'
+  tier: 1
 - title: 'Fact Sheet: President Donald J. Trump Fights Overcriminalization in Federal Regulations'
   url: https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-fights-overcriminalization-in-federal-regulations/
   outlet: White House
   date: '2025-05-09'
+  tier: 1
 - title: Key Insights on President Trump's Executive Order Limiting Criminal Enforcement of Regulatory Offenses
   url: https://www.lw.com/en/insights/2025/06/key-insights-on-president-trump-executive-order-limiting-criminal-enforcement-of-regulatory-offenses
   outlet: Latham & Watkins
   date: '2025-06-01'
+  tier: 2
 - title: Trump Issues Executive Order Taking Aim at Regulatory Crimes
   url: https://natlawreview.com/article/trump-administration-takes-aim-regulatory-overcriminalization
   outlet: National Law Review
   date: '2025-05-10'
+  tier: 2
 - title: 'Curbing Regulatory Crimes: Latest Executive Order Warrants Close Attention by Corporate Legal and Compliance Teams'
   url: https://www.bakerbotts.com/thought-leadership/publications/2025/may/curbing-regulatory-over-criminalization-president-trumps-latest-executive-order
   outlet: Baker Botts
   date: '2025-05-10'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

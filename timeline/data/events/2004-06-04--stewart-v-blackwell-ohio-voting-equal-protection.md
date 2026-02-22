@@ -22,18 +22,22 @@ sources:
   url: https://ir.law.fsu.edu/cgi/viewcontent.cgi?article=1609&context=lr
   outlet: Florida State University Law Review
   date: '2004-06-04'
+  tier: 1
 - title: 2004 United States Election Voting Controversies
   url: https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies
   outlet: Wikipedia
   date: '2004-11-02'
+  tier: 2
 - title: 'Case Summary: Stewart v. Blackwell on Election Technology'
   url: https://caselaw.findlaw.com/us-6th-circuit/1445474.html
   outlet: FindLaw Legal News
   date: '2006-04-21'
+  tier: 2
 - title: 'Election Law: Disparate Voting Technologies as Constitutional Violation'
   url: http://electionlawblog.org/archives/006289.html
   outlet: Election Law Blog
   date: '2006-04-22'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Media Capture & Control

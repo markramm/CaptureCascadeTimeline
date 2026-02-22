@@ -24,18 +24,22 @@ sources:
   title: Dallas Fed President Kaplan to Step Down Oct. 8
   outlet: Reuters
   date: '2021-09-27'
+  tier: 1
 - url: https://www.reuters.com/business/finance/boston-fed-president-rosengren-retire-early-due-health-reasons-2021-09-27/
   title: Boston Fed President Rosengren to Retire Early Due to Health Reasons
   outlet: Reuters
   date: '2021-09-27'
+  tier: 1
 - url: https://www.npr.org/2021/09/27/1041059924/2-top-federal-reserve-officials-retire-after-trading-disclosures
   title: 2 Top Federal Reserve Officials Retire After Trading Disclosures
   outlet: NPR
   date: '2021-09-27'
+  tier: 1
 - url: https://www.bloomberg.com/news/articles/2021-09-27/rosengren-exit-may-give-fed-board-more-sway-in-picking-successor
   title: Trading Scandal That Rocked the Fed Offers Chance to Reshape It
   outlet: Bloomberg
   date: '2021-09-30'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Financial Capture

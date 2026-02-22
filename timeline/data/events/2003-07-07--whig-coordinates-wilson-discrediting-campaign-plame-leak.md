@@ -27,14 +27,17 @@ sources:
   url: https://www.washingtonpost.com/wp-srv/politics/special/plame/Plame_KeyPlayers.html
   outlet: The Washington Post
   date: '2007-07-03'
+  tier: 1
 - title: 23 Administration Officials Involved In Plame Leak
   url: https://thinkprogress.org/23-administration-officials-involved-in-plame-leak-ea5a42de4684/
   outlet: Think Progress
   date: '2005-10-21'
+  tier: 2
 - title: A War on Wilson?
   url: https://content.time.com/time/nation/article/0,8599,465270,00.html
   outlet: TIME
   date: '2003-07-17'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

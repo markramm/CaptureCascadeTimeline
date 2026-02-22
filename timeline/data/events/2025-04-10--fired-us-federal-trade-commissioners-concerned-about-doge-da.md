@@ -10,10 +10,10 @@ capture_lanes:
 - Financial Capture
 capture_type: personnel_rewiring
 date: '2025-04-10'
-description: Fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya raised urgent concerns about the Trump administration's 'Department of Government Efficiency' (DOGE) gaining potential access to confidential merger files and nonpublic business data, which could be exploited to manipulate markets or benefit specific corporate interests.
+description: 'Fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya raised urgent concerns about the Trump administration''s ''Department of Government Efficiency'' (DOGE) gaining potential access to confidential merger files and nonpublic business data, which could be exploited to manipulate markets or benefit specific corporate interests.'
 id: 2025-04-10--fired-us-federal-trade-commissioners-concerned-about-doge-da
 importance: 9
-location: Washington, D.C.
+location: 'Washington, D.C.'
 patterns:
 - kleptocratic-capture
 - regulatory-agency-infiltration
@@ -21,15 +21,18 @@ sources:
 - date: '2025-04-10'
   outlet: Reuters
   title: Fired US Federal Trade Commissioners concerned about DOGE data access
-  url: https://www.reuters.com/world/us/fired-us-federal-trade-commissioners-concerned-about-doge-data-access-2025-04-10/
+  url: 'https://www.reuters.com/world/us/fired-us-federal-trade-commissioners-concerned-about-doge-data-access-2025-04-10/'
+  tier: 1
 - date: '2025-04-11'
   outlet: Iowa Capital Dispatch
-  title: Federal trade commissioners alarmed as Elon Musk's team seeks antitrust records
-  url: https://iowacapitaldispatch.com/2025/04/11/federal-trade-commissioners-alarmed-as-elon-musks-team-seeks-antitrust-records/
+  title: 'Federal trade commissioners alarmed as Elon Musk''s team seeks antitrust records'
+  url: 'https://iowacapitaldispatch.com/2025/04/11/federal-trade-commissioners-alarmed-as-elon-musks-team-seeks-antitrust-records/'
+  tier: 2
 - date: '2025-04-11'
   outlet: Highland County Press
-  title: Federal trade commissioners alarmed as Musk's team seeks antitrust records
-  url: https://highlandcountypress.com/headlines/federal-trade-commissioners-alarmed-elon-musks-team-seeks-antitrust-records
+  title: 'Federal trade commissioners alarmed as Musk''s team seeks antitrust records'
+  url: 'https://highlandcountypress.com/headlines/federal-trade-commissioners-alarmed-elon-musks-team-seeks-antitrust-records'
+  tier: 2
 status: confirmed
 tags:
 - regulatory-capture
@@ -40,5 +43,4 @@ title: Fired US Federal Trade Commissioners Sound Alarm on Potential Data Access
 notes: Event from comprehensive kleptocracy timeline tracking.
 connections: []
 ---
-
 Democratic FTC Commissioners Slaughter and Bedoya warned that the Trump administration's 'Department of Government Efficiency' (DOGE) was seeking access to highly sensitive, confidential business records that could potentially manipulate markets. They emphasized that under no circumstances should DOGE be permitted to access this data, highlighting a significant regulatory capture attempt.

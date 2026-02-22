@@ -22,12 +22,15 @@ sources:
 - outlet: Greenpeace
   title: 'Koch Industries: Secretly Funding the Climate Denial Machine'
   url: https://www.greenpeace.org/usa/koch-industries-secretly-fund/
+  tier: 2
 - outlet: Greenpeace Research
   title: Koch Climate Opposition Funding
   url: https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-climate-opposition-funding/
+  tier: 2
 - outlet: Scientific American
   title: Who Funds Contrariness on Climate Change?
   url: https://www.scientificamerican.com/article/who-funds-contrariness-on/
+  tier: 1
 status: confirmed
 id: 1997-01-01--koch-industries-launches-massive-climate-denial-fu
 priority_id: claude-priority-climate-denial-fossil-fuel-network

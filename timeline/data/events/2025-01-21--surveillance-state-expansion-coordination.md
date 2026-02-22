@@ -16,12 +16,15 @@ sources:
 - title: Surveillance Oversight Analysis
   url: https://surveillancetracker.org
   outlet: Electronic Frontier Foundation
+  tier: 1
 - title: Senate Approves Massive Expansion of Government Surveillance Power
   url: https://www.brennancenter.org/our-work/analysis-opinion/senate-approves-massive-expansion-government-surveillance-power-brennan
   outlet: Brennan Center for Justice
+  tier: 1
 - title: Biden Signs Extension of Controversial Spying Program into 2026
   url: https://www.nextgov.com/policy/2024/04/biden-signs-extension-controversial-spying-program-2026/395945/
   outlet: Nextgov/FCW
+  tier: 1
 tags:
 - surveillance-state
 - intelligence-community

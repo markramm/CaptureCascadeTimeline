@@ -11,12 +11,15 @@ sources:
 - outlet: Greenpeace
   title: 'The Powell Memo: A Corporate Blueprint to Dominate Democracy'
   url: https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/
+  tier: 2
 - outlet: Bill Moyers
   title: 'The Powell Memo: A Call to Arms for Corporations'
   url: https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/
+  tier: 2
 - outlet: Al Jazeera Interactive
   title: 'The People vs America: 1970s Corporate Blueprint'
   url: https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html
+  tier: 2
 tags:
 - capture-cascade
 - corporate-lobbying

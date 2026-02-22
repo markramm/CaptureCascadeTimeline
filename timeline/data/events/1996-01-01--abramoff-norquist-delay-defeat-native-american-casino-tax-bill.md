@@ -15,12 +15,15 @@ sources:
 - outlet: NPR
   title: Six Degrees Of Jack Abramoff
   url: https://www.npr.org/2007/01/19/126399271/six-degrees-of-jack-abramoff
+  tier: 1
 - outlet: Justice Department Archive
   title: Former Lobbyist Jack Abramoff Sentenced
   url: https://www.justice.gov/archive/opa/pr/2008/September/08-crm-779.html
+  tier: 1
 - outlet: Wikipedia
   title: Jack Abramoff Indian Lobbying Scandal
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
+  tier: 2
 tags:
 - lobbying-corruption
 - regulatory-capture

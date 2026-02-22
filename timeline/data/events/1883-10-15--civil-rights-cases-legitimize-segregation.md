@@ -11,19 +11,23 @@ sources:
 - title: 'On Oct 15, 1883: Supreme Court Strikes Down Civil Rights Act, Legitimating Segregation'
   outlet: Equal Justice Initiative
   url: https://calendar.eji.org/racial-injustice/oct/15
+  tier: 2
   year: 2024
 - title: 'Oct. 15, 1883: Civil Rights Act of 1875 Declared Unconstitutional'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/civil-rights-act-declared-unconstitutional/
   year: 2024
+  tier: 2
 - title: The Civil Rights Cases (1883)
   outlet: Constitution Center
   url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/the-civil-rights-cases
   year: 2024
+  tier: 2
 - title: Civil Rights Cases
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Civil_Rights_Cases
   year: 2024
+  tier: 2
 tags:
 - judicial-capture
 - civil-rights-destruction

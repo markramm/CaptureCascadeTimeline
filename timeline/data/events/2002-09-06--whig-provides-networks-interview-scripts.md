@@ -7,6 +7,7 @@ significance: Reveals a systematic propaganda effort to manipulate media coverag
 sources:
 - url: https://fair.org/extra/spinning-the-war-network-coordination/
   title: 'FAIR Analysis: Media Coordination During Iraq War Buildup'
+  tier: 2
   type: media_criticism
   outlet: FAIR
 - url: https://en.wikipedia.org/wiki/White_House_Iraq_Group
@@ -14,11 +15,13 @@ sources:
   type: reference
   outlet: Wikipedia
   access_date: '2025-10-06'
+  tier: 2
 - url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   title: White House Iraq Group Media Strategy
   type: media_analysis
   outlet: SourceWatch
   access_date: '2025-10-06'
+  tier: 2
 tags:
 - whig
 - media-control

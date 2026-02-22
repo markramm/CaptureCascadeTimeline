@@ -13,19 +13,23 @@ sources:
 - title: 'NAFTA at Seven: Its Impact On Workers In All Three Nations'
   outlet: Economic Policy Institute
   url: https://www.epi.org/publication/briefingpapers_nafta01_index/
+  tier: 1
   retrieval_date: '2025-12-23'
 - title: 'The high price of free trade: NAFTA''s failure has cost the United States jobs across the nation'
   outlet: Economic Policy Institute
   url: https://www.epi.org/publication/briefingpapers_bp147/
   retrieval_date: '2025-12-23'
+  tier: 1
 - title: NAFTA and the USMCA - Weighing the Impact of North American Trade
   outlet: Council on Foreign Relations
   url: https://www.cfr.org/backgrounder/naftas-economic-impact
   retrieval_date: '2025-12-23'
+  tier: 1
 - title: NAFTA's effect on United States employment
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/NAFTA's_effect_on_United_States_employment
   retrieval_date: '2025-12-23'
+  tier: 2
 tags:
 - deregulation
 - neoliberalism

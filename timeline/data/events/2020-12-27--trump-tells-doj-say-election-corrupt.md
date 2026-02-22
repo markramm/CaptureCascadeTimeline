@@ -22,18 +22,22 @@ sources:
   url: https://firstamendment.mtsu.edu/article/jack-smiths-final-report-on-trump-investigations-2025/
   outlet: First Amendment Encyclopedia
   date: '2025-01-14'
+  tier: 2
 - title: Report of Special Counsel Smith Volume 1 January 2025
   url: https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf
   outlet: Department of Justice
   date: '2025-01-14'
+  tier: 1
 - title: Newly released notes show Trump pressured DOJ to declare election was 'corrupt'
   url: https://abcnews.go.com/US/newly-released-notes-show-trump-pressured-doj-declare/story?id=79172208
   outlet: ABC News
   date: '2021-07-30'
+  tier: 1
 - title: Notes Show Trump Pressing DOJ Leaders To Call 2020 Election Corrupt
   url: https://www.npr.org/2021/07/30/1022826068/notes-show-trump-pressed-the-justice-department-to-declare-the-2020-election-cor
   outlet: NPR
   date: '2021-07-30'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

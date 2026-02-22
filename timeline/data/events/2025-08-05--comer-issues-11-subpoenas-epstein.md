@@ -21,18 +21,22 @@ sources:
   url: https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/
   outlet: House Oversight Committee
   date: '2025-08-05'
+  tier: 1
 - title: House Oversight chair issues subpoenas for Epstein files, depositions with Clintons
   url: https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317
   outlet: ABC News
   date: '2025-08-05'
+  tier: 1
 - title: House Oversight Committee subpoenas Justice Department for Epstein files
   url: https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress
   outlet: CNN
   date: '2025-08-05'
+  tier: 1
 - title: House Oversight Committee subpoenas the Justice Department for Epstein files
   url: https://www.npr.org/2025/08/05/nx-s1-5493371/house-oversight-committee-epstein-subpoenas-justice-department
   outlet: NPR
   date: '2025-08-05'
+  tier: 1
 notes: The exclusion of Alex Acosta from subpoenas raised questions about selective investigation.
 ---
 

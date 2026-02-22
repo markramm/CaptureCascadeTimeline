@@ -23,18 +23,22 @@ sources:
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
   outlet: Senator Warren's Office
   date: '2025-04-29'
+  tier: 1
 - title: Trump Hosts Private Dinner for Top Cryptocurrency Investors
   url: https://www.politico.com/news/2025/05/22/trump-crypto-dinner-access
   outlet: Politico
   date: '2025-05-22'
+  tier: 1
 - title: Trump hosts $148M US crypto dinner slammed by Democrats as 'orgy of corruption'
   url: https://www.cbc.ca/news/world/trump-crypto-golf-club-dinner-1.7541823
   outlet: CBC News
   date: '2025-05-22'
+  tier: 1
 - title: The Crypto President? Trump's Cryptocurrency Venture Raises Political Concerns
   url: https://www.npr.org/2025/05/12/1250811326/1a-crypto-05-12-2025
   outlet: NPR
   date: '2025-05-12'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Executive Power Expansion

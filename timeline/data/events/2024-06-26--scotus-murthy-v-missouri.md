@@ -35,14 +35,17 @@ sources:
   url: https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf
   outlet: Supreme Court
   date: '2024-06-26'
+  tier: 1
 - title: Supreme Court Throws Out Challenge to Biden Administration Social Media Contacts
   url: https://www.scotusblog.com/2024/06/supreme-court-throws-out-challenge-to-biden-administration-social-media-contacts/
   outlet: SCOTUSblog
   date: '2024-06-26'
+  tier: 1
 - title: Supreme Court Dodges Key Question in Murthy v. Missouri
   url: https://www.eff.org/deeplinks/2024/07/supreme-court-dodges-key-question-murthy-v-missouri-and-dismisses-case-failing
   outlet: Electronic Frontier Foundation
   date: '2024-07-01'
----
+
+  tier: 1---
 
 The Supreme Court ruled 6-3 on June 26, 2024, that neither state nor individual plaintiffs established standing to enjoin federal officials over alleged coercion of social-media platforms. Justice Barrett's majority opinion found plaintiffs failed to show government actions caused platforms to moderate their specific posts, noting platforms had independently moderated similar content before government involvement. The Court avoided ruling on First Amendment questions about government jawboning, deciding on narrow procedural grounds instead.

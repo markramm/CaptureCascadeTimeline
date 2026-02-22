@@ -13,18 +13,22 @@ sources:
   title: The Manifesto of the Reagan Revolution
   url: https://www.nytimes.com/2002/[historical-review]
   date: '2002'
+  tier: 1
 - outlet: The Wall Street Journal
   title: Heritage Foundation's Intellectual Energy for Reagan's Agenda
   url: https://www.wsj.com/[historical-article]
   date: '1981-01-01'
+  tier: 1
 - outlet: United Press International
   title: Conservative Policy Blueprint Aims to Reshape Government
   url: https://www.upi.com/[historical-article]
   date: 1981-01
+  tier: 2
 - outlet: The Washington Post
   title: Heritage Foundation Gives Reagan Passing Grade
   url: https://www.washingtonpost.com/archive/politics/1981/11/22/heritage-foundation-gives-reagan-passing-grade/6ddd166c-ef59-4f2d-b669-372f19bc4d6b/
   date: '1981-11-22'
+  tier: 1
 importance: 9
 tags:
 - regulatory-capture

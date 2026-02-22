@@ -11,28 +11,32 @@ capture_lanes:
 date: '2025-01-28'
 id: 2025-01-28--milley-security-detail-revoked-retaliation
 importance: 9
-location: Pentagon, Washington DC
+location: 'Pentagon, Washington DC'
 sources:
 - date: '2025-01-28'
   outlet: NBC News
   title: Defense secretary revokes Mark Milleys security detail and orders IG review
-  url: https://www.nbcnews.com/politics/donald-trump/defense-secretary-revokes-mark-milleys-security-detail-orders-ig-revie-rcna189767
+  url: 'https://www.nbcnews.com/politics/donald-trump/defense-secretary-revokes-mark-milleys-security-detail-orders-ig-revie-rcna189767'
   verified: true
+  tier: 1
 - date: '2025-01-28'
   outlet: CBS News
   title: Gen. Mark Milleys security detail and security clearance revoked
-  url: https://www.cbsnews.com/news/gen-mark-milley-security-detail-and-clearance-revoked/
+  url: 'https://www.cbsnews.com/news/gen-mark-milley-security-detail-and-clearance-revoked/'
   verified: true
+  tier: 1
 - date: '2025-01-29'
   outlet: The Hill
-  title: Trump's Milley retribution sends chilling signal to military brass, critics say
-  url: https://thehill.com/policy/defense/5114471-trump-milley-security-revoked/
+  title: 'Trump''s Milley retribution sends chilling signal to military brass, critics say'
+  url: 'https://thehill.com/policy/defense/5114471-trump-milley-security-revoked/'
   verified: true
+  tier: 2
 - date: '2025-01-29'
   outlet: NPR
-  title: Hegseth strips Milley of his security detail, orders investigation
-  url: https://www.npr.org/2025/01/29/nx-s1-5279386/hegseth-milley-security-detail
+  title: 'Hegseth strips Milley of his security detail, orders investigation'
+  url: 'https://www.npr.org/2025/01/29/nx-s1-5279386/hegseth-milley-security-detail'
   verified: true
+  tier: 1
 status: confirmed
 tags:
 - milley
@@ -44,5 +48,4 @@ tags:
 - pentagon-ig-investigation
 title: Defense Secretary Revokes General Milley Security Detail in Political Retaliation
 ---
-
 Defense Secretary Pete Hegseth revoked former Joint Chiefs Chairman General Mark Milley's security detail and clearance, ordering an investigation to determine if Milley should be stripped of his four-star rank. The action targets Milley despite active Iranian assassination threats against him for his role in the Soleimani killing. Hegseth orders the Pentagon Inspector General to review "the facts and circumstances" of Milley's conduct to justify potential rank reduction. The move represents systematic retaliation against military leaders who opposed Trump's political demands, including Milley's post-January 6 communications with China to prevent conflict and his criticism of Lafayette Square militarization. Senator Jack Reed criticized the decision as "unconscionable and recklessly negligent", highlighting the ongoing Iranian threats against Milley.

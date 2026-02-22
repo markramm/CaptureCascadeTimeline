@@ -21,17 +21,20 @@ sources:
   url: https://www.dol.gov/general/topic/retirement/erisa
   outlet: U.S. Department of Labor
   date: '2024-01-01'
+  tier: 1
   verified: true
 - title: ERISA - Wikipedia
   url: https://en.wikipedia.org/wiki/Employee_Retirement_Income_Security_Act_of_1974
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Protecting ERISA Preemption
   url: https://www.eric.org/protecting-erisa-preemption/
   outlet: The ERISA Industry Committee
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: While ERISA was framed as protecting workers' pensions, its preemption clause prevents states from regulating employee benefit plans, creating a regulatory vacuum that benefits corporations. ERISA plans enjoy immunities not available to other insurers, and denied benefits claims can only be heard by federal judges without jury trials.
 status: confirmed
 ---

@@ -23,14 +23,17 @@ sources:
   url: https://apnews.com/article/trump-crypto-watch-sneakers-memecoin-2b49fd975e2cce7a6f61e068f6fd04af
   outlet: Associated Press
   date: '2025-02-17'
+  tier: 1
 - title: Trump announces strategic crypto reserve including bitcoin, Solana, XRP and more
   url: https://www.cnbc.com/2025/03/02/trump-announces-strategic-crypto-reserve-including-bitcoin-solana-xrp-and-more.html
   outlet: CNBC
   date: '2025-03-02'
+  tier: 2
 - title: 'Fact Sheet: President Donald J. Trump Establishes the Strategic Bitcoin Reserve and U.S. Digital Asset Stockpile'
   url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/
   outlet: White House
   date: '2025-03-07'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

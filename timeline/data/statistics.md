@@ -1,13 +1,13 @@
 # Timeline Statistics Report
 
-Generated: 2026-02-21 19:34:15
+Generated: 2026-02-21 23:02:31
 
 ## Overview
 - **Total Events**: 4238
 - **Date Range**: 1142-01-01 to 2026-02-15
 - **Total Sources**: 14709
-- **Unique Tags**: 6468
-- **Unique Actors**: 7667
+- **Unique Tags**: 6160
+- **Unique Actors**: 7641
 
 ## Event Status
 - **Reported**: 253
@@ -16,15 +16,15 @@ Generated: 2026-02-21 19:34:15
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 573 events
-- institutional-capture: 427 events
+- regulatory-capture: 575 events
+- institutional-capture: 428 events
 - corruption: 289 events
+- trump-administration: 160 events
 - systematic-corruption: 141 events
-- trump-administration: 139 events
+- supreme-court: 137 events
+- government-contracts: 135 events
 - kleptocracy: 134 events
-- government-contracts: 131 events
 - surveillance: 127 events
-- supreme-court: 125 events
 - healthcare: 114 events
 
 ## Top Actors
@@ -32,12 +32,12 @@ Generated: 2026-02-21 19:34:15
 - Trump Administration: 332 events
 - Department of Justice: 280 events
 - U.S. Congress: 202 events
-- Elon Musk: 167 events
+- Elon Musk: 168 events
 - U.S. Supreme Court: 136 events
+- Federal Bureau of Investigation: 103 events
 - Immigration and Customs Enforcement (ICE): 100 events
-- Pam Bondi: 99 events
-- FBI: 92 events
-- Ronald Reagan: 71 events
+- Pam Bondi: 100 events
+- Securities and Exchange Commission: 74 events
 
 ## Events by Year
 - 1142: 1 events

@@ -27,17 +27,20 @@ sources:
   url: https://jacobin.com/2021/01/national-association-of-manufacturers-history-democracy
   outlet: Jacobin
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Taft-Hartley Act - Wikipedia
   url: https://en.wikipedia.org/wiki/Taft–Hartley_Act
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: How Manufacturing's Lobby Won and Lost its Political Influence
   url: https://www.promarket.org/2022/01/16/manufacturing-lobby-political-influence-nam/
   outlet: ProMarket
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 ---
 

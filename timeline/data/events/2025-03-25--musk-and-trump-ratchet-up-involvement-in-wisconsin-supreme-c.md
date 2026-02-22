@@ -22,14 +22,17 @@ sources:
   url: https://fortune.com/2025/03/27/tesla-elon-musk-wisconsin-dealerships-political-influence/
   outlet: Fortune
   date: '2025-03-27'
+  tier: 2
 - title: The Wisconsin Supreme Court vote is getting national attention and millions from Musk
   url: https://www.npr.org/2025/03/31/nx-s1-5338901/wisconsin-judge-election-musk-trump-abortion
   outlet: NPR
   date: '2025-03-31'
+  tier: 1
 - title: Musk and Trump ratchet up involvement in Wisconsin Supreme Court race
   url: https://www.washingtonpost.com/politics/2025/03/23/musk-trump-wisconsin-supreme-court/
   outlet: The Washington Post
   date: '2025-03-25'
+  tier: 1
 connections:
 - Tesla lawsuit against Wisconsin
 - Supreme Court race political influence

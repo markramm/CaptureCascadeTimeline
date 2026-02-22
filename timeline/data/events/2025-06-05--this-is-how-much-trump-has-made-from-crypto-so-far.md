@@ -2,12 +2,10 @@
 id: 2025-06-05--this-is-how-much-trump-has-made-from-crypto-so-far
 date: '2025-06-05'
 title: This is how much Trump has made from crypto—so far
-description: Trump has made $1.2 billion from cryptocurrency ventures—including NFTs,
-  $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across
-  his 2024 presidential campaign and deals in his second term
+description: 'Trump has made $1.2 billion from cryptocurrency ventures—including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across his 2024 presidential campaign and deals in his second term'
 status: confirmed
 importance: 9
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Donald Trump
 - Trump Administration
@@ -18,27 +16,30 @@ tags:
 capture_type: regulatory_capture
 sources:
 - title: This is how much Trump has made from crypto—so far
-  url: https://www.forbes.com/sites/danalexander/2025/06/05/this-is-how-much-trump-has-made-from-crypto-so-far/
+  url: 'https://www.forbes.com/sites/danalexander/2025/06/05/this-is-how-much-trump-has-made-from-crypto-so-far/'
   outlet: Forbes
   date: '2025-06-05'
+  tier: 1
 - title: Crypto Has Made Trump $1.2 BILLION Richer – and Counting
-  url: https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677
+  url: 'https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677'
   outlet: House Financial Services Democrats
   date: '2025-06-05'
+  tier: 1
 - title: How the Trump Family Invests in Crypto From World Liberty to Memecoins to
-    NFTs
-  url: https://www.bloomberg.com/news/articles/2025-04-12/how-the-trump-family-invests-in-crypto-from-world-liberty-to-memecoins-to-nfts
+  tier: 1
+  url: 'https://www.bloomberg.com/news/articles/2025-04-12/how-the-trump-family-invests-in-crypto-from-world-liberty-to-memecoins-to-nfts'
   outlet: Bloomberg
   date: '2025-04-12'
-- title: Trump earned $57.7 million from crypto venture, disclosure shows
-  url: https://fortune.com/crypto/2025/06/15/trump-crypto-earnings-world-liberty-financial-meme-coin-nft/
+- title: 'Trump earned $57.7 million from crypto venture, disclosure shows'
+  url: 'https://fortune.com/crypto/2025/06/15/trump-crypto-earnings-world-liberty-financial-meme-coin-nft/'
   outlet: Fortune
   date: '2025-06-15'
-- title: White House report suggests Trump's crypto empire could be worth nearly $1
-    billion
-  url: https://fortune.com/crypto/2025/06/16/trump-financial-disclosures-crypto-world-liberty-financial/
+  tier: 2
+- title: 'White House report suggests Trump''s crypto empire could be worth nearly $1 billion'
+  url: 'https://fortune.com/crypto/2025/06/16/trump-financial-disclosures-crypto-world-liberty-financial/'
   outlet: Fortune
   date: '2025-06-16'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture
@@ -49,5 +50,4 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 Trump has made $1.2 billion from cryptocurrency ventures—including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across his 2024 presidential campaign and deals in his second term

@@ -13,15 +13,19 @@ sources:
 - title: San Mateo County v. Southern Pacific R. Co., 116 U.S. 138 (1885)
   url: https://supreme.justia.com/cases/federal/us/116/138/
   outlet: Justia U.S. Supreme Court Center
+  tier: 1
 - title: The History of Corporate Personhood
   url: https://www.brennancenter.org/our-work/analysis-opinion/history-corporate-personhood
   outlet: Brennan Center for Justice
+  tier: 1
 - title: The Long March of the Corporate Rights Movement
   url: https://lareviewofbooks.org/article/the-long-march-of-the-corporate-rights-movement/
   outlet: Los Angeles Review of Books
+  tier: 2
 - title: Interpretation Of The Fourteenth Amendment Is Broadened
   url: https://www.annenbergclassroom.org/timeline_event/interpretation-of-the-fourteenth-amendment-is-broadened/
   outlet: Annenberg Classroom
+  tier: 1
 tags:
 - corporate-personhood
 - supreme-court

@@ -12,15 +12,18 @@ sources:
 - title: 1892 New Orleans general strike
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/1892_New_Orleans_general_strike
+  tier: 2
   year: 2024
 - title: 'Nov. 8, 1892: Massive Labor Strike in New Orleans'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/massive-labor-strike-in-new-orleans/
   year: 2024
+  tier: 2
 - title: 'The 1892 New Orleans General Strike: Racial Solidarity and Labor Victory in the Deep South'
   outlet: Medium
   url: https://medium.com/@chelsealynnqueen94/the-1892-new-orleans-general-strike-racial-solidarity-and-labor-victory-in-the-deep-south-240929699efe
   year: 2024
+  tier: 3
 tags:
 - labor-organizing
 - interracial-solidarity

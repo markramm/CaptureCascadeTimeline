@@ -18,10 +18,12 @@ sources:
   url: https://www.npr.org/2023/01/04/1146837418/rick-singer-sentenced-varsity-blues-college-admissions-bribery-scandal
   outlet: NPR
   date: '2023-01-04'
+  tier: 1
 - title: Varsity Blues college scandal mastermind Rick Singer to be sentenced
   url: https://www.npr.org/2023/01/03/1146672235/varsity-blues-college-cheating-scandal-mastermind-rick-singer-sentence
   outlet: NPR
   date: '2023-01-03'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

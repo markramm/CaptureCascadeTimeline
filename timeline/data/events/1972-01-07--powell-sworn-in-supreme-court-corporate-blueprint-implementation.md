@@ -27,6 +27,7 @@ sources:
   - Confirmed by Senate 89-1 on December 6, 1971
   - Praised by Nixon for 'integrity and intellect'
   verified: true
+  tier: 1
 - outlet: Britannica
   title: Lewis F. Powell, Jr. Biography
   url: https://www.britannica.com/biography/Lewis-F-Powell-Jr
@@ -35,6 +36,7 @@ sources:
   - Born in Suffolk, Virginia in 1907
   - Had extensive legal and leadership experience before Court appointment
   verified: true
+  tier: 2
 - title: Lewis F. Powell Jr. - Wikipedia
   url: https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.
   outlet: Wikipedia
@@ -43,6 +45,7 @@ sources:
   - Powell sworn in January 7, 1972
   - Confirmed by Senate 89-1
   - Sat on boards of 11 major corporations including Philip Morris
+  tier: 2
 status: confirmed
 ---
 

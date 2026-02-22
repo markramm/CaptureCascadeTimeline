@@ -10,12 +10,15 @@ sources:
 - title: Anti-Pinkerton Act of 1893
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Anti-Pinkerton_Act_of_1893
+  tier: 2
 - title: Private Guards, Public Goods, and Political Violence
   outlet: Johns Hopkins University Press
   url: https://www.press.jhu.edu/newsroom/private-guards-public-goods-and-political-violence-or-lessons-end-gilded-age
+  tier: 1
 - title: Interpretations of the Anti-Pinkerton Act
   outlet: U.S. Government Accountability Office
   url: https://www.gao.gov/products/b-139965-1
+  tier: 1
 tags:
 - labor-rights
 - legislative-reform

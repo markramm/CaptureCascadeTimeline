@@ -39,14 +39,17 @@ sources:
   url: https://www.nytimes.com/2018/12/15/us/politics/ryan-zinke-interior-secretary-resigns.html
   outlet: The New York Times
   date: '2018-12-15'
+  tier: 1
 - title: Interior Secretary Ryan Zinke resigns amid ethics investigations
   url: https://www.washingtonpost.com/politics/interior-secretary-ryan-zinke-resigns-amid-ethics-investigations/2018/12/15/
   outlet: The Washington Post
   date: '2018-12-15'
+  tier: 1
 - title: Ryan Zinke's Corruption Has Finally Caught Up With Him
   url: https://www.motherjones.com/politics/2018/12/ryan-zinke-resigns-interior-secretary-trump/
   outlet: Mother Jones
   date: '2018-12-15'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Corporate Capture

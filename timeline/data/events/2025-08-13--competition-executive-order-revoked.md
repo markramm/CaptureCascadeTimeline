@@ -3,7 +3,7 @@ id: 2025-08-13--competition-executive-order-revoked
 date: '2025-08-13'
 importance: 8
 title: Trump Revokes Executive Order on Competition
-location: Washington, DC
+location: 'Washington, DC'
 actors:
 - Donald Trump
 - Department of Justice Antitrust Division
@@ -21,30 +21,34 @@ capture_lanes:
 - Regulatory Capture
 sources:
 - title: Trump revokes Biden antitrust EO targeting monopolies
-  url: https://www.upi.com/Top_News/US/2025/08/14/Trump-revokes-Biden-executive-order/9451755141651
+  url: 'https://www.upi.com/Top_News/US/2025/08/14/Trump-revokes-Biden-executive-order/9451755141651'
   outlet: UPI
   date: '2025-08-14'
+  tier: 2
 - title: FTC Chairman Applauds Revocation of Biden-Harris Executive Order on Competition
-  url: https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-chairman-applauds-revocation-biden-harris-executive-order-competition
+  url: 'https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-chairman-applauds-revocation-biden-harris-executive-order-competition'
   outlet: Federal Trade Commission
   date: '2025-08-13'
-- title: Trump Revokes Biden Administration's Executive Order on Antitrust & Competition
-  url: https://natlawreview.com/article/trump-revokes-biden-administrations-executive-order-antitrust-competition-other
+  tier: 1
+- title: 'Trump Revokes Biden Administration''s Executive Order on Antitrust & Competition'
+  url: 'https://natlawreview.com/article/trump-revokes-biden-administrations-executive-order-antitrust-competition-other'
   outlet: National Law Review
   date: '2025-08-13'
+  tier: 2
 - outlet: The White House
   date: '2025-08-13'
-  url: https://www.whitehouse.gov/presidential-actions/2025/08/revocation-of-executive-order-on-competition/
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/08/revocation-of-executive-order-on-competition/'
   title: Revocation of Executive Order on Competition
+  tier: 1
 - outlet: Hogan Lovells
   date: '2025-08-13'
-  url: https://www.hoganlovells.com/en/publications/president-trump-revokes-executive-order-on-competition-rejects-biden-administrations
-  title: President Trump revokes Executive Order on competition, rejects Biden administration's whole-of-government approach
-notes: Removes barriers to corporate mergers and acquisitions, enables unchecked market concentration
+  url: 'https://www.hoganlovells.com/en/publications/president-trump-revokes-executive-order-on-competition-rejects-biden-administrations'
+  title: 'President Trump revokes Executive Order on competition, rejects Biden administration''s whole-of-government approach'
+  tier: 2
+notes: 'Removes barriers to corporate mergers and acquisitions, enables unchecked market concentration'
 status: confirmed
-description: Trump revokes Biden's 2021 executive order promoting competition in the economy, with DOJ welcoming move toward "America First Antitrust" focused on "free markets" instead of enforcement against monopolies. Critics say this undercuts promises to protect Americans and favors the rich and powerful.
+description: 'Trump revokes Biden''s 2021 executive order promoting competition in the economy, with DOJ welcoming move toward "America First Antitrust" focused on "free markets" instead of enforcement against monopolies. Critics say this undercuts promises to protect Americans and favors the rich and powerful.'
 _merge_note: 'Enhanced with information from duplicate event: 2025-08-13--trump-revokes-competition-order'
 _merge_timestamp: '2025-09-05T23:46:55.902399'
 ---
-
 President Trump signs executive order revoking previous competition and antitrust enforcement policies, clearing path for increased corporate consolidation and monopolistic practices without federal oversight.

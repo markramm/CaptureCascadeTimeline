@@ -14,13 +14,16 @@ actors:
 sources:
 - outlet: Newsweek
   title: The Project 2025 Contributors Helming the Trump Administration
-  url: https://www.newsweek.com/project-2025-contributors-trump-administration-2040464
+  url: 'https://www.newsweek.com/project-2025-contributors-trump-administration-2040464'
+  tier: 2
 - outlet: DeSmog
   title: 'MAPPED: 70 Percent of Trump''s Cabinet Tied to Project 2025 Groups'
-  url: https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/
+  url: 'https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/'
+  tier: 2
 - outlet: PBS News
   title: Trump names Project 2025 architect Russell Vought to key White House role
-  url: https://www.pbs.org/newshour/show/trump-names-project-2025-architect-russell-vought-to-key-white-house-role
+  url: 'https://www.pbs.org/newshour/show/trump-names-project-2025-architect-russell-vought-to-key-white-house-role'
+  tier: 1
 tags:
 - project-2025-network
 - cabinet-appointments
@@ -35,5 +38,4 @@ capture_lanes:
 - Executive Power Expansion
 priority_id: project-2025-implementation-1757456630
 ---
-
 A comprehensive analysis reveals that over 70% of Trump's cabinet has direct connections to Project 2025, with at least 31 individuals from the Heritage Foundation-backed initiative securing high-level government positions. Key appointments include Russell Vought (OMB Director), Tom Homan (Border Czar), Brendan Carr (FCC), and John Ratcliffe (CIA Director), demonstrating a systematic implementation of the conservative blueprint for executive branch transformation.

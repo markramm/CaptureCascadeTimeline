@@ -22,18 +22,22 @@ sources:
   url: https://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html
   outlet: PBS Frontline
   date: '2009-10-20'
+  tier: 1
 - title: The Woman Who Knew
   url: https://www.washingtonpost.com/wp-dyn/content/article/2009/05/25/AR2009052502108.html
   outlet: The Washington Post
   date: '2009-05-26'
+  tier: 1
 - title: Lessons Learned? Brooksley Born & the OTC Derivatives Market (A)
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2020340
   date: 2010-11
   outlet: Harvard Business School Case Study
+  tier: 2
 - title: International Regulatory Responses to Derivative Crises
   url: https://scholarlycommons.law.northwestern.edu/njilb/vol21/iss3/25/
   date: '1998'
   outlet: Northwestern Journal of International Law & Business
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

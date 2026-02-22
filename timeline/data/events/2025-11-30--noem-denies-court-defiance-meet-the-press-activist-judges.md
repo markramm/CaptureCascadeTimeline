@@ -28,18 +28,22 @@ sources:
   url: https://www.nbcnews.com/politics/immigration/noem-deportation-operation-decisions-flights-el-salvador-rcna246531
   outlet: NBC News
   date: '2025-11-30'
+  tier: 1
 - title: Kristi Noem says she allowed deportation flights to continue, despite court order
   url: https://www.nbcnews.com/meet-the-press/video/kristi-noem-says-she-allowed-deportation-flights-to-continue-despite-court-order-253310021815
   outlet: NBC News
   date: '2025-11-30'
+  tier: 1
 - title: Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations
   url: https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456
   outlet: ABC News
   date: '2025-11-28'
+  tier: 1
 - title: Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says
   url: https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987
   outlet: NBC News
   date: '2025-11-26'
+  tier: 1
 connections:
 - Administration deliberately evades court order on Venezuelan gang deportations (2025-08-01)
 - DOJ Admits Noem Made Decision to Defy Court Order (2025-11-26)

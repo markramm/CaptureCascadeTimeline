@@ -22,18 +22,22 @@ sources:
   url: https://calmatters.org/justice/2025/06/los-angeles-marines-newsom-lawsuit/
   outlet: CalMatters
   date: '2025-06-20'
+  tier: 2
 - title: Appeals court extends order allowing Trump to deploy National Guard to L.A.
   url: https://www.cbsnews.com/news/appeals-court-extends-order-allowing-trump-to-deploy-national-guard-to-l-a/
   outlet: CBS News
   date: '2025-06-20'
+  tier: 1
 - title: 9th Circuit reverses ruling, allows Trump to keep military in LA
   url: https://www.nbclosangeles.com/news/local/judge-blocks-trump-administration-national-guard-newsom-marines-la-protests/3722344/
   outlet: NBC Los Angeles
   date: '2025-06-20'
+  tier: 2
 - title: Trump can keep National Guard in Los Angeles, appeals court rules
   url: https://www.washingtonpost.com/politics/2025/06/20/trump-keep-national-guard-la-ruling/
   outlet: The Washington Post
   date: '2025-06-20'
----
+
+  tier: 1---
 
 Three-judge panel (2 Trump, 1 Biden appointees) unanimously grants stay after Judge Breyer ruled deployment exceeded authority. Court finds 'colorable basis' under Title 10 for 4,100 Guard troops and 700 Marines in LA. Rules governors have no veto power over federal deployment. Case proceeds on merits.

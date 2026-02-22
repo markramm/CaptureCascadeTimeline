@@ -12,6 +12,7 @@ actors:
 - U.S. Chamber of Commerce
 sources:
 - title: Civil Rights Act of 1964
+  tier: 2
   author: Wikipedia contributors
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964
@@ -21,10 +22,12 @@ sources:
   outlet: Boston University Law Review
   url: https://www.bu.edu/bulawreview/files/2015/05/WRIGHT.pdf
   year: 2015
+  tier: 1
 - title: Civil Rights Act of 1964
   outlet: Library of Congress
   url: https://www.loc.gov/exhibits/civil-rights-act/civil-rights-act-of-1964.html
   year: 2024
+  tier: 1
 tags:
 - civil-rights
 - institutional-capture

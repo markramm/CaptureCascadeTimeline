@@ -20,14 +20,17 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by-cybersecurity-firm-for-leaking-company-secrets
   outlet: Bloomberg
   date: '2025-02-07'
+  tier: 1
 - title: Musk's DOGE teen was fired by cybersecurity firm for leaking company secrets
   url: https://fortune.com/2025/02/07/musks-doge-teen-edward-coristine-fired-cybersecurity-internship-leaking-company-secrets/
   outlet: Fortune
   date: '2025-02-07'
+  tier: 2
 - title: Teen on Musk's DOGE Team Graduated from 'The Com'
   url: https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/
   outlet: KrebsOnSecurity
   date: '2025-02-01'
+  tier: 2
 notes: 'Law enforcement officials tracked Coristine in cybercrime chat rooms under
   usernames
 

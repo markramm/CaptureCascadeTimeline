@@ -27,19 +27,23 @@ tags:
 status: confirmed
 sources:
 - title: 'The Way to Win: Clinton, Bush, Rove, and How to Take the White House in
+  tier: 2
     2008'
   url: https://www.amazon.com/Way-Win-Clinton-Rove-White/dp/0812975413
   outlet: Random House
   date: '2006-10-03'
+  tier: 2
 - title: 'The Argument: Billionaires, Bloggers, and the Battle to Remake Democratic
     Politics'
   url: https://www.amazon.com/Argument-Billionaires-Bloggers-Democratic-Politics/dp/1594201323
   outlet: Penguin Press
   date: '2007-08-07'
+  tier: 2
 - title: Congressional Record - Senate Floor Debates on Iraq Resolution
   url: https://www.congress.gov/congressional-record/2002/10/9
   outlet: Congressional Record
   date: '2002-10-09'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

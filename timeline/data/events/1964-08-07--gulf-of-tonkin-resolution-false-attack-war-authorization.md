@@ -10,6 +10,7 @@ actors:
 - U.S. Congress
 sources:
 - title: The Truth About Tonkin
+  tier: 2
   author: Naval History Magazine
   outlet: U.S. Naval Institute
   url: https://www.usni.org/magazines/naval-history-magazine/2008/february/truth-about-tonkin
@@ -18,14 +19,17 @@ sources:
   outlet: National Security Agency
   url: https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Gulf-of-Tonkin/
   year: 2005
+  tier: 1
 - title: 'The Gulf of Tonkin Incident: The False Flag That Led the US Into the Vietnam War'
   outlet: Historic Mysteries
   url: https://www.historicmysteries.net/p/the-gulf-of-tonkin-incident-the-false
   year: 2024
+  tier: 2
 - title: LBJ Tapes on the Gulf of Tonkin Incident
   outlet: National Security Archive
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/tapes.htm
   year: 2005
+  tier: 1
 tags:
 - military-industrial-complex
 - war-profiteering

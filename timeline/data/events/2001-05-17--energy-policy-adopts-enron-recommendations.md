@@ -15,12 +15,15 @@ sources:
 - outlet: Natural Resources Defense Council (NRDC)
   title: Analysis of Cheney Energy Task Force Documents
   url: https://www.nrdc.org/resources/cheney-energy-task-force
+  tier: 2
 - outlet: Government Accountability Office (GAO)
   title: Process Used to Develop the National Energy Policy
   url: https://www.gao.gov/assets/gao-03-894.pdf
+  tier: 1
 - outlet: The Hill
   title: Cheney's Behind-the-Scenes Energy Ploy
   url: https://thehill.com/blogs/congress-blog/politics/24210-cheneys-behind-the-scenes-energy-ploy/amp/
+  tier: 2
 tags:
 - enron
 - energy-policy

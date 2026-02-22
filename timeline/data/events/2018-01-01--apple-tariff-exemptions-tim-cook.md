@@ -15,18 +15,22 @@ sources:
   url: https://reason.com/2024/10/25/how-to-avoid-paying-tariffs-have-a-friend-in-washington
   outlet: Reason
   date: '2024-10-25'
+  tier: 2
 - title: How Apple's Tim Cook navigated out of Trump's tariffs on China
   url: https://www.washingtonpost.com/business/2025/04/17/apple-iphone-tariff-exemption-trump/
   outlet: The Washington Post
   date: '2025-04-17'
+  tier: 1
 - title: Trump's tariffs won't bite Apple, illustrating Tim Cook's political sway
   url: https://www.washingtonpost.com/technology/2018/09/18/trumps-tariffs-wont-bite-apple-illustrating-tim-cooks-political-sway/
   outlet: The Washington Post
   date: '2018-09-18'
+  tier: 1
 - title: How Apple CEO Tim Cook Convinced Trump to Exempt Apple From Tariffs
   url: https://www.macrumors.com/2025/04/17/tim-cook-trump-apple-tariff-exemption/
   outlet: MacRumors
   date: '2025-04-17'
+  tier: 2
 actors:
 - Donald Trump
 - Tim Cook

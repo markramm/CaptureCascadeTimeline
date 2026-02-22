@@ -11,7 +11,7 @@ capture_lanes:
 - Systematic Corruption
 capture_type: foreign_business_influence
 date: '2025-06-02'
-description: The Trump Organization has dramatically expanded its global real estate portfolio during Trump's second presidential term, launching 21 international projects across 10 countries with significant government connections
+description: 'The Trump Organization has dramatically expanded its global real estate portfolio during Trump''s second presidential term, launching 21 international projects across 10 countries with significant government connections'
 id: 2025-06-02--trump-org-21-intl-projects-during-presidency
 importance: 8
 location: Multiple Countries
@@ -22,15 +22,18 @@ sources:
 - date: '2025-06-02'
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   title: 'Trump Foreign Development Tracker: 21 International Projects'
-  url: https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/
+  url: 'https://www.citizensforethics.org/reports-investigations/crew-reports/trump-foreign-development-tracker/'
+  tier: 2
 - date: '2025-06-02'
   outlet: Newsweek
-  title: Full List of Trump's Foreign Real Estate Ventures Underway Around the World
-  url: https://www.newsweek.com/full-list-trump-foreign-real-estate-ventures-underway-around-world-2079205
+  title: 'Full List of Trump''s Foreign Real Estate Ventures Underway Around the World'
+  url: 'https://www.newsweek.com/full-list-trump-foreign-real-estate-ventures-underway-around-world-2079205'
+  tier: 2
 - date: '2025-05-30'
   outlet: PBS News
   title: Trump Organization Deal with Dar Global Launches $1 Billion Saudi Project
-  url: https://www.pbs.org/newshour/politics/in-a-deal-with-trump-organization-dar-global-will-launch-a-1-billion-project-in-saudi-arabia
+  url: 'https://www.pbs.org/newshour/politics/in-a-deal-with-trump-organization-dar-global-will-launch-a-1-billion-project-in-saudi-arabia'
+  tier: 1
 status: confirmed
 tags:
 - foreign-influence
@@ -44,5 +47,4 @@ connections:
 - 2025-05-20--trump-middle-east-diplomatic-trip
 - 2024-11-05--trump-election-victory-impact
 ---
-
 The Trump Organization has announced 21 international projects across 10 countries during Trump's second presidential term, including significant developments in Serbia, India, Qatar, UAE, Saudi Arabia, Oman, Vietnam, Indonesia, Uruguay, and Romania. These projects, valued at billions of dollars, involve partnerships with local governments and private developers, raising substantial conflicts of interest concerns.

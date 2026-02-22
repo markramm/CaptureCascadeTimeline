@@ -18,22 +18,27 @@ sources:
   url: https://www.reuters.com/world/us/trump-sec-pick-discloses-family-fortune-more-than-328-million-2025-03-25/
   outlet: Reuters
   date: '2025-03-25'
+  tier: 1
 - title: SEC Chair Nominee Paul Atkins, Spouse Worth at Least 27 Million
   url: https://www.bloomberg.com/news/articles/2025-03-25/sec-chair-nominee-paul-atkins-spouse-worth-at-least-327-million
   outlet: Bloomberg
   date: '2025-03-25'
+  tier: 1
 - title: Incoming SEC chair Paul Atkins owns up to  million in crypto-related assets
   url: https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/
   outlet: Fortune
   date: '2025-03-25'
+  tier: 2
 - title: Trump SEC Pick Paul Atkins' Crypto Ties Draw Sen. Warren's Ire Ahead of Confirmation Hearing
   url: https://www.coindesk.com/policy/2025/03/26/trump-sec-pick-paul-atkins-crypto-ties-draw-sen-warren-s-ire-ahead-of-confirmation-hearing
   outlet: CoinDesk
   date: '2025-03-26'
+  tier: 2
 - title: US Senate confirms Paul Atkins to lead SEC under Trump
   url: https://cointelegraph.com/news/paul-atkins-us-senate-confirms-sec-chair-nomination
   outlet: Cointelegraph
   date: '2025-04-09'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

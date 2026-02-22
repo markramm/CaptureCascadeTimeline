@@ -24,14 +24,17 @@ sources:
   url: https://corpgov.law.harvard.edu/2025/06/25/doj-resumes-fcpa-enforcement-with-new-guidelines/
   outlet: Harvard Corporate Governance
   date: '2025-06-09'
+  tier: 1
 - title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic and National Security
   url: https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
   outlet: The White House
   date: '2025-02-10'
+  tier: 1
 - title: Criminal Division Guidelines for FCPA Enforcement
   url: https://www.justice.gov/criminal/criminal-fraud/foreign-corrupt-practices-act/fcpa-guidelines
   outlet: Department of Justice
   date: '2025-06-09'
+  tier: 1
 connections:
 - FCPA Enforcement Pause (February 2025)
 - White House Guidance on Investigations

@@ -20,23 +20,29 @@ sources:
   url: https://en.wikipedia.org/wiki/Murder_of_the_Notorious_B.I.G.
   outlet: Wikipedia
   date: '2025-01-27'
+  tier: 2
 - title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein
+  tier: 2
     Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
   outlet: Unlimited Hangout
   date: '2025-04-01'
+  tier: 3
 - title: Investigation into death of Notorious B.I.G. heats up
   url: https://cnn.com/2011/CRIME/01/07/california.biggie.death.probe/index.html?amp=&amp=&amp=&eref=rss_topstories
   outlet: CNN
   date: '2011-01-07'
+  tier: 1
 - title: FBI Releases Files in Notorious B.I.G. Murder
   url: https://abcnews.go.com/Entertainment/notorious-big-murder-fbi-releases-documents/story?id=13312262
   outlet: ABC News
   date: '2012-02-15'
+  tier: 1
 - title: 'FBI Vault: Christopher (Biggie Smalls) Wallace Investigation Documents'
   url: 'https://vault.fbi.gov/Christopher (Biggie Smalls) Wallace '
   outlet: FBI Records - The Vault
   date: '2005-01-01'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

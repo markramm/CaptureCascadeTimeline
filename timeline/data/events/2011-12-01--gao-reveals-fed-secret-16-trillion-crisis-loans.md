@@ -25,14 +25,17 @@ sources:
   url: https://www.gao.gov/products/gao-11-696
   outlet: Government Accountability Office (GAO)
   date: '2011-07-21'
+  tier: 1
 - title: 'The Fed Audit: Sanders Reveals 16 Trillion in Secret Bailouts'
   url: https://www.sanders.senate.gov/press-releases/the-fed-audit/
   outlet: Senator Bernie Sanders Official Website
   date: '2011-12-01'
+  tier: 1
 - title: First Federal Reserve Audit Reveals Trillions in Secret Bailouts
   url: https://www.commondreams.org/news/2011/08/29/first-federal-reserve-audit-reveals-trillions-secret-bailouts
   outlet: Common Dreams
   date: '2011-08-29'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

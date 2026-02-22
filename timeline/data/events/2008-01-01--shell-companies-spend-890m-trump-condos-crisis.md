@@ -25,36 +25,43 @@ sources:
   url: https://web.archive.org/web/20180112194234/https://www.buzzfeednews.com/article/thomasfrank/secret-money-how-trump-made-millions-selling-condos-to
   outlet: BuzzFeed News (archived)
   date: '2018-01-12'
+  tier: 2
   notes: Original investigative report - archived version due to site closure
 - title: Trump condo sales indicate possible money laundering, says report
   url: https://archive.curbed.com/2018/1/12/16885354/trump-condo-money-laundering-report
   outlet: Curbed
   date: '2018-01-12'
   notes: Summary and analysis of BuzzFeed investigation
+  tier: 2
 - title: Trump Has Sold Millions in Real Estate to Secret Buyers
   url: https://www.newsweek.com/trump-real-estate-secret-buyers-777276
   outlet: Newsweek
   date: '2018-01-12'
+  tier: 2
 - title: Pandora Papers reveal new details on Trump defeat donor's money laundering past
   url: https://www.miamiherald.com/news/politics-government/article254361788.html
   outlet: Miami Herald
   date: '2021-10-03'
   notes: Additional context on anonymous real estate purchases
+  tier: 2
 - title: Narco-a-lago - Money Laundering at the Trump Ocean Club, Panama
   url: https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/narco-a-lago-panama/
   outlet: Global Witness
   date: '2017-11-17'
   notes: Detailed investigation of Panama property
+  tier: 1
 - title: Trump sold $1.5 billion of condos to potential money launderers thanks to this gaping loophole
   url: https://qz.com/1178875/trump-sold-1-5-billion-of-condos-to-potential-money-launderers
   outlet: Quartz
   date: '2018-01-12'
   notes: Commentary on regulatory gaps
+  tier: 2
 - title: Cracking the Shell - Trump and the Corrupting Potential of Furtive Russian Money
   url: https://www.americanprogress.org/article/cracking-the-shell/
   outlet: Center for American Progress
   date: '2018-03-02'
   notes: Policy analysis of shell company risks
+  tier: 2
 notes: Massive cash purchases during credit crisis raise money laundering concerns. More than $205 million in sales were to corporations based in foreign jurisdictions known for banking secrecy. FinCEN identified Delaware as providing "the least transparency" with corporate records of any state. Treasury Department has said all-cash purchases by shell companies signal possible money laundering.
 status: confirmed
 ---

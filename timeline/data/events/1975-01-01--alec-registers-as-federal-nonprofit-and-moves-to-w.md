@@ -10,12 +10,15 @@ sources:
 - title: What is ALEC
   url: https://www.alecexposed.org/wiki/What_is_ALEC
   outlet: ALEC Exposed
+  tier: 2
 - title: American Legislative Exchange Council
   url: https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council
   outlet: SourceWatch
+  tier: 2
 - title: 'ALEC: 50 Years of Attacking Environmental Protection'
   url: https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/
   outlet: Greenpeace USA
+  tier: 1
 tags:
 - alec
 - nonprofit

@@ -21,14 +21,17 @@ sources:
   url: https://www.cnn.com/2025/07/30/politics/g20-doral-resort-trump
   outlet: CNN
   date: '2025-07-30'
+  tier: 1
 - title: Trump announces plans to host 2026 G20 summit at his Doral resort in Florida
   url: https://www.cbsnews.com/news/trump-g20-summit-2026-doral-resort-florida/
   outlet: CBS News
   date: '2025-09-05'
+  tier: 1
 - title: Trump Says He'll Host 2026 G-20 Summit at His Doral Resort
   url: https://www.bloomberg.com/news/articles/2025-09-05/trump-announces-he-ll-host-2026-g-20-summit-at-his-doral-resort
   outlet: Bloomberg
   date: '2025-09-05'
+  tier: 1
 connections:
 - Echoes 2020 G7 summit hosting attempt
 - Continued pattern of using presidential position for personal financial gain

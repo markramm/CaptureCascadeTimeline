@@ -26,14 +26,17 @@ sources:
   url: https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research
   outlet: NIST
   date: '2024-08-31'
+  tier: 1
 - title: OpenAI, Anthropic to Collaborate with NIST on AI Safety Testing
   url: https://www.nextgov.com/artificial-intelligence/2024/08/openai-anthropic-collab-nist-ai-safety-testing/399175/
   outlet: Nextgov/FCW
   date: '2024-08-31'
+  tier: 1
 - title: OpenAI and Anthropic Agree to Let U.S. AI Safety Institute Test Models
   url: https://www.cnbc.com/2024/08/29/openai-and-anthropic-agree-to-let-us-ai-safety-institute-test-models.html
   outlet: CNBC
   date: '2024-08-29'
+  tier: 2
 status: confirmed
 id: 2024-08-31--openai-signs-ai-safety-institute-testing-agreement
 priority_id: RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic

@@ -25,14 +25,17 @@ sources:
   title: State bank regulator disputes KC Fed's claim about fintech firm linked to Biden nominee Raskin
   outlet: CNBC
   date: '2022-02-15'
+  tier: 2
 - url: https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/
   title: KC Fed has revoked Reserve Trust's master account, Toomey says
   outlet: Banking Dive
   date: '2022-06-22'
+  tier: 2
 - url: https://rollcall.com/2022/02/11/tester-says-hes-reviewing-fed-nominee-raskin-as-senate-banking-approaches-vote/
   title: Tester says he's reviewing Fed nominee Raskin as Senate Banking approaches vote
   outlet: Roll Call
   date: '2022-02-11'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

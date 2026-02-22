@@ -18,27 +18,29 @@ tags:
 sources:
 - outlet: U.S. Department of Justice
   title: Ho Wan Kwok Arrested for Orchestrating Over $1 Billion Dollar Fraud Conspiracy
-  url: https://www.justice.gov/usao-sdny/pr/ho-wan-kwok-aka-miles-guo-arrested-orchestrating-over-1-billion-dollar-fraud-conspiracy
+  url: 'https://www.justice.gov/usao-sdny/pr/ho-wan-kwok-aka-miles-guo-arrested-orchestrating-over-1-billion-dollar-fraud-conspiracy'
   access_date: '2025-09-17'
+  tier: 1
 - outlet: CNBC
-  title: DOJ Charges Guo Wengui, Steve Bannon Associate, in $1 Billion Fraud
-  url: https://www.cnbc.com/2023/03/15/doj-charges-guo-wengui-steve-bannon-associate-in-1-billion-fraud.html
+  title: 'DOJ Charges Guo Wengui, Steve Bannon Associate, in $1 Billion Fraud'
+  url: 'https://www.cnbc.com/2023/03/15/doj-charges-guo-wengui-steve-bannon-associate-in-1-billion-fraud.html'
   access_date: '2025-09-17'
+  tier: 2
 - outlet: Courthouse News Service
-  title: Chinese Dissident Guo Wengui Guilty of Racketeering, Fraud in $1 Billion Scheme
-  url: https://www.courthousenews.com/chinese-dissident-guo-wengui-guilty-of-racketeering-fraud-in-1-billion-scheme/
+  title: 'Chinese Dissident Guo Wengui Guilty of Racketeering, Fraud in $1 Billion Scheme'
+  url: 'https://www.courthousenews.com/chinese-dissident-guo-wengui-guilty-of-racketeering-fraud-in-1-billion-scheme/'
   access_date: '2025-09-17'
+  tier: 2
 status: confirmed
 id: 2023-03-15--guo-wengui-arrested-in-billion-fraud-scheme
 priority_id: RT-EXP-2E557553-gettr-jason-miller-chinese-funding
 capture_lanes:
 - Financial Capture
-- Media Capture & Control
+- 'Media Capture & Control'
 - Systematic Corruption
 - International Kleptocracy
-location: Manhattan, New York
+location: 'Manhattan, New York'
 ---
-
 On March 15, 2023, the U.S. Department of Justice arrested Ho Wan Kwok (Guo Wengui) in a landmark twelve-count federal indictment alleging a complex, multi-year fraud scheme defrauding thousands of victims of approximately $1 billion. The sophisticated conspiracy involved fraudulent investments across multiple entities including GTV Media, Himalaya Farm Alliance, G|CLUBS, and Himalaya Exchange.
 
 Key Findings:

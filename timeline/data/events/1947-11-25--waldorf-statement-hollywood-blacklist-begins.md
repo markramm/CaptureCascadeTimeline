@@ -41,17 +41,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Waldorf_Statement
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Hollywood Blacklist Launched 75 Years Ago At Waldorf Conference
   url: https://deadline.com/2022/11/hollywood-blacklist-anniversary-waldorf-conference-1235180135/
   outlet: Deadline
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: 'The Case of the Hollywood 10: Movie moguls launch blacklist in 1947'
   url: https://www.peoplesworld.org/article/the-case-of-the-hollywood-10-movie-moguls-launch-blacklist-in-1947/
   outlet: People's World
   date: '2024-01-01'
   verified: true
+  tier: 3
 status: confirmed
 ---
 

@@ -20,18 +20,22 @@ sources:
   url: https://kyivindependent.com/kremlin-considering-offering-trump-skyscraper-in-moscow/
   outlet: Kyiv Independent
   date: '2025-04-21'
+  tier: 2
 - title: Trump's Diplomacy Won't Stop Russia's Expansionism
   url: https://www.themoscowtimes.com/2025/08/22/trumps-diplomacy-wont-stop-russias-expansionism-a90324
   outlet: The Moscow Times
   date: '2025-08-22'
+  tier: 2
 - title: 'Transition 2025 Series: Future of U.S.-Russia Relations'
   url: https://www.cfr.org/event/transition-2025-series-future-us-russia-relations
   outlet: Council on Foreign Relations
   date: '2025-04-22'
+  tier: 1
 - title: Putin Rejected Trump's Generous Deal
   url: https://www.atlanticcouncil.org/blogs/ukrainealert/putin-rejected-trumps-generous-deal-time-to-try-peace-through-strength/
   outlet: Atlantic Council
   date: '2025-08-22'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

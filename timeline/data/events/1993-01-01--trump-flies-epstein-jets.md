@@ -19,14 +19,17 @@ sources:
   url: https://www.justice.gov/ag/media/1391276/dl?inline=
   outlet: U.S. Department of Justice
   date: '2025-02-27'
+  tier: 1
 - title: Epstein aircraft logbooks – Government Exhibit 662‑RR (U.S. v. Maxwell) – Part 2
   url: https://www.justice.gov/ag/media/1391281/dl?inline=
   outlet: U.S. Department of Justice
   date: '2025-02-27'
+  tier: 1
 - title: The times Trump's name appeared in the Epstein files the DOJ has already released
   url: https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078
   outlet: ABC News
   date: '2025-07-17'
+  tier: 1
 notes: Prefer the DOJ exhibit PDFs over secondary summaries. Be precise that logbook entries document names and dates but are not evidence of wrongdoing.
 ---
 

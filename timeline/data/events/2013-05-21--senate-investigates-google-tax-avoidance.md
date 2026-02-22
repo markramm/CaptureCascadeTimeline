@@ -24,18 +24,22 @@ sources:
   url: https://venturebeat.com/business/tech-company-tax-avoidance-triggers-a-call-for-reform/
   outlet: VentureBeat
   date: '2013-05-20'
+  tier: 2
 - title: Tax Evasion Exposed
   url: https://prospect.org/power/tax-evasion-exposed/
   outlet: The American Prospect
   date: '2013-09-20'
+  tier: 2
 - title: Criticism of Google - Tax avoidance
   url: https://en.wikipedia.org/wiki/Google_tax_avoidance
   outlet: Wikipedia
   date: '2024-10-15'
+  tier: 2
 - title: The Legacy of Carl Levin
   url: https://prospect.org/power/legacy-carl-levin/
   outlet: The American Prospect
   date: '2015-05-15'
+  tier: 2
 status: confirmed
 id: 2013-05-21--senate-investigates-google-tax-avoidance
 capture_lanes:

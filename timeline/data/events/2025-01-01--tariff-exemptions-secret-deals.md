@@ -19,14 +19,17 @@ sources:
   url: https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy
   outlet: ProPublica
   date: '2025-10-01'
+  tier: 1
 - title: Businesses Eager to Beat Tariffs Turn to Trump Connected Lobbyists
   url: https://www.bloomberg.com/news/features/2025-10-01/businesses-eager-to-beat-tariffs-turn-to-trump-connected-lobbyists
   outlet: Bloomberg
   date: '2025-10-01'
+  tier: 1
 - title: 'Fact Sheet: Tariff Procedures and Trade Deal Implementation'
   url: https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-modifies-the-scope-of-reciprocal-tariffs-and-establishes-procedures-for-implementing-trade-deals/
   outlet: White House
   date: '2025-09-01'
+  tier: 1
 actors:
 - Donald Trump
 - Trump Administration

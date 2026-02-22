@@ -27,18 +27,22 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/01/20/trump-executive-orders-list/
   outlet: The Washington Post
   date: '2025-01-20'
+  tier: 1
 - title: Trump signs executive actions on Jan. 6, TikTok, immigration and more
   url: https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1
   outlet: NPR
   date: '2025-01-20'
+  tier: 1
 - title: 2025 Donald J. Trump Executive Orders
   url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
   outlet: Federal Register
   date: '2025-01-20'
+  tier: 1
 - title: Trump signs executive orders, actions on Inauguration Day
   url: https://www.washingtonpost.com/politics/2025/01/20/trump-inauguration-live-updates/
   outlet: The Washington Post
   date: '2025-01-20'
+  tier: 1
 notes: Directly implemented numerous Project 2025 priorities. DOGE given 18-month mandate to overhaul federal software and maximize efficiency. Mass pardons for January 6 defendants included commuting sentences for seditious conspiracy convictions.
 status: confirmed
 ---

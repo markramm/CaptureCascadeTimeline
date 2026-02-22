@@ -3,7 +3,7 @@ id: 2019-07-01--thomas-crow-indonesia-yacht-trip
 date: '2019-07-01'
 importance: 8
 title: Clarence Thomas Takes 8-Day Indonesia Yacht Trip with Harlan Crow
-location: Bali, Indonesia
+location: 'Bali, Indonesia'
 actors:
 - Clarence Thomas
 - Virginia Thomas
@@ -19,29 +19,32 @@ capture_lanes:
 - Judicial Capture
 sources:
 - title: Clarence Thomas Acknowledges He Should Have Disclosed Free Trips
-  url: https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
+  url: 'https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow'
   outlet: ProPublica
   date: '2024-08-28'
-  archive_url: https://web.archive.org/web/20240828000000/https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
+  tier: 1
+  archive_url: 'https://web.archive.org/web/20240828000000/https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow'
 - title: Justice Clarence Thomas formally reports trip to Bali paid for by conservative donor
-  url: https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html
+  url: 'https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html'
   outlet: CNN
   date: '2024-06-07'
-  archive_url: https://web.archive.org/web/20240607000000/https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html
+  archive_url: 'https://web.archive.org/web/20240607000000/https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html'
+  tier: 1
 - title: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor
-  url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  url: 'https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow'
   outlet: ProPublica
   date: '2023-04-06'
-  archive_url: https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  archive_url: 'https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow'
+  tier: 1
 - title: Justice Thomas discloses two 2019 trips paid for by Harlan Crow
-  url: https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/
+  url: 'https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/'
   outlet: The Washington Post
   date: '2024-06-07'
-  archive_url: https://web.archive.org/web/20240607000000/https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/
-notes: Trip included private jet travel and luxury yacht excursion. Thomas only acknowledged after ProPublica reporting in 2024, claiming "inadvertent omission".
+  archive_url: 'https://web.archive.org/web/20240607000000/https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/'
+  tier: 1
+notes: 'Trip included private jet travel and luxury yacht excursion. Thomas only acknowledged after ProPublica reporting in 2024, claiming "inadvertent omission".'
 status: confirmed
 ---
-
 Thomas accepts luxury trip to Bali including eight-day yacht excursion and private jet travel, later acknowledges he "inadvertently omitted" reporting after ProPublica investigation
 
 In July 2019, Justice Clarence Thomas and his wife Virginia "Ginni" Thomas accepted a luxury trip to Bali, Indonesia, paid for by conservative megadonor Harlan Crow. The trip included private jet transportation and an eight-day excursion aboard Crow's superyacht, the Michaela Rose — a vessel valued at over $80 million. The total value of the transportation and accommodations far exceeded federal financial disclosure thresholds that would have required reporting, yet Thomas did not disclose the trip on his annual financial disclosure forms.

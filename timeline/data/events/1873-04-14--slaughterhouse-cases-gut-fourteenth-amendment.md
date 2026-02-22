@@ -12,15 +12,18 @@ sources:
 - title: Slaughter-House Cases
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Slaughter-House_Cases
+  tier: 2
   year: 2024
 - title: Slaughterhouse Cases
   outlet: Britannica
   url: https://www.britannica.com/event/Slaughterhouse-Cases
   year: 2024
+  tier: 2
 - title: 'The Slaughterhouse Cases: Interpreting the Reconstruction Amendments'
   outlet: Constitution Center
   url: https://constitutioncenter.org/blog/the-slaughterhouse-cases-interpreting-the-reconstruction-amendments
   year: 2024
+  tier: 2
 tags:
 - institutional-capture
 - legal-system-weaponization

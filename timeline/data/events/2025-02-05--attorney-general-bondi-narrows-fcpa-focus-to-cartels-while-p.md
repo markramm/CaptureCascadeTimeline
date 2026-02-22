@@ -22,14 +22,17 @@ sources:
   url: https://bloomberg.com/source
   outlet: Bloomberg
   date: '2025-02-05'
+  tier: 1
 - title: 'CNN: Attorney General Bondi Narrows FCPA Focus to Carte'
   url: https://cnn.com/source
   outlet: CNN
   date: '2025-02-05'
+  tier: 1
 - title: U.S. DOJ Hits the Brakes on FCPA Enforcement and Announces Other Key Policies at the Beginning of Attorney General Bondi's Tenure
   url: https://www.sidley.com/en/insights/newsupdates/2025/02/us-doj-hits-the-brakes-on-fcpa-enforcement-and-announces-other-key-policies
   outlet: Sidley Austin LLP
   date: '2025-02-15'
+  tier: 2
 connections: []
 patterns:
 - corruption-enabling

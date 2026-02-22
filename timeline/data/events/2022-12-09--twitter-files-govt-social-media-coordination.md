@@ -29,14 +29,17 @@ sources:
   url: https://www.npr.org/2022/12/14/1142666067/elon-musk-is-using-the-twitter-files-to-discredit-foes-and-push-conspiracy-theor
   outlet: NPR
   date: '2022-12-14'
+  tier: 1
 - title: 'Twitter Files: Internal documents expose government platform coordination'
   url: https://en.wikipedia.org/wiki/Twitter_Files
   outlet: Wikipedia
   date: '2023-03-20'
+  tier: 2
 - title: Court ruling finds government likely coerced platforms on content moderation
   url: https://restofworld.org/2023/elon-musk-twitter-government-orders/
   outlet: Rest of World
   date: '2023-05-02'
+  tier: 2
 importance: 9
 status: confirmed
 triggered_by:

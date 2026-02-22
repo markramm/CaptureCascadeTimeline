@@ -10,20 +10,24 @@ actors:
 sources:
 - title: How Peter Thiel Received Kremlin Invites
   outlet: Benzinga
-  url: https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri
+  url: 'https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri'
+  tier: 2
   retrieval_date: '2025-09-23'
 - title: Peter Thiel and Russian Intelligence Outreach
   outlet: Business Insider
-  url: https://www.businessinsider.nl/billionaire-fbi-informant-peter-thiel-dished-about-two-kremlin-invites-to-private-putin-meetings/
+  url: 'https://www.businessinsider.nl/billionaire-fbi-informant-peter-thiel-dished-about-two-kremlin-invites-to-private-putin-meetings/'
   retrieval_date: '2025-09-23'
-- title: Thiel's FBI Informant Role in Russian Diplomacy
+  tier: 2
+- title: 'Thiel''s FBI Informant Role in Russian Diplomacy'
   outlet: Ground News
-  url: https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations
+  url: 'https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations'
   retrieval_date: '2025-09-23'
+  tier: 2
 - title: Peter Thiel Counterintelligence Activities
   outlet: Wikipedia
-  url: https://en.wikipedia.org/wiki/Peter_Thiel
+  url: 'https://en.wikipedia.org/wiki/Peter_Thiel'
   retrieval_date: '2025-09-23'
+  tier: 2
 importance: 8
 tags:
 - thiel-targeting
@@ -40,5 +44,4 @@ capture_lanes:
 - Intelligence Penetration
 - International Kleptocracy
 ---
-
 In January 2022, Peter Thiel receives a second documented invitation to meet privately with Vladimir Putin, this time through Russian diplomat Daniil Bisslinger. The invitation came amid rising tensions before Russia's invasion of Ukraine, demonstrating persistent Russian intelligence targeting of Silicon Valley leaders. As a confidential FBI informant with the code name 'Philosopher', Thiel immediately reported the invitation to his bureau handlers, suspecting a potential psychological operation designed to cultivate relationships with influential tech figures. Bisslinger, identified as an employee of the Kremlin's Ministry of Foreign Affairs, had previously extended a similar invitation in 2018 during a birthday celebration in Vienna.

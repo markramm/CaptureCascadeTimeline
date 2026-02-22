@@ -11,6 +11,7 @@ actors:
 - Genovese Crime Family
 sources:
 - title: 'Citizen Cohn: The Life and Times of Roy Cohn'
+  tier: 2
   author: Nicholas von Hoffman
   outlet: Book
   year: 1988
@@ -20,14 +21,17 @@ sources:
   outlet: Documentary Film
   year: 2019
   url: https://www.imdb.com/title/tt7780778/
+  tier: 2
 - title: Roy Cohn Background and McCarthy Hearings
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Roy_Cohn
   retrieval_date: '2025-09-23'
+  tier: 2
 - title: 'U.S. Senate: McCarthy and Army-McCarthy Hearings'
   outlet: U.S. Senate Official Website
   url: https://www.senate.gov/about/powers-procedures/investigations/mccarthy-and-army-mccarthy-hearings.htm
   retrieval_date: '2025-09-23'
+  tier: 1
 tags:
 - blackmail
 - political-manipulation

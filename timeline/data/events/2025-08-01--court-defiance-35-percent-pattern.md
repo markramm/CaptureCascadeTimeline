@@ -26,14 +26,17 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/
   outlet: The Washington Post
   date: '2025-07-21'
+  tier: 1
 - title: The courts are helpless - Inside the Trump administration's steady erosion of judicial power
   url: https://www.cnn.com/2025/08/10/politics/trump-administration-judicial-power
   outlet: CNN
   date: '2025-08-10'
+  tier: 1
 - title: What Courts Can Do If the Trump Administration Defies Court Orders
   url: https://www.brennancenter.org/our-work/research-reports/what-courts-can-do-if-trump-administration-defies-court-orders
   outlet: Brennan Center for Justice
   date: '2025-08-01'
+  tier: 1
 notes: Unprecedented systematic rejection of judicial authority
 status: confirmed
 ---

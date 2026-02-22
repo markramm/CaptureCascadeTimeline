@@ -14,13 +14,16 @@ sources:
 - outlet: Project On Government Oversight (POGO)
   title: How the FAA Ceded Aviation Safety Oversight to Boeing
   url: https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing
+  tier: 2
 - outlet: Federal Register
   title: Establishment of Organization Designation Authorization Program
   url: https://www.federalregister.gov/documents/2005/10/13/05-20470/establishment-of-organization-designation-authorization-program
+  tier: 1
 - outlet: U.S. Department of Transportation - Office of Inspector General
   title: Weaknesses in FAA's Certification and Delegation Processes
   url: https://www.oig.dot.gov/sites/default/files/FAA Certification of 737 MAX Boeing
     II Final Report^2-23-2021.pdf
+  tier: 1
 importance: 9
 tags:
 - regulatory-capture

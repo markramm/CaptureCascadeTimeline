@@ -20,18 +20,22 @@ sources:
   url: https://www.cnbc.com/2022/01/13/supreme-court-ruling-biden-covid-vaccine-mandates.html
   outlet: CNBC
   date: '2022-01-13'
+  tier: 2
 - title: Supreme Court blocks Biden's vaccine-or-test mandate for large private companies
   url: https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies
   outlet: NPR
   date: '2022-01-13'
+  tier: 1
 - title: Fractured court blocks vaccine-or-test requirement for large workplaces
   url: https://www.scotusblog.com/2022/01/fractured-court-blocks-vaccine-or-test-requirement-for-large-workplaces-but-green-lights-vaccine-mandate-for-health-care-workers/
   outlet: SCOTUSblog
   date: '2022-01-13'
+  tier: 1
 - title: NFIB v. OSHA Opinion
   url: https://www.supremecourt.gov/opinions/21pdf/21a244_hgci.pdf
   outlet: Supreme Court of the United States
   date: '2022-01-13'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Legislative Capture

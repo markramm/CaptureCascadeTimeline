@@ -8,44 +8,41 @@ capture_lanes:
 capture_type: monetizing_position
 connections: []
 date: '2025-05-12'
-description: Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin,
-  went public through its merger with Gryphon Digital Mining. The company's public
-  shares will serve as yet another vehicle for purchasing influence with the Trump
-  family
+description: 'Donald Trump Jr. and Eric Trump''s bitcoin mining firm, American Bitcoin, went public through its merger with Gryphon Digital Mining. The company''s public shares will serve as yet another vehicle for purchasing influence with the Trump family'
 id: 2025-05-12--american-bitcoin-trump-sons-ipo
 importance: 7
-location: Washington, D.C.
-notes: Merged with Gryphon Digital Mining, retaining 98% ownership. Strategic move
-  positioning Trump family in cryptocurrency market.
+location: 'Washington, D.C.'
+notes: 'Merged with Gryphon Digital Mining, retaining 98% ownership. Strategic move positioning Trump family in cryptocurrency market.'
 patterns:
 - kleptocratic-capture
 sources:
 - date: '2025-05-12'
   outlet: Bloomberg
-  title: Trump Family's American Bitcoin Mining Unit to Go Public in Gryphon Digital
-    Deal
-  url: https://www.bloomberg.com/news/articles/2025-05-12/trump-family-s-american-bitcoin-mining-unit-to-go-public-in-gryphon-digital-deal
+  title: 'Trump Family''s American Bitcoin Mining Unit to Go Public in Gryphon Digital Deal'
+  url: 'https://www.bloomberg.com/news/articles/2025-05-12/trump-family-s-american-bitcoin-mining-unit-to-go-public-in-gryphon-digital-deal'
+  tier: 1
 - date: '2025-05-12'
   outlet: CNBC
-  title: Eric Trump's American Bitcoin going public in latest crypto move by president's
-    family
-  url: https://www.cnbc.com/2025/05/12/eric-trump-american-bitcoin-public.html
+  title: 'Eric Trump''s American Bitcoin going public in latest crypto move by president''s family'
+  url: 'https://www.cnbc.com/2025/05/12/eric-trump-american-bitcoin-public.html'
+  tier: 2
 - date: '2025-05-12'
   outlet: CoinDesk
-  title: American Bitcoin, BTC Miner Backed by Eric and Donald Trump Jr, to Go Public
-  url: https://www.coindesk.com/markets/2025/05/12/trump-family-backed-american-bitcoin-to-go-public-via-merger-with-gryphon-digital
+  title: 'American Bitcoin, BTC Miner Backed by Eric and Donald Trump Jr, to Go Public'
+  url: 'https://www.coindesk.com/markets/2025/05/12/trump-family-backed-american-bitcoin-to-go-public-via-merger-with-gryphon-digital'
+  tier: 2
 - date: '2025-05-12'
   outlet: Newsweek
-  title: Eric Trump's Bitcoin Firm Goes Public Amid White House Crypto Expansion
-  url: https://www.newsweek.com/eric-trumps-bitcoin-firm-goes-public-amid-white-house-crypto-expansion-2071252
+  title: 'Eric Trump''s Bitcoin Firm Goes Public Amid White House Crypto Expansion'
+  url: 'https://www.newsweek.com/eric-trumps-bitcoin-firm-goes-public-amid-white-house-crypto-expansion-2071252'
+  tier: 2
 status: confirmed
 tags:
 - crypto
 - trump-family
 - financial-capture
 - market-manipulation
-title: Eric Trump's American Bitcoin going public in latest crypto move by president's
-  family
+title: 'Eric Trump''s American Bitcoin going public in latest crypto move by president''s family'
 validation_metadata:
   corrected_by: qa-v2-806
   corrections_applied:
@@ -54,5 +51,4 @@ validation_metadata:
   last_corrected: '2025-10-15T19:49:58.356800Z'
   validation_log_id: null
 ---
-
 Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin, went public through an all-stock merger with Gryphon Digital Mining. Trading on Nasdaq under the ticker 'ABTC', the company is valued at over $7.5 billion, representing a significant expansion of the Trump family's cryptocurrency and financial interests. The merger gives the Trump brothers approximately 20% ownership, with Hut 8 holding 80% of the company.

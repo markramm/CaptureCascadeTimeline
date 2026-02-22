@@ -22,18 +22,22 @@ sources:
   url: https://fortune.com/crypto/2025/04/15/trump-crypto-monopoly-bill-zanker-nfts-memecoin/
   outlet: Fortune
   date: '2025-04-15'
+  tier: 2
 - title: Donald Trump's crypto video game could be the next venture after meme coins and NFT collection
   url: https://www.fxstreet.com/cryptocurrencies/news/donald-trumps-crypto-video-game-could-be-the-next-venture-after-meme-coins-and-nft-collection-202504161552
   outlet: FXStreet
   date: '2025-04-16'
+  tier: 2
 - title: Trump to Launch Monopoly-Inspired Crypto Game Amid Expanding Web3 Push
   url: https://news.bitcoin.com/trump-to-launch-monopoly-inspired-crypto-game-amid-expanding-web3-push/
   outlet: Bitcoin.com News
   date: '2025-04-15'
+  tier: 2
 - title: Trump family to launch a crypto real estate game similar to Monopoly Go
   url: https://www.cryptopolitain.com/trump-family-crypto-real-estate-game/
   outlet: Cryptopolitain
   date: '2025-04-15'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

@@ -19,14 +19,17 @@ sources:
   outlet: The Hill
   date: '2025-07-07'
   url: https://thehill.com/homenews/administration/doj-epstein-client-list-memo
+  tier: 2
 - title: Justice Department reverses course on Epstein files transparency
   outlet: Reuters
   date: '2025-07-07'
   url: https://www.reuters.com/legal/government/justice-department-epstein-files-reversal-2025-07-07/
+  tier: 1
 - title: DOJ's Epstein memo contradicts AG Bondi's February statement
   outlet: Associated Press
   date: '2025-07-08'
   url: https://apnews.com/article/doj-epstein-memo-bondi-contradiction
+  tier: 1
 notes: This memo represented the administration's complete reversal on transparency.
 ---
 

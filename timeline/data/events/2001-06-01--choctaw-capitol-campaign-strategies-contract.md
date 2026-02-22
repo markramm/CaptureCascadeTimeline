@@ -11,12 +11,15 @@ sources:
 - title: Senate Report 109-325 - GIMME FIVE Investigation
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: Senate Indian Affairs Committee
+  tier: 1
 - title: Jack Abramoff Sentencing Press Release
   url: https://www.justice.gov/archive/opa/pr/2008/September/08-crm-779.html
   outlet: U.S. Department of Justice
+  tier: 1
 - title: Jack Abramoff Indian Lobbying Scandal
   url: https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal
   outlet: Wikipedia
+  tier: 2
 importance: 8
 tags:
 - choctaw

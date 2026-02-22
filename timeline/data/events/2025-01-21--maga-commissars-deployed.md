@@ -21,14 +21,17 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/01/25/trump-loyalty-white-house-maga-vetting-jobs/05fd8390-db44-11ef-85a9-331436ec61e9_story.html
   outlet: The Washington Post
   date: '2025-01-25'
+  tier: 1
 - title: Trump's MAGA-fication of the federal government is starting fast
   url: https://www.axios.com/2025/01/27/trump-federal-eorkers-inspectors-general
   outlet: Axios
   date: '2025-01-27'
+  tier: 2
 - title: Loyalty Tests and MAGA Checks Inside the Trump White House's Intense Screening of Job-Seekers
   url: https://www.usnews.com/news/politics/articles/2025-01-25/loyalty-tests-and-maga-checks-inside-the-trump-white-houses-intense-screening-of-job-seekers
   outlet: US News
   date: '2025-01-25'
+  tier: 1
 notes: Unprecedented political monitoring system within federal bureaucracy
 status: confirmed
 ---

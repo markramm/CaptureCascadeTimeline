@@ -26,14 +26,17 @@ sources:
   url: https://www.congress.gov/bill/110th-congress/house-bill/1424
   outlet: U.S. Congress
   date: '2008-10-03'
+  tier: 1
 - title: Bailout Is a No-Strings Windfall to Bankers, if Not to Borrowers
   url: https://www.nytimes.com/2008/10/15/business/economy/15bailout.html
   outlet: The New York Times
   date: '2008-10-15'
+  tier: 1
 - title: The $700 Billion Question
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/09/23/AR2008092303425.html
   outlet: The Washington Post
   date: '2008-09-24'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

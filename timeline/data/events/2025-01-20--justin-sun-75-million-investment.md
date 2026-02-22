@@ -28,18 +28,22 @@ sources:
   url: https://fortune.com/crypto/2024/11/25/trump-world-liberty-financial-crypto-project-30-million-justin-sun-tron/
   outlet: Fortune
   date: '2024-11-25'
+  tier: 2
 - title: 'Trump Crypto News: World Liberty Financial Investment Details'
   url: https://www.coindesk.com/tech/2025/01/19/justin-sun-increases-world-liberty-financial-investment
   outlet: CoinDesk
   date: '2025-01-19'
+  tier: 2
 - title: SEC Investigation Pause in Justin Sun Crypto Case
   url: https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html
   outlet: CNN
   date: '2025-02-28'
+  tier: 1
 - title: 'World Liberty Financial and Justin Sun: A Complex Financial Relationship'
   url: https://www.axios.com/2025/09/05/trump-justin-sun-world-liberty-financial
   outlet: Axios
   date: '2025-09-05'
+  tier: 2
 connections:
 - Trump cryptocurrency ecosystem
 - Foreign financial influence

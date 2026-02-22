@@ -22,14 +22,17 @@ sources:
   url: https://www.justsecurity.org/18541/2007-judge-no-nsa/
   outlet: Just Security
   date: '2014-11-06'
+  tier: 1
 - title: Why The Foreign Intelligence Surveillance Act Court Was Right To Rebuke The Justice Department
   url: https://supreme.findlaw.com/legal-commentary/why-the-foreign-intelligence-surveillance-act-court-was-right-to-rebuke-the-justice-department.html
   outlet: FindLaw
   date: '2007-08-01'
+  tier: 2
 - title: Declassified FISA Court Orders Fill in History of NSA Warrantless Surveillance
   url: https://www.lawfaremedia.org/article/declassified-fisa-court-orders-fill-history-nsa-warrantless-surveillance
   outlet: Lawfare
   date: '2014-12-13'
+  tier: 1
 notes: This ruling came after the Bush administration ended the warrantless surveillance program in January 2007 following public revelation and legal challenges. When Judge Vinson refused to approve the government's attempt to expand surveillance authority, intelligence officials turned to Congress for new surveillance powers, resulting in the Protect America Act and ultimately the FISA Amendments Act of 2008.
 capture_lanes:
 - Media Capture & Control

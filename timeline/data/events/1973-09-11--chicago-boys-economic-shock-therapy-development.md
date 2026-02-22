@@ -20,14 +20,17 @@ sources:
   title: The Complicated Legacy of the 'Chicago Boys' in Chile
   url: https://www.promarket.org/2021/09/12/chicago-boys-chile-friedman-neoliberalism/
   access_date: '2025-09-17'
+  tier: 2
 - outlet: The Nation
   title: How Pinochet's Chile Became a Laboratory for Neoliberalism
   url: https://www.thenation.com/article/world/chicago-boys-chile-neoliberalism/
   access_date: '2025-09-17'
+  tier: 2
 - outlet: Journal of the History of Economic Thought
   title: 'Milton Friedman in Chile: Shock Therapy, Economic Freedom, and Exchange Rates'
   url: https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/milton-friedman-in-chile-shock-therapy-economic-freedom-and-exchange-rates/D58D1A94977A748FA9A9F154EB002E37
   access_date: '2025-09-17'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Financial Capture

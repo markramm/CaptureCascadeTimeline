@@ -22,14 +22,17 @@ sources:
   url: https://www.scotusblog.com/2023/06/supreme-court-rejects-independent-state-legislature-theory/
   outlet: SCOTUSblog
   date: '2023-06-27'
+  tier: 1
 - title: Court rejects theory that would have transformed American elections
   url: https://www.npr.org/2023/06/27/1184724043/supreme-court-independent-state-legislature-theory
   outlet: NPR
   date: '2023-06-27'
+  tier: 1
 - title: Moore v. Harper decision preserves judicial review of election laws
   url: https://www.brennancenter.org/our-work/analysis-opinion/moore-v-harper-decision
   outlet: Brennan Center for Justice
   date: '2023-06-27'
+  tier: 1
 notes: Theory threatened to eliminate all state constitutional protections for voting
   rights and fair elections. Decision preserves role of state courts in protecting
   democracy.

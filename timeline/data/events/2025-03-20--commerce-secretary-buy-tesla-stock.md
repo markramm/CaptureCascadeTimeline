@@ -23,14 +23,17 @@ sources:
   url: https://www.cnbc.com/2025/03/20/trump-commerce-lutnick-elon-musk-tesla-stock-doge-cybertruck.html
   outlet: CNBC
   date: '2025-03-20'
+  tier: 2
 - title: Elon Musk's Tesla falls after Commerce secretary urges Americans to buy stock
   url: https://www.axios.com/2025/03/20/tesla-musk-lutnick
   outlet: Axios
   date: '2025-03-20'
+  tier: 2
 - title: Commerce Secretary Lutnick's Call to Buy Tesla Stock Violates Federal Ethics Rules
   url: https://campaignlegal.org/press-releases/commerce-secretary-lutnicks-call-buy-tesla-stock-violates-federal-ethics-rules
   outlet: Campaign Legal Center
   date: '2025-03-20'
+  tier: 1
 connections:
 - Trump-Musk Alliance
 - Corporate Influence in Government

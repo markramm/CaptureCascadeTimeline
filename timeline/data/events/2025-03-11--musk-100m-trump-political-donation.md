@@ -21,14 +21,17 @@ sources:
   url: https://www.rollingstone.com/politics/politics-news/elon-musk-trump-super-pac-america-donations-1235192886/
   outlet: Rolling Stone
   date: '2025-03-11'
+  tier: 2
 - title: Musk's PAC Offers $100M to Trump Political Operation
   url: https://www.axios.com/2025/03/12/musk-trump-100-million-donation-political-operation
   outlet: Axios
   date: '2025-03-12'
+  tier: 2
 - title: Elon Musk has given $75 million to put Donald Trump back in the White House
   url: https://www.npr.org/2024/10/16/g-s1-28591/elon-musk-donald-trump-america-pac-fec
   outlet: NPR
   date: '2024-10-16'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

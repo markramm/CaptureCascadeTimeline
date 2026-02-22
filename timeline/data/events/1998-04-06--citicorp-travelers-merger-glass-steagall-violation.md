@@ -23,6 +23,7 @@ sources:
 - title: Decline of the Glass–Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
   outlet: Wikipedia
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Citibank's 1998 affiliation with Salomon Smith Barney was permitted under Fed
@@ -37,6 +38,7 @@ sources:
   - Sandy Weill and John Reed led the historic merger
   - Merger created the world's largest financial services conglomerate
   - Anticipated congressional changes to banking laws
+  tier: 2
 - title: Federal Reserve Board Meeting Regarding Citicorp and Travelers Group
   url: https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_thursday.htm
   outlet: Federal Reserve
@@ -45,6 +47,7 @@ sources:
   - Federal Reserve held public meetings about the merger
   - Conditional approval given in September 1998
   - Merger contingent on anticipated legislative changes
+  tier: 1
 status: confirmed
 ---
 

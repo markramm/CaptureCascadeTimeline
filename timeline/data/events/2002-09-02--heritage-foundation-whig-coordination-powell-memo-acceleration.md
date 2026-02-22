@@ -31,14 +31,17 @@ sources:
   url: https://reclaimdemocracy.org/powell_memo_lewis/
   outlet: Reclaim Democracy
   date: '2002-09-15'
+  tier: 2
 - title: 'The Heritage Foundation: From Think Tank to Political Force'
   url: https://www.amazon.com/Heritage-Foundation-Think-Tank-Political/dp/0275981487
   outlet: Praeger Publishers
   date: '2005-08-30'
+  tier: 2
 - title: Corporate Capture and the Bush Administration's War Planning
   url: https://www.americanprogress.org/article/corporate-capture-bush-war-planning/
   outlet: Center for American Progress
   date: '2004-03-20'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Legislative Capture

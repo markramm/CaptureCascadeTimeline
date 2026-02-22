@@ -21,14 +21,17 @@ sources:
   url: https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF
   outlet: Pentagon Inspector General
   date: '2007-02-09'
+  tier: 1
 - title: Report on Whether Public Statements by U.S. Officials Were Substantiated by Intelligence
   url: https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf
   outlet: Senate Intelligence Committee
   date: '2008-06-05'
+  tier: 1
 - title: Briefing on Pentagon IG Report on OSP Activities
   url: https://www.armed-services.senate.gov/hearings/07-02-09-briefing-on-the-department-of-defense-inspector-generals-report
   outlet: Senate Armed Services Committee
   date: '2007-02-09'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

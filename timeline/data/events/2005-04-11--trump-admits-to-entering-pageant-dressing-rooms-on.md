@@ -16,14 +16,17 @@ sources:
   url: https://www.cnn.com/2016/10/08/politics/trump-on-howard-stern
   outlet: CNN
   date: '2016-10-08'
+  tier: 1
 - title: Trump bragged about being able to walk into pageant dressing rooms
   url: https://thehill.com/blogs/ballot-box/presidential-races/300093-trump-bragged-about-being-able-to-walk-into-pageant/
   outlet: The Hill
   date: '2016-10-09'
+  tier: 2
 - title: Four women who competed in pageants say Trump entered dressing rooms
   url: https://www.cbsnews.com/news/more-unearthed-footage-trump-says-of-10-year-old-i-am-going-to-be-dating-her-in-10-years/
   outlet: CBS News
   date: '2016-10-12'
+  tier: 1
 capture_lanes:
 - Systematic Corruption
 ---

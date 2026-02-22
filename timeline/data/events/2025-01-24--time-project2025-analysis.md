@@ -18,12 +18,16 @@ actors:
 sources:
 - title: https://time.com/7209901/donald-trump-executive-actions-project-2025/
   url: https://time.com/7209901/donald-trump-executive-actions-project-2025/
+  tier: 1
 - title: https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning
   url: https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning
+  tier: 1
 - title: https://www.pbs.org/newshour/show/the-project-2025-policies-the-trump-administration-is-already-implementing
   url: https://www.pbs.org/newshour/show/the-project-2025-policies-the-trump-administration-is-already-implementing
+  tier: 1
 - title: https://www.cbsnews.com/news/trump-project-2025-first-100-days/
   url: https://www.cbsnews.com/news/trump-project-2025-first-100-days/
+  tier: 1
 details:
   executive_actions_alignment: Approximately 65% of early executive actions matched Project 2025 recommendations
   key_policy_areas:

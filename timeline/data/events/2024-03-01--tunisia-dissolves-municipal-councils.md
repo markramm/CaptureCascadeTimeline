@@ -11,13 +11,16 @@ actors:
 sources:
 - outlet: Wilson Center
   title: 'Blueprint for Consolidation: Tunisia''s 2024 Election, Authoritarian Shift, and Broader Implications'
-  url: https://www.wilsoncenter.org/article/blueprint-consolidation-tunisias-2024-election-authoritarian-shift-and-broader-implications
+  url: 'https://www.wilsoncenter.org/article/blueprint-consolidation-tunisias-2024-election-authoritarian-shift-and-broader-implications'
+  tier: 2
 - outlet: France24
   title: Tunisian president to dissolve municipal councils ahead of local elections
-  url: https://www.france24.com/en/africa/20230309-tunisian-president-to-dissolve-municipal-councils-ahead-of-local-elections
+  url: 'https://www.france24.com/en/africa/20230309-tunisian-president-to-dissolve-municipal-councils-ahead-of-local-elections'
+  tier: 2
 - outlet: Brookings
-  title: Tunisia is sliding back into authoritarianism. Here's what the US should do.
-  url: https://www.brookings.edu/articles/tunisia-is-sliding-back-into-authoritarianism-heres-what-the-us-should-do/
+  title: 'Tunisia is sliding back into authoritarianism. Here''s what the US should do.'
+  url: 'https://www.brookings.edu/articles/tunisia-is-sliding-back-into-authoritarianism-heres-what-the-us-should-do/'
+  tier: 2
 tags:
 - tunisia
 - arab-spring-reversal
@@ -31,5 +34,4 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 ---
-
 President Kais Saied dissolves Tunisia's first democratic municipal councils created in 2018, completing a systematic dismantling of democratic institutions that began in July 2021. By replacing elected municipal councils with 'special councils' under direct gubernatorial supervision, Saied continues his broad authoritarian consolidation, fundamentally undermining Tunisia's post-Arab Spring democratic framework.

@@ -22,18 +22,22 @@ sources:
   url: https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs
   outlet: ProPublica
   date: '2025-05-19'
+  tier: 1
 - title: Trump Transportation Chief Sure Chose a Convenient Time to Sell Stock
   url: https://newrepublic.com/post/195454/donald-trump-transportation-secretary-sean-duffy-sell-stock-tariffs
   outlet: The New Republic
   date: '2025-05-19'
+  tier: 2
 - title: Transportation secretary sold stocks two days before Trump announced reciprocal tariffs plan
   url: https://lailluminator.com/2025/05/20/duffy-stocks/
   outlet: Louisiana Illuminator
   date: '2025-05-20'
+  tier: 2
 - title: Tariff mastermind unloaded stocks 2 days before Trump announcement tanked market
   url: https://www.rawstory.com/trump-duffy-tariff/
   outlet: Raw Story
   date: '2025-05-19'
+  tier: 3
 connections:
 - Stock Sales by Officials
 - Market Manipulation

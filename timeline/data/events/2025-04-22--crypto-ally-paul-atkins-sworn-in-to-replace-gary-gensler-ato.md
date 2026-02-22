@@ -13,11 +13,11 @@ connections:
 - Trump Administration Crypto Policy
 - SEC Leadership Change
 date: '2025-04-22'
-description: Trump-appointed crypto ally Paul Atkins sworn in as SEC chairman, replacing Gary Gensler and signaling a significant shift in cryptocurrency regulatory policy.
+description: 'Trump-appointed crypto ally Paul Atkins sworn in as SEC chairman, replacing Gary Gensler and signaling a significant shift in cryptocurrency regulatory policy.'
 id: 2025-04-22--crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-ato
 importance: 8
-location: Washington, D.C.
-notes: Represents a strategic shift in cryptocurrency and financial regulatory policy under Trump's second administration.
+location: 'Washington, D.C.'
+notes: 'Represents a strategic shift in cryptocurrency and financial regulatory policy under Trump''s second administration.'
 patterns:
 - kleptocratic-capture
 - regulatory-transformation
@@ -25,21 +25,24 @@ sources:
 - date: '2025-04-22'
   outlet: UPI
   title: Paul Atkins sworn in as SEC chairman
-  url: https://www.upi.com/Top_News/US/2025/04/22/Paul-Atkins-sworn-in-sec-chairman/6911745372094/
+  url: 'https://www.upi.com/Top_News/US/2025/04/22/Paul-Atkins-sworn-in-sec-chairman/6911745372094/'
   accessed_date: '2025-10-07'
   type: news_article
+  tier: 2
 - date: '2025-04-22'
   outlet: Plan Adviser
   title: Senate Confirms Paul Atkins as SEC Chairman
-  url: https://www.planadviser.com/senate-confirms-paul-atkins-sec-chairman/
+  url: 'https://www.planadviser.com/senate-confirms-paul-atkins-sec-chairman/'
   accessed_date: '2025-10-07'
   type: professional_publication
+  tier: 2
 - date: '2025-04-25'
   outlet: CoinDesk
-  title: New U.S. SEC Chief Paul Atkins Says Agency Doesn't Have to Wait to Impose Crypto Policy
-  url: https://www.coindesk.com/policy/2025/04/25/new-sec-chief-atkins-says-agency-doesn-t-have-to-wait-to-impose-crypto-policy
+  title: 'New U.S. SEC Chief Paul Atkins Says Agency Doesn''t Have to Wait to Impose Crypto Policy'
+  url: 'https://www.coindesk.com/policy/2025/04/25/new-sec-chief-atkins-says-agency-doesn-t-have-to-wait-to-impose-crypto-policy'
   accessed_date: '2025-10-07'
   type: crypto_news
+  tier: 2
 status: confirmed
 tags:
 - crypto
@@ -49,5 +52,4 @@ tags:
 - financial-regulation
 title: Crypto ally Paul Atkins sworn in to replace Gary Gensler atop U.S. SEC
 ---
-
 In a significant regulatory shift, Trump-allied Paul Atkins was sworn in as SEC chairman on April 22, 2025, replacing Gary Gensler. The transition signals a potential transformation in cryptocurrency and financial regulatory approaches, with Atkins indicating an immediate willingness to implement new crypto policies.

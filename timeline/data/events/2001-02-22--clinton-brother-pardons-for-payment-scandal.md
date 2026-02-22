@@ -20,18 +20,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Bill_Clinton_pardon_controversy
   outlet: Wikipedia
   date: '2001-02-22'
+  tier: 2
 - title: House Report 107-454 - Justice Undone - Clemency Decisions in the Clinton White House
   url: https://www.govinfo.gov/content/pkg/CRPT-107hrpt454/html/CRPT-107hrpt454-vol3.htm
   outlet: U.S. House of Representatives
   date: '2002-05-14'
+  tier: 1
 - title: New controversy emerges in Clinton pardons
   url: http://www.cnn.com/2001/fyi/news/02/22/clinton.pardons/index.html
   outlet: CNN
   date: '2001-02-22'
+  tier: 1
 - title: FLASHBACK - Roger Clinton Took Cash to Ask Brother for Presidential Pardons
   url: https://freebeacon.com/politics/flashback-roger-clinton-took-cash-to-ask-brother-for-presidential-pardons/
   outlet: Washington Free Beacon
   date: '2016-08-25'
+  tier: 2
 id: 2001-02-22--clinton-brother-pardons-for-payment-scandal
 capture_lanes:
 - Legislative Capture

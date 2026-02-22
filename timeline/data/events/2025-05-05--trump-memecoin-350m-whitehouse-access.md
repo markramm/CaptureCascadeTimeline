@@ -24,18 +24,22 @@ sources:
   url: https://abcnews.go.com/US/wireStory/trumps-meme-coin-business-racks-fees-buyers-jump-121497918
   outlet: ABC News
   date: '2025-05-05'
+  tier: 1
 - title: Trump is hosting a private dinner for the top 220 buyers of his memecoin tonight—and even the crypto lobby is grumbling
   url: https://fortune.com/crypto/2025/05/22/trump-private-crypto-memecoin-dinner-lobbyists-stablecoin-legislation/
   outlet: Fortune Crypto
   date: '2025-05-22'
+  tier: 2
 - title: Donald Trump mines millions from meme coin fans in access-for-tokens model
   url: https://www.business-standard.com/markets/cryptocurrency/donald-trump-meme-coin-melania-trump-white-house-dinner-125050600736_1.html
   outlet: Business Standard
   date: '2025-05-05'
+  tier: 2
 - title: 50 Trump crypto dinner invitees hold tokens linked to alt-right symbols and racist language
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/50-trump-crypto-dinner-invitees-hold-tokens-linked-to-alt-right-symbols-and-racist-language/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   date: '2025-05-05'
+  tier: 2
 connections:
 - Crypto Fundraising
 - Access-for-Tokens Model

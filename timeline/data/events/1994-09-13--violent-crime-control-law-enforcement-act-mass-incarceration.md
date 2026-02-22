@@ -18,18 +18,22 @@ sources:
   url: https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice
   outlet: Brennan Center for Justice
   date: '2019-02-14'
+  tier: 1
 - title: H.R.3355 - Violent Crime Control and Law Enforcement Act of 1994
   url: https://www.congress.gov/bill/103rd-congress/house-bill/3355
   outlet: Congress.gov
   date: '1994-09-13'
+  tier: 1
 - title: Violent Crime Control and Law Enforcement Act
   url: https://en.wikipedia.org/wiki/Violent_Crime_Control_and_Law_Enforcement_Act
   outlet: Wikipedia
   date: '1994-09-13'
+  tier: 2
 - title: The Complex History of the Controversial 1994 Crime Bill
   url: https://www.brennancenter.org/our-work/analysis-opinion/complex-history-controversial-1994-crime-bill
   outlet: Brennan Center for Justice
   date: '2016-04-13'
+  tier: 1
 id: 1994-09-13--violent-crime-control-law-enforcement-act-mass-incarceration
 capture_lanes:
 - Legislative Capture

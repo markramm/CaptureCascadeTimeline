@@ -18,12 +18,15 @@ sources:
 - outlet: FDA.gov
   title: Prescription Drug User Fee Amendments Program Overview
   url: https://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments
+  tier: 1
 - outlet: PubMed
   title: Impact of PDUFA on Pharmaceutical Drug Development Timelines
   url: https://pubmed.ncbi.nlm.nih.gov/10423607/
+  tier: 1
 - outlet: Congress.gov
   title: Prescription Drug User Fee Act of 1992 (Public Law 102-571)
   url: https://www.congress.gov/crs-product/R44864
+  tier: 1
 status: confirmed
 tags:
 - regulatory-capture

@@ -25,14 +25,17 @@ sources:
   url: https://www.congress.gov/bill/110th-congress/house-bill/6304
   outlet: U.S. Congress
   date: '2008-07-09'
+  tier: 1
 - title: Senate Joins House in Caving to White House Immunity Demands
   url: https://www.eff.org/press/archives/2008/07/09
   outlet: Electronic Frontier Foundation
   date: '2008-07-09'
+  tier: 1
 - title: Report on the President's Surveillance Program
   url: https://oig.justice.gov/reports/2015/PSP-09-18-15-full.pdf
   outlet: DOJ Office of Inspector General
   date: '2015-09-01'
+  tier: 1
 notes: The FISA Amendments Act represented Congress's response to the legal crisis created by the revelation of warrantless surveillance programs. The law directed the inspectors general of multiple intelligence agencies to conduct comprehensive reviews of the President's Surveillance Program and its constitutional violations. The telecom immunity provisions effectively ended dozens of lawsuits that could have revealed the full scope of the surveillance programs.
 capture_lanes:
 - Judicial Capture

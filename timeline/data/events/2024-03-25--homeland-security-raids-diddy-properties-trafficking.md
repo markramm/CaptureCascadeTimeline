@@ -21,18 +21,22 @@ sources:
   url: https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses
   outlet: U.S. Department of Justice
   date: '2024-09-17'
+  tier: 1
 - title: HSI New York Leads Investigation Into Sean Combs Trafficking Charges
   url: https://www.dhs.gov/archive/hsi/news/2024/09/17/sean-combs-charged-manhattan-federal-court-sex-trafficking-additional-federal
   outlet: Department of Homeland Security
   date: '2024-09-17'
+  tier: 1
 - title: Homeland Security Raids on Sean Combs' Homes
   url: https://www.bbc.com/news/world-us-canada-68663151
   outlet: BBC
   date: '2024-03-26'
+  tier: 1
 - title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
   outlet: Unlimited Hangout
   date: '2025-04-01'
+  tier: 3
 status: confirmed
 capture_lanes:
 - Systematic Corruption

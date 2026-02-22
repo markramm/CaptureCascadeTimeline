@@ -1,14 +1,11 @@
 ---
 id: 2025-04-02--two-more-law-firms-reach-deals-with-trump-to-avoid-executive
 date: '2025-04-02'
-title: 'Two more law firms reach deals with Trump to avoid executive orders: ''they''re
-  all bending'''
-description: Law firm Milbank LLP reached a $100 million pro bono settlement with
-  Trump to avoid punitive executive orders, agreeing to provide services in areas
-  including veterans support, justice system fairness, and fighting antisemitism
+title: 'Two more law firms reach deals with Trump to avoid executive orders: ''they''re all bending'''
+description: 'Law firm Milbank LLP reached a $100 million pro bono settlement with Trump to avoid punitive executive orders, agreeing to provide services in areas including veterans support, justice system fairness, and fighting antisemitism'
 status: confirmed
 importance: 7
-location: Washington, D.C.
+location: 'Washington, D.C.'
 actors:
 - Donald Trump
 - Trump Administration
@@ -20,27 +17,27 @@ tags:
 - legal-services
 capture_type: monetizing_position
 sources:
-- title: 'Two more law firms reach deals with Trump to avoid executive orders: ''they''re
-    all bending'''
-  url: https://www.theguardian.com/us-news/2025/apr/02/trump-law-firm-executive-order
+- title: 'Two more law firms reach deals with Trump to avoid executive orders: ''they''re tier: 2 all bending'''
+  url: 'https://www.theguardian.com/us-news/2025/apr/02/trump-law-firm-executive-order'
   outlet: The Guardian
   date: '2025-04-02'
+  tier: 1
 - title: Milbank Signs Deal With Trump to Avoid Executive Order
-  url: https://news.bloomberglaw.com/business-and-practice/milbank-signs-deal-with-trump-to-avoid-executive-order
+  url: 'https://news.bloomberglaw.com/business-and-practice/milbank-signs-deal-with-trump-to-avoid-executive-order'
   outlet: Bloomberg Law
   date: '2025-04-02'
+  tier: 2
 - title: Donald Trump reaches deal with another major law firm
-  url: https://thehill.com/homenews/administration/5228599-trump-milbank-law-firm-deal/
+  url: 'https://thehill.com/homenews/administration/5228599-trump-milbank-law-firm-deal/'
   outlet: The Hill
   date: '2025-04-02'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture
-notes: Event from comprehensive kleptocracy timeline tracking. Milbank agreed to $100M
-  in pro bono services to avoid potential executive order targeting the firm.
+notes: Event from comprehensive kleptocracy timeline tracking. Milbank agreed to $100M in pro bono services to avoid potential executive order targeting the firm.
 capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 ---
-
 Law firm Milbank LLP reached a $100 million pro bono settlement with Trump to avoid punitive executive orders, part of a broader trend of law firms making strategic agreements to maintain government contracts

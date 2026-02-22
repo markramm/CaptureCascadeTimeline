@@ -21,14 +21,17 @@ sources:
   url: https://abcnews.go.com/Politics/trump-musk-raise-questions-nations-gold-fort-knox/story?id=119219700
   outlet: ABC News
   date: '2025-05-27'
+  tier: 1
 - title: 'Fort Knox Gold Conspiracy: Trump''s Baseless Claims Analyzed'
   url: https://www.pbs.org/newshour/show/why-trump-and-musk-want-to-audit-gold-reserves-at-fort-knox
   outlet: PBS News
   date: '2025-05-27'
+  tier: 1
 - title: Treasury Confirms Gold Reserves Untouched Following Trump Allegations
   url: https://www.axios.com/2025/02/20/fort-knox-gold-trump-musk
   outlet: Axios
   date: '2025-05-27'
+  tier: 2
 connections:
 - Economic disinformation
 - Market manipulation attempt

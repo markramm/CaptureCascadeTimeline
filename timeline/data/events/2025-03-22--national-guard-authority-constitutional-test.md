@@ -26,14 +26,17 @@ sources:
   url: https://www.gov.ca.gov/2025/06/09/governor-newsom-suing-president-trump-and-department-of-defense-for-illegal-takeover-of-calguard-unit/
   outlet: California Governor's Office
   date: '2025-06-09'
+  tier: 1
 - title: Attorney General James Urges Court to Block Unlawful Federalization
   url: https://ag.ny.gov/press-release/2025/attorney-general-james-urges-court-block-unlawful-federalization-national-guard
   outlet: New York Attorney General's Office
   date: '2025-06-10'
+  tier: 1
 - title: President's Power to Call Out National Guard Is Not a Blank Check
   url: https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check
   outlet: Brennan Center for Justice
   date: '2025-06-15'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

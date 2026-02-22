@@ -22,18 +22,22 @@ sources:
   url: https://texasattorneygeneral.gov/sites/default/files/images/child-support/20220114_195_0_States%20Third%20Amended%20Complaint.pdf
   outlet: Texas Attorney General
   date: '2022-01-14'
+  tier: 1
 - title: More Details Revealed On Project Bernanke And Jedi Blue In Newly Unsealed Google Suit
   url: https://www.adexchanger.com/online-advertising/more-details-revealed-on-project-bernanke-and-jedi-blue-in-newly-unsealed-google-suit/
   outlet: AdExchanger
   date: '2021-04-16'
+  tier: 2
 - title: Google gamed its ad auction system to favor its own ads, generated $213 million
   url: https://appleinsider.com/articles/21/04/11/google-bernanke-revealed-in-ad-business-antitrust-lawsuit-error
   outlet: AppleInsider
   date: '2021-04-11'
+  tier: 2
 - title: How Google Manipulated Digital Ad Prices and Hurt Publishers
   url: https://www.techpolicy.press/how-google-manipulated-digital-ad-prices-and-hurt-publishers-per-doj/
   outlet: TechPolicy.Press
   date: '2023-09-12'
+  tier: 2
 status: confirmed
 id: 2017-01-01--google-project-bernanke-auction-manipulation
 capture_lanes:

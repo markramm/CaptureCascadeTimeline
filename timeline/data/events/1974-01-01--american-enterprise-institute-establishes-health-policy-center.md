@@ -19,12 +19,14 @@ sources:
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: American Enterprise Institute - SourceWatch
   url: https://www.sourcewatch.org/index.php/American_Enterprise_Institute
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: AEI's establishment of specialized policy centers in 1974 reflects broader conservative think tank expansion during this period. AEI also hosted a pivotal 1974 conference advancing supply-side economics. This institutional expansion complemented Heritage Foundation's rapid growth and ALEC's state-level strategy.
 status: confirmed
 ---

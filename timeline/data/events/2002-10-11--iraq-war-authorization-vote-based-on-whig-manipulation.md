@@ -31,14 +31,17 @@ sources:
   url: https://www.congress.gov/bill/107th-congress/house-joint-resolution/114
   outlet: U.S. Congress
   date: '2002-10-16'
+  tier: 1
 - title: Iraq Resolution Vote Results
   url: https://clerk.house.gov/evs/2002/roll455.xml
   outlet: U.S. House Clerk
   date: '2002-10-10'
+  tier: 1
 - title: Senate Vote on Iraq Resolution
   url: https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=107&session=2&vote=00237
   outlet: U.S. Senate
   date: '2002-10-11'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

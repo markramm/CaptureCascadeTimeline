@@ -27,14 +27,17 @@ sources:
   url: https://www.foxbusiness.com/politics/trump-inauguration-draws-big-crypto-donations
   outlet: Fox Business
   date: '2025-01-17'
+  tier: 2
 - title: Crypto firms pour millions into Trump inauguration
   url: https://www.politico.com/news/2025/01/17/crypto-money-trump-inauguration-00199088
   outlet: Politico
   date: '2025-01-17'
+  tier: 1
 - title: Crypto firms gave $18M to Trump's inauguration. Ripple's $4.9M gift was second biggest overall
   url: https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/
   outlet: Fortune Crypto
   date: '2025-04-21'
+  tier: 2
 connections:
 - cryptocurrency regulatory capture
 - tech industry political donations

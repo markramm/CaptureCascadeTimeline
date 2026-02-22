@@ -34,11 +34,13 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Jimmy Carter (1977-1981): Transformational Deregulation'
   url: https://enotrans.org/article/jimmy-carter-1977-1981-transformational-deregulation-of-americas-transportation-system-and-more/
   outlet: Eno Center for Transportation
   date: '2020-01-01'
   verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Financial Capture

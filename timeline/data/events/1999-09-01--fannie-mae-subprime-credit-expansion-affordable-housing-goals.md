@@ -22,14 +22,17 @@ sources:
   url: https://www.huduser.gov/portal/periodicals/ushmc/fall99/fall99.html
   outlet: HUD
   date: '1999-09-01'
+  tier: 1
 - title: Fannie Mae Eases Credit Requirements
   url: https://www.nytimes.com/1999/09/30/business/fannie-mae-eases-credit-to-aid-mortgage-lending.html
   outlet: The New York Times
   date: '1999-09-30'
+  tier: 1
 - title: Thoughtful Reform of U.S. Housing Policy
   url: https://www.brookings.edu/articles/thoughtful-reform-of-u-s-housing-policy/
   outlet: Brookings Institution
   date: '2010-10-01'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Media Capture & Control

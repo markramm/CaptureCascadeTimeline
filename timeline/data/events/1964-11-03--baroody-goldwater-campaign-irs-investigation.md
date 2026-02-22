@@ -28,12 +28,14 @@ sources:
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Barry Goldwater's Curious Campaign
   url: https://aliciapatterson.org/john-judis/barry-goldwaters-curious-campaign/
   outlet: Alicia Patterson Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Baroody was "chief intellectual entrepreneur" of Goldwater campaign and "real power behind the campaign" operating in "informal back room" manner, controlling speech writing and issues. He excluded William F. Buckley Jr., William Rusher, L. Brent Bozell, and National Review from campaign. He looked upon Goldwater as "his creation" and wanted to be only one with candidate's ear. Even wanted to ignore or condemn Reagan's "A Time for Choosing" speech until donor Walter Knotts threatened to pull funding. After investigation, AEI officers attempted to avoid appearance of partisan political advocacy.
 status: confirmed
 ---

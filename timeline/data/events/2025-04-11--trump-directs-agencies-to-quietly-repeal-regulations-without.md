@@ -14,20 +14,23 @@ tags:
 - deregulation
 - administrative-law
 - regulatory-capture
-location: Washington, D.C.
+location: 'Washington, D.C.'
 sources:
 - outlet: White House
   title: 'Presidential Memorandum: Directing the Repeal of Unlawful Regulations'
-  url: https://www.whitehouse.gov/presidential-actions/2025/04/directing-the-repeal-of-unlawful-regulations/
+  url: 'https://www.whitehouse.gov/presidential-actions/2025/04/directing-the-repeal-of-unlawful-regulations/'
   date: '2025-04-11'
+  tier: 1
 - outlet: PBS NewsHour (AP)
   title: Trump Administration Moves to Repeal EPA Rule That Allows Climate Regulation
-  url: https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation
+  url: 'https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation'
   date: '2025-04-11'
+  tier: 1
 - outlet: Government Executive
   title: Trump Directive Aims to Speed Up Deregulation by Nixing Public Input
-  url: https://www.govexec.com/management/2025/04/trump-directive-aims-speed-deregulation-nixing-public-input/404474/
+  url: 'https://www.govexec.com/management/2025/04/trump-directive-aims-speed-deregulation-nixing-public-input/404474/'
   date: '2025-04-11'
+  tier: 2
 capture_lanes:
 - Systematic Corruption
 capture_type: administrative_capture
@@ -36,5 +39,4 @@ patterns:
 - kleptocratic-capture
 connections: []
 ---
-
 President Trump issued a Presidential Memorandum directing federal agencies to review and repeal regulations deemed unlawful based on recent Supreme Court decisions, bypassing normal notice-and-comment procedures. The directive allows agencies to use the 'good cause' exception in the Administrative Procedure Act to remove regulations quickly, potentially impacting areas like environmental policy, economic regulation, and administrative law.

@@ -26,14 +26,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Dan_Bartlett
   outlet: Wikipedia
   date: '2023'
+  tier: 2
 - title: Ari Fleischer
   url: https://en.wikipedia.org/wiki/Ari_Fleischer
   outlet: Wikipedia
   date: '2023'
+  tier: 2
 - title: Ari Fleischer Oral History
   url: https://millercenter.org/the-presidency/presidential-oral-histories/ari-fleischer-oral-history
   outlet: Miller Center
   date: '2007'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

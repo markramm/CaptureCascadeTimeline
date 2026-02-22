@@ -21,14 +21,17 @@ sources:
   url: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301
   outlet: NY Department of Financial Services
   date: '2017-01-30'
+  tier: 1
 - title: Is Donald Trump's Dark Russian Secret Hiding in Deutsche Bank's Vaults?
   url: https://www.newsweek.com/2017/12/29/donald-trump-russia-secret-deutsche-bank-753780.html
   outlet: Newsweek
   date: '2017-12-29'
+  tier: 2
 - title: Deutsche Bank Execs Missed Money Laundering Red Flags
   url: https://www.buzzfeednews.com/article/tomwarren/deutsche-bank-money-laundering-mirror-trades
   outlet: BuzzFeed News
   date: '2020-09-20'
+  tier: 2
 notes: 'The bank paid $425 million to New York regulators and £163 million to UK authorities.
 
   Mirror trades involved fake stock transactions to convert rubles to dollars through

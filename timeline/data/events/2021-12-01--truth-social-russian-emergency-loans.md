@@ -2,10 +2,10 @@
 id: 2021-12-01--truth-social-russian-emergency-loans
 date: '2021-12-01'
 importance: 9
-title: Truth Social Receives $8 Million from Russian-Connected Entities While "On Brink of Collapse"
+title: 'Truth Social Receives $8 Million from Russian-Connected Entities While "On Brink of Collapse"'
 location: United States
 actors:
-- Trump Media & Technology Group
+- 'Trump Media & Technology Group'
 - Paxum Bank
 - Anton Postolnikov
 - ES Family Trust
@@ -20,27 +20,32 @@ capture_lanes:
 - International Kleptocracy
 sources:
 - title: Truth Social Wikipedia - Russian Financial Connections
-  url: https://en.wikipedia.org/wiki/Truth_Social
+  url: 'https://en.wikipedia.org/wiki/Truth_Social'
   outlet: Wikipedia
   date: '2023-03-01'
-  archive_url: https://web.archive.org/web/20230301000000/https://en.wikipedia.org/wiki/Truth_Social
-- title: Trump Media took $8 million loan from porn-tied bank, unknown trust
-  url: https://www.washingtonpost.com/technology/2023/05/13/trump-truth-social-loan-questions/
+  tier: 2
+  archive_url: 'https://web.archive.org/web/20230301000000/https://en.wikipedia.org/wiki/Truth_Social'
+- title: 'Trump Media took $8 million loan from porn-tied bank, unknown trust'
+  url: 'https://www.washingtonpost.com/technology/2023/05/13/trump-truth-social-loan-questions/'
   outlet: The Washington Post
   date: '2023-05-13'
+  tier: 1
 - title: Trump Media Got Millions in Loans from Foreign Sources with Russian Ties
-  url: https://www.esquire.com/news-politics/politics/a43329318/russian-investment-trump-media/
+  url: 'https://www.esquire.com/news-politics/politics/a43329318/russian-investment-trump-media/'
   outlet: Esquire
   date: '2023-03-15'
-- title: Who Is Anton Postolnikov? Kremlin-Linked Fintech Guru 'Saved Trump Media'
-  url: https://www.newsweek.com/postolnikov-putin-trump-kremlin-1886745
+  tier: 2
+- title: 'Who Is Anton Postolnikov? Kremlin-Linked Fintech Guru ''Saved Trump Media'''
+  url: 'https://www.newsweek.com/postolnikov-putin-trump-kremlin-1886745'
   outlet: Newsweek
   date: '2024-03-25'
-- title: US investigators 'examined Trump Media for possible money laundering'
-  url: https://www.irishtimes.com/world/us/2023/03/15/us-investigators-examined-trump-media-for-possible-money-laundering/
+  tier: 2
+- title: 'US investigators ''examined Trump Media for possible money laundering'''
+  url: 'https://www.irishtimes.com/world/us/2023/03/15/us-investigators-examined-trump-media-for-possible-money-laundering/'
   outlet: Irish Times
   date: '2023-03-15'
-notes: Paxum Bank part-owned by Postolnikov, relation of former Russian official. SDNY prosecutors investigating Russian ties as of March 2023. Loans provided when company desperate for cash.
+  tier: 1
+notes: 'Paxum Bank part-owned by Postolnikov, relation of former Russian official. SDNY prosecutors investigating Russian ties as of March 2023. Loans provided when company desperate for cash.'
 status: confirmed
 ---
 In late 2021, Trump Media & Technology Group received emergency loans totaling approximately $8 million when the company was near financial collapse before completing its SPAC merger. Two entities provided these funds: Paxum Bank, a digital payments company, contributed $2 million, and the ES Family Trust provided $6 million. Paxum Bank was partly owned by Anton Postolnikov, a Russian national described as a relation of a former Russian government official with ties to the Kremlin.

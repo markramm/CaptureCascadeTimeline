@@ -30,14 +30,17 @@ sources:
   url: https://commdocs.house.gov/committees/science/hsy73326.000/hsy73326_0.HTM
   outlet: House Science Committee
   date: '2001-05-16'
+  tier: 1
 - title: National Energy Policy
   url: https://georgewbush-whitehouse.archives.gov/energy/2001/index.html
   outlet: Bush White House Archives
   date: '2001-05-17'
+  tier: 1
 - title: Process Used to Develop the National Energy Policy
   url: https://www.gao.gov/assets/gao-03-894.pdf
   outlet: GAO
   date: '2003-08-25'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 ---

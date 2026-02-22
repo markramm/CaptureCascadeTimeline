@@ -19,22 +19,27 @@ sources:
   title: Treasury's Point Man on AIG Bailout That Benefited Goldman Owned Goldman Stock
   outlet: ProPublica
   date: '2009-06-22'
+  tier: 1
 - url: https://bettermarkets.org/newsroom/goldman-sachs-failed-10-years-ago-today/
   title: How Goldman Sachs Failed 10 Years Ago
   outlet: Better Markets
   date: '2018-09-16'
+  tier: 2
 - url: https://www.tavakolistructuredfinance.com/goldman-aig-bailout/
   title: 'Goldman Sachs and AIG: Complexity in the Financial Crisis'
   outlet: Tavakoli Structured Finance
   date: '2008-10-01'
+  tier: 2
 - url: https://www.congress.gov/crs-product/R42953
   title: 'Government Assistance for AIG: Summary and Cost'
   outlet: Congressional Research Service
   date: '2012-11-21'
+  tier: 1
 - url: https://www.govinfo.gov/content/pkg/CHRG-110hhrg55767/html/CHRG-110hhrg55767.htm
   title: The Causes and Effects of the AIG Bailout
   outlet: U.S. Government Publishing Office
   date: '2008-09-19'
+  tier: 1
 capture_lanes:
 - Digital & Tech Capture
 - Regulatory Capture

@@ -25,14 +25,17 @@ sources:
   url: https://www.hbo.com/documentaries/the-dark-money-game
   outlet: HBO
   date: '2025-03-01'
+  tier: 2
 - title: Alex Gibney documentary exposes Citizens United corruption through FBI recordings
   url: https://variety.com/2025/tv/reviews/dark-money-game-hbo-alex-gibney-1234567890/
   outlet: Variety
   date: '2025-03-01'
+  tier: 1
 - title: New HBO series uses FBI wiretaps to expose dark money corruption
   url: https://www.hollywoodreporter.com/tv/tv-reviews/dark-money-game-hbo-documentary-1234567890
   outlet: The Hollywood Reporter
   date: '2025-03-02'
+  tier: 1
 notes: Officials caught on FBI wiretaps explicitly stating Citizens United decision enabled their corruption. Documentary reveals coordinated astroturfing networks and algorithmic manipulation systems.
 ---
 

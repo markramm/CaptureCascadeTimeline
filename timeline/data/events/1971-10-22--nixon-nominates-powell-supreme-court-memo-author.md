@@ -24,6 +24,7 @@ sources:
 - title: 'The Scheme 2: Powell on the Court'
   url: https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/
   outlet: Senator Sheldon Whitehouse
+  tier: 2
   verified: true
   key_facts_confirmed:
   - Nixon nominated Powell on October 22, 1971
@@ -37,6 +38,7 @@ sources:
   - Precise nomination details from primary source
   - Context of Nixon's Supreme Court nominations
   - Historical documentation of nomination process
+  tier: 1
 - title: 'On This Day: William Rehnquist and Lewis Powell Confirmed as Associate Justices of the Supreme Court'
   url: https://blog.nixonfoundation.org/2014/12/day-william-reihnquist-lewis-powell-confirmed-associate-justices-supreme-court/
   outlet: Nixon Foundation
@@ -45,6 +47,7 @@ sources:
   - Powell confirmed 89-1 by Senate
   - Nominated alongside William Rehnquist
   - Background of Powell's legal career
+  tier: 2
 status: confirmed
 ---
 

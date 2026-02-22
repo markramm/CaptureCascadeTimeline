@@ -25,6 +25,7 @@ sources:
   - Strategy involved identifying and nurturing young legal talent
   - Goal was to create judges loyal to conservative legal principles
   verified: true
+  tier: 1
 - outlet: NPR
   title: Federalist Society's Leonard Leo wants to 'crush liberal dominance'
   url: https://www.npr.org/2024/11/24/nx-s1-5199049/federalist-society-conservative-supreme-court
@@ -33,6 +34,7 @@ sources:
   - Focused on 'originalist constitutionalist' judicial candidates
   - Created 'networks of talent' to advance conservative legal perspectives
   verified: true
+  tier: 1
 - outlet: Federalist Society (official)
   title: Leonard A. Leo - Contributor Profile
   url: https://fedsoc.org/contributors/leonard-leo
@@ -40,6 +42,7 @@ sources:
   - Leo joined Federalist Society national office in 1991
   - Began developing systematic approach to judicial talent recruitment
   verified: true
+  tier: 2
 status: confirmed
 ---
 

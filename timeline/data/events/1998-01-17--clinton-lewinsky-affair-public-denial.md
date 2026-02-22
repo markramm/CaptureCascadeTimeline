@@ -18,14 +18,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Clinton–Lewinsky_scandal
   outlet: Wikipedia
   date: '1998-01-17'
+  tier: 2
 - title: From an Anonymous Tip to an Impeachment - A Timeline of Key Moments in the Clinton-Lewinsky Scandal
   url: https://time.com/5120561/bill-clinton-monica-lewinsky-timeline/
   outlet: TIME
   date: '2018-01-18'
+  tier: 1
 - title: The Clinton impeachment and its fallout
   url: https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout
   outlet: University of Virginia Miller Center
   date: '2024-01-01'
+  tier: 1
 id: 1998-01-17--clinton-lewinsky-affair-public-denial
 capture_lanes:
 - Legislative Capture

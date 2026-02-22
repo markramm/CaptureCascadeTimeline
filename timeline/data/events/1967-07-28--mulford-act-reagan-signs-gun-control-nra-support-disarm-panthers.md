@@ -13,19 +13,23 @@ sources:
 - title: The NRA Supported Gun Control When the Black Panthers Had the Weapons
   outlet: History.com
   url: https://www.history.com/articles/black-panthers-gun-control-nra-support-mulford-act
+  tier: 2
   year: 2024
 - title: 'California Gun Control: How Ronald Reagan and the Black Panthers Started a Movement'
   outlet: California Local
   url: https://californialocal.com/localnews/statewide/ca/article/show/4412-california-gun-control-reagan-black-panthers/
   year: 2024
+  tier: 2
 - title: Mulford Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Mulford_Act
   year: 2024
+  tier: 2
 - title: Did the NRA Support a 1967 Open Carry Ban in California?
   outlet: Snopes
   url: https://www.snopes.com/fact-check/nra-california-open-carry-ban/
   year: 2024
+  tier: 2
 tags:
 - gun-control
 - racial-politics

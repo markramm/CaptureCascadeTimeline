@@ -11,14 +11,17 @@ actors:
 - Xi Jinping
 sources:
 - outlet: NPR
-  title: The Inscrutable Aims of Steve Bannon's Enigmatic Chinese Benefactor
-  url: https://www.npr.org/2022/10/20/1130184401/the-inscrutable-aims-of-steve-bannons-enigmatic-chinese-benefactor
+  title: 'The Inscrutable Aims of Steve Bannon''s Enigmatic Chinese Benefactor'
+  url: 'https://www.npr.org/2022/10/20/1130184401/the-inscrutable-aims-of-steve-bannons-enigmatic-chinese-benefactor'
+  tier: 1
 - outlet: China Digital Times
   title: Guo Wengui and Steve Bannon Launch Investigation Fund
-  url: https://chinadigitaltimes.net/2018/11/guo-wengui-and-steve-bannon-launch-investigation-fund/
+  url: 'https://chinadigitaltimes.net/2018/11/guo-wengui-and-steve-bannon-launch-investigation-fund/'
+  tier: 2
 - outlet: NPR
   title: U.S. charges Chinese tycoon Guo Wengui in a $1 billion fraud conspiracy
-  url: https://www.npr.org/2023/03/15/1163676898/chinese-business-tycoon-guo-wengui-fraud-arrest
+  url: 'https://www.npr.org/2023/03/15/1163676898/chinese-business-tycoon-guo-wengui-fraud-arrest'
+  tier: 1
 tags:
 - foreign-influence
 - chinese-exile
@@ -27,10 +30,9 @@ tags:
 - media-manipulation
 - alternative-media
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Financial Capture
 - Intelligence Penetration
 status: confirmed
 ---
-
 Chinese exile billionaire Guo Wengui (Miles Guo) began a $1 million contract with Steve Bannon for media consulting, marking the start of a complex political influence operation targeting Chinese Communist Party leadership. Bannon was hired to introduce Guo Media to political personalities and help build an alternative media platform, GTV, designed to spread pro-Trump messaging and anti-CCP narratives to Chinese expatriate communities.

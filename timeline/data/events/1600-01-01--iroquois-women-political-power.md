@@ -19,19 +19,23 @@ sources:
   author: Nancy Shoemaker
   year: 1991
   url: https://www.tandfonline.com/doi/abs/10.1080/10402659.1991.9964675
+  tier: 1
 - outlet: American Indian Quarterly
   title: 'The Lynx in Time: Haudenosaunee Women''s Traditions and History'
   author: Barbara A. Mann
   year: 1997
   url: https://www.jstor.org/stable/1185726
+  tier: 1
 - outlet: American Indian Law Review
   title: Iroquois Great Law of Peace and the United States Constitution
   author: Renée Jacobs
   year: 1991
   url: https://www.jstor.org/stable/j.ctt1xhr4j
+  tier: 1
 - outlet: Women's History Blog
   title: Iroquois Women's Political Power and Roles
   url: https://www.womenhistoryblog.com/2008/05/iroquois-women.html
+  tier: 2
 status: confirmed
 capture_lanes:
 - Democratic Erosion

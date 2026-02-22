@@ -22,14 +22,17 @@ sources:
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2004-01-01'
+  tier: 1
 - title: 'Managed Care Backlash: A Grassroots Movement?'
   outlet: Journal of Health Politics, Policy and Law
   url: https://academic.oup.com/jhppl
   date: '2001-01-01'
+  tier: 1
 - title: 'HMO Liability: Legislative Battles'
   outlet: Kaiser Family Foundation
   url: https://www.kff.org
   date: '2001-01-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

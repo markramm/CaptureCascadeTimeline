@@ -23,18 +23,22 @@ sources:
   url: https://www.axios.com/local/washington-dc/2025/06/09/dc-bar-election-bondi-trump
   outlet: Axios
   date: '2025-06-09'
+  tier: 2
 - title: Bradley Bondi, brother of attorney general, loses bid to lead D.C. Bar
   url: https://www.washingtonpost.com/dc-md-va/2025/06/09/attorneys-bondi-bar-election-president-trump/
   outlet: The Washington Post
   date: '2025-06-09'
+  tier: 1
 - title: D.C. Bar overwhelmingly rejects bid by Attorney General Pam Bondi's brother to lead it
   url: https://www.msnbc.com/top-stories/latest/brad-bondi-trump-ally-loses-dc-bar-association-election-rcna211883
   outlet: MSNBC
   date: '2025-06-09'
+  tier: 2
 - title: Brother of AG Pam Bondi and a former Ed Martin aide lose bid to take over DC Bar
   url: https://www.cnn.com/2025/06/09/politics/bradley-bondi-dc-bar
   outlet: CNN Politics
   date: '2025-06-09'
+  tier: 2
 notes: Bradley Bondi (runs Paul Hastings global white collar defense) represented Elon Musk & Trump Media. Called result "disgusting" and "hijacked" by "rabid partisans." Seltzer endorsed by 24 former DC Bar presidents. Record 43% turnout (38,600 of 90,000 members) vs 9% (7,570) in 2024. Previous record was 1990. Fears of bar politicization/weaponization drove massive turnout.
 status: confirmed
 ---

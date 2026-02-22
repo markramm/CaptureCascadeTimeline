@@ -22,14 +22,17 @@ sources:
   url: https://www.washingtonpost.com/local/public-safety/appeals-court-strikes-down-north-carolinas-voter-id-law/2016/07/29/810b5844-4f72-11e6-aa14-e0c1087f7583_story.html
   outlet: The Washington Post
   date: '2016-07-29'
+  tier: 1
 - title: Federal Court Blocks North Carolina's Voter ID Law
   url: https://www.nytimes.com/2016/07/30/us/federal-appeals-court-strikes-down-north-carolina-voter-id-requirement.html
   outlet: The New York Times
   date: '2016-07-29'
+  tier: 1
 - title: North Carolina State Conference of the NAACP v. McCrory
   url: https://www.ca4.uscourts.gov/opinions/Published/161468.P.pdf
   outlet: Fourth Circuit Court
   date: '2016-07-29'
+  tier: 1
 capture_lanes:
 - Media Capture & Control
 - Judicial Capture

@@ -21,18 +21,22 @@ sources:
   url: https://www.msnbc.com/news/noaa-budget-cuts-climate-research
   outlet: MSNBC
   date: '2025-02-01'
+  tier: 2
 - title: Trump plan would eliminate NOAA climate research, slash agency budget
   url: https://www.washingtonpost.com/climate-environment/2025/04/11/trump-noaa-cuts-proposal/
   outlet: The Washington Post
   date: '2025-04-11'
+  tier: 1
 - title: NOAA could face 25% budget cut, slashing climate research, under draft proposal
   url: https://www.cbsnews.com/news/noaa-budget-cut-climate-research-draft-proposal/
   outlet: CBS News
   date: '2025-04-11'
+  tier: 1
 - title: Trump's budget plan eviscerates weather and climate research, and it could be enacted immediately
   url: https://www.cnn.com/2025/04/11/climate/trump-noaa-budget-cuts/index.html
   outlet: CNN
   date: '2025-04-11'
+  tier: 1
 notes: Climate programs dismantled wholesale per Project 2025 recommendations
 status: confirmed
 ---

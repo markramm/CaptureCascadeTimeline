@@ -17,18 +17,22 @@ sources:
   url: https://www.cnbc.com/2025/04/11/trump-tariffs-democrats-sec-stock-market-manipulation.html
   outlet: CNBC
   date: '2025-04-11'
+  tier: 2
 - title: What Is Insider Trading? Spike in Tariff Trades Sparks Manipulation Claims
   url: https://www.newsweek.com/insider-trading-tariff-trades-2058592
   outlet: Newsweek
   date: '2025-04-12'
+  tier: 2
 - title: Trump's $1.4 trillion gamble with the economy and prices
   url: https://www.cnn.com/2025/02/02/business/trump-economy-tariff-mexico-canada-china/index.html
   outlet: CNN Business
   date: '2025-02-02'
+  tier: 1
 - title: Did Trump engage in insider trading? Experts say he's unlikely to have legal troubles
   url: https://www.pbs.org/newshour/politics/did-trump-engage-in-insider-trading-experts-say-hes-unlikely-to-have-legal-troubles
   outlet: PBS NewsHour
   date: '2025-04-15'
+  tier: 1
 actors:
 - Donald Trump
 - Trump Administration

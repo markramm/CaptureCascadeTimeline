@@ -23,12 +23,14 @@ sources:
   url: https://www.heritage.org/taxes/report/the-laffer-curve-past-present-and-future
   outlet: Heritage Foundation
   date: '2004-06-01'
+  tier: 2
   verified: true
 - title: Arthur Laffer - Britannica Money
   url: https://www.britannica.com/money/Arthur-Laffer
   outlet: Britannica
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: The famous napkin sketch occurred during dinner discussion of President Ford's tax proposals. Laffer was University of Chicago professor at the time. Jude Wanniski, Wall Street Journal associate editor, later named it the "Laffer Curve" in 1978 Public Interest article. This simple diagram became ideological foundation for Reagan tax cuts and decades of supply-side economics.
 status: confirmed
 ---

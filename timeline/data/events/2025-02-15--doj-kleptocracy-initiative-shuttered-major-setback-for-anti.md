@@ -6,7 +6,7 @@ actors:
 - KleptoCapture Task Force
 - Transparency International
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Systematic Corruption
 - Judicial Capture
 date: '2025-02-15'
@@ -16,13 +16,16 @@ priority_id: RP-20250909-resistance-movement-documentation
 sources:
 - outlet: Bloomberg Law
   title: Bondi Scales Back U.S. Justice Department White Collar Enforcement
-  url: https://news.bloomberglaw.com/us-law-week/bondi-scales-back-us-justice-department-white-collar-enforcement
+  url: 'https://news.bloomberglaw.com/us-law-week/bondi-scales-back-us-justice-department-white-collar-enforcement'
+  tier: 2
 - outlet: Voice of America News
-  title: US Justice Department Disbands Teams Investigating Corruption, Election Interference
-  url: https://www.voanews.com/a/us-justice-department-disbands-teams-investigating-corruption-election-interference/7967503.html
+  title: 'US Justice Department Disbands Teams Investigating Corruption, Election Interference'
+  url: 'https://www.voanews.com/a/us-justice-department-disbands-teams-investigating-corruption-election-interference/7967503.html'
+  tier: 2
 - outlet: Transparency International
   title: Attorney General Memorandum Redirects U.S. Anti-Corruption Efforts Raising Questions and Concerns
-  url: https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/
+  url: 'https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/'
+  tier: 2
 status: confirmed
 tags:
 - anti-corruption
@@ -34,5 +37,4 @@ tags:
 - institutional-capture
 title: 'DOJ Kleptocracy Initiative Shuttered: Major Setback for Anti-Corruption Enforcement'
 ---
-
 On February 15, 2025, Attorney General Pam Bondi announced the immediate closure of the Kleptocracy Asset Recovery Initiative and KleptoCapture Task Force, representing a fundamental shift in DOJ enforcement priorities. The decision redirects resources from tracking international corruption and election interference to targeting drug cartels and transnational criminal organizations. This move effectively dismantles a decade-long effort to recover billions of dollars from corrupt overseas officials and track foreign influence in the United States.

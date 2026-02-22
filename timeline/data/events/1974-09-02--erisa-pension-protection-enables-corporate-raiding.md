@@ -32,11 +32,13 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Protecting ERISA Preemption
   url: https://www.eric.org/protecting-erisa-preemption/
   outlet: The ERISA Industry Committee
   date: '2024-01-01'
   verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

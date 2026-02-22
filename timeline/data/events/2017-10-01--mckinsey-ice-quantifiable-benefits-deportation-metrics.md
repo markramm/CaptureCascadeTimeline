@@ -30,14 +30,17 @@ sources:
   url: https://www.npr.org/2024/11/21/nx-s1-5199630/police-report-gives-details-timeline-of-the-sexual-assault-claim-against-pete-hegseth
   outlet: NPR
   date: '2024-11-21'
+  tier: 1
 - title: Police report reveals new details from sexual assault allegation against Trump's defense secretary nominee
   url: https://www.cnn.com/2024/11/21/politics/pete-hegseth-police-report-defense-secretary-trump/index.html
   outlet: CNN
   date: '2024-11-21'
+  tier: 1
 - title: NPR Investigates Sexual Misconduct Allegations in Media Industry
   url: https://www.npr.org/2024/12/01/media-accountability-report-sexual-misconduct
   outlet: NPR
   date: '2024-12-01'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Corporate Capture

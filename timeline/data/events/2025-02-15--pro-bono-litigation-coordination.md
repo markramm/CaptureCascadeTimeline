@@ -19,12 +19,15 @@ sources:
 - title: Pro Bono Legal Coordination Platform Overview
   url: https://constitutionallitigation.org/coordination-2025
   outlet: Constitutional Litigation Center
+  tier: 2
 - title: Legal Defense Coalition Launch Details
   url: https://www.democracy2025.org/
   outlet: Democracy 2025
+  tier: 2
 - title: 'Project 2025: Protecting Civil Liberties Through Strategic Legal Action'
   url: https://www.aclu.org/project-2025-explained
   outlet: ACLU
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

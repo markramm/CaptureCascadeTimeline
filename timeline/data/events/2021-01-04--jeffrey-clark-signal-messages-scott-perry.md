@@ -21,18 +21,22 @@ sources:
   url: https://www.justsecurity.org/106278/highlights-jack-smith-january-6th-final-report/
   outlet: Just Security
   date: '2025-01-14'
+  tier: 1
 - title: Report of Special Counsel Smith Volume 1 January 2025
   url: https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf
   outlet: Department of Justice
   date: '2025-01-14'
+  tier: 1
 - title: 'House Report 117-200: Resolution Finding Jeffrey Clark in Contempt of Congress'
   url: https://www.congress.gov/committee-report/117th-congress/house-report/200/1
   outlet: U.S. Congress
   date: '2022-10-19'
+  tier: 1
 - title: 'January 6 Select Committee Final Report, Volume II: Findings of the Investigation'
   url: https://www.congress.gov/committee-report/117th-congress/house-report/692/1
   outlet: U.S. Congress
   date: '2022-12-22'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -21,22 +21,26 @@ sources:
   url: https://247wallst.com/economy/2025/03/12/this-republican-president-nearly-tripled-the-u-s-debt-during-his-time-in-office/
   outlet: 24/7 Wall St
   date: '2025-03-12'
+  tier: 2
   verified: true
 - title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: U.S. Presidents and the Federal Deficit
   url: https://amarkfoundation.org/reports/u-s-presidents-and-the-federal-deficit/
   outlet: A-Mark Foundation
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: 'Ronald Reagan: Domestic Affairs'
   url: https://millercenter.org/president/reagan/domestic-affairs
   outlet: Miller Center (University of Virginia)
   date: '2024-01-01'
   verified: true
+  tier: 1
 capture_lanes:
 - Military-Industrial Complex
 - Financial Capture

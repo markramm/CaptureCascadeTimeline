@@ -24,18 +24,22 @@ sources:
   url: https://www.washingtonpost.com/politics/2025/02/18/trump-executive-order-fcc-ftc-sec/
   outlet: The Washington Post
   date: '2025-02-18'
+  tier: 1
 - title: Trump executive order targets control of SEC, FTC, and FCC
   url: https://fortune.com/2025/02/19/trump-executive-order-aims-to-seize-control-from-independent-watchdogs-sec-ftc-and-fcc/
   outlet: Fortune
   date: '2025-02-19'
+  tier: 2
 - title: Trump claims expanded power over independent agencies
   url: https://www.npr.org/2025/02/19/nx-s1-5302481/trump-independent-agencies
   outlet: NPR
   date: '2025-02-19'
+  tier: 1
 - title: President Donald J. Trump Reins in Independent Agencies to Restore a Government that Answers to the American People
   url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-reins-in-independent-agencies-to-restore-a-government-that-answers-to-the-american-people/
   outlet: White House
   date: '2025-02-18'
+  tier: 1
 connections: []
 patterns:
 - institutional-capture

@@ -16,13 +16,16 @@ tags:
 sources:
 - title: 'InfluenceWatch: ALEC Founding Overview'
   url: https://www.influencewatch.org/non-profit/american-legislative-exchange-council/
+  tier: 2
   date_accessed: '2025-09-17'
 - title: 'SourceWatch: ALEC Strategic Approach'
   url: https://www.sourcewatch.org/index.php/American_legislative_exchange_council
   date_accessed: '2025-09-17'
+  tier: 2
 - title: 'Bill Moyers: United States of ALEC'
   url: https://billmoyers.com/episode/united-states-of-alec-a-follow-up/
   date_accessed: '2025-09-17'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Legislative Capture

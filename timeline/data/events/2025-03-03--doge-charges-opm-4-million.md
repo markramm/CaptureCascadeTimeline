@@ -22,14 +22,17 @@ sources:
   url: https://www.cnn.com/2025/03/03/politics/doge-wants-to-charge-opm-millions/index.html
   outlet: CNN
   date: '2025-03-03'
+  tier: 1
 - title: Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done That, and More
   url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
   outlet: Government Executive
   date: '2025-04-01'
+  tier: 2
 - title: US Federal HR Agency Leading DOGE Job Cuts Cancels Sole-Source Workday Award
   url: https://www.usnews.com/news/top-news/articles/2025-05-09/us-federal-hr-agency-leading-doge-job-cuts-cancels-sole-source-workday-award
   outlet: U.S. News & World Report
   date: '2025-05-09'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

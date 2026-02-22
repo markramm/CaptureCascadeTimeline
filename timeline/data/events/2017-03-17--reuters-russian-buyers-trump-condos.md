@@ -20,14 +20,17 @@ sources:
   url: https://therealdeal.com/miami/2017/03/19/russians-reportedly-paid-98-4m-for-units-at-trump-branded-condos-in-south-florida/
   outlet: The Real Deal
   date: '2017-03-19'
+  tier: 2
 - title: These Russian Oligarchs Are Making Donald Trump Rich
   url: https://www.newsweek.com/trump-russia-oligarchs-real-estate-florida-715733
   outlet: Newsweek
   date: '2017-11-21'
+  tier: 2
 - title: 'Secret Money: How Trump Made Millions Selling Condos To Unknown Buyers'
   url: https://www.buzzfeednews.com/article/thomasfrank/secret-money-how-trump-made-millions-selling-condos-to
   outlet: BuzzFeed News
   date: '2018-01-12'
+  tier: 2
 notes: 'Investigation examined seven Trump-branded towers in South Florida. Found
   703 of 2,044
 

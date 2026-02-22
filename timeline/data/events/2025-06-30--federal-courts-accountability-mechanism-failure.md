@@ -14,19 +14,21 @@ tags:
 - institutional-breakdown
 - executive-overreach
 sources:
-- title: 'Federal Courts in Crisis: Accountability and Oversight in the 2025 Constitutional
-    Debate'
+- title: 'Federal Courts in Crisis: Accountability and Oversight in the 2025 Constitutional tier: 2 Debate'
   outlet: Brandeis University Heller School
-  url: https://www.brandeis.edu/stories/2025/june/anita-hill-judiciary.html
+  url: 'https://www.brandeis.edu/stories/2025/june/anita-hill-judiciary.html'
   date: '2025-06-15'
+  tier: 1
 - title: Judicial Overreach and Constitutional Limits on Federal Courts
   outlet: U.S. House Judiciary Committee
-  url: https://judiciary.house.gov/committee-activity/hearings/judicial-overreach-and-constitutional-limits-federal-courts-0
+  url: 'https://judiciary.house.gov/committee-activity/hearings/judicial-overreach-and-constitutional-limits-federal-courts-0'
   date: '2025-04-01'
+  tier: 1
 - title: Reports of the Proceedings
   outlet: Judicial Conference of the United States
-  url: https://www.uscourts.gov/about-federal-courts/reports-proceedings-judicial-conference-us
+  url: 'https://www.uscourts.gov/about-federal-courts/reports-proceedings-judicial-conference-us'
   date: '2025-06-30'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Judicial Capture
@@ -46,5 +48,4 @@ validation_metadata:
   - 'sources_removed: ''2'' → ''2'''
   - 'summary_updated: ''True'' → ''True'''
 ---
-
 In a pivotal moment for American democracy, federal judicial leadership publicly acknowledged the systemic breakdown of constitutional checks, revealing that existing legal mechanisms have proven insufficient to constrain executive overreach. Discussions at the Judicial Conference and Senate Judiciary Committee hearings highlighted the growing tension between judicial independence and executive power, with some judges arguing that traditional oversight tools are no longer effective in the current political landscape.

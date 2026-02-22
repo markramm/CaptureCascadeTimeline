@@ -20,18 +20,22 @@ sources:
   url: https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies
   outlet: Congresswoman Mikie Sherrill
   date: '2025-03-15'
+  tier: 1
 - title: SEC lawyer heading case on Elon Musk's Twitter acquisition resigns, cites 'heartbreaking' decision
   url: https://fortune.com/2025/04/09/securities-exchange-commission-elon-musk-lawsuit-twitter-x-resign-concerns/
   outlet: Fortune
   date: '2025-04-09'
+  tier: 2
 - title: SEC sues Elon Musk, alleging failure to properly disclose Twitter ownership
   url: https://www.cnbc.com/2025/01/14/sec-sues-musk-alleges-failure-to-properly-disclose-twitter-ownership.html
   outlet: CNBC
   date: '2025-01-14'
+  tier: 2
 - title: Elon Musk received court summons in SEC suit over failure to properly disclose Twitter stake
   url: https://www.cnbc.com/2025/03/20/elon-musk-received-summons-in-sec-suit-over-twitter-disclosure.html
   outlet: CNBC
   date: '2025-03-20'
+  tier: 2
 notes: Direct interference with oversight of Musk's businesses while he oversees federal spending. SpaceX received $100M NASA contract February 1, 2025 after Musk began DOGE work. FAA considering pivoting communications to Musk's Starlink. SpaceX has $15B in NASA contracts. Process server delivered summons at SpaceX headquarters March 14. Andrews expressed concerns Trump-appointed SEC chair would kill case.
 status: confirmed
 ---

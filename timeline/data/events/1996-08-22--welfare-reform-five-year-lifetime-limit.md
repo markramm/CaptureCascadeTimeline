@@ -18,14 +18,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Personal_Responsibility_and_Work_Opportunity_Act
   outlet: Wikipedia
   date: '1996-08-22'
+  tier: 2
 - title: The 1996 Personal Responsibility and Work Opportunity Reconciliation Act in the US
   url: https://centreforpublicimpact.org/public-impact-fundamentals/the-1996-personal-responsibility-and-work-opportunity-reconciliation-act-in-the-us/
   outlet: Centre for Public Impact
   date: '2017-03-15'
+  tier: 2
 - title: The Personal Responsibility and Work Opportunity Reconciliation Act of 1996
   url: https://aspe.hhs.gov/reports/personal-responsibility-work-opportunity-reconciliation-act-1996
   outlet: U.S. Department of Health and Human Services
   date: '1996-08-22'
+  tier: 1
 id: 1996-08-22--welfare-reform-five-year-lifetime-limit
 capture_lanes:
 - Legislative Capture

@@ -20,14 +20,17 @@ sources:
   url: https://www.nbcnews.com/politics/doge/social-security-whistleblower-submits-involuntary-resignation-citing-i-rcna228095
   outlet: NBC News
   date: '2025-08-30'
+  tier: 1
 - title: Social Security Whistleblower Charles Borges Pushed Out Amid DOGE Firestorm
   url: https://www.thedailybeast.com/social-security-whistleblower-charles-borges-pushed-out-amid-doge-firestorm/
   outlet: The Daily Beast
   date: '2025-08-30'
+  tier: 2
 - title: SSA chief data officer and whistleblower resigns in blistering email
   url: https://www.thehandbasket.co/p/charles-borges-ssa-chief-data-officer-whistleblower-resigns-email
   outlet: The Handbasket
   date: '2025-08-30'
+  tier: 2
 notes: 'Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating policies to
 
   create unsecured cloud copy of Social Security data. His resignation letter stated SSA''s

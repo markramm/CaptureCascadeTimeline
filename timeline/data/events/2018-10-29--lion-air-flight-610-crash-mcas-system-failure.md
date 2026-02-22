@@ -18,18 +18,22 @@ sources:
   url: https://en.wikipedia.org/wiki/Lion_Air_Flight_610
   date: '2018-10-29'
   outlet: Wikipedia
+  tier: 2
 - title: Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude of Contributing Factors
   url: https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/
   date: '2019-10-28'
   outlet: Aviation Today
+  tier: 2
 - title: Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators Say
   url: https://www.npr.org/2018/11/28/671421822/lion-air-jet-was-not-airworthy-in-lead-up-to-fatal-crash-investigators-say
   date: '2018-11-28'
   outlet: NPR
+  tier: 1
 - title: Lion Air Flight 610 Investigation Summary
   url: https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx
   date: '2019-10-25'
   outlet: NTSB
+  tier: 1
 importance: 10
 priority_id: RT-EXP-EC86869C-boeing-737-max-faa-self-certification
 actors:

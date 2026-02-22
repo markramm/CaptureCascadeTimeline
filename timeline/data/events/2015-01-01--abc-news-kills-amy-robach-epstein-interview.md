@@ -25,14 +25,17 @@ sources:
   url: https://www.theguardian.com/media/2019/nov/05/abc-news-amy-robach-jeffrey-epstein-hot-mic
   outlet: The Guardian
   date: '2019-11-05'
+  tier: 1
 - title: Project Veritas releases video of ABC anchor frustrated over killed Epstein story
   url: https://www.washingtonpost.com/lifestyle/media/project-veritas-releases-video-of-abc-anchor-frustrated-over-killed-epstein-story/2019/11/05/7770b392-ffef-11e9-8bab-0fc209e065a8_story.html
   outlet: The Washington Post
   date: '2019-11-05'
+  tier: 1
 - title: ABC Had the Story Three Years Ago
   url: https://www.theatlantic.com/ideas/archive/2019/11/abc-had-epstein-story-three-years-ago/601299/
   outlet: The Atlantic
   date: '2019-11-07'
+  tier: 2
 capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration

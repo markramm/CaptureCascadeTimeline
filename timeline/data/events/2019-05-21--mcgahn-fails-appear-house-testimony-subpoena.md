@@ -12,12 +12,15 @@ sources:
 - title: Chairman Nadler Issues Subpoena for Former White House Counsel Don McGahn
   url: https://nadler.house.gov/news/documentsingle.aspx?DocumentID=393887
   outlet: House Judiciary Committee
+  tier: 1
 - title: White House Directed Ex-Counsel McGahn Not To Comply With Congressional Subpoena
   url: https://www.npr.org/2019/05/07/721053127/white-house-directed-ex-counsel-mcgahn-not-to-comply-with-congressional-subpoena
   outlet: NPR
+  tier: 1
 - title: Federal Judge Rules Don McGahn Must Testify Before House, Delivering Blow to White House
   url: https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house
   outlet: NPR
+  tier: 1
 importance: 8
 tags:
 - don-mcgahn

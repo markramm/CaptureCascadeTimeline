@@ -33,17 +33,20 @@ sources:
   url: https://en.wikipedia.org/wiki/Hollywood_blacklist
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: HUAC Investigates Hollywood
   url: https://www.ebsco.com/research-starters/history/huac-investigates-hollywood
   outlet: EBSCO Research
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: The Hollywood Ten with Thomas Doherty
   url: https://ajhs.org/podcast/the-hollywood-ten/
   outlet: American Jewish Historical Society
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Hollywood Ten cited for contempt of Congress
   url: https://www.history.com/this-day-in-history/november-24/hollywood-10-cited-for-contempt-of-congress
   outlet: History.com

@@ -19,38 +19,47 @@ sources:
   url: https://www.nytimes.com/2025/05/01/us/politics/trump-cryptocurrency-usd1-dubai-conference-announcement.html
   outlet: The New York Times
   date: '2025-05-01'
+  tier: 1
 - title: Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal
   url: https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal
   outlet: Bloomberg
   date: '2025-05-01'
+  tier: 1
 - title: Trump family crypto venture tapped as part of $2B Emirati-backed investment deal
   url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
   outlet: ABC News
   date: '2025-05-01'
+  tier: 1
 - title: Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says
   url: https://www.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says
   outlet: Fox Business
   date: '2025-05-01'
+  tier: 2
 - title: World Liberty's USD1 Will Integrate With Tron; WLFI's Witkoff Teases More Partnerships
   url: https://www.coindesk.com/business/2025/05/01/world-liberty-s-stablecoin-will-be-used-to-close-mgx-s-usd2b-binance-investment-eric-trump
   outlet: CoinDesk
   date: '2025-05-01'
+  tier: 2
 - title: Trump family crypto venture tapped as part of 2B Emirati-backed investment deal
   url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
   outlet: ABC News
   date: '2025-05-01'
+  tier: 1
 - title: Trump-Tied Stablecoin Used for MGX's 2 Billion Binance Deal
   url: https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal
   outlet: Bloomberg
   date: '2025-05-01'
+  tier: 1
 - title: 'World Liberty Financial''s USD1 to close Binance''s 2 billion MGX investment: report'
   url: https://www.theblock.co/post/352830/world-liberty-financials-usd1-binances-2-billion-investment-mgx-report
   outlet: The Block
   date: '2025-05-01'
+  tier: 2
 - title: Warren, Merkley Seek World Liberty Financial Records on 2 Billion Trump Stablecoin Deal
   url: https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance
   outlet: Senate Banking Committee
   date: '2025-05-15'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

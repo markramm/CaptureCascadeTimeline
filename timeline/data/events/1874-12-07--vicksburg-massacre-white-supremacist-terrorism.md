@@ -12,15 +12,18 @@ sources:
 - title: 'Dec. 7, 1874: Vicksburg Massacre'
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/vicksburg-massacre/
+  tier: 2
   year: 2024
 - title: Vicksburg massacre
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Vicksburg_massacre
   year: 2024
+  tier: 2
 - title: 'On Dec 07, 1874: Violent White Mob Massacres Black Citizens at Political Meeting in Mississippi'
   outlet: Equal Justice Initiative
   url: https://calendar.eji.org/racial-injustice/dec/7
   year: 2024
+  tier: 2
 tags:
 - white-supremacy
 - reconstruction-sabotage

@@ -11,12 +11,15 @@ sources:
 - title: The Analyst Who Gambled and Took On Trump
   url: https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump
   outlet: NPR
+  tier: 1
 - title: How Trump's Taj Mahal Casino Went From '8th Wonder of the World' to Closure
   url: https://abcnews.go.com/US/trumps-taj-mahal-casino-8th-world-closure-years/story?id=42762369
   outlet: ABC News
+  tier: 1
 - title: 'Trump Taj Mahal Skeptic: The Analyst Who Gambled And Took On Trump'
   url: https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump
   outlet: NPR
+  tier: 1
 tags:
 - trump
 - atlantic-city

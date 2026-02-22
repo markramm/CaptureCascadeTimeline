@@ -21,22 +21,27 @@ sources:
   url: https://www.timesofisrael.com/us-blacklists-israels-nso-group-and-candiru-spyware-firms/
   outlet: The Times of Israel
   date: '2021-11-03'
+  tier: 2
 - title: Two more foreign spyware firms blacklisted by US
   url: https://therecord.media/two-more-foreign-spyware-firms-blacklisted-by-us
   outlet: The Record
   date: '2021-11-03'
+  tier: 1
 - title: Commerce Adds NSO Group and Other Foreign Companies to Entity List for Malicious Cyber Activities
   url: https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list
   outlet: US Department of Commerce
   date: '2021-11-03'
+  tier: 1
 - title: US Blacklists NSO Group and 3 Others for Selling Spyware, Hacking Tools
   url: https://www.nextgov.com/cybersecurity/2021/11/us-blacklists-nso-group-and-3-others-selling-spyware-hacking-tools/186611/
   outlet: Nextgov
   date: '2021-11-03'
+  tier: 2
 - title: Commerce Department blacklists controversial spyware company NSO Group
   url: https://cyberscoop.com/commerce-department-blacklists-controversial-spyware-company-nso-group/
   outlet: CyberScoop
   date: '2021-11-03'
+  tier: 2
 importance: 9
 status: confirmed
 capture_lanes:

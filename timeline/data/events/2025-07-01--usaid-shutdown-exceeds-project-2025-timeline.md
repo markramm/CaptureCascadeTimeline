@@ -11,13 +11,16 @@ importance: 9
 sources:
 - outlet: CNN Politics
   title: State Department formally notifies Congress it is effectively dissolving USAID
-  url: https://www.cnn.com/2025/03/28/politics/state-department-formally-notifies-congress-effectively-dissolving-usaid/index.html
+  url: 'https://www.cnn.com/2025/03/28/politics/state-department-formally-notifies-congress-effectively-dissolving-usaid/index.html'
+  tier: 2
 - outlet: NPR
   title: USAID officially shuts down and merges remaining operations with State Department
-  url: https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department
+  url: 'https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department'
+  tier: 1
 - outlet: Foreign Policy
-  title: Trump, Musk's USAID Shutdown, Explained
-  url: https://foreignpolicy.com/2025/02/05/usaid-trump-musk-rubio-state-department/
+  title: 'Trump, Musk''s USAID Shutdown, Explained'
+  url: 'https://foreignpolicy.com/2025/02/05/usaid-trump-musk-rubio-state-department/'
+  tier: 2
 tags:
 - usaid-elimination
 - international-development
@@ -31,5 +34,4 @@ capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
 ---
-
 USAID officially eliminated by July 1, 2025—faster and more comprehensively than Project 2025 anticipated—with 92% of international development grants terminated and functions folded into State Department. This marks a dramatic reduction of American diplomatic soft power, with over 80% of USAID programs discontinued. Secretary of State Marco Rubio announced the complete termination of the agency as an independent entity, effectively ending USAID's 64-year history.

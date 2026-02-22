@@ -25,14 +25,17 @@ sources:
   url: https://www.govexec.com/pay-benefits/2025/07/house-civil-service-retirement-coercion/
   outlet: Government Executive
   date: '2025-07-03'
+  tier: 2
 - title: AFGE calls budget provisions "backdoor Schedule F implementation"
   url: https://www.afge.org/publication/budget-bill-schedule-f-backdoor/
   outlet: American Federation of Government Employees
   date: '2025-07-02'
+  tier: 2
 - title: Parliamentarian blocks civil service gutting provisions
   url: https://www.politico.com/news/2025/07/03/parliamentarian-blocks-civil-service-provisions
   outlet: Politico
   date: '2025-07-03'
+  tier: 1
 notes: Though provisions raised minimal revenue ($500M annually), inclusion reveals revenue generation wasn't primary purpose. Partnership for Public Service warned of "devastating impact on government's ability to retain employees and attract talent."
 ---
 

@@ -22,6 +22,7 @@ sources:
   url: https://www.britannica.com/topic/National-Industrial-Recovery-Act
   outlet: Encyclopedia Britannica
   date: '2024-01-01'
+  tier: 2
   verified: true
   tier: 2
 - title: The National Recovery Administration
@@ -40,18 +41,22 @@ sources:
   outlet: Federal Reserve History
   url: https://www.federalreservehistory.org/essays/glass-steagall-act
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: The Glass-Steagall Act - A Legal and Policy Analysis
   outlet: Congressional Research Service
   url: https://www.congress.gov/crs-product/R44349
   retrieval_date: '2024-12-24'
+  tier: 1
 - title: Banking Act of 1933 (Glass-Steagall Act)
   outlet: Federal Reserve Archive - FRASER
   url: https://fraser.stlouisfed.org/title/banking-act-1933-glass-steagall-act-991
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: Glass-Steagall Act
   outlet: History Channel
   url: https://www.history.com/topics/great-depression/glass-steagall-act
   retrieval_date: '2024-12-24'
+  tier: 2
 - title: H.R. 5661, Banking Act of 1933 (Glass-Steagall Act)
   url: https://www.visitthecapitol.gov/artifact/hr-5661-banking-act-1933-glass-steagall-act-june-13-1933
   outlet: U.S. Capitol Visitor Center

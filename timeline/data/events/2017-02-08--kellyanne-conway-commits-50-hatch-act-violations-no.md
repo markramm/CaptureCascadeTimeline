@@ -22,14 +22,17 @@ sources:
   url: https://www.npr.org/2019/06/13/732359273/federal-watchdog-agency-recommends-removal-of-kellyanne-conway-from-federal-of
   outlet: NPR
   date: '2019-06-13'
+  tier: 1
 - title: OSC report on Conway's egregious Hatch Act violations
   url: https://www.citizensforethics.org/reports-investigations/crew-reports/osc-report-kellyanne-conway/
   outlet: CREW
   date: '2019-06-13'
+  tier: 1
 - title: Trump officials who violated the Hatch Act
   url: https://www.washingtonpost.com/politics/2020/08/27/trumps-hatch-act-violations/
   outlet: The Washington Post
   date: '2020-08-27'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

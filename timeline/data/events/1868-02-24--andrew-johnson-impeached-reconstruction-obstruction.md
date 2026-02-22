@@ -14,19 +14,23 @@ sources:
 - title: 'U.S. Senate: Impeachment Trial of President Andrew Johnson, 1868'
   outlet: U.S. Senate
   url: https://www.senate.gov/about/powers-procedures/impeachment/impeachment-johnson.htm
+  tier: 1
   year: 2024
 - title: The Impeachment of Andrew Johnson
   outlet: PBS American Experience
   url: https://www.pbs.org/wgbh/americanexperience/features/grant-impeachment/
   year: 2024
+  tier: 1
 - title: The Impeachment of President Andrew Johnson
   outlet: U.S. House of Representatives
   url: https://history.house.gov/Historical-Highlights/1851-1900/The-impeachment-of-President-Andrew-Johnson/
   year: 2024
+  tier: 1
 - title: Why Was Andrew Johnson Impeached?
   outlet: National Park Service
   url: https://www.nps.gov/articles/why-was-andrew-johnson-impeached.htm
   year: 2024
+  tier: 1
 tags:
 - reconstruction-sabotage
 - presidential-corruption

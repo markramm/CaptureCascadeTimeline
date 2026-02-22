@@ -29,37 +29,40 @@ sources:
 - date: '2024-01-04'
   outlet: U.S. House Oversight (Democratic staff)
   title: 'Report: Trump Businesses Received Millions from Foreign Governments (PDF)'
-  url: https://www.congress.gov/118/meeting/house/116733/documents/HMKP-118-JU00-20240110-SD005.pdf
+  url: 'https://www.congress.gov/118/meeting/house/116733/documents/HMKP-118-JU00-20240110-SD005.pdf'
   archive_url: ''
   key_facts_confirmed:
   - $7.8M figure; countries list; limited records caveat
   verified: true
+  tier: 1
 - date: '2024-01-04'
   outlet: Oversight Democrats
   title: Press release and summary of $7.8M findings
-  url: https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-release-report-proving-trump-pocketed-millions-from-at-least
+  url: 'https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-release-report-proving-trump-pocketed-millions-from-at-least'
   archive_url: ''
   key_facts_confirmed:
   - Breakdown by country; documentation basis (Mazars records)
   verified: true
+  tier: 1
 - date: '2024-09-17'
   outlet: CREW
   title: Trump likely benefited from $13.6M in foreign government payments (expanded tally)
-  url: https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/
+  url: 'https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/'
   archive_url: ''
   key_facts_confirmed:
   - Higher estimate when aggregating more years/entities
   verified: true
+  tier: 1
 - date: '2024-01-05'
   outlet: Business Insider
   title: Trump says foreign payments were for services at his properties
-  url: https://www.businessinsider.com/donald-trump-says-his-businesses-did-services-for-foreign-governments-2024-1
+  url: 'https://www.businessinsider.com/donald-trump-says-his-businesses-did-services-for-foreign-governments-2024-1'
   archive_url: ''
   key_facts_confirmed:
-  - Trump's response framing payments as ordinary services
+  - 'Trump''s response framing payments as ordinary services'
   verified: true
+  tier: 2
 ---
-
 A staff report by House Oversight Committee Democrats, based on Mazars-produced records for
 limited years and entities, found that Trump businesses received at least $7.8 million from 20
 foreign governments while he was president—likely an undercount. Watchdogs report higher

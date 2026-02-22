@@ -12,14 +12,17 @@ sources:
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: U.S. Senate Finance Committee
   date: '2025-07-17'
+  tier: 1
 - title: A Democratic Senator was already investigating Jeffrey Epstein's finances
   url: https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances
   outlet: NPR
   date: '2025-07-25'
+  tier: 1
 - title: Sen. Wyden pushes Treasury Department to release Epstein banking files
   url: https://abcnews.go.com/Politics/sen-wyden-pushes-treasury-department-release-epstein-banking/story?id=125220013
   outlet: ABC News
   date: '2025-07-23'
+  tier: 1
 tags:
 - epstein-finances
 - russian-banks

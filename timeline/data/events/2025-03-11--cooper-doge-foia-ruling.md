@@ -14,18 +14,22 @@ sources:
   url: https://www.foxnews.com/politics/judge-rules-doge-likely-subject-public-records-requests-says-department-operating-unusual-secrecy
   outlet: Fox News
   date: '2025-03-11'
+  tier: 2
 - title: Elon Musk's DOGE isn't exempt from FOIA requests, federal judge rules
   url: https://reason.com/2025/03/11/doge-isnt-exempt-from-foia-requests-judge-rules/
   outlet: Reason
   date: '2025-03-11'
+  tier: 2
 - title: '''Operating with unusual secrecy'': DOGE subject to FOIA rules, judge says'
   url: https://lawandcrime.com/high-profile/remarkably-swiftly-judge-calls-out-unusual-secrecy-of-doge-in-order-to-hand-over-foia-documents-requested-by-watchdog-group/
   outlet: Law & Crime
   date: '2025-03-11'
+  tier: 2
 - title: DOGE could be forced to release its records under a new court ruling that highlights the group's 'unusual secrecy'
   url: https://www.yahoo.com/news/doge-could-forced-release-records-065436701.html
   outlet: Yahoo News
   date: '2025-03-11'
+  tier: 2
 notes: Cooper found DOGE exercises "substantial authority over vast swaths of the federal government" including causing 3% federal workforce resignations, shuttering agencies, and canceling contracts
 status: confirmed
 tags:

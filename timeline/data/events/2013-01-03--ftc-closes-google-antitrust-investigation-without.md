@@ -25,14 +25,17 @@ sources:
   url: https://www.ftc.gov/legal-library/browse/cases-proceedings/public-statements/statement-federal-trade-commission-regarding-googles-search-practices-matter-google-inc
   outlet: Federal Trade Commission
   date: '2013-01-03'
+  tier: 1
 - title: Why Europe Got Tough on Google While U.S. Couldn't
   url: https://www.washingtonpost.com/news/posteverything/wp/2017/06/28/why-europe-got-tough-on-google-but-the-u-s-couldnt/
   outlet: The Washington Post
   date: '2017-06-28'
+  tier: 1
 - title: FTC Closes Google Antitrust Investigation Without Penalties
   url: https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties
   outlet: NPR
   date: '2013-01-03'
+  tier: 1
 status: confirmed
 id: 2013-01-03--ftc-closes-google-antitrust-investigation-without
 priority_id: claude-priority-tech-antitrust-regulatory-capture

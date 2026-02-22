@@ -17,22 +17,27 @@ sources:
   url: https://apnews.com/article/musk-trump-autonomous-selfdriving-doge-auto-safety-99b369c5e3ccd3e7c09b6951604b3a0a
   outlet: Associated Press
   date: '2025-02-22'
+  tier: 1
 - title: DOGE employee cuts fall heavily on agency that regulates Musk's Tesla
   url: https://www.washingtonpost.com/business/2025/02/21/musk-doge-tesla-autonomous-vehicles-nhtsa/
   outlet: The Washington Post
   date: '2025-02-21'
+  tier: 1
 - title: Musk's DOGE is laying off workers at the auto safety agency overseeing Tesla
   url: https://fortune.com/2025/02/23/elon-musk-doge-nhtsa-layoffs-safety-tesla-self-driving/
   outlet: Fortune
   date: '2025-02-23'
+  tier: 2
 - title: Elon Musk's DOGE comes for agency that regulates autonomous vehicles
   url: https://techcrunch.com/2025/02/21/elon-musks-doge-comes-for-agency-that-regulates-autonomous-vehicles/
   outlet: TechCrunch
   date: '2025-02-21'
+  tier: 2
 - title: Elon Musk's DOGE Gives Tesla Massive Helping Hand With Newest Purge
   url: https://newrepublic.com/post/193850/elon-musk-doge-tesla-firing-self-driving-car-experts
   outlet: The New Republic
   date: '2025-04-10'
+  tier: 2
 connections: []
 patterns:
 - kleptocratic-capture

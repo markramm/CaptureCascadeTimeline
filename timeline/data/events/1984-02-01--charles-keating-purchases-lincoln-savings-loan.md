@@ -25,22 +25,26 @@ sources:
   url: https://en.wikipedia.org/wiki/Lincoln_Savings_and_Loan_Association
   outlet: Wikipedia
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: Charles Keating and Lincoln Savings and Loan
   url: https://www.fdic.gov/resources/publications/s-and-l-crisis/s-and-l-biblio-09.html
   outlet: Federal Deposit Insurance Corporation
   date: '2024-01-01'
   verified: true
+  tier: 1
 - title: 'Big Money Crime: Fraud and Politics in the Savings and Loan Crisis'
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/big-money-crime-fraud-and-politics-savings-and-loan-crisis
   outlet: Office of Justice Programs
   date: '2025-10-15'
   verified: true
+  tier: 1
 - title: Keating Five Senate Scandal Background
   url: https://www.npr.org/1996/12/03/1041592/keating
   outlet: NPR
   date: '2025-10-15'
   verified: true
+  tier: 1
 - title: 'Big Money Game: Fraud and Politics in the Savings and Loan Crisis'
   url: https://www.ucpress.edu/book/9780520080218/big-money-game
   outlet: University of California Press
@@ -50,11 +54,13 @@ sources:
   - Kitty Calavita
   - Henry N. Pontell
   - Robert H. Tillman
+  tier: 2
 - title: 'The Savings and Loan Crisis: A Deep Dive into Financial Regulatory Capture'
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2013-12-01'
   verified: true
+  tier: 2
 status: confirmed
 validation_metadata:
   last_corrected: '2025-10-15T16:55:16.551845'

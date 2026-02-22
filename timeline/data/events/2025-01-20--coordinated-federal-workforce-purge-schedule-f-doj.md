@@ -13,16 +13,20 @@ actors:
 sources:
 - outlet: NPR
   title: Trump removes civil service protections with Schedule F plan
-  url: https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f
+  url: 'https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f'
+  tier: 1
 - outlet: Protect Democracy
-  title: Trump's Schedule F plan, explained
-  url: https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/
+  title: 'Trump''s Schedule F plan, explained'
+  url: 'https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/'
+  tier: 2
 - outlet: Bloomberg Law
-  title: Trump's Planned Civil Service Overhaul Alarms DOJ Employee Group
-  url: https://news.bloomberglaw.com/us-law-week/trumps-planned-civil-service-overhaul-alarms-doj-employee-group
+  title: 'Trump''s Planned Civil Service Overhaul Alarms DOJ Employee Group'
+  url: 'https://news.bloomberglaw.com/us-law-week/trumps-planned-civil-service-overhaul-alarms-doj-employee-group'
+  tier: 2
 - outlet: Government Executive
   title: New Schedule F guidance shows Trump White House is rearing for a fight
-  url: https://www.govexec.com/workforce/2025/01/new-schedule-f-guidance-shows-trump-white-house-rearing-fight/402532/
+  url: 'https://www.govexec.com/workforce/2025/01/new-schedule-f-guidance-shows-trump-white-house-rearing-fight/402532/'
+  tier: 2
 importance: 10
 tags:
 - project-2025
@@ -39,7 +43,6 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 ---
-
 Trump administration implements unprecedented Schedule F (renamed Schedule Policy/Career) executive order on first day of presidency, systematically dismantling civil service protections and targeting DOJ prosecution staff. The order reclassifies an estimated 50,000 federal workers (2% of federal workforce), effectively politicizing key policy positions and allowing immediate termination of career employees.
 
 Specific actions include firing DOJ prosecutors Molly Gaston, J.P. Cooney, Anne McNamara, and Mary Dohrmann, while demanding comprehensive lists of federal employees for potential reclassification or removal. The order creates a new category that strips civil service protections from employees with 'policy-determining, policy-making, policy-advocating, or confidential duties'.

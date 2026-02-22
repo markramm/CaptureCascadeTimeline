@@ -21,14 +21,17 @@ sources:
   url: https://oig.justice.gov/sites/default/files/legacy/special/s0807/final.pdf
   outlet: DOJ Inspector General
   date: '2008-07-28'
+  tier: 1
 - title: Monica Goodling Congressional Testimony
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/05/23/AR2007052301567.html
   outlet: The Washington Post
   date: '2007-05-23'
+  tier: 1
 - title: Virginia State Bar Public Reprimand of Monica Goodling
   url: https://www.vsb.org/docs/goodling-052711.pdf
   outlet: Virginia State Bar
   date: '2011-05-27'
+  tier: 2
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

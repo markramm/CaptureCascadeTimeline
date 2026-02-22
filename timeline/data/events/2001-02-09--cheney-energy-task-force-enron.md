@@ -19,18 +19,22 @@ sources:
   url: https://www.gao.gov/products/GAO-02-786R
   date: '2002-07-12'
   outlet: GAO
+  tier: 1
 - title: Oil Chiefs Met With Cheney Task Force, Documents Show
   url: https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/
   date: '2005-11-16'
   outlet: The Washington Post
+  tier: 1
 - title: 'Cheney Energy Task Force: Unprecedented Corporate Access'
   url: https://publicintegrity.org/politics/big-gop-contributor-advised-administrations-energy-task-force/
   date: '2002-03-15'
   outlet: Center for Public Integrity
+  tier: 1
 - title: Supreme Court Shields Cheney Energy Task Force Documents
   url: https://www.npr.org/2005/05/11/4647599/court-cheney-energy-policy-meetings-can-stay-secret
   date: '2005-05-11'
   outlet: NPR
+  tier: 1
 status: confirmed
 capture_lanes:
 - Corporate Capture

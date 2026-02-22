@@ -19,18 +19,22 @@ sources:
   url: https://www.washingtonpost.com/dc-md-va/2025/08/10/dc-crime-trump-crackdown/
   outlet: The Washington Post
   date: '2025-08-10'
+  tier: 1
 - title: Trump zeroes in on federal takeover of DC as FBI patrols streets
   url: https://www.cnn.com/2025/08/11/politics/trump-washington-dc-crime
   outlet: CNN
   date: '2025-08-11'
+  tier: 1
 - title: Trump Sends 120 FBI Agents to DC Amid Crime Crackdown Threat
   url: https://www.newsweek.com/trump-sends-120-fbi-agents-dc-crime-crackdown-threat-report-2111498
   outlet: Newsweek
   date: '2025-08-10'
+  tier: 2
 - title: FBI moves to dispatch 120 agents to D.C. streets as Trump vows crackdown on crime
   url: https://www.startribune.com/fbi-moves-to-dispatch-120-agents-to-dc-streets-as-trump-vows-crackdown-on-crime/601452857
   outlet: Star Tribune
   date: '2025-08-10'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

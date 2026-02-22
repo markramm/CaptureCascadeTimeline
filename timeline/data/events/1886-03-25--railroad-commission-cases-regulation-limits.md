@@ -13,11 +13,14 @@ sources:
 - title: Railroad Commission Cases, 116 U.S. 307 (1886)
   url: https://www.law.cornell.edu/supremecourt/text/116/307
   outlet: Legal Information Institute, Cornell Law School
+  tier: 1
 - title: Railroad Commission Cases - Wikipedia
   url: https://en.wikipedia.org/wiki/Railroad_Commission_Cases
+  tier: 2
 - title: Reagan v. Farmers' Loan & Trust Co., 154 U.S. 362 (1894)
   url: https://www.law.cornell.edu/supremecourt/text/154/362
   outlet: Legal Information Institute, Cornell Law School
+  tier: 1
 tags:
 - corporate-regulation
 - supreme-court

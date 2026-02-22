@@ -61,11 +61,14 @@ sources:
   tier: 3
 - title: columbusfreepress.com
   url: https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections
+  tier: 2
 - title: money.cnn.com
   url: https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/
+  tier: 1
 - title: verifiedvoting.org
   url: https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/
----
+
+  tier: 2---
 
 
 Massey Energy CEO Don Blankenship pours over $3 million into West Virginia's 2004 judicial election to elect Brent Benjamin to the state Supreme Court of Appeals, successfully defeating incumbent justice Warren McGraw. Blankenship's spending—equivalent to "a dollar for every West Virginian" as he later boasted—exceeds the total amount spent by all other Benjamin supporters combined and Benjamin's own campaign committee. Benjamin wins by fewer than 50,000 votes.

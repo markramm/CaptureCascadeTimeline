@@ -13,15 +13,19 @@ sources:
 - title: The Clayton Antitrust Act
   outlet: U.S. House of Representatives History
   url: https://history.house.gov/HistoricalHighlight/Detail/15032424979
+  tier: 1
 - title: Labor Unions Win Exemption from Antitrust Laws
   outlet: EBSCO Research
   url: https://www.ebsco.com/research-starters/history/labor-unions-win-exemption-antitrust-laws
+  tier: 2
 - title: Clayton Antitrust Act of 1914
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Clayton_Antitrust_Act_of_1914
+  tier: 2
 - title: Clayton Antitrust Act Enacted
   outlet: Library of Congress
   url: https://guides.loc.gov/this-month-in-business-history/october/clayton-anitrust-enacted
+  tier: 1
 tags:
 - progressive-era
 - antitrust

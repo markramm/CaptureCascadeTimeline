@@ -21,18 +21,22 @@ sources:
   url: https://www.washingtonpost.com/national-security/2025/02/08/trump-administration-job-candidates-loyalty-screening/
   outlet: The Washington Post
   date: '2025-02-08'
+  tier: 1
 - title: Loyalty Tests and MAGA Checks Inside the Trump White House's Intense Screening of Job-Seekers
   url: https://www.usnews.com/news/politics/articles/2025-01-25/loyalty-tests-and-maga-checks-inside-the-trump-white-houses-intense-screening-of-job-seekers
   outlet: U.S. News & World Report
   date: '2025-01-25'
+  tier: 2
 - title: Trump team tests job candidates by asking who won the 2020 election
   url: https://fortune.com/2025/03/06/trump-tests-job-candidates-asking-who-won-2020-election/
   outlet: Fortune
   date: '2025-03-06'
+  tier: 2
 - title: Lynch OPMs hiring plan includes blatant loyalty test
   url: https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/
   outlet: Government Executive
   date: '2025-06-02'
+  tier: 2
 notes: Merit-based hiring replaced with political loyalty requirements
 status: confirmed
 ---

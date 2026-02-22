@@ -21,14 +21,17 @@ sources:
   url: https://www.cnbc.com/2025/06/16/trump-mobile-phone-plan.html
   outlet: CNBC
   date: '2025-06-16'
+  tier: 2
 - title: What to know about Trump Mobile, the Trump Organization's new phone plan
   url: https://abcnews.go.com/Business/trump-mobile-trump-organizations-new-phone-plan/story?id=122892797
   outlet: ABC News
   date: '2025-06-16'
+  tier: 1
 - title: Trump Mobile launches with $47.45 monthly phone plan
   url: https://www.cbsnews.com/news/trump-mobile-phone-t1-47-45-month/
   outlet: CBS News
   date: '2025-06-16'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

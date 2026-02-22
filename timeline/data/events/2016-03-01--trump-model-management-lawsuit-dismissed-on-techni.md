@@ -20,18 +20,22 @@ sources:
   url: https://www.reuters.com/article/us-usa-election-trump-models-idUSKCN0WY5Q7
   outlet: Reuters
   date: '2016-04-01'
+  tier: 1
 - title: Trump Model Management lawsuit dismissed
   url: https://www.washingtonpost.com/news/post-politics/wp/2016/04/01/trump-model-management-lawsuit-dismissed/
   outlet: The Washington Post
   date: '2016-04-01'
+  tier: 1
 - title: Model's Lawsuit Against Donald Trump Agency Dismissed
   url: https://abcnews.go.com/Politics/models-lawsuit-donald-trump-agency-dismissed/story?id=37878264
   outlet: ABC News
   date: '2016-03-23'
+  tier: 1
 - title: Trump model to take case to U.S. government... but is it too late?
   url: https://money.cnn.com/2016/03/23/news/trump-model-case/index.html
   outlet: CNN Business
   date: '2016-03-23'
+  tier: 1
 capture_lanes:
 - Judicial Capture
 - Legislative Capture

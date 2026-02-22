@@ -12,16 +12,19 @@ actors:
 sources:
 - outlet: Amnesty International
   title: 'Amnesty International Report 2022/23: Global Human Rights Overview'
-  url: https://www.amnesty.org/en/documents/pol10/5670/2023/en/
+  url: 'https://www.amnesty.org/en/documents/pol10/5670/2023/en/'
   date: '2023-03-01'
+  tier: 1
 - outlet: United Nations Human Rights Office
   title: Civil Society Workshop on Human Rights and Counter-Terrorism
-  url: https://www.ohchr.org/en/events/events/2022/civil-society-workshop-advance-high-level-international-conference-human-rights
+  url: 'https://www.ohchr.org/en/events/events/2022/civil-society-workshop-advance-high-level-international-conference-human-rights'
   date: '2022-05-09'
+  tier: 2
 - outlet: U.S. Department of State
   title: Country Reports on Human Rights Practices - 2022
-  url: https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/
+  url: 'https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/'
   date: '2023-03-20'
+  tier: 1
 tags:
 - civil-society-resistance
 - documentation-strategy
@@ -33,5 +36,4 @@ capture_lanes:
 - Democratic Erosion
 status: confirmed
 ---
-
 International NGOs and human rights organizations convened to establish a comprehensive, transnational documentation framework for tracking and resisting democratic backsliding. The protocol creates systematic methodologies for collecting, verifying, and rapidly disseminating evidence of institutional capture and human rights threats, leveraging collaborative efforts from organizations like Amnesty International, Human Rights Watch, and UN human rights mechanisms.

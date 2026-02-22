@@ -65,12 +65,15 @@ sources:
 - outlet: Greenpeace
   title: 'Koch Industries: Secretly Funding the Climate Denial Machine'
   url: https://www.greenpeace.org/usa/koch-industries-secretly-fund/
+  tier: 2
 - outlet: Greenpeace Research
   title: Koch Climate Opposition Funding
   url: https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-climate-opposition-funding/
+  tier: 2
 - outlet: Scientific American
   title: Who Funds Contrariness on Climate Change?
   url: https://www.scientificamerican.com/article/who-funds-contrariness-on/
+  tier: 1
 - title: Investigation of the SEC's Response to Concerns Regarding Robert Allen Stanford's Alleged Ponzi Scheme
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigation-secs-response-concerns-regarding-robert-allen
   outlet: Office of Justice Programs

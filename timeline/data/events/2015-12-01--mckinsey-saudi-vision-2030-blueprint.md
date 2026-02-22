@@ -37,14 +37,17 @@ sources:
   url: https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election
   outlet: NPR
   date: '2018-03-20'
+  tier: 1
 - title: Why A GOP Strategist Turned Down Working With Cambridge Analytica
   url: https://www.npr.org/2018/03/22/595967438/why-a-gop-strategist-turned-down-working-with-cambridge-analytica
   outlet: NPR
   date: '2018-03-22'
+  tier: 1
 - title: Cambridge Analytica, Data Firm That Scraped Facebook, Is Closing
   url: https://www.npr.org/sections/thetwo-way/2018/05/02/607782799/cambridge-analytica-is-shutting-down-after-facebook-data-controversy
   outlet: NPR
   date: '2018-05-02'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Corporate Capture

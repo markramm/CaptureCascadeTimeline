@@ -28,17 +28,20 @@ sources:
   url: https://www.sourcewatch.org/index.php/William_Volker_Fund
   outlet: SourceWatch
   date: '2024-01-01'
+  tier: 2
   verified: true
 - title: William Volker Fund
   url: https://www.philanthropyroundtable.org/almanac/volker-bolkers-economic-liberty/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
+  tier: 2
 - title: Murray Rothbard - Wikipedia
   url: https://en.wikipedia.org/wiki/Murray_Rothbard
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+  tier: 2
 notes: Fund had $7 million in remaining assets donated to Hoover Institution. F.A. Harper, fund's "master recruiter" fired by Luhnow in 1962, continued systematic recruitment of libertarian scholars at Institute for Humane Studies. In 1963, most Volker activities transferred to short-lived Center for American Studies which soon closed. According to Mont Pelerin Society's John Blundell, Institute for Humane Studies became Volker Fund's strategic successor. Rothbard lost Volker retainer, leading him to seek employment at various New York academic institutions.
 status: confirmed
 ---

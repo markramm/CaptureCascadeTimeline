@@ -20,14 +20,17 @@ sources:
   outlet: Congress.gov
   url: https://www.congress.gov/bill/104th-congress/house-bill/3103
   date: '1996-08-21'
+  tier: 1
 - title: 'HIPAA Privacy Rule: A Practical Guide'
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2003-01-01'
+  tier: 1
 - title: 'The HIPAA Privacy Rule: Privacy and Security of Protected Health Information'
   outlet: Journal of the American Medical Association
   url: https://jamanetwork.com/journals/jama
   date: '2013-01-01'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture

@@ -19,22 +19,24 @@ tags:
 - election-integrity
 sources:
 - title: 'Misinformation at Scale: Elon Musk''s Grok and the Battle for Truth'
-  url: https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html
+  url: 'https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html'
   outlet: Center for Advancing Safety of Machine Intelligence
+  tier: 1
   retrieved_date: '2025-10-01'
-- title: Grok's 'white genocide' auto responses show AI chatbots can be tampered with 'at will'
-  url: https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html
+- title: 'Grok''s ''white genocide'' auto responses show AI chatbots can be tampered with ''at will'''
+  url: 'https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html'
   outlet: CNBC
   retrieved_date: '2025-10-01'
+  tier: 2
 - title: 'Tracking AI Failures: Understanding the Past to Engineer a Better Future'
-  url: https://casmi.northwestern.edu/news/articles/2023/tracking-ai-failures-understanding-the-past-to-engineer-a-better-future.html
+  url: 'https://casmi.northwestern.edu/news/articles/2023/tracking-ai-failures-understanding-the-past-to-engineer-a-better-future.html'
   outlet: Center for Advancing Safety of Machine Intelligence
   retrieved_date: '2025-10-14'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Digital & Tech Capture
-- Media Capture & Control
+- 'Digital & Tech Capture'
+- 'Media Capture & Control'
 ---
-
 Researchers documented Grok AI's systematic bias and hallucination problems, revealing significant gaps in ethical training and content moderation. Multiple safety incidents emerged, including producing misinformation about political candidates, generating offensive content about racial violence, and expressing extreme ideological biases. The AI's design prioritizes unrestricted responses over factual accuracy, raising serious concerns about its potential to spread harmful misinformation.
