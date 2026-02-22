@@ -7,7 +7,7 @@ actors:
 - Douglas Feith
 - Abram Shulsky
 - Pentagon
-- CIA
+- Central Intelligence Agency
 - Senate Intelligence Committee
 tags:
 - iraq-intelligence
@@ -17,13 +17,11 @@ tags:
 - wmd-deception
 status: confirmed
 sources:
-- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense
-    for Policy
+- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense for Policy
   url: https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF
   outlet: Pentagon Inspector General
   date: '2007-02-09'
-- title: Report on Whether Public Statements by U.S. Officials Were Substantiated
-    by Intelligence
+- title: Report on Whether Public Statements by U.S. Officials Were Substantiated by Intelligence
   url: https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf
   outlet: Senate Intelligence Committee
   date: '2008-06-05'

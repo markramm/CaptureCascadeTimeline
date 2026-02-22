@@ -7,7 +7,7 @@ actors:
 - Monica Goodling
 - Alberto Gonzales
 - Regent University
-- DOJ
+- U.S. Department of Justice
 - U.S. Congress
 tags:
 - doj-politicization

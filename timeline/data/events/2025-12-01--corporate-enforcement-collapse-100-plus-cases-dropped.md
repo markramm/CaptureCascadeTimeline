@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Trump Administration
 - Department of Justice
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 - Federal Trade Commission
 tags:
 - corporate-impunity

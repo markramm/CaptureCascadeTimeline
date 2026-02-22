@@ -5,10 +5,10 @@ title: Second Impeachment Trial Begins with Constitutional Debate on Trying Form
 importance: 9
 tags:
 - impeachment
-- senate trial
-- constitutional law
-- trump presidency
-- january 6 attack
+- senate-trial
+- constitutional-law
+- trump-presidency
+- january-6-attack
 actors:
 - Donald Trump
 - Patrick Leahy

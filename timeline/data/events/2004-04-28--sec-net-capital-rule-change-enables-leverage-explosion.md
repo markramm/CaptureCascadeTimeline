@@ -4,7 +4,7 @@ date: '2004-04-28'
 title: SEC Net Capital Rule Change Enables Investment Bank Leverage Explosion Fueling Housing Bubble
 importance: 8
 actors:
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 - William Donaldson
 - Goldman Sachs
 - Morgan Stanley

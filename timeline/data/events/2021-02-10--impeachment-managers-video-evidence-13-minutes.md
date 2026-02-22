@@ -5,10 +5,10 @@ title: Impeachment Managers Present Devastating 13-Minute Video Compilation of J
 importance: 9
 tags:
 - impeachment
-- january 6 attack
-- senate trial
-- video evidence
-- capitol police
+- january-6-attack
+- senate-trial
+- video-evidence
+- capitol-police
 actors:
 - Jamie Raskin
 - Stacey Plaskett

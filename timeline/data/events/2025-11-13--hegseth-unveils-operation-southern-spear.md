@@ -8,8 +8,8 @@ tags:
 - operation-southern-spear
 - caribbean
 - venezuela
-- pete hegseth
-- extrajudicial-killings
+- pete-hegseth
+- extrajudicial-killing
 sources:
 - title: 'Trump''s Caribbean Campaign: Data Behind Operation Southern Spear'
   url: https://www.csis.org/analysis/trumps-caribbean-campaign-data-behind-developing-conflict

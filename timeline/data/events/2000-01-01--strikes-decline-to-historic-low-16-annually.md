@@ -9,7 +9,7 @@ actors:
 - U.S. unions
 tags:
 - labor-suppression
-- strikes
+- strike
 - decline
 - patco-legacy
 - permanent-replacement

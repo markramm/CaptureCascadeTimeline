@@ -11,7 +11,7 @@ actors:
 tags:
 - epstein-files
 - cover-up
-- financial-crimes
+- financial-crime
 - obstruction
 capture_lanes:
 - Intelligence Penetration

@@ -11,7 +11,7 @@ tags:
 - impoundment
 actors:
 - Russell Vought
-- OMB
+- Office of Management and Budget
 - Citizens for Responsibility and Ethics in Washington
 sources:
 - title: OMB's latest effort to conceal spending data

@@ -4,7 +4,7 @@ date: '2017-02-08'
 title: Trump Attacks Nordstrom Using Presidential Office to Promote Daughter Ivanka's Business After Brand Dropped
 importance: 8
 tags:
-- emoluments-violations
+- emoluments-violation
 - abuse-of-office
 - conflicts-of-interest
 - ivanka-trump

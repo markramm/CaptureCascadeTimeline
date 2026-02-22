@@ -4,7 +4,7 @@ date: '2025-11-06'
 title: Trump Pardons Former Tennessee House Speaker Glen Casada and Chief of Staff Convicted of Federal Corruption
 importance: 8
 tags:
-- pardons
+- pardon
 - systematic-corruption
 - state-capture
 - abuse-of-power

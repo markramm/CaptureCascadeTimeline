@@ -12,7 +12,7 @@ tags:
 - cia
 - oracle
 actors:
-- CIA
+- Central Intelligence Agency
 - Oracle
 - Amazon Web Services
 - Microsoft

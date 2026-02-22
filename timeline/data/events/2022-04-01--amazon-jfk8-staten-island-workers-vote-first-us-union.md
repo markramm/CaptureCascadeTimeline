@@ -9,11 +9,11 @@ actors:
 - Christian Smalls
 - Amazon Labor Union
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
-- labor rights
-- corporate accountability
+- labor-rights
+- corporate-accountability
 sources:
 - url: https://www.npr.org/2022/04/01/1089318684/amazon-labor-union-staten-island-election-bessemer-alabama-warehouse-workers
   title: Amazon workers on Staten Island vote to form company's first U.S. union

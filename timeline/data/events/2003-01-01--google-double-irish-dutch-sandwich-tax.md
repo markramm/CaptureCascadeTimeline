@@ -19,7 +19,7 @@ tags:
 - double-irish
 - dutch-sandwich
 - offshore
-- tax-havens
+- tax-haven
 sources:
 - title: Double Irish arrangement
   url: https://en.wikipedia.org/wiki/Double_Irish_arrangement

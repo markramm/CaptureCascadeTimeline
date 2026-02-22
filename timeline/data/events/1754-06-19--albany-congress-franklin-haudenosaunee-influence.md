@@ -26,7 +26,7 @@ sources:
   tier: 2
   verified: true
 tags:
-- democratic-innovations
+- democratic-innovation
 - indigenous-politics
 - constitutional-foundations
 - consensus-democracy

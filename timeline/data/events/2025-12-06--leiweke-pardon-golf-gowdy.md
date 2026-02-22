@@ -9,9 +9,9 @@ actors:
 - Tim Leiweke
 - Trey Gowdy
 - Oak View Group
-- DOJ
+- U.S. Department of Justice
 tags:
-- pardons
+- pardon
 - corruption
 - bid-rigging
 - antitrust

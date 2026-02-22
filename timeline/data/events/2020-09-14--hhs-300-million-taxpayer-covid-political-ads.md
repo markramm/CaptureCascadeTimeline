@@ -5,14 +5,14 @@ title: HHS Spends $300 Million in Taxpayer Funds on "Defeating Despair" COVID Ad
 importance: 9
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- abuse of office
-- campaign finance
+- hatch-act
+- ethics-violation
+- abuse-of-office
+- campaign-finance
 - covid-19
 - hhs
-- trump administration
-- michael caputo
+- trump-administration
+- michael-caputo
 actors:
 - Michael Caputo
 - Donald Trump

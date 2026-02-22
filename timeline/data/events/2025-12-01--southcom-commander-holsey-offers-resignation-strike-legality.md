@@ -9,7 +9,7 @@ tags:
 - resignation
 - war-crimes
 - legal-concerns
-- pete hegseth
+- pete-hegseth
 sources:
 - title: 'From Denial to Defiance: Hegseth and the Fallout of Venezuelan Boat Double-Tap'
   url: https://www.military.com/feature/2025/12/08/denial-defiance-hegseth-and-fallout-of-venezuelan-boat-double-tap.html

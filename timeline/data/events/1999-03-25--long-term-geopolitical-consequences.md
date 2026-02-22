@@ -1,6 +1,6 @@
 ---
 actors:
-- IMF
+- International Monetary Fund
 - World Bank
 - Asian Development Bank
 - Emerging Asian Economies
@@ -30,7 +30,7 @@ tags:
 - economic-sovereignty
 - imf-intervention
 - structural-adjustment
-- trade-negotiations
+- trade-negotiation
 - washington-consensus
 title: Long-term Geopolitical Consequences of IMF Structural Adjustment
 ---

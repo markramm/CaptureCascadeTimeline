@@ -21,7 +21,7 @@ tags:
 - prosecutorial-misconduct
 - attorney-client-privilege
 - search-and-seizure
-- constitutional-violations
+- constitutional-violation
 - judicial-rebuke
 sources:
 - title: Judge Colleen Kollar-Kotelly's Knock Knock (Not a Joke)

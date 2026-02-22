@@ -11,7 +11,7 @@ actors:
 - United Nations
 - World Health Organization
 tags:
-- executive-orders
+- executive-order
 - project-2025
 - inauguration
 - climate

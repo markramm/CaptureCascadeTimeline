@@ -12,7 +12,7 @@ tags:
 actors:
 - Trump
 - State Department
-- USAID
+- United States Agency for International Development
 - U.S. Congress
 sources:
 - url: https://www.cbsnews.com/news/trump-pocket-rescission-foreign-aid-4-9-billion/

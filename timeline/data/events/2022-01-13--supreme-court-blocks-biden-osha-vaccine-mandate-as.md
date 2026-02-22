@@ -6,7 +6,7 @@ title: Supreme Court Blocks Biden OSHA Vaccine Mandate as Executive Overreach
 actors:
 - U.S. Supreme Court
 - Joe Biden
-- OSHA
+- Occupational Safety and Health Administration
 - U.S. Department of Labor
 tags:
 - executive-overreach

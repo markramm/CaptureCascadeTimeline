@@ -42,17 +42,17 @@ actors:
 - House Armed Services Committee
 - Senate Armed Services Committee
 tags:
-- defense policy
-- congressional oversight
+- defense-policy
+- congressional-oversight
 - ndaa
-- military transparency
-- executive power
+- military-transparency
+- executive-power
 - nato
-- trump administration
+- trump-administration
 - pentagon
-- war powers
+- war-powers
 - venezuela
-- boat strikes
+- boat-strikes
 sources:
 - url: https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authorization-act-hegseth-boat-strike-video
   title: Senate passes defense authorization bill, pushes Hegseth for boat strike video

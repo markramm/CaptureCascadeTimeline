@@ -4,11 +4,11 @@ date: '2024-12-30'
 title: Federal Appeals Court Upholds $5 Million Carroll Verdict Against Trump
 importance: 7
 tags:
-- appeals court
-- e. jean carroll
-- sexual abuse
+- appeals-court
+- e.-jean-carroll
+- sexual-abuse
 - defamation
-- legal victory
+- legal-victory
 actors:
 - E. Jean Carroll
 - Donald Trump

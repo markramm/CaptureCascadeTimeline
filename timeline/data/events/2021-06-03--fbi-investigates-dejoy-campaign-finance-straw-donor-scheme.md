@@ -5,15 +5,15 @@ title: FBI Investigates DeJoy Over Alleged Straw Donor Campaign Finance Scheme
 importance: 8
 status: confirmed
 tags:
-- campaign finance
-- fbi investigation
+- campaign-finance
+- fbi-investigation
 - dejoy
 - usps
-- political corruption
-- straw donors
+- political-corruption
+- straw-donors
 actors:
 - Louis DeJoy
-- FBI
+- Federal Bureau of Investigation
 - Carolyn Maloney
 - John Sarbanes
 sources:

@@ -5,12 +5,12 @@ title: VA Secretary David Shulkin Fired After Inspector General Finds Ethics Vio
 importance: 7
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- david shulkin
+- cabinet-corruption
+- ethics-violation
+- david-shulkin
 - va
-- inspector general
-- misuse of funds
+- inspector-general
+- misuse-of-funds
 actors:
 - David Shulkin
 - Vivieca Wright Simpson

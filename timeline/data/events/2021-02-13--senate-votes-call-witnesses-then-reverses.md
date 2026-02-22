@@ -5,10 +5,10 @@ title: Senate Votes 55-45 to Call Witnesses, Then Reverses After McConnell Threa
 importance: 8
 tags:
 - impeachment
-- senate trial
-- kevin mccarthy
-- january 6 attack
-- witness testimony
+- senate-trial
+- kevin-mccarthy
+- january-6-attack
+- witness-testimony
 actors:
 - Jaime Herrera Beutler
 - Kevin McCarthy

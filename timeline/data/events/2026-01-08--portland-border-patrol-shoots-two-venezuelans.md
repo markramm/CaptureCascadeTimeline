@@ -5,7 +5,7 @@ title: Border Patrol Agent Shoots Two People in Portland, Oregon, Over 270 Miles
 importance: 8
 tags:
 - police-violence
-- border patrol
+- border-patrol
 - immigration-enforcement
 - oregon
 - civil-rights

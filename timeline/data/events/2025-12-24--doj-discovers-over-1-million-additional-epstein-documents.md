@@ -24,7 +24,7 @@ status: confirmed
 type: political
 actors:
 - Department of Justice
-- FBI
+- Federal Bureau of Investigation
 - Thomas Massie
 - Ro Khanna
 capture_lanes:

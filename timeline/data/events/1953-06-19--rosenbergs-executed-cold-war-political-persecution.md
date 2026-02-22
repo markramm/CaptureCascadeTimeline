@@ -11,7 +11,7 @@ actors:
 - Irving Saypol
 - Irving Kaufman
 - J. Edgar Hoover
-- FBI
+- Federal Bureau of Investigation
 - Dwight D. Eisenhower
 tags:
 - mccarthyism

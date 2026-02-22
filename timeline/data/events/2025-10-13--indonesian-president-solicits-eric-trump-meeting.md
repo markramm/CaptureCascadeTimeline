@@ -23,7 +23,7 @@ tags:
 - conflicts-of-interest
 - foreign-influence
 - trump-family-enrichment
-- emoluments-violations
+- emoluments-violation
 capture_lanes:
 - International Kleptocracy
 - Systematic Corruption

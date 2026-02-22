@@ -13,7 +13,7 @@ tags:
 - first-amendment
 - civil-rights
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Dataminr
 - NYPD
 - LAPD

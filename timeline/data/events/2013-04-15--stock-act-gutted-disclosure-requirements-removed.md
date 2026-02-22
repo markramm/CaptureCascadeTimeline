@@ -13,12 +13,12 @@ summary: 'President Obama signed legislation that gutted key provisions of the S
   '
 importance: 8
 tags:
-- congressional corruption
-- insider trading
-- regulatory capture
-- ethics reform rollback
-- political accountability
-- bipartisan corruption
+- congressional-corruption
+- insider-trading
+- regulatory-capture
+- ethics-reform-rollback
+- political-accountability
+- bipartisan-corruption
 actors:
 - Barack Obama
 status: confirmed

@@ -14,7 +14,7 @@ tags:
 - war-profiteering
 - neutrality-acts
 - world-war-ii
-- corporate-profits
+- corporate-profit
 - military-industrial-complex
 sources:
 - title: The Neutrality Acts 1930s

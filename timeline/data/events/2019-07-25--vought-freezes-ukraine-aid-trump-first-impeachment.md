@@ -8,9 +8,9 @@ actors:
 - Donald Trump
 - Volodymyr Zelenskyy
 tags:
-- russ vought
+- russ-vought
 - ukraine
-- trump impeachment
+- trump-impeachment
 - omb
 sources:
 - title: What You Should Know About Russ Vought, Trump's Shadow President

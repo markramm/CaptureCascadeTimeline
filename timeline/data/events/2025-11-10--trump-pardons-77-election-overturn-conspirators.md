@@ -4,7 +4,7 @@ date: '2025-11-10'
 title: Trump Pardons 77 Allies Who Attempted to Overturn 2020 Election Including Giuliani, Meadows, and Fake Electors
 importance: 10
 tags:
-- pardons
+- pardon
 - 2020-election
 - accountability
 - fake-electors

@@ -11,7 +11,7 @@ tags:
 - privacy-rights
 - legislative-reform
 actors:
-- NSA
+- National Security Agency
 - U.S. Congress
 - Barack Obama
 - Edward Snowden

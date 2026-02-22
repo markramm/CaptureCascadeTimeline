@@ -4,11 +4,11 @@ date: '2021-07-01'
 title: Trump Organization CFO Allen Weisselberg Indicted for $1.7M Tax Fraud Scheme
 importance: 8
 tags:
-- tax fraud
-- trump organization
-- manhattan da
-- allen weisselberg
-- criminal indictment
+- tax-fraud
+- trump-organization
+- manhattan-da
+- allen-weisselberg
+- criminal-indictment
 actors:
 - Allen Weisselberg
 - Trump Organization

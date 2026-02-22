@@ -5,9 +5,9 @@ title: COVID-Positive Trump Leaves Hospital for SUV Joyride, Endangering Secret 
 importance: 7
 tags:
 - covid-19
-- public health
-- secret service
-- accountability crisis
+- public-health
+- secret-service
+- accountability-crisis
 actors:
 - Donald Trump
 - James Phillips

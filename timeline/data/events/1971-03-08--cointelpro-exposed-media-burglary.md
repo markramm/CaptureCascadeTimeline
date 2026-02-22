@@ -5,7 +5,7 @@ status: confirmed
 title: COINTELPRO Exposed - FBI's Secret War on Civil Rights and Dissent Revealed
 importance: 9
 actors:
-- FBI
+- Federal Bureau of Investigation
 - J. Edgar Hoover
 - Citizens' Commission to Investigate the FBI
 tags:

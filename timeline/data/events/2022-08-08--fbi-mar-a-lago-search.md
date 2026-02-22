@@ -5,7 +5,7 @@ importance: 10
 title: FBI executes search warrant at Mar-a-Lago
 actors:
 - Donald Trump
-- FBI
+- Federal Bureau of Investigation
 - Merrick Garland
 - Bruce Reinhart
 - National Archives

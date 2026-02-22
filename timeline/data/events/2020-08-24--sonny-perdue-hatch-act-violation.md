@@ -5,12 +5,12 @@ title: Agriculture Secretary Sonny Perdue Violates Hatch Act by Campaigning for 
 importance: 7
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- sonny perdue
-- hatch act
+- cabinet-corruption
+- ethics-violation
+- sonny-perdue
+- hatch-act
 - usda
-- political interference
+- political-interference
 actors:
 - Sonny Perdue
 - Donald Trump

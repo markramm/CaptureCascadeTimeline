@@ -7,9 +7,9 @@ actors:
 - Jeff Bezos
 - Amazon
 tags:
-- worker exploitation
-- corporate accountability
-- labor rights
+- worker-exploitation
+- corporate-accountability
+- labor-rights
 - amazon
 sources:
 - url: https://mcall.com/news/watchdog/mc-allentown-amazon-complaints-20110917-story.html

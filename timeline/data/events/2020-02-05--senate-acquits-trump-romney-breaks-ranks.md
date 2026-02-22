@@ -5,10 +5,10 @@ title: Senate Acquits Trump Despite Proven Abuse of Power; Romney Only Republica
 importance: 10
 status: confirmed
 tags:
-- first impeachment
-- senate trial
+- first-impeachment
+- senate-trial
 - acquittal
-- republican complicity
+- republican-complicity
 - romney
 actors:
 - Mitch McConnell

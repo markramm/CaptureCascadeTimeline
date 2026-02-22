@@ -4,12 +4,12 @@ date: 2015-06-29
 title: NBC Fires Trump from The Apprentice Following Racist Comments About Mexican Immigrants
 importance: 7
 tags:
-- the apprentice
+- the-apprentice
 - nbc
 - racism
 - immigration
-- presidential campaign
-- mark burnett
+- presidential-campaign
+- mark-burnett
 status: confirmed
 sources:
 - url: https://www.nbcnews.com/news/amp/ncna409381

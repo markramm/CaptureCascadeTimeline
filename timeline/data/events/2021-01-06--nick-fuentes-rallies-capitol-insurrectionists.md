@@ -7,9 +7,9 @@ actors:
 - Nick Fuentes
 - Donald Trump
 tags:
-- january 6
+- january-6
 - insurrection
-- white nationalism
+- white-nationalism
 - trump
 sources:
 - title: Nick Fuentes Faces Scrutiny Following Jan. 6 Subpoena

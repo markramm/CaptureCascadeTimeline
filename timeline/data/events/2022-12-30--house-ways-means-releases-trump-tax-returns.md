@@ -4,11 +4,11 @@ date: '2022-12-30'
 title: House Ways and Means Committee Releases Six Years of Trump Tax Returns
 importance: 9
 tags:
-- tax fraud
-- congressional oversight
-- trump tax returns
-- irs audit failure
-- foreign bank accounts
+- tax-fraud
+- congressional-oversight
+- trump-tax-returns
+- irs-audit-failure
+- foreign-bank-accounts
 actors:
 - House Ways and Means Committee
 - Richard Neal

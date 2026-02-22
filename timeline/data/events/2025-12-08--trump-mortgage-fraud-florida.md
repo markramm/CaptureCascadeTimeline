@@ -12,7 +12,7 @@ actors:
 - Bank of America
 tags:
 - mortgage-fraud
-- financial-crimes
+- financial-crime
 - hypocrisy
 - selective-enforcement
 - real-estate

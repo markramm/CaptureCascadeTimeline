@@ -6,12 +6,12 @@ title: The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properti
 importance: 6
 status: confirmed
 tags:
-- the apprentice
-- conflicts of interest
-- trump organization
-- mark burnett
+- the-apprentice
+- conflicts-of-interest
+- trump-organization
+- mark-burnett
 - nbc
-- product placement
+- product-placement
 capture_lanes:
 - Labor Suppression
 sources:

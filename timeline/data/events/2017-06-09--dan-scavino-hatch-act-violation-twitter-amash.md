@@ -5,12 +5,12 @@ title: Office of Special Counsel Finds White House Social Media Director Dan Sca
 importance: 7
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- dan scavino
-- social media
-- trump administration
-- justin amash
+- hatch-act
+- ethics-violation
+- dan-scavino
+- social-media
+- trump-administration
+- justin-amash
 actors:
 - Dan Scavino
 - Donald Trump

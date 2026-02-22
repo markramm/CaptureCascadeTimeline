@@ -6,9 +6,9 @@ title: DOJ Sues Trump and Father for Systemic Housing Discrimination
 importance: 8
 tags:
 - racism
-- housing discrimination
-- trump family
-- civil rights
+- housing-discrimination
+- trump-family
+- civil-rights
 - doj
 actors:
 - Donald Trump

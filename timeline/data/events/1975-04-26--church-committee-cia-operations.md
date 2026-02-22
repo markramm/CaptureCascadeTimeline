@@ -11,9 +11,9 @@ tags:
 - institutional-reform
 actors:
 - Frank Church
-- CIA
-- NSA
-- FBI
+- Central Intelligence Agency
+- National Security Agency
+- Federal Bureau of Investigation
 sources:
 - title: senate.gov
   url: https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm

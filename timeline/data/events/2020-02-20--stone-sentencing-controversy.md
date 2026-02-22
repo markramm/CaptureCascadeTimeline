@@ -5,13 +5,13 @@ title: DOJ Overrules Prosecutors' Roger Stone Sentencing Recommendation After Tr
 importance: 8
 status: confirmed
 tags:
-- doj corruption
-- mueller investigation
-- roger stone
+- doj-corruption
+- mueller-investigation
+- roger-stone
 - sentencing
-- barr obstruction
-- prosecutorial independence
-- trump interference
+- barr-obstruction
+- prosecutorial-independence
+- trump-interference
 actors:
 - Roger Stone
 - Donald Trump

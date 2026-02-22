@@ -15,7 +15,7 @@ actors:
 - Yahoo
 - Facebook
 - LinkedIn
-- NSA
+- National Security Agency
 - Department of Justice
 sources:
 - title: Google, Yahoo, Facebook, Microsoft and LinkedIn Release New NSA Data

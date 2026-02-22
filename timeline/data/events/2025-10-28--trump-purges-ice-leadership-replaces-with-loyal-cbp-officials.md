@@ -30,12 +30,12 @@ status: confirmed
 tags:
 - border-patrol
 - cbp
-- constitutional-violations
+- constitutional-violation
 - escalation
 - ice
 - immigration-enforcement
 - leadership-purge
-- loyalty-test
+- loyalty-tests
 - mass-arrests
 title: Trump Purges 12 ICE Field Directors, Replaces with Border Patrol Loyalists to Escalate Deportations
 capture_lanes:

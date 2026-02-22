@@ -4,7 +4,7 @@ date: '2008-07-31'
 title: FISA Court Finds NSA Surveillance Programs Systematically Unconstitutional
 actors:
 - FISA Court
-- NSA
+- National Security Agency
 - Department of Justice
 - Michael Hayden
 - Keith Alexander

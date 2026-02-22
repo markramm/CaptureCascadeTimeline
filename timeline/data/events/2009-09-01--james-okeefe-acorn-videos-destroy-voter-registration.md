@@ -8,10 +8,10 @@ actors:
 - Hannah Giles
 - ACORN
 tags:
-- voter suppression
+- voter-suppression
 - disinformation
-- republican party
-- media manipulation
+- republican-party
+- media-manipulation
 sources:
 - title: ACORN 2009 undercover videos controversy - Wikipedia
   url: https://en.wikipedia.org/wiki/ACORN_2009_undercover_videos_controversy

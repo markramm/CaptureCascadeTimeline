@@ -5,7 +5,7 @@ status: confirmed
 title: CIA Begins Systematic Use of Enhanced Interrogation Techniques on Detainees
 importance: 9
 actors:
-- CIA
+- Central Intelligence Agency
 - Abu Zubaydah
 - Abd al-Rahim al-Nashiri
 - James Mitchell

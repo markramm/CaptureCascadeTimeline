@@ -5,12 +5,12 @@ title: Mueller Indicts Paul Manafort and Rick Gates on 12 Counts Including Consp
 status: confirmed
 importance: 9
 tags:
-- mueller investigation
-- paul manafort
-- money laundering
-- fara violations
-- ukraine lobbying
-- foreign agents
+- mueller-investigation
+- paul-manafort
+- money-laundering
+- fara-violations
+- ukraine-lobbying
+- foreign-agents
 actors:
 - Paul Manafort
 - Rick Gates

@@ -29,7 +29,7 @@ sources:
 tags:
 - paradise-papers
 - offshore-finance
-- tax-havens
+- tax-haven
 - oligarchs
 - financial-manipulation
 - global-elite-networks

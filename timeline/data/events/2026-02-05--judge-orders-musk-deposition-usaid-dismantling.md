@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Elon Musk
 - Theodore Chuang
-- USAID
+- United States Agency for International Development
 - Peter Marocco
 - Jeremy Lewin
 - Department of Government Efficiency

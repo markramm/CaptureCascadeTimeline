@@ -22,7 +22,7 @@ tags:
 - regulatory-capture
 - government-downsizing
 - financial-oversight
-- legal-challenges
+- legal-challenge
 capture_type: regulatory_capture
 sources:
 - title: The Trump administration has stopped work at the CFPB. Here's what the agency

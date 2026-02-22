@@ -41,7 +41,7 @@ tags:
 - regulatory-capture
 - classified-systems
 - cloud-infrastructure
-- government-contract
+- government-contracts
 title: Anthropic Secures Comprehensive FedRAMP High Certification for Government AI Deployment
 ---
 

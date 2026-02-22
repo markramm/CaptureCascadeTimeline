@@ -13,7 +13,7 @@ actors:
 tags:
 - healthcare
 - aca-sabotage
-- legal-challenges
+- legal-challenge
 - republican-attorneys-general
 - supreme-court
 - pre-existing-conditions

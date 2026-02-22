@@ -5,10 +5,10 @@ title: USPS Removes Mailboxes in Democratic Areas, Reverses After Public Outcry
 importance: 8
 status: confirmed
 tags:
-- election interference
+- election-interference
 - usps
-- postal service
-- voter suppression
+- postal-service
+- voter-suppression
 - dejoy
 actors:
 - Louis DeJoy

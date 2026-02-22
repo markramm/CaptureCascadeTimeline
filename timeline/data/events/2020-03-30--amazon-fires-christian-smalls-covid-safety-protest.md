@@ -9,11 +9,11 @@ actors:
 - Christian Smalls
 - David Zapolsky
 tags:
-- worker exploitation
-- union organizing
+- worker-exploitation
+- union-organizing
 - amazon
 - covid-19
-- corporate accountability
+- corporate-accountability
 - retaliation
 sources:
 - url: https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/

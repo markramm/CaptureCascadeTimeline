@@ -9,7 +9,7 @@ actors:
 - Private contractors
 - Edward Snowden
 - Booz Allen Hamilton
-- NSA
+- National Security Agency
 - Ronald Sanders (Associate DNI)
 tags:
 - intelligence-privatization

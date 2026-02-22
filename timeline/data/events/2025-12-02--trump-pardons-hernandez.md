@@ -12,7 +12,7 @@ actors:
 - Roger Stone
 - Kevin Castel
 tags:
-- pardons
+- pardon
 - drug-policy
 - foreign-policy
 - corruption

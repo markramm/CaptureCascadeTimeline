@@ -15,7 +15,7 @@ tags:
 - ponzi-scheme
 - financial-crime
 - institutional-failure
-- bernie madoff
+- bernie-madoff
 sources:
 - title: Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Executive Summary
   url: https://www.sec.gov/files/oig-509-exec-summary.pdf

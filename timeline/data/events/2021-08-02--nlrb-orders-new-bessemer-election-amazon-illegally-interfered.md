@@ -8,12 +8,12 @@ actors:
 - Amazon
 - Retail, Wholesale and Department Store Union
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
-- labor rights
-- corporate accountability
-- legal accountability
+- labor-rights
+- corporate-accountability
+- legal-accountability
 sources:
 - url: https://www.jurist.org/news/2021/08/nlrb-finds-amazon-interfered-with-bessemer-union-drive-recommends-new-election/
   title: NLRB finds Amazon interfered with Bessemer union drive, recommends new election

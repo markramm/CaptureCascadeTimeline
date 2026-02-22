@@ -7,10 +7,10 @@ actors:
 - Sean Dunn
 - Pam Bondi
 tags:
-- doj weaponization
-- jury nullification
+- doj-weaponization
+- jury-nullification
 - dissent
-- whistleblower retaliation
+- whistleblower-retaliation
 sources:
 - title: Subway sandwich thrower found not guilty in D.C. jury rebuke
   url: https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich

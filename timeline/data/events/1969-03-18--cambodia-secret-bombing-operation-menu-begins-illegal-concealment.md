@@ -31,7 +31,7 @@ tags:
 - government-deception
 - military-industrial-complex
 - illegal-surveillance
-- constitutional-violations
+- constitutional-violation
 capture_lanes:
 - Executive Power Expansion
 - Legislative Capture

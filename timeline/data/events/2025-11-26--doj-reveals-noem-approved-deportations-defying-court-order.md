@@ -11,7 +11,7 @@ actors:
 - U.S. District Judge James Boasberg
 - Department of Justice
 - Todd Blanche
-- Emil Bove (former Principal Associate Deputy Attorney General)
+- Emil Bove
 - Joseph Mazzara (DHS acting General Counsel)
 - Venezuelan deportees
 - El Salvador government

@@ -14,7 +14,7 @@ tags:
 - corruption
 - doj
 - regulatory-capture
-- legal-violations
+- legal-violation
 - trump-administration
 - conflicts-of-interest
 - rule-of-law

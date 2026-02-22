@@ -4,7 +4,7 @@ date: 2010-09-24
 title: FBI Raids Anti-War Activists' Homes in Coordinated Nationwide Operation
 importance: 7
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Department of Justice
 - Anti-war activists
 - Grand jury

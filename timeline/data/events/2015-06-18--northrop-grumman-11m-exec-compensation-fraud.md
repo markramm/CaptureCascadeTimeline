@@ -10,13 +10,13 @@ actors:
 - Defense Contract Management Agency
 - Defense Contract Audit Agency
 tags:
-- defense contractors
+- defense-contractors
 - fraud
-- false claims act
-- executive compensation
-- contractor abuse
-- cost-plus contracts
-- pentagon contracts
+- false-claims-act
+- executive-compensation
+- contractor-abuse
+- cost-plus-contracts
+- pentagon-contracts
 sources:
 - url: https://www.justice.gov/archives/opa/pr/northrop-grumman-corp-pays-114-million-resolve-allegations-it-improperly-charged-costs
   title: Northrop Grumman Corp. Pays $11.4 Million to Resolve Allegations That It Improperly Charged Costs to Government Contracts

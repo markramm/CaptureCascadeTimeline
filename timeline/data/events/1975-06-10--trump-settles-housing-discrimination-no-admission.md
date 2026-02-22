@@ -6,9 +6,9 @@ title: Trump Settles Housing Discrimination Case Without Admitting Guilt
 importance: 7
 tags:
 - racism
-- housing discrimination
-- trump family
-- civil rights
+- housing-discrimination
+- trump-family
+- civil-rights
 - doj
 actors:
 - Donald Trump

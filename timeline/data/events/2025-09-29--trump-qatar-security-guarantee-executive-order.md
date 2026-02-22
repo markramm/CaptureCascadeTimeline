@@ -10,7 +10,7 @@ actors:
 - Benjamin Netanyahu
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - presidential-authority
 - abuse-of-power
 sources:

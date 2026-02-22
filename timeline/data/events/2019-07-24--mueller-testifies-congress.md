@@ -5,10 +5,10 @@ title: Mueller Testifies to Congress, Confirms Report Findings and Lack of Exone
 importance: 9
 status: confirmed
 tags:
-- mueller investigation
-- congressional testimony
-- presidential accountability
-- obstruction of justice
+- mueller-investigation
+- congressional-testimony
+- presidential-accountability
+- obstruction-of-justice
 - impeachment
 actors:
 - Robert Mueller

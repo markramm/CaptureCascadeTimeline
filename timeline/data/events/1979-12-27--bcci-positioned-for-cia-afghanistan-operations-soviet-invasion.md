@@ -4,7 +4,7 @@ date: '1979-12-27'
 title: Soviet Afghanistan Invasion Positions BCCI for CIA Covert Operations Expansion
 importance: 9
 actors:
-- CIA
+- Central Intelligence Agency
 - ISI Pakistan
 - General Zia ul-Haq
 - BCCI

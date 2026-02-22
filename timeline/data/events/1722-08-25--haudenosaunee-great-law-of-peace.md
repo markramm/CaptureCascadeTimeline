@@ -29,7 +29,7 @@ tags:
 - consensus-democracy
 - indigenous-politics
 - constitutional-foundations
-- democratic-innovations
+- democratic-innovation
 status: confirmed
 capture_lanes:
 - Democratic Erosion

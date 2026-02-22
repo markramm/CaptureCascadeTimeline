@@ -12,7 +12,7 @@ actors:
 tags:
 - government
 - congress
-- trump administration
+- trump-administration
 - shutdown
 sources:
 - title: The longest government shutdown in U.S. history comes to a close

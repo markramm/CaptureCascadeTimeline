@@ -16,7 +16,7 @@ actors:
 - Alfred Sloan Jr.
 tags:
 - labor-rights
-- strikes
+- strike
 - sit-down-strikes
 - uaw
 - general-motors

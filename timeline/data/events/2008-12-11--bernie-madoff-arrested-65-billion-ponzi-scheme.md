@@ -15,7 +15,7 @@ tags:
 - ponzi-scheme
 - financial-crime
 - corruption
-- bernie madoff
+- bernie-madoff
 - institutional-failure
 sources:
 - title: Bernie Madoff Case

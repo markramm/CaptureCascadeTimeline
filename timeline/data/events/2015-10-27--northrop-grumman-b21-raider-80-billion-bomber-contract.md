@@ -12,12 +12,12 @@ actors:
 - Lockheed Martin
 - U.S. Government Accountability Office
 tags:
-- military-industrial complex
-- defense contractors
-- pentagon contracts
-- stealth technology
-- nuclear weapons
-- b-21 bomber
+- military-industrial-complex
+- defense-contractors
+- pentagon-contracts
+- stealth-technology
+- nuclear-weapons
+- b-21-bomber
 sources:
 - url: https://www.airandspaceforces.com/weapons/b-21/
   title: B-21 Raider

@@ -8,7 +8,7 @@ actors:
 - Hennepin County Medical Center
 tags:
 - operation-metro-surge
-- hospitals
+- hospital
 - minneapolis
 - sensitive-locations
 - healthcare

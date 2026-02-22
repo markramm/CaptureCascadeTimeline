@@ -5,7 +5,7 @@ title: Trump pardons financial criminals including wire fraud convict and money 
 importance: 8
 tags:
 - pardon
-- financial-crimes
+- financial-crime
 - money-laundering
 - wire-fraud
 - corruption

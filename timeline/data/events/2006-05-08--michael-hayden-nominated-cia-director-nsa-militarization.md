@@ -6,8 +6,8 @@ actors:
 - Michael Hayden
 - George W. Bush
 - Senate Intelligence Committee
-- NSA
-- CIA
+- National Security Agency
+- Central Intelligence Agency
 - Porter Goss
 tags:
 - cia-militarization

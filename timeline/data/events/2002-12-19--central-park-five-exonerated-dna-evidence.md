@@ -5,10 +5,10 @@ status: confirmed
 title: 'Central Park Five Exonerated: DNA Proves Innocence After 13 Years'
 importance: 9
 tags:
-- central park five
-- criminal justice
-- wrongful conviction
-- dna evidence
+- central-park-five
+- criminal-justice
+- wrongful-conviction
+- dna-evidence
 - racism
 actors:
 - Yusef Salaam

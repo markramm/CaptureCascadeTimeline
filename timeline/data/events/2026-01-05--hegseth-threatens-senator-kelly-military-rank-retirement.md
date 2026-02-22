@@ -8,7 +8,7 @@ tags:
 - retaliation
 - free-speech
 - authoritarianism
-- pete hegseth
+- pete-hegseth
 - veterans
 sources:
 - title: Sen. Mark Kelly fires back after Hegseth threatens his rank and retirement pay

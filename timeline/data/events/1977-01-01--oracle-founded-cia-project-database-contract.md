@@ -13,7 +13,7 @@ tags:
 actors:
 - Larry Ellison
 - Robert Miner
-- CIA
+- Central Intelligence Agency
 - Oracle
 sources:
 - title: Larry Ellison's Oracle Started As a CIA Project

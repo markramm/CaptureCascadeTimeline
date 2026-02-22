@@ -10,7 +10,7 @@ tags:
 - corporate-capture
 - legislative-capture
 - alec
-- state-legislatures
+- state-legislature
 - political-penetration
 - legislative-infrastructure
 sources:

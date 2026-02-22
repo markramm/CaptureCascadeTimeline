@@ -8,10 +8,10 @@ actors:
 - Donald Trump
 - Susie Wiles
 tags:
-- stephen miller
-- white house power
-- white nationalism
-- authoritarian consolidation
+- stephen-miller
+- white-house-power
+- white-nationalism
+- authoritarian-consolidation
 sources:
 - title: Stephen Miller is more powerful in the White House than ever
   url: https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house/index.html

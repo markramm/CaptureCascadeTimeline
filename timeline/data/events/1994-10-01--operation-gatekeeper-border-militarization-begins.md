@@ -13,7 +13,7 @@ tags:
 - immigration
 - border-militarization
 - enforcement
-- death
+- deaths
 - deterrence
 - bipartisan
 sources:

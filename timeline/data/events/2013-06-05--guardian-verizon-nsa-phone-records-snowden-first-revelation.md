@@ -13,7 +13,7 @@ tags:
 actors:
 - Edward Snowden
 - Glenn Greenwald
-- NSA
+- National Security Agency
 - Verizon
 sources:
 - url: https://www.washingtonpost.com/news/wonk/wp/2013/06/05/nsa-asked-verizon-for-records-of-all-calls-in-the-u-s/

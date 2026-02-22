@@ -8,7 +8,7 @@ actors:
 - European Court of Human Rights
 - Romania
 - Lithuania
-- CIA
+- Central Intelligence Agency
 - Abu Zubaydah
 - Abd al-Rahim al-Nashiri
 tags:

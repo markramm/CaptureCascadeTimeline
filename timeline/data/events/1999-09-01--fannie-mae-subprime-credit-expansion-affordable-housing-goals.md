@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Fannie Mae
 - Franklin Raines
-- HUD
+- U.S. Department of Housing and Urban Development
 - Andrew Cuomo
 - Mortgage Bankers Association
 - National Association of Realtors

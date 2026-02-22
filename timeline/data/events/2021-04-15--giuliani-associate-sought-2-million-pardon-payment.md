@@ -11,7 +11,7 @@ actors:
 - Dmytro Firtash
 - Donald Trump
 tags:
-- pardons
+- pardon
 - corruption
 - pay-to-play
 - bribery

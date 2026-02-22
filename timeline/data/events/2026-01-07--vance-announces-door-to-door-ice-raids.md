@@ -9,7 +9,7 @@ tags:
 - ice
 - authoritarianism
 - civil-rights
-- jd vance
+- jd-vance
 sources:
 - title: Hours After US Citizen Shot Dead by ICE, JD Vance Says 'Door-to-Door' Operations Are Coming
   url: https://www.commondreams.org/news/vance-ice-door-to-door

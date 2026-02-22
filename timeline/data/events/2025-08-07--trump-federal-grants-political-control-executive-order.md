@@ -10,7 +10,7 @@ actors:
 - Office of Management and Budget
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - institutional-capture
 - systematic-corruption
 sources:

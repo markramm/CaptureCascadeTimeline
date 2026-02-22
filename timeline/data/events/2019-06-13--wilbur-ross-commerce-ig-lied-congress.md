@@ -5,13 +5,13 @@ title: Commerce Inspector General Finds Wilbur Ross Lied to Congress About Censu
 importance: 8
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- wilbur ross
-- inspector general
+- cabinet-corruption
+- ethics-violation
+- wilbur-ross
+- inspector-general
 - perjury
 - census
-- conflicts of interest
+- conflicts-of-interest
 actors:
 - Wilbur Ross
 - Department of Justice

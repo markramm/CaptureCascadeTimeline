@@ -33,7 +33,7 @@ sources:
 status: confirmed
 tags:
 - pardon
-- financial-crimes
+- financial-crime
 - white-collar-crime
 - money-laundering
 - wire-fraud

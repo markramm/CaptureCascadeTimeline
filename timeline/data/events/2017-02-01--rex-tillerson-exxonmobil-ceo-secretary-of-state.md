@@ -11,7 +11,7 @@ actors:
 - State Department
 tags:
 - oil-industry
-- russia-connections
+- russia-connection
 - regulatory-capture
 - foreign-influence
 - institutional-destruction

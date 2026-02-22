@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 actors:
 - Maher Arar
-- CIA
+- Central Intelligence Agency
 - Royal Canadian Mounted Police
 - Syria
 - Canada

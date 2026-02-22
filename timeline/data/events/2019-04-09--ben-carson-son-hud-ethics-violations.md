@@ -5,12 +5,12 @@ title: HUD Inspector General Finds Ben Carson Violated Ethics Rules by Involving
 importance: 7
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- ben carson
+- cabinet-corruption
+- ethics-violation
+- ben-carson
 - hud
 - nepotism
-- conflicts of interest
+- conflicts-of-interest
 actors:
 - Ben Carson
 - Ben Carson Jr.

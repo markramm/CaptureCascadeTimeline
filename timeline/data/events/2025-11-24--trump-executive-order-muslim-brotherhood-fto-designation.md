@@ -8,12 +8,12 @@ actors:
 - Marco Rubio
 - Scott Bessent
 tags:
-- muslim brotherhood
-- fto designation
-- civil liberties
-- first amendment
-- fisa surveillance
-- executive order
+- muslim-brotherhood
+- fto-designation
+- civil-liberties
+- first-amendment
+- fisa-surveillance
+- executive-order
 sources:
 - title: 'Executive Order 14362: Designation of Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations and Specially Designated Global Terrorists'
   url: https://www.whitehouse.gov/presidential-actions/2025/11/designation-of-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/

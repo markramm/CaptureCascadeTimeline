@@ -11,12 +11,12 @@ actors:
 - House Armed Services Committee
 tags:
 - lobbying
-- revolving door
-- military-industrial complex
-- defense contractors
+- revolving-door
+- military-industrial-complex
+- defense-contractors
 - corruption
-- campaign finance
-- congressional capture
+- campaign-finance
+- congressional-capture
 sources:
 - url: https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2023&id=D000000170
   title: Northrop Grumman Lobbying Profile 2023

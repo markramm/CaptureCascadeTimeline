@@ -9,9 +9,9 @@ actors:
 - Pam Bondi
 - Lindsey Halligan
 tags:
-- doj weaponization
-- letitia james
-- vindictive prosecution
+- doj-weaponization
+- letitia-james
+- vindictive-prosecution
 sources:
 - title: Letitia James urges court to toss her case, calling it Trump's revenge
   url: https://www.washingtonpost.com/national-security/2025/11/07/letitia-james-vindictive-prosecution-motion/

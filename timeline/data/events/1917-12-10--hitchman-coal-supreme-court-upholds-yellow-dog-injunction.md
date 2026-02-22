@@ -13,7 +13,7 @@ tags:
 - judicial-capture
 - progressive-era
 - yellow-dog-contracts
-- injunctions
+- injunction
 sources:
 - title: Hitchman Coal & Coke Co. v. Mitchell
   url: https://en.wikipedia.org/wiki/Hitchman_Coal_%26_Coke_Co._v._Mitchell

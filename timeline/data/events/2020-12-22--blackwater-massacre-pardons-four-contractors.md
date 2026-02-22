@@ -12,7 +12,7 @@ actors:
 - Evan Liberty
 - Dustin Heard
 tags:
-- pardons
+- pardon
 - corruption
 - war-crimes
 - blackwater

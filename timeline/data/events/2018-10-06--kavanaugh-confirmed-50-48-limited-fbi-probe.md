@@ -5,10 +5,10 @@ title: Senate Confirms Kavanaugh 50-48 Despite Sexual Assault Allegations and Se
 importance: 9
 status: confirmed
 tags:
-- supreme court
-- sexual assault
-- judicial appointments
-- accountability crisis
+- supreme-court
+- sexual-assault
+- judicial-appointments
+- accountability-crisis
 - fbi
 actors:
 - Brett Kavanaugh

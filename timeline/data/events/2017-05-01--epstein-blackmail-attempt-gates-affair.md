@@ -24,7 +24,7 @@ tags:
 - epstein-blackmail
 - gates-russia
 - spy-networks
-- kompromat-operations
+- kompromat-operation
 - corporate-espionage
 importance: 8
 status: confirmed

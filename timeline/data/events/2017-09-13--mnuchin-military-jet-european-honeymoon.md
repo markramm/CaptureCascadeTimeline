@@ -5,12 +5,12 @@ title: Treasury Secretary Mnuchin Requested Military Jet for European Honeymoon,
 status: confirmed
 importance: 7
 tags:
-- cabinet corruption
-- ethics violations
-- steve mnuchin
-- louise linton
-- misuse of funds
-- military aircraft
+- cabinet-corruption
+- ethics-violation
+- steve-mnuchin
+- louise-linton
+- misuse-of-funds
+- military-aircraft
 actors:
 - Steve Mnuchin
 - Louise Linton

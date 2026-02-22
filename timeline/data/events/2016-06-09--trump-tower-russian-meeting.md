@@ -14,7 +14,7 @@ actors:
 - Donald Trump
 tags:
 - foreign-interference
-- campaign-finance-violation
+- campaign-finance-violations
 - russian-collusion
 - obstruction
 - disinformation

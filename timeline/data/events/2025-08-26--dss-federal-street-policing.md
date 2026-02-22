@@ -12,7 +12,7 @@ tags:
 actors:
 - Diplomatic Security Service
 - State Department
-- FBI
+- Federal Bureau of Investigation
 - Trump
 sources:
 - url: https://www.dailysignal.com/2025/08/26/why-making-dc-safe-is-critical-for-american-foreign-policy

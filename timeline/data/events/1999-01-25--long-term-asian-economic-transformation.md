@@ -4,7 +4,7 @@ date: '1999-01-25'
 title: IMF Concludes Comprehensive Structural Adjustment in Southeast Asia
 importance: 9
 actors:
-- IMF
+- International Monetary Fund
 - World Bank
 - Asian Governments
 - Multinational Corporations

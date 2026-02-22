@@ -143,7 +143,8 @@
     "defense-department"
   ],
   "Defense contractors": [
-    "Defense Contractors"
+    "Defense Contractors",
+    "defense-contractors"
   ],
   "Democracy Forward": [
     "Democracy Forward (counsel)"
@@ -156,7 +157,8 @@
   ],
   "Department of Government Efficiency": [
     "DOGE",
-    "Department of Government Efficiency (DOGE)"
+    "Department of Government Efficiency (DOGE)",
+    "DOGE (Department of Government Efficiency)"
   ],
   "Department of Justice": [
     "department-of-justice"
@@ -198,10 +200,12 @@
     "Elihu Root (Defense)"
   ],
   "Elon Musk": [
-    "Elon Musk (DOGE leader)"
+    "Elon Musk (DOGE leader)",
+    "Elon Musk (DOGE)"
   ],
   "Emil Bove": [
-    "Emil Bove (Acting Deputy Attorney General)"
+    "Emil Bove (Acting Deputy Attorney General)",
+    "Emil Bove (former Principal Associate Deputy Attorney General)"
   ],
   "Environmental Protection Agency (EPA)": [
     "EPA"
@@ -237,7 +241,8 @@
     "federal-communications-commission"
   ],
   "Federal Courts": [
-    "Federal courts"
+    "Federal courts",
+    "Federal Court"
   ],
   "Federal Election Commission": [
     "FEC",
@@ -316,7 +321,8 @@
     "Heritage Trust (Delaware)"
   ],
   "Howard Lutnick": [
-    "howard-lutnick"
+    "howard-lutnick",
+    "Howard Lutnick (CEO)"
   ],
   "Immigration Advocates": [
     "immigration advocates"
@@ -378,7 +384,8 @@
     "Justice Amy Coney Barrett (majority opinion)"
   ],
   "Justice Clarence Thomas": [
-    "Justice Clarence Thomas (concurring)"
+    "Justice Clarence Thomas (concurring)",
+    "Justice Clarence Thomas (dissent)"
   ],
   "Justice Elena Kagan": [
     "Justice Elena Kagan (dissent)"
@@ -387,7 +394,8 @@
     "Justice Ketanji Brown Jackson (dissent)"
   ],
   "Justice Neil Gorsuch": [
-    "Justice Neil Gorsuch (majority opinion)"
+    "Justice Neil Gorsuch (majority opinion)",
+    "Justice Neil Gorsuch (dissent)"
   ],
   "Justice Samuel Alito": [
     "Justice Samuel Alito (dissent)"
@@ -411,13 +419,15 @@
     "Koch Brothers"
   ],
   "Kristi Noem": [
-    "kristi-noem"
+    "kristi-noem",
+    "Kristi Noem (DHS Secretary)"
   ],
   "Lawyers for Good Government": [
     "Lawyers for Good Government (L4GG)"
   ],
   "Lee Zeldin": [
-    "lee-zeldin"
+    "lee-zeldin",
+    "Lee Zeldin (EPA Administrator)"
   ],
   "Letitia James": [
     "letitia-james"
@@ -511,7 +521,8 @@
     "Office of Special Counsel (OSC)"
   ],
   "Pam Bondi": [
-    "pam-bondi"
+    "pam-bondi",
+    "Pam Bondi (Attorney General)"
   ],
   "Paul Weiss": [
     "Paul, Weiss"
@@ -563,7 +574,8 @@
     "Republican State Legislators"
   ],
   "Robert F. Kennedy Jr.": [
-    "robert-f-kennedy-jr"
+    "robert-f-kennedy-jr",
+    "Robert F. Kennedy Jr. (HHS Secretary)"
   ],
   "Rohit Chopra": [
     "Rohit Chopra (fired director)"
@@ -585,7 +597,8 @@
   ],
   "Securities and Exchange Commission": [
     "SEC",
-    "SEC (Securities and Exchange Commission)"
+    "SEC (Securities and Exchange Commission)",
+    "Securities and Exchange Commission (SEC)"
   ],
   "Senate Republicans": [
     "senate-republicans"
@@ -616,7 +629,8 @@
   ],
   "Tech companies": [
     "Tech Companies",
-    "tech companies"
+    "tech companies",
+    "tech-companies"
   ],
   "Tim Walz": [
     "Tim Walz (Governor)"
@@ -637,7 +651,8 @@
     "Trump administration"
   ],
   "Tulsi Gabbard": [
-    "tulsi-gabbard"
+    "tulsi-gabbard",
+    "Tulsi Gabbard (DNI)"
   ],
   "Twitter": [
     "X Platform (Twitter)"
@@ -698,7 +713,8 @@
     "Department of Homeland Security"
   ],
   "U.S. Department of Housing and Urban Development": [
-    "Department of Housing and Urban Development"
+    "Department of Housing and Urban Development",
+    "HUD"
   ],
   "U.S. Department of Labor": [
     "Department of Labor"
@@ -807,5 +823,59 @@
   ],
   "JBS": [
     "jbs"
+  ],
+  "Linda McMahon": [
+    "Linda McMahon (Education Secretary)"
+  ],
+  "Kash Patel": [
+    "Kash Patel (FBI Director)"
+  ],
+  "Marco Rubio": [
+    "Marco Rubio (Secretary of State)"
+  ],
+  "Federal Bureau of Investigation": [
+    "FBI"
+  ],
+  "Central Intelligence Agency": [
+    "CIA"
+  ],
+  "Environmental Protection Agency": [
+    "EPA"
+  ],
+  "National Labor Relations Board": [
+    "NLRB"
+  ],
+  "U.S. Department of Justice": [
+    "DOJ"
+  ],
+  "National Security Agency": [
+    "NSA"
+  ],
+  "International Monetary Fund": [
+    "IMF"
+  ],
+  "Office of Management and Budget": [
+    "OMB"
+  ],
+  "National Rifle Association": [
+    "NRA"
+  ],
+  "North Atlantic Treaty Organization": [
+    "NATO"
+  ],
+  "Republican National Committee": [
+    "RNC"
+  ],
+  "Department of Transportation": [
+    "DOT"
+  ],
+  "United States Agency for International Development": [
+    "USAID"
+  ],
+  "Drug Enforcement Administration": [
+    "DEA"
+  ],
+  "Occupational Safety and Health Administration": [
+    "OSHA"
   ]
 }

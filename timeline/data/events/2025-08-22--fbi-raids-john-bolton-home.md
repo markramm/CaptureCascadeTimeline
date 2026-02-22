@@ -11,7 +11,7 @@ actors:
 - Donald Trump
 - Kash Patel
 - John Ratcliffe
-- FBI
+- Federal Bureau of Investigation
 - JD Vance
 tags:
 - political-retaliation

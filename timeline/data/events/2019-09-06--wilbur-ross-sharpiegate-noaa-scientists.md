@@ -5,13 +5,13 @@ title: Commerce Secretary Ross Threatens to Fire NOAA Scientists Who Contradicte
 importance: 8
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- wilbur ross
+- cabinet-corruption
+- ethics-violation
+- wilbur-ross
 - sharpiegate
-- scientific integrity
-- political interference
-- hurricane dorian
+- scientific-integrity
+- political-interference
+- hurricane-dorian
 actors:
 - Wilbur Ross
 - Donald Trump

@@ -5,9 +5,9 @@ title: Trump Tests Positive for COVID-19, Hospitalized at Walter Reed with Exper
 importance: 8
 tags:
 - covid-19
-- public health
+- public-health
 - healthcare
-- accountability crisis
+- accountability-crisis
 actors:
 - Donald Trump
 - Melania Trump

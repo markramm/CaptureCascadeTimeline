@@ -4,11 +4,11 @@ date: 2013-03-01
 title: Trump Foundation Paid $25,000 to Settle Trump University Legal Claim Using Charity Funds
 importance: 9
 tags:
-- trump foundation
-- charity fraud
+- trump-foundation
+- charity-fraud
 - self-dealing
-- trump university
-- tax violations
+- trump-university
+- tax-violations
 actors:
 - Donald Trump
 - Trump Foundation

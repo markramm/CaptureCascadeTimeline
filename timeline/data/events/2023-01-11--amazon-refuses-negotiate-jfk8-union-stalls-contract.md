@@ -9,12 +9,12 @@ actors:
 - Christian Smalls
 - National Labor Relations Board
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
-- labor rights
-- corporate accountability
-- legal obstruction
+- labor-rights
+- corporate-accountability
+- legal-obstruction
 sources:
 - url: https://www.cnbc.com/2023/07/12/amazon-hit-with-labor-complaint-over-failing-to-bargain-with-union.html
   title: Amazon hit with labor complaint over failing to bargain with Staten Island union

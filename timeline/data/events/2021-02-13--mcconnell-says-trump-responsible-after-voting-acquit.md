@@ -4,11 +4,11 @@ date: '2021-02-13'
 title: McConnell Says Trump "Practically and Morally Responsible" Minutes After Voting to Acquit
 importance: 10
 tags:
-- mitch mcconnell
+- mitch-mcconnell
 - impeachment
-- republican party
-- constitutional crisis
-- senate trial
+- republican-party
+- constitutional-crisis
+- senate-trial
 actors:
 - Mitch McConnell
 - Donald Trump

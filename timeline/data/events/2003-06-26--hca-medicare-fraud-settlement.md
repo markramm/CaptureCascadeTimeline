@@ -11,7 +11,7 @@ tags:
 - healthcare
 - medicare-fraud
 - hospital
-- rick scott
+- rick-scott
 - regulatory-capture
 - corporate-crime
 sources:

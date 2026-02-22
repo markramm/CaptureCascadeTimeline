@@ -26,7 +26,7 @@ sources:
   tier: 3
   verified: true
 tags:
-- treaty-violations
+- treaty-violation
 - indigenous-genocide
 - military-expansion
 - gold-rush

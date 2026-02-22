@@ -13,7 +13,7 @@ tags:
 - systematic-transformation
 - russell-vought
 - executive-power-expansion
-- political-loyalty-tests
+- political-loyalty-test
 - schedule-f
 - heritage-foundation
 - project-2025

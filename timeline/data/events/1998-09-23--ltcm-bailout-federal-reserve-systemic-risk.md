@@ -12,7 +12,7 @@ actors:
 tags:
 - financial-crime
 - regulatory-capture
-- federal reserve
+- federal-reserve
 - bailout
 - systemic-risk
 - derivatives

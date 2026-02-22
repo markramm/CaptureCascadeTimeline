@@ -2,7 +2,7 @@
 date: '2025-07-01'
 title: USAID Completely Shuttered - Exceeds Project 2025 Timeline
 actors:
-- USAID
+- United States Agency for International Development
 - State Department
 - Marco Rubio
 - Project 2025 Implementation Team

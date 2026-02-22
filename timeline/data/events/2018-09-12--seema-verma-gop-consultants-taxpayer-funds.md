@@ -5,13 +5,13 @@ title: CMS Administrator Seema Verma Spent $5 Million in Taxpayer Funds on GOP C
 importance: 8
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- seema verma
+- cabinet-corruption
+- ethics-violation
+- seema-verma
 - cms
 - hhs
-- misuse of funds
-- inspector general
+- misuse-of-funds
+- inspector-general
 actors:
 - Seema Verma
 - Frank Pallone

@@ -12,7 +12,7 @@ tags:
 actors:
 - Palmer Heenan
 - Paul Osadebe
-- HUD
+- U.S. Department of Housing and Urban Development
 - Fair Housing Office
 sources:
 - title: Trump Housing Agency Removes Lawyers Who Filed Whistleblower Report

@@ -5,7 +5,7 @@ title: Washington Post Reveals CIA's Secret Prison Network in Eastern Europe
 importance: 9
 status: confirmed
 actors:
-- CIA
+- Central Intelligence Agency
 - Dana Priest
 - Washington Post
 - Poland

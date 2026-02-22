@@ -12,9 +12,9 @@ actors:
 tags:
 - privatization
 - immigration-detention
-- private-prisons
+- private-prison
 - mass-incarceration
-- government-contract
+- government-contracts
 - kleptocracy
 capture_lanes:
 - International Kleptocracy

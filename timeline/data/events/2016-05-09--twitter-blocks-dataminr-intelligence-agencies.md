@@ -12,7 +12,7 @@ tags:
 actors:
 - Twitter
 - Dataminr
-- CIA
+- Central Intelligence Agency
 - In-Q-Tel
 sources:
 - title: Twitter cuts off intelligence agencies from data feed

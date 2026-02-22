@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Pete Hegseth
 - Pentagon
-- NATO
+- North Atlantic Treaty Organization
 - Elbridge Colby
 - Mark Rutte
 tags:

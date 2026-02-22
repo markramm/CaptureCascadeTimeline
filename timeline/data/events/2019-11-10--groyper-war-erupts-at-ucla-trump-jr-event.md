@@ -8,9 +8,9 @@ actors:
 - Donald Trump Jr.
 - Charlie Kirk
 tags:
-- white nationalism
+- white-nationalism
 - extremism
-- conservative movement
+- conservative-movement
 sources:
 - title: Groypers
   url: https://en.wikipedia.org/wiki/Groypers

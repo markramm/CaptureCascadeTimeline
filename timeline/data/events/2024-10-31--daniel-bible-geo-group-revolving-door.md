@@ -11,7 +11,7 @@ actors:
 - Trump PACs
 tags:
 - revolving-door
-- private-prisons
+- private-prison
 - regulatory-capture
 - detention-profiteering
 - corruption

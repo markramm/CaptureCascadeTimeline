@@ -20,7 +20,7 @@ tags:
 - money-laundering
 - treasury
 - risk-assessment
-- financial-crimes
+- financial-crime
 - policy
 - digital-assets
 id: 2024-05-29--treasury-releases-first-nft-illicit-finance-risk-a

@@ -14,7 +14,7 @@ actors:
 tags:
 - foreign-election-interference
 - corruption
-- pardons
+- pardon
 - drug-trafficking
 - latin-america
 - campaign-consultants

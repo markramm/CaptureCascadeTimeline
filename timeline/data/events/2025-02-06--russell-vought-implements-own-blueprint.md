@@ -6,7 +6,7 @@ title: Russell Vought implements Project 2025 chapter as OMB Director
 location: Washington, DC
 actors:
 - Russell Vought
-- OMB
+- Office of Management and Budget
 - Trump Administration
 tags:
 - omb

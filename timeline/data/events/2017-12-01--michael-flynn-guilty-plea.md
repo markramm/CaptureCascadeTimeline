@@ -5,13 +5,13 @@ title: Michael Flynn Pleads Guilty to Lying to FBI About Russian Contacts
 status: confirmed
 importance: 9
 tags:
-- mueller investigation
-- obstruction of justice
-- russia contacts
-- guilty plea
+- mueller-investigation
+- obstruction-of-justice
+- russia-contacts
+- guilty-plea
 - flynn-kislyak
-- national security
-- trump administration
+- national-security
+- trump-administration
 actors:
 - Michael Flynn
 - Robert Mueller

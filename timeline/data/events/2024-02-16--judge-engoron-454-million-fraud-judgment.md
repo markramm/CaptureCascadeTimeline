@@ -4,12 +4,12 @@ date: '2024-02-16'
 title: Judge Engoron Issues $454 Million Fraud Judgment Against Trump, Bans NY Business Operations
 importance: 10
 tags:
-- financial fraud
-- ny attorney general
-- trump organization
-- civil fraud judgment
-- arthur engoron
-- business ban
+- financial-fraud
+- ny-attorney-general
+- trump-organization
+- civil-fraud-judgment
+- arthur-engoron
+- business-ban
 actors:
 - Arthur Engoron
 - Donald Trump

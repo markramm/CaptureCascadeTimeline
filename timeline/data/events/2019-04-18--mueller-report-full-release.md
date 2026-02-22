@@ -5,12 +5,12 @@ title: Mueller Report Released - 448 Pages Documenting Russian Interference and 
 importance: 10
 status: confirmed
 tags:
-- mueller investigation
-- obstruction of justice
-- russia interference
-- presidential accountability
+- mueller-investigation
+- obstruction-of-justice
+- russia-interference
+- presidential-accountability
 - impeachment
-- rule of law
+- rule-of-law
 actors:
 - Robert Mueller
 - Donald Trump

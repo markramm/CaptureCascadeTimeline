@@ -8,7 +8,7 @@ tags:
 - dhs
 - accountability
 - congress
-- kristi noem
+- kristi-noem
 - ice
 sources:
 - title: Rep. Kelly Announces Plans to Impeach Secretary Kristi Noem

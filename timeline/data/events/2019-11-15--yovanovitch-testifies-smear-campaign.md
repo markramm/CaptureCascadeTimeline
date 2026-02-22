@@ -5,11 +5,11 @@ title: Ambassador Yovanovitch Testifies on Giuliani Smear Campaign and Removal f
 importance: 9
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
-- state department
-- witness intimidation
-- smear campaign
+- state-department
+- witness-intimidation
+- smear-campaign
 actors:
 - Marie Yovanovitch
 - Rudy Giuliani

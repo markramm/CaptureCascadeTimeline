@@ -17,10 +17,10 @@ tags:
 - epstein-network
 - mossad-allegations
 - honey-trap
-- intelligence-operation
+- intelligence-operations
 - blackmail-infrastructure
 - disputed-claims
-- intelligence-networks
+- intelligence-network
 capture_lanes:
 - Intelligence Penetration
 sources:

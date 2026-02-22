@@ -4,12 +4,12 @@ date: '2022-08-18'
 title: Allen Weisselberg Pleads Guilty to 15 Felonies, Agrees to Testify Against Trump Organization
 importance: 8
 tags:
-- tax fraud
-- trump organization
-- allen weisselberg
-- guilty plea
-- manhattan da
-- criminal prosecution
+- tax-fraud
+- trump-organization
+- allen-weisselberg
+- guilty-plea
+- manhattan-da
+- criminal-prosecution
 actors:
 - Allen Weisselberg
 - Trump Organization

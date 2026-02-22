@@ -4,12 +4,12 @@ date: 2018-06-14
 title: New York AG Sues Trump Foundation for "Persistent Illegal Conduct" and Coordinating with Campaign
 importance: 9
 tags:
-- trump foundation
-- charity fraud
-- ny attorney general
+- trump-foundation
+- charity-fraud
+- ny-attorney-general
 - self-dealing
-- campaign finance
-- barbara underwood
+- campaign-finance
+- barbara-underwood
 actors:
 - Barbara Underwood
 - Donald Trump

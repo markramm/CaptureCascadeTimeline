@@ -5,13 +5,13 @@ title: Mueller Indicts 12 GRU Officers for Hacking DNC and Democratic Campaign I
 importance: 10
 status: confirmed
 tags:
-- mueller investigation
-- russia interference
-- cyber warfare
-- dnc hack
+- mueller-investigation
+- russia-interference
+- cyber-warfare
+- dnc-hack
 - gru
-- foreign interference
-- election 2016
+- foreign-interference
+- election-2016
 - wikileaks
 actors:
 - Robert Mueller

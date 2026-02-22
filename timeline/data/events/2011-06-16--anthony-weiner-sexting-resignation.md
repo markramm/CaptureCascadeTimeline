@@ -13,12 +13,12 @@ summary: 'U.S. Representative Anthony Weiner (D-NY) announced his resignation fr
   '
 importance: 7
 tags:
-- congressional corruption
-- sexual misconduct
-- democratic party
-- new york
+- congressional-corruption
+- sexual-misconduct
+- democratic-party
+- new-york
 - cover-up
-- political accountability
+- political-accountability
 actors:
 - Anthony Weiner
 - Huma Abedin

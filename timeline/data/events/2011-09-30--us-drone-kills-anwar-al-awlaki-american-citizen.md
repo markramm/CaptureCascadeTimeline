@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Anwar al-Awlaki
 - Barack Obama
-- CIA
+- Central Intelligence Agency
 - JSOC
 - John Brennan
 tags:

@@ -14,12 +14,12 @@ summary: 'Rep. Aaron Schock (R-IL), once considered one of the Republican Party'
 importance: 7
 status: confirmed
 tags:
-- congressional corruption
-- campaign finance violations
-- republican party
+- congressional-corruption
+- campaign-finance-violations
+- republican-party
 - illinois
-- wire fraud
-- elite impunity
+- wire-fraud
+- elite-impunity
 actors:
 - Aaron Schock
 sources:

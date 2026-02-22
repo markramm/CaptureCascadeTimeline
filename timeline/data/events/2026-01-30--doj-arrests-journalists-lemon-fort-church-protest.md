@@ -8,8 +8,8 @@ actors:
 - Don Lemon
 - Georgia Fort
 - Pam Bondi
-- FBI
-- DOJ
+- Federal Bureau of Investigation
+- U.S. Department of Justice
 tags:
 - press-freedom
 - first-amendment

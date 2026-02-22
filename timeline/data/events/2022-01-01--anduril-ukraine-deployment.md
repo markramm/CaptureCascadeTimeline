@@ -10,11 +10,11 @@ actors:
 - U.S. Department of Defense
 - Palmer Luckey
 tags:
-- ukraine war
-- autonomous weapons
-- military aid
-- ai weapons
-- defense contractors
+- ukraine-war
+- autonomous-weapons
+- military-aid
+- ai-weapons
+- defense-contractors
 sources:
 - title: Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence Since 2022
   url: https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html

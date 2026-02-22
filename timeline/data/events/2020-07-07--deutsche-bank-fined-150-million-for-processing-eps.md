@@ -14,7 +14,7 @@ tags:
 - money-laundering
 - banking-violations
 - regulatory-failure
-- financial-crimes
+- financial-crime
 - co-conspirator-payments
 - victim-payments
 status: confirmed

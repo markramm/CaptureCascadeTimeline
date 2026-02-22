@@ -9,7 +9,7 @@ actors:
 - Jacob Frey
 - Keith Ellison
 - Pam Bondi
-- DOJ
+- U.S. Department of Justice
 - Tom Homan
 tags:
 - doj-weaponization

@@ -4,7 +4,7 @@ date: '2019-10-25'
 title: Maria Butina Released from Federal Prison and Immediately Deported to Russia After 15 Months
 importance: 6
 tags:
-- deportations
+- deportation
 - russian-influence
 - foreign-agents
 - nra

@@ -6,13 +6,13 @@ title: Rep. Chris Collins Sentenced to 26 Months for Insider Trading From White 
 importance: 8
 status: confirmed
 tags:
-- congressional corruption
-- insider trading
-- republican party
-- new york
-- securities fraud
-- presidential pardons
-- political accountability
+- congressional-corruption
+- insider-trading
+- republican-party
+- new-york
+- securities-fraud
+- presidential-pardon
+- political-accountability
 capture_lanes:
 - Systematic Corruption
 actors:

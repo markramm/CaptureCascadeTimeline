@@ -21,7 +21,7 @@ tags:
 - surveillance
 - nsa
 - verizon
-- government-contract
+- government-contracts
 - surveillance-industrial-complex
 - bush-administration
 importance: 8
@@ -29,7 +29,7 @@ category: surveillance_economics
 verification_status: partially_verified
 actors:
 - Bush Administration
-- NSA
+- National Security Agency
 - Verizon Communications
 status: confirmed
 capture_lanes:

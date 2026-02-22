@@ -6,7 +6,7 @@ title: CIA Detainee Gul Rahman Froze to Death at Black Site - No One Prosecuted 
 importance: 8
 actors:
 - Gul Rahman
-- CIA
+- Central Intelligence Agency
 - Afghanistan
 tags:
 - torture

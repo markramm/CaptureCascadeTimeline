@@ -4,10 +4,10 @@ date: '2016-02-13'
 title: Justice Antonin Scalia Dies, McConnell Immediately Vows to Block Any Obama Nominee
 importance: 9
 tags:
-- supreme court
-- judicial appointments
+- supreme-court
+- judicial-appointments
 - obstruction
-- institutional corruption
+- institutional-corruption
 actors:
 - Antonin Scalia
 - Mitch McConnell

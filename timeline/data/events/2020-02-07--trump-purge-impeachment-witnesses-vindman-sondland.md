@@ -4,10 +4,10 @@ date: '2020-02-07'
 title: Trump Fires Impeachment Witnesses Vindman and Sondland in Coordinated Retaliation Purge
 importance: 9
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
 - impeachment
 - ukraine
 actors:

@@ -7,9 +7,9 @@ tags:
 - immigration
 - border-security
 - dhs
-- kristi noem
+- kristi-noem
 - texas
-- rio grande
+- rio-grande
 sources:
 - title: Noem announces 500 miles of border buoys during Rio Grande Valley visit
   url: https://www.texastribune.org/2026/01/07/noem-border-immigration-floating-buoys/

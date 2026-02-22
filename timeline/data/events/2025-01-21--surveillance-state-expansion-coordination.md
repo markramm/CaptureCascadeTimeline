@@ -5,8 +5,8 @@ title: 'Surveillance State Expansion: Constitutional Concerns and Section 702 Re
 importance: 9
 actors:
 - Intelligence Community
-- NSA
-- FBI
+- National Security Agency
+- Federal Bureau of Investigation
 - White House
 - Tech companies
 - U.S. Congress

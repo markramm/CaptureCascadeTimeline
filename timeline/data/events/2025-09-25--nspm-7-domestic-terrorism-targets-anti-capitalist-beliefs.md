@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Donald Trump
 - Pam Bondi
-- FBI
+- Federal Bureau of Investigation
 - JTTF
 - American Civil Liberties Union
 - Ro Khanna

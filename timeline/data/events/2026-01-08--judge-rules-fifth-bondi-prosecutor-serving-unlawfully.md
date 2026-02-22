@@ -7,11 +7,11 @@ actors:
 - Pam Bondi
 - John Sarcone III
 - Lorna Schofield
-- DOJ
+- U.S. Department of Justice
 tags:
 - doj
 - bondi
-- unlawful-appointments
+- unlawful-appointment
 - judicial-pushback
 - rule-of-law
 sources:

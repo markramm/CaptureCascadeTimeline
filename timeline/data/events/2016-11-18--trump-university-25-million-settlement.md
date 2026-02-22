@@ -5,10 +5,10 @@ title: Trump Settles Trump University Fraud Cases for $25 Million, 10 Days After
 importance: 9
 status: confirmed
 tags:
-- trump university
+- trump-university
 - fraud
 - settlement
-- consumer protection
+- consumer-protection
 - accountability
 actors:
 - Donald Trump

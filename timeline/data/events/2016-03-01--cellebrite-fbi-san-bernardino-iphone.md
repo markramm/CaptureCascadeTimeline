@@ -4,7 +4,7 @@ date: '2016-03-01'
 title: FBI Works with Cellebrite to Crack San Bernardino Shooter's iPhone After Apple Refuses
 importance: 9
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Cellebrite
 - Apple
 tags:

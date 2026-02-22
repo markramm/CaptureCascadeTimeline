@@ -13,7 +13,7 @@ tags:
 - immigration
 - nativism
 - white-nationalism
-- think-tank
+- think-tanks
 - institutional-capture
 - population-control
 sources:

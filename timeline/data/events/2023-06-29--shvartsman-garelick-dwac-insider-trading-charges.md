@@ -8,7 +8,7 @@ actors:
 - Bruce Garelick
 - Rocket One Capital
 - Southern District of New York
-- DOJ
+- U.S. Department of Justice
 sources:
 - title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals
   url: https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10

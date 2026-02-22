@@ -5,7 +5,7 @@ title: McKinsey Develops Corporate Restructuring Strategy for Asian Markets
 importance: 8
 actors:
 - McKinsey & Company
-- IMF
+- International Monetary Fund
 - World Bank
 - Asian Corporate Leaders
 sources:

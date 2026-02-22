@@ -6,9 +6,9 @@ importance: 9
 actors:
 - Russ Vought
 tags:
-- russ vought
-- christian nationalism
-- project 2025
+- russ-vought
+- christian-nationalism
+- project-2025
 - theocracy
 sources:
 - title: The Theocratic Blueprint for Trump's Next Term

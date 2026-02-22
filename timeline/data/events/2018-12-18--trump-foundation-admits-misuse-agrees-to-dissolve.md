@@ -4,11 +4,11 @@ date: 2018-12-18
 title: Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
 importance: 9
 tags:
-- trump foundation
-- charity fraud
-- ny attorney general
-- legal settlement
-- barbara underwood
+- trump-foundation
+- charity-fraud
+- ny-attorney-general
+- legal-settlement
+- barbara-underwood
 actors:
 - Donald Trump
 - Trump Foundation

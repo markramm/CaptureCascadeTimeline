@@ -13,7 +13,7 @@ actors:
 - Russell Vought
 - Donald Trump
 - Elon Musk
-- OMB
+- Office of Management and Budget
 sources:
 - url: https://www.propublica.org/article/russell-vought-budget-director-authoritarian-control
   title: Budget Director Russell Vought Consolidates Authoritarian Control Over Federal Government

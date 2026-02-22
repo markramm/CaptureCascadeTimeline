@@ -6,9 +6,9 @@ importance: 9
 tags:
 - racism
 - birtherism
-- donald trump
-- barack obama
-- conspiracy theory
+- donald-trump
+- barack-obama
+- conspiracy-theory
 actors:
 - Donald Trump
 - Barack Obama

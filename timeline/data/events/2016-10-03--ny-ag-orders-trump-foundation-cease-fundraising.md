@@ -4,10 +4,10 @@ date: 2016-10-03
 title: New York Attorney General Orders Trump Foundation to Immediately Cease Fundraising
 importance: 8
 tags:
-- trump foundation
-- charity fraud
-- ny attorney general
-- regulatory violations
+- trump-foundation
+- charity-fraud
+- ny-attorney-general
+- regulatory-violation
 actors:
 - Eric Schneiderman
 - Donald Trump

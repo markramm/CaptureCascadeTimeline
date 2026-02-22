@@ -15,7 +15,7 @@ actors:
 - Oracle
 - Intelligence Community
 - U.S. Department of Defense
-- CIA
+- Central Intelligence Agency
 sources:
 - title: Oracle's cloud network gains top secret approval with intelligence agencies
   url: https://www.nextgov.com/modernization/2023/08/oracles-cloud-network-gains-top-secret-approval-intelligence-agencies/389437/

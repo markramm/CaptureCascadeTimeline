@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Barack Obama
 - John Brennan
-- CIA
+- Central Intelligence Agency
 tags:
 - drones
 - obama

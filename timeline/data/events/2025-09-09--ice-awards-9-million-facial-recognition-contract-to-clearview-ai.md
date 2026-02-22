@@ -5,7 +5,7 @@ title: ICE Awards $9.2 Million Facial Recognition Contract to Clearview AI
 importance: 8
 tags:
 - surveillance-state
-- privacy-violations
+- privacy-violation
 - immigration-enforcement
 - authoritarian-infrastructure
 sources:

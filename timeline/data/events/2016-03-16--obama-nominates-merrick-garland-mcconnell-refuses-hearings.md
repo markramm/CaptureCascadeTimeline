@@ -5,10 +5,10 @@ title: Obama Nominates Merrick Garland to Supreme Court, McConnell and Senate Re
 status: confirmed
 importance: 9
 tags:
-- supreme court
-- judicial appointments
+- supreme-court
+- judicial-appointments
 - obstruction
-- institutional corruption
+- institutional-corruption
 actors:
 - Barack Obama
 - Merrick Garland

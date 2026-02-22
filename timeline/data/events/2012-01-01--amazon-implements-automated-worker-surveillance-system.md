@@ -7,9 +7,9 @@ actors:
 - Jeff Bezos
 - Amazon
 tags:
-- worker exploitation
+- worker-exploitation
 - surveillance
-- corporate accountability
+- corporate-accountability
 - technology
 - amazon
 sources:

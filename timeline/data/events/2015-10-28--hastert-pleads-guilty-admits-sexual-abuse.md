@@ -14,12 +14,12 @@ summary: 'Former House Speaker Dennis Hastert pleaded guilty in federal court to
 importance: 9
 status: confirmed
 tags:
-- congressional corruption
-- sexual abuse
+- congressional-corruption
+- sexual-abuse
 - cover-up
-- republican party
-- bank fraud
-- political accountability
+- republican-party
+- bank-fraud
+- political-accountability
 actors:
 - Dennis Hastert
 sources:

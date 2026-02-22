@@ -8,12 +8,11 @@ actors:
 - Donald Trump
 - Trump Organization
 tags:
-- russian-oligarchs
-- financial-crimes
+- russian-oligarch
+- financial-crime
 - epstein-network
 - money-laundering
 - real-estate
-- russian-oligarch
 status: confirmed
 sources:
 - title: That time a Russian billionaire paid Trump $95 million for a mansion

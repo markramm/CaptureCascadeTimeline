@@ -12,7 +12,7 @@ actors:
 - James Risen
 - John Kiriakou
 tags:
-- whistleblowers
+- whistleblower
 - espionage-act
 - press-freedom
 - surveillance

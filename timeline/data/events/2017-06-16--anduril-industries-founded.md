@@ -12,10 +12,10 @@ actors:
 - Founders Fund
 - Palantir Technologies
 tags:
-- defense contractors
-- silicon valley
-- autonomous weapons
-- military-industrial complex
+- defense-contractors
+- silicon-valley
+- autonomous-weapons
+- military-industrial-complex
 - surveillance
 sources:
 - title: Anduril Industries

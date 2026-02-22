@@ -6,9 +6,9 @@ importance: 9
 tags:
 - epstein
 - doj
-- abuse of power
-- political persecution
-- trump administration
+- abuse-of-power
+- political-persecution
+- trump-administration
 sources:
 - title: Trump says he's asking Justice Department to investigate Epstein's ties to slew of high-profile figures
   url: https://www.cnn.com/2025/11/14/politics/trump-epstein-doj-investigate-enemies

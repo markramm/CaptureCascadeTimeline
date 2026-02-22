@@ -5,13 +5,13 @@ title: Interior Secretary David Bernhardt Confirmed Despite Extensive Conflicts 
 importance: 8
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- david bernhardt
-- interior department
-- conflicts of interest
-- oil and gas industry
-- revolving door
+- cabinet-corruption
+- ethics-violation
+- david-bernhardt
+- interior-department
+- conflicts-of-interest
+- oil-and-gas-industry
+- revolving-door
 actors:
 - David Bernhardt
 - Donald Trump

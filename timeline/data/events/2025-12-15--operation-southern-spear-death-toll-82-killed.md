@@ -9,7 +9,7 @@ tags:
 - death-toll
 - caribbean
 - pacific-ocean
-- extrajudicial-killings
+- extrajudicial-killing
 sources:
 - title: Timeline of US strikes on boats that have killed 115
   url: https://www.cnn.com/2025/11/02/politics/timeline-us-strikes-caribbean-pacific-vis

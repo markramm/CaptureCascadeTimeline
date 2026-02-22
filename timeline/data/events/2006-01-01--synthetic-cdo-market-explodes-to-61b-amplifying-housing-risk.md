@@ -12,7 +12,7 @@ actors:
 - Investment banks
 - Rating agencies
 tags:
-- synthetic-cdos
+- synthetic-cdo
 - derivatives
 - mortgage-backed-securities
 - wall-street

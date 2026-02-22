@@ -5,13 +5,13 @@ title: Roger Stone Convicted on All Counts - Obstruction, Witness Tampering, and
 importance: 8
 status: confirmed
 tags:
-- mueller investigation
+- mueller-investigation
 - wikileaks
-- obstruction of justice
-- witness tampering
-- congressional lies
-- trump pardons
-- russia interference
+- obstruction-of-justice
+- witness-tampering
+- congressional-lies
+- trump-pardons
+- russia-interference
 actors:
 - Roger Stone
 - Donald Trump

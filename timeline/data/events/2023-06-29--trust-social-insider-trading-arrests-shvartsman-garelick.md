@@ -3,7 +3,7 @@ actors:
 - Michael Shvartsman
 - Gerald Shvartsman
 - Bruce Garelick
-- FBI
+- Federal Bureau of Investigation
 - HSI
 - Rocket One Capital
 - Digital World Acquisition Corp
@@ -18,18 +18,15 @@ importance: 9
 sources:
 - date: '2023-06-29'
   outlet: U.S. Department of Justice
-  title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against
-    10 Individuals
+  title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals
   url: https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10
 - date: '2024-04-15'
   outlet: ABC7 Los Angeles
-  title: 'Trump insider trading: Michael Shvartsman and brother Gerald Shvartsman
-    plead guilty to insider trading linked to Trump Social'
+  title: 'Trump insider trading: Michael Shvartsman and brother Gerald Shvartsman plead guilty to insider trading linked to Trump Social'
   url: https://abc7.com/trump-insider-trading-michael-shvartsman-and-brother-gerald-plead-guilty-to-trading-linked-social/14611272/
 - date: '2023-06-29'
   outlet: ABC News
-  title: 3 men who funded Trump-acquired social media company charged with insider
-    trading
+  title: 3 men who funded Trump-acquired social media company charged with insider trading
   url: https://abcnews.go.com/Politics/3-men-funded-trump-social-media-company-charged/story?id=100486153
 status: confirmed
 tags:

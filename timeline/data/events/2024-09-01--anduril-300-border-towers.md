@@ -10,11 +10,11 @@ actors:
 - U.S. Department of Homeland Security
 - Palmer Luckey
 tags:
-- border militarization
+- border-militarization
 - surveillance
-- ai surveillance
-- immigration enforcement
-- autonomous weapons
+- ai-surveillance
+- immigration-enforcement
+- autonomous-weapons
 sources:
 - title: Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security
   url: https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/

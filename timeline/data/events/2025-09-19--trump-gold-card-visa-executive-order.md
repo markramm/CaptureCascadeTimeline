@@ -9,7 +9,7 @@ actors:
 - U.S. Department of Commerce
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - immigration
 - corruption
 sources:

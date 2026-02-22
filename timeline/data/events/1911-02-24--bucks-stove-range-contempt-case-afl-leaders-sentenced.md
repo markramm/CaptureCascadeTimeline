@@ -15,7 +15,7 @@ tags:
 - judicial-capture
 - progressive-era
 - antitrust
-- injunctions
+- injunction
 sources:
 - title: Buck's Stove and Range Co. v. AFL
   url: https://en.wikipedia.org/wiki/Buck%27s_Stove_and_Range_Co._v._American_Federation_of_Labor

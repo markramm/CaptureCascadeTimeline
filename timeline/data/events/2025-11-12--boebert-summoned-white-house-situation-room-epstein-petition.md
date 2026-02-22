@@ -5,10 +5,10 @@ title: Rep. Lauren Boebert Summoned to White House Situation Room Over Epstein F
 importance: 9
 tags:
 - epstein
-- white house
-- trump administration
+- white-house
+- trump-administration
 - intimidation
-- abuse of power
+- abuse-of-power
 - congress
 - discharge-petition
 actors:

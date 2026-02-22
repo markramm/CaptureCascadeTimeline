@@ -5,11 +5,11 @@ title: Office of Special Counsel Report Documents Hatch Act Violations by 13 Sen
 importance: 9
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- republican national convention
-- trump administration
-- rule of law
+- hatch-act
+- ethics-violation
+- republican-national-convention
+- trump-administration
+- rule-of-law
 - accountability
 actors:
 - Mike Pompeo

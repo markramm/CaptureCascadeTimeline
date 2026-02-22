@@ -9,7 +9,7 @@ tags:
 - grassroots-mobilization
 - new-right
 - conservative-movement
-- donor-networks
+- donor-network
 actors:
 - Richard Viguerie
 - Paul Weyrich

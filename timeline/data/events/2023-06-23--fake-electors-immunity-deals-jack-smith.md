@@ -6,7 +6,7 @@ importance: 8
 tags:
 - fake-electors
 - jack-smith
-- immunity-deals
+- immunity-deal
 - january-6
 - election-fraud
 - witness-testimony

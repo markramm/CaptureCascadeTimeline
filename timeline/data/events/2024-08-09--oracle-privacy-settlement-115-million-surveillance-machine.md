@@ -9,7 +9,7 @@ tags:
 - privacy
 - data-brokers
 - oracle
-- settlements
+- settlement
 - corporate-accountability
 actors:
 - Oracle

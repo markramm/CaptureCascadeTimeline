@@ -6,7 +6,7 @@ importance: 10
 actors:
 - Dianne Feinstein
 - Senate Select Committee on Intelligence
-- CIA
+- Central Intelligence Agency
 - John Brennan
 - Barack Obama
 tags:

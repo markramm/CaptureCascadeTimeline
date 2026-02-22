@@ -12,25 +12,22 @@ tags:
 - state-aircraft
 actors:
 - Kristi Noem
-- NRA
+- National Rifle Association
 - Republican Jewish Coalition
 sources:
 - title: Ethics board says South Dakota Gov. Kristi Noem may have engaged in misconduct
   url: https://www.pbs.org/newshour/politics/ethics-board-says-south-dakota-gov-kristi-noem-may-have-engaged-in-misconduct
   outlet: PBS NewsHour
   date: '2022-08-22'
-- title: South Dakota Governor Kristi Noem may have engaged in misconduct, ethics
-    board says
+- title: South Dakota Governor Kristi Noem may have engaged in misconduct, ethics board says
   url: https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/
   outlet: CBS News
   date: '2022-08-22'
-- title: GOP governor Kristi Noem used state aircraft for tens of thousands of dollars
-    in political travel
+- title: GOP governor Kristi Noem used state aircraft for tens of thousands of dollars in political travel
   url: https://www.alternet.org/2021/02/kristi-noem-2650540846
   outlet: Alternet.org
   date: '2021-02-01'
-- title: 'Exclusive: GOP governor Kristi Noem, potential Trump successor, used state
-    aircraft for tens of thousands of dollars in political travel'
+- title: 'Exclusive: GOP governor Kristi Noem, potential Trump successor, used state aircraft for tens of thousands of dollars in political travel'
   url: https://www.rawstory.com/kristi-noem-2650536372/
   outlet: Raw Story
   date: '2021-02-01'

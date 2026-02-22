@@ -7,7 +7,7 @@ importance: 6
 actors:
 - Russell Vought
 - Office of Management and Budget
-- USAID
+- United States Agency for International Development
 - U.S. Marshals Service
 tags:
 - doge

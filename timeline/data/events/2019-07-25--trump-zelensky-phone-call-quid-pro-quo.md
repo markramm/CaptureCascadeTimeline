@@ -5,12 +5,12 @@ title: Trump Pressures Zelensky in Phone Call - "I Would Like You to Do Us a Fav
 importance: 10
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
-- quid pro quo
-- foreign interference
-- election interference
-- abuse of power
+- quid-pro-quo
+- foreign-interference
+- election-interference
+- abuse-of-power
 actors:
 - Donald Trump
 - Volodymyr Zelenskyy

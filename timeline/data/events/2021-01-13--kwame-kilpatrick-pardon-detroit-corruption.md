@@ -9,7 +9,7 @@ actors:
 - Bobby Ferguson
 - Alveda King
 tags:
-- pardons
+- pardon
 - corruption
 - public-corruption
 - abuse-of-power

@@ -11,13 +11,13 @@ actors:
 - Wes Bush
 - Donald Trump
 tags:
-- revolving door
-- military-industrial complex
-- defense contractors
+- revolving-door
+- military-industrial-complex
+- defense-contractors
 - corruption
-- pentagon contracts
-- b-21 bomber
-- conflicts of interest
+- pentagon-contracts
+- b-21-bomber
+- conflicts-of-interest
 sources:
 - url: https://news.northropgrumman.com/news/releases/northrop-grumman-elects-mark-a-welsh-iii-to-its-board-of-directors
   title: Northrop Grumman Elects Mark A. Welsh III to its Board of Directors

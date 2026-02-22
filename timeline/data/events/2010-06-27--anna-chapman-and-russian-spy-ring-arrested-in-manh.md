@@ -1,7 +1,7 @@
 ---
 actors:
 - Anna Chapman
-- FBI
+- Federal Bureau of Investigation
 - Russian Intelligence
 capture_lanes:
 - Intelligence Penetration

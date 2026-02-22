@@ -4,11 +4,11 @@ date: 2019-11-07
 title: Judge Orders Trump to Pay $2 Million for Misusing Trump Foundation Charity Funds
 importance: 9
 tags:
-- trump foundation
-- charity fraud
-- court judgment
-- ny attorney general
-- saliann scarpulla
+- trump-foundation
+- charity-fraud
+- court-judgment
+- ny-attorney-general
+- saliann-scarpulla
 - accountability
 actors:
 - Saliann Scarpulla

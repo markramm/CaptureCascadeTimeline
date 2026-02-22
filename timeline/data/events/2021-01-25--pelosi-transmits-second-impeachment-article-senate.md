@@ -4,11 +4,11 @@ date: '2021-01-25'
 title: Pelosi Transmits Impeachment Article to Senate After Biden Inauguration
 importance: 9
 tags:
-- trump presidency
+- trump-presidency
 - impeachment
-- january 6 attack
-- senate trial
-- constitutional law
+- january-6-attack
+- senate-trial
+- constitutional-law
 actors:
 - Nancy Pelosi
 - Jamie Raskin

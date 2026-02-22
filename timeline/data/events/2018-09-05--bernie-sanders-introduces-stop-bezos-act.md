@@ -9,11 +9,11 @@ actors:
 - Amazon
 - Ro Khanna
 tags:
-- worker exploitation
-- corporate accountability
+- worker-exploitation
+- corporate-accountability
 - amazon
-- political response
-- labor rights
+- political-response
+- labor-rights
 sources:
 - url: https://khanna.house.gov/media/in-the-news/bernie-sanders-introduces-stop-bezos-act-senate
   title: Bernie Sanders introduces 'Stop BEZOS Act' in Senate

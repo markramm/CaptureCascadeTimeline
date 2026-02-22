@@ -5,7 +5,7 @@ title: DOJ-Cited Report on Soros Shows No Evidence of Terrorism Funding
 importance: 8
 actors:
 - George Soros
-- DOJ
+- U.S. Department of Justice
 - Conservative Report Authors
 sources:
 - title: Report on Soros Cited by DOJ Shows No Terrorism Funding Evidence

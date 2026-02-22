@@ -10,10 +10,10 @@ actors:
 tags:
 - uscis
 - immigration
-- collective punishment
-- afghan refugees
-- due process
-- state department
+- collective-punishment
+- afghan-refugees
+- due-process
+- state-department
 sources:
 - title: USCIS Implements Additional National Security Measures in the Wake of National Guard Shooting by Afghan National
   url: https://www.uscis.gov/newsroom/news-releases/uscis-implements-additional-national-security-measures-in-the-wake-of-national-guard-shooting-by

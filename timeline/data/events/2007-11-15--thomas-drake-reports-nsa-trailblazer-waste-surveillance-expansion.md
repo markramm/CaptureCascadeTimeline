@@ -4,7 +4,7 @@ date: '2007-11-15'
 title: Thomas Drake Reports NSA Trailblazer Program Waste and Constitutional Violations
 actors:
 - Thomas Drake
-- NSA
+- National Security Agency
 - DOD Inspector General
 - Trailblazer Program
 - SAIC

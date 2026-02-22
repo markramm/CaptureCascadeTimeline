@@ -8,7 +8,7 @@ tags:
 - electoral-manipulation
 - republican-party
 - redmap
-- state-legislatures
+- state-legislature
 actors:
 - Republican State Leadership Committee
 - Republican Party

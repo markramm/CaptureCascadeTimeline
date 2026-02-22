@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Jeffrey Sterling
 - James Risen
-- CIA
+- Central Intelligence Agency
 - Obama Administration
 - Department of Justice
 tags:

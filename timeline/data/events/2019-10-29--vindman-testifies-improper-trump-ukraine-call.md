@@ -5,12 +5,12 @@ title: Lt. Col. Vindman Testifies - "It Was Improper for the President to Demand
 importance: 9
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
 - nsc
 - military
 - whistleblower
-- congressional testimony
+- congressional-testimony
 actors:
 - Alexander Vindman
 - Donald Trump

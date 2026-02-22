@@ -8,10 +8,10 @@ actors:
 - Mark Meadows
 - Matthew Whitaker
 tags:
-- stephen miller
-- america first legal
-- white nationalism
-- dark money
+- stephen-miller
+- america-first-legal
+- white-nationalism
+- dark-money
 sources:
 - title: America First Legal
   url: https://en.wikipedia.org/wiki/America_First_Legal

@@ -13,7 +13,7 @@ tags:
 - institutional-capture
 - religious-right
 - anti-lgbtq-legislation
-- ballot-initiatives
+- ballot-initiative
 - grassroots-resistance
 sources:
 - title: Oregon Ballot Measure 9, Government to Discourage Homosexuality Initiative (1992)

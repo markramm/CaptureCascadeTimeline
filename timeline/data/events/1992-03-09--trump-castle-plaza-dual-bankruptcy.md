@@ -5,10 +5,10 @@ title: Trump Castle and Trump Plaza File Simultaneous Bankruptcies
 importance: 6
 tags:
 - bankruptcy
-- business failure
-- atlantic city
-- casinos
-- financial history
+- business-failure
+- atlantic-city
+- casino
+- financial-history
 - debt
 sources:
 - url: https://www.upi.com/Archives/1992/03/09/Trumps-Castle-and-Plaza-file-for-bankruptcy/3105700117200/

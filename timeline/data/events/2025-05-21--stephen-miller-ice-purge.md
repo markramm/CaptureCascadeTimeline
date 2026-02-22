@@ -12,7 +12,7 @@ actors:
 - Robert Hammer
 - Immigration and Customs Enforcement (ICE)
 tags:
-- purges
+- purge
 - loyalty-tests
 - impossible-quotas
 - authoritarianism

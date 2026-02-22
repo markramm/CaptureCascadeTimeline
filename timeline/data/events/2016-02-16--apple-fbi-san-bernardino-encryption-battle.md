@@ -14,7 +14,7 @@ tags:
 actors:
 - Apple
 - Tim Cook
-- FBI
+- Federal Bureau of Investigation
 - James Comey
 - Department of Justice
 sources:

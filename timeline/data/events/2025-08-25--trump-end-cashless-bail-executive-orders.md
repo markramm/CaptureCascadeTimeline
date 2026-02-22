@@ -11,7 +11,7 @@ actors:
 - Pam Bondi
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - abuse-of-power
 - criminal-justice
 sources:

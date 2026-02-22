@@ -15,7 +15,7 @@ tags:
 - russian-funding
 - foreign-influence
 - tenet-media
-- covert-operation
+- covert-operations
 - influencer-payments
 - information-warfare
 capture_lanes:

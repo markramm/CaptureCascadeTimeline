@@ -1,9 +1,9 @@
 ---
 actors:
 - Government Accountability Office (GAO)
-- DOT
+- Department of Transportation
 - FHWA
-- OMB
+- Office of Management and Budget
 - Biden Administration
 capture_lanes:
 - Systematic Corruption

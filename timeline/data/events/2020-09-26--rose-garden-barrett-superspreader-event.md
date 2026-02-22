@@ -5,10 +5,10 @@ title: Rose Garden Amy Coney Barrett Ceremony Becomes White House COVID Superspr
 importance: 8
 tags:
 - covid-19
-- public health
-- superspreader event
-- supreme court
-- accountability crisis
+- public-health
+- superspreader-event
+- supreme-court
+- accountability-crisis
 actors:
 - Donald Trump
 - Amy Coney Barrett

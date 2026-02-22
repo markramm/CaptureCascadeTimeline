@@ -4,7 +4,7 @@ date: '2005-12-15'
 title: NSA Whistleblower Russell Tice Reports Illegal Domestic Surveillance
 actors:
 - Russell Tice
-- NSA
+- National Security Agency
 - Senate Intelligence Committee
 - James Risen
 - New York Times

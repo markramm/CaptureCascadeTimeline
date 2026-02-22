@@ -26,7 +26,7 @@ sources:
 status: confirmed
 type: political
 actors:
-- NATO
+- North Atlantic Treaty Organization
 - Mette Frederiksen
 - Emmanuel Macron
 - Olaf Scholz

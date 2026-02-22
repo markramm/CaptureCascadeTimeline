@@ -6,7 +6,7 @@ status: confirmed
 actors:
 - Securities and Exchange Commission
 - Cantor Fitzgerald
-- Howard Lutnick (CEO)
+- Howard Lutnick
 - View, Inc.
 - Satellogic
 sources:

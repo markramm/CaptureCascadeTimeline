@@ -4,12 +4,12 @@ date: '2020-04-06'
 title: HHS Inspector General Christi Grimm Reports Severe Hospital Shortages, Trump Attacks Her Credibility
 importance: 8
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
 - covid-19
-- public health
+- public-health
 actors:
 - Christi Grimm
 - Donald Trump

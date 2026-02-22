@@ -5,11 +5,11 @@ title: Trump Nominates Amy Coney Barrett to Supreme Court, Religious Conservativ
 importance: 9
 status: confirmed
 tags:
-- supreme court
-- judicial appointments
-- abortion rights
-- religious right
-- institutional corruption
+- supreme-court
+- judicial-appointments
+- abortion-rights
+- religious-right
+- institutional-corruption
 actors:
 - Donald Trump
 - Amy Coney Barrett

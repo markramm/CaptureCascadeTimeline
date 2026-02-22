@@ -5,7 +5,7 @@ title: Anonymous LLCs Enable $300B+ Annual Russian Money Flow into US Real Estat
 importance: 9
 tags:
 - money-laundering
-- russian-oligarchs
+- russian-oligarch
 - real-estate
 - shell-companies
 - fincen

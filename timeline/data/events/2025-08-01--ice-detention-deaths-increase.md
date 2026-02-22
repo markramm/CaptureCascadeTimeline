@@ -13,7 +13,7 @@ tags:
 - detention-deaths
 - medical-neglect
 - overcrowding
-- private-prisons
+- private-prison
 - human-rights-violations
 capture_lanes:
 - Military-Industrial Complex

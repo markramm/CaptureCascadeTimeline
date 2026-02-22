@@ -8,7 +8,7 @@ actors:
 - Gina Haspel
 - Donald Trump
 - Mike Pompeo
-- CIA
+- Central Intelligence Agency
 - John Kiriakou
 tags:
 - torture

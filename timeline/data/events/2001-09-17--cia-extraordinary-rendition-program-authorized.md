@@ -5,7 +5,7 @@ title: CIA Authorized to Conduct Extraordinary Rendition - Kidnapping Suspects f
 importance: 9
 status: confirmed
 actors:
-- CIA
+- Central Intelligence Agency
 - George W. Bush
 - George Tenet
 - Cofer Black

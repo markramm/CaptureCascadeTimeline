@@ -5,7 +5,7 @@ title: Jeffrey Epstein Arrested on Federal Sex Trafficking Charges
 actors:
 - Jeffrey Epstein
 - Geoffrey Berman
-- FBI
+- Federal Bureau of Investigation
 - NYPD
 - Southern District of New York
 tags:

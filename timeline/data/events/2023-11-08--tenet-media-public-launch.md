@@ -8,7 +8,7 @@ tags:
 - russian-funding
 - podcasts
 - conservative-media
-- covert-operation
+- covert-operations
 - tim-pool
 - dave-rubin
 - benny-johnson

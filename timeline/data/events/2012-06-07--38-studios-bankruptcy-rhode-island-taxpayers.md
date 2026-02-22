@@ -10,7 +10,7 @@ actors:
 - Rhode Island Economic Development Corporation
 - Lincoln Chafee
 - Wells Fargo
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 tags:
 - corporate-welfare
 - economic-development

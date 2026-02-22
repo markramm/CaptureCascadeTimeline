@@ -10,7 +10,7 @@ key_actors:
 - Department of Justice
 - Attorney General Eric Holder
 tags:
-- super-pacs
+- super-pac
 - campaign-finance
 - regulatory-capture
 - unlimited-contributions

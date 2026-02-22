@@ -5,12 +5,12 @@ title: George Papadopoulos Becomes First Trump Campaign Official to Plead Guilty
 status: confirmed
 importance: 8
 tags:
-- mueller investigation
-- russia contacts
-- guilty plea
-- campaign officials
-- trump pardons
-- foreign interference
+- mueller-investigation
+- russia-contacts
+- guilty-plea
+- campaign-officials
+- trump-pardons
+- foreign-interference
 actors:
 - George Papadopoulos
 - Joseph Mifsud

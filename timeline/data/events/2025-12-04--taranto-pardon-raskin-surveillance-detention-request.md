@@ -13,7 +13,7 @@ actors:
 - Barack Obama
 tags:
 - january-6
-- pardons
+- pardon
 - witness-intimidation
 - stalking
 - law-enforcement

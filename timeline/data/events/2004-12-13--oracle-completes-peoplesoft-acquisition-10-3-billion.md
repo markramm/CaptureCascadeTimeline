@@ -9,7 +9,7 @@ tags:
 - corporate-consolidation
 - anti-competitive
 - antitrust
-- mergers
+- merger
 actors:
 - Oracle
 - Larry Ellison

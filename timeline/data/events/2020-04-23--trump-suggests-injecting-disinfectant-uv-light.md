@@ -5,9 +5,9 @@ title: Trump Suggests Injecting Disinfectant and UV Light Inside Body as COVID T
 importance: 8
 tags:
 - covid-19
-- public health
+- public-health
 - disinformation
-- accountability crisis
+- accountability-crisis
 actors:
 - Donald Trump
 - William Bryan

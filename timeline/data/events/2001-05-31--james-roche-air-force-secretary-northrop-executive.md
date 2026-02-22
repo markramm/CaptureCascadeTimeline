@@ -11,12 +11,12 @@ actors:
 - U.S. Department of Defense
 - George W. Bush
 tags:
-- revolving door
-- military-industrial complex
-- defense contractors
+- revolving-door
+- military-industrial-complex
+- defense-contractors
 - corruption
-- conflicts of interest
-- pentagon leadership
+- conflicts-of-interest
+- pentagon-leadership
 sources:
 - url: https://www.corpwatch.org/article/usa-inside-lockheeds-250-billion-pentagon-connection
   title: 'USA: Inside Lockheed''s $250 Billion Pentagon Connection'

@@ -13,12 +13,12 @@ summary: 'MF Global Holdings filed for Chapter 11 bankruptcy protection, becomin
   '
 importance: 9
 tags:
-- financial corruption
-- wall street
-- regulatory capture
-- democratic party
-- customer fraud
-- elite impunity
+- financial-corruption
+- wall-street
+- regulatory-capture
+- democratic-party
+- customer-fraud
+- elite-impunity
 actors:
 - Jon Corzine
 status: confirmed

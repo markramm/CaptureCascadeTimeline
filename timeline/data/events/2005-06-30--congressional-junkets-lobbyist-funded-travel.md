@@ -7,7 +7,7 @@ status: confirmed
 tags:
 - congressional-corruption
 - lobbying
-- ethics-violations
+- ethics-violation
 - jack-abramoff
 sources:
 - url: https://publicintegrity.org/politics/flouting-the-rule-on-lobbyist-paid-travel/

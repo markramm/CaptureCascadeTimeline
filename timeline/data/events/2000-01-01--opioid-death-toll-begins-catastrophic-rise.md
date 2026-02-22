@@ -7,7 +7,7 @@ actors:
 - Purdue Pharma
 - Sackler Family
 - Food and Drug Administration
-- DEA
+- Drug Enforcement Administration
 - Pharmaceutical Industry
 tags:
 - opioid-crisis

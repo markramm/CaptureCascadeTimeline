@@ -13,7 +13,7 @@ tags:
 - abuse-of-power
 - government-resources-misuse
 - institutional-capture
-- kash patel
+- kash-patel
 sources:
 - title: Kash Patel's girlfriend being protected by FBI SWAT agents as security perk
   url: https://www.ms.now/news/kash-patel-girlfriend-fbi-detail-alexis-wilkins-rcna243999

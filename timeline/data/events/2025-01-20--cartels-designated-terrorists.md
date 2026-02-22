@@ -13,12 +13,12 @@ actors:
 - Director of National Intelligence
 - Claudia Sheinbaum (Mexican President)
 tags:
-- cartels
+- cartel
 - terrorism-designation
 - executive-order
 - project-2025
 - border-security
-- foreign-terrorist-organizations
+- foreign-terrorist-organization
 - alien-enemies-act
 - material-support
 - mexico-relations

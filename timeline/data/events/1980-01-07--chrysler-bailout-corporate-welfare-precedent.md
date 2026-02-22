@@ -10,7 +10,7 @@ tags:
 - corporate-welfare
 - economic-policy
 - auto-industry
-- bailouts
+- bailout
 sources:
 - title: U.S. Government Bails Out Chrysler Corporation
   url: https://www.ebsco.com/research-starters/history/us-government-bails-out-chrysler-corporation

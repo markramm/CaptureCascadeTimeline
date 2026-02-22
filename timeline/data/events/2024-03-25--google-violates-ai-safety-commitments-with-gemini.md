@@ -11,10 +11,10 @@ actors:
 - UK AI Safety Institute
 tags:
 - ai-safety
-- regulatory-violations
+- regulatory-violation
 - tech-accountability
 - ai-governance
-- transparency-failures
+- transparency-failure
 - frontier-ai-safety
 sources:
 - outlet: TIME

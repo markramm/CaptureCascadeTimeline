@@ -7,8 +7,8 @@ actors:
 - Nick Fuentes
 - Michelle Malkin
 tags:
-- white nationalism
-- conservative movement
+- white-nationalism
+- conservative-movement
 - extremism
 sources:
 - title: America First Political Action Conference

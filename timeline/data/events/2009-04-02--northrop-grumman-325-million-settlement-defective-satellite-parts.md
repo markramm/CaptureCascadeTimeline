@@ -12,14 +12,14 @@ actors:
 - Robert Ferro
 - The Aerospace Corporation
 tags:
-- defense contractors
+- defense-contractors
 - fraud
-- false claims act
-- whistleblowers
-- intelligence agencies
-- surveillance state
-- military-industrial complex
-- contractor abuse
+- false-claims-act
+- whistleblower
+- intelligence-agencies
+- surveillance-state
+- military-industrial-complex
+- contractor-abuse
 sources:
 - url: https://www.justice.gov/archives/opa/pr/northrop-grumman-corp-settles-false-claims-act-case-defective-satellite-parts
   title: Northrop Grumman Corp. Settles False Claims Act Case for Defective Satellite Parts

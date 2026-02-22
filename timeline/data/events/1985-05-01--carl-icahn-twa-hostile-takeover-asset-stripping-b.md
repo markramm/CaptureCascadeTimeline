@@ -19,7 +19,7 @@ importance: 9
 tags:
 - corporate-raiding
 - asset-stripping
-- leveraged-buyouts
+- leveraged-buyout
 - corporate-destruction
 - 1980s-financial-history
 status: confirmed

@@ -10,7 +10,7 @@ actors:
 tags:
 - media-control
 - oligarchs
-- arrests
+- arrest
 - press-freedom
 - russia-putin
 - media-suppression

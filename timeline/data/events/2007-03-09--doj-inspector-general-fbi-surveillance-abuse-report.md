@@ -4,7 +4,7 @@ date: '2007-03-09'
 title: DOJ Inspector General Documents Systematic FBI Surveillance Abuse
 actors:
 - Glenn Fine
-- FBI
+- Federal Bureau of Investigation
 - Department of Justice
 - U.S. Congress
 - National Security Division

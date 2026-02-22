@@ -7,12 +7,12 @@ actors:
 - Jeffrey Epstein
 - Alan Dershowitz
 - Kenneth Starr
-- FBI
+- Federal Bureau of Investigation
 tags:
 - prosecutorial-misconduct
 - institutional-capture
 - victim-rights-violations
-- plea-deals
+- plea-deal
 - corruption
 sources:
 - url: https://www.miamiherald.com/news/local/article214210674.html

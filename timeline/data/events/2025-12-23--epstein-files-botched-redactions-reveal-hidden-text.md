@@ -8,7 +8,7 @@ tags:
 - redaction-failure
 - document-release
 - doj-incompetence
-- financial-crimes
+- financial-crime
 - cover-up
 sources:
 - title: How internet sleuths are un-redacting some of the Epstein files

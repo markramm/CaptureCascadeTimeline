@@ -10,7 +10,7 @@ actors:
 - Almon Glenn Braswell
 - Carlos Vignali
 tags:
-- presidential-pardons
+- presidential-pardon
 - corruption
 - influence-peddling
 - accountability

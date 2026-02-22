@@ -11,7 +11,7 @@ actors:
 tags:
 - anti-communism
 - new-deal
-- congressional-investigations
+- congressional-investigation
 - political-weaponization
 - red-scare
 sources:

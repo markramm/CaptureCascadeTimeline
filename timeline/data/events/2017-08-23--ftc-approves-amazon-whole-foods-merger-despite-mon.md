@@ -17,7 +17,7 @@ tags:
 - antitrust
 - amazon
 - ftc
-- acquisitions
+- acquisition
 sources:
 - outlet: Bloomberg
   title: Amazon's Whole Foods Deal Wins Swift U.S. Antitrust Approval

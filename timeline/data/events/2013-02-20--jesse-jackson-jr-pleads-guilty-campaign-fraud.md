@@ -14,12 +14,12 @@ summary: 'Former U.S. Representative Jesse Jackson Jr. (D-IL) pleaded guilty in 
 importance: 8
 status: confirmed
 tags:
-- congressional corruption
-- campaign finance violations
-- democratic party
+- congressional-corruption
+- campaign-finance-violations
+- democratic-party
 - illinois
-- wire fraud
-- political accountability
+- wire-fraud
+- political-accountability
 actors:
 - Jesse Jackson Jr.
 - Sandra Stevens Jackson

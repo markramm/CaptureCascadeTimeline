@@ -5,7 +5,7 @@ title: Republican Political Committees Spend Over $931,000 at Trump Properties S
 importance: 8
 tags:
 - corruption
-- emoluments-violations
+- emoluments-violation
 - self-dealing
 - conflicts-of-interest
 sources:

@@ -5,7 +5,7 @@ title: John Kiriakou Pleads Guilty - Only Person Jailed Over CIA Torture Program
 importance: 9
 actors:
 - John Kiriakou
-- CIA
+- Central Intelligence Agency
 - Obama Administration
 - Department of Justice
 tags:

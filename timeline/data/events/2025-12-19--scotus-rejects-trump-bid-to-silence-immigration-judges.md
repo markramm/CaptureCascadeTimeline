@@ -14,16 +14,16 @@ actors:
 - D. John Sauer
 - Stephen Vladeck
 tags:
-- supreme court
+- supreme-court
 - immigration-judges
-- first amendment
-- free speech
-- shadow docket
-- judicial independence
-- trump administration
-- civil service protections
-- merit systems protection board
-- special counsel
+- first-amendment
+- free-speech
+- shadow-docket
+- judicial-independence
+- trump-administration
+- civil-service-protections
+- merit-systems-protection-board
+- special-counsel
 capture_lanes:
 - Judicial Capture
 - Executive Power Expansion

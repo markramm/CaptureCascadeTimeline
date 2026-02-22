@@ -6,7 +6,7 @@ title: Trump Campaign Organizes Fake Electors in Seven States
 actors:
 - Donald Trump
 - Trump Campaign
-- RNC
+- Republican National Committee
 - Kenneth Chesebro
 - Sidney Powell
 - Rudy Giuliani

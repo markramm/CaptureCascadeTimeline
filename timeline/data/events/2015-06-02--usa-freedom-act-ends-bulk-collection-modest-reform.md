@@ -15,7 +15,7 @@ actors:
 - Mitch McConnell
 - Ron Wyden
 - Rand Paul
-- NSA
+- National Security Agency
 sources:
 - url: https://www.npr.org/2015/06/02/411533512/senate-advances-usa-freedom-act-after-republican-leaders-fail-to-amend-bill
   title: Senate Advances USA Freedom Act, After Republican Leaders Fail To Amend Bill

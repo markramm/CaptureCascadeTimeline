@@ -4,10 +4,10 @@ date: '2023-05-09'
 title: Jury Finds Trump Liable for Sexual Abuse and Defamation of E. Jean Carroll, Awards $5 Million
 importance: 9
 tags:
-- sexual abuse
-- e. jean carroll
-- civil liability
-- jury verdict
+- sexual-abuse
+- e.-jean-carroll
+- civil-liability
+- jury-verdict
 - defamation
 actors:
 - E. Jean Carroll

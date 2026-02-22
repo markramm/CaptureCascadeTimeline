@@ -20,14 +20,14 @@ sources:
   url: https://www.sechistorical.org/museum/galleries/wwr/wwr05d-markets-milken.php
   outlet: SEC Historical Society
 tags:
-- corporate-raiders
+- corporate-raider
 - drexel-burnham-lambert
 - michael-milken
 - nelson-peltz
 - junk-bonds
 - blind-pool
 - financial-innovation
-- hostile-takeovers
+- hostile-takeover
 id: 1984-01-01--drexel-burnham-lambert-raises-100-million-blind-pool-for-nel
 status: confirmed
 capture_lanes:

@@ -34,7 +34,7 @@ sources:
 status: confirmed
 tags:
 - media
-- mergers
+- merger
 - press-freedom
 - regulatory-capture
 - fcc

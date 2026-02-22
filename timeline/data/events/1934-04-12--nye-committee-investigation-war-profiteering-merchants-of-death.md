@@ -14,7 +14,7 @@ tags:
 - war-profiteering
 - corporate-corruption
 - military-industrial-complex
-- investigations
+- investigation
 - world-war-i
 sources:
 - title: Merchants of Death

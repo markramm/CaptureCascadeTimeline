@@ -13,9 +13,9 @@ actors:
 - Pam Bondi
 - Tulsi Gabbard
 - Trump Administration
-- DOJ
-- CIA
-- FBI
+- U.S. Department of Justice
+- Central Intelligence Agency
+- Federal Bureau of Investigation
 - 39 federal officials
 sources:
 - url: https://www.reuters.com/world/us/trump-weaponization-working-group-investigation-2025-10-20/

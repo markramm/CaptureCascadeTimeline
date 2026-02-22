@@ -9,7 +9,7 @@ actors:
 - Alina Habba
 - James Comey
 - Cameron McGowan Currie
-- DOJ
+- U.S. Department of Justice
 - Pam Bondi
 tags:
 - doj
@@ -17,7 +17,7 @@ tags:
 - rule-of-law
 - political-prosecution
 - prosecutorial-misconduct
-- appointments
+- appointment
 sources:
 - title: Judge Suggests Prosecutor on Comey and James Cases Should Resign as US Attorney
   url: https://gvwire.com/2025/12/09/judge-suggests-prosecutor-on-comey-and-james-cases-should-resign-as-us-attorney/

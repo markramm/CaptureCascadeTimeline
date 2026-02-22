@@ -13,11 +13,11 @@ actors:
 - Eric Trump
 - Donald Trump Jr.
 tags:
-- financial fraud
-- ny attorney general
-- trump organization
-- appeals court
-- eighth amendment
+- financial-fraud
+- ny-attorney-general
+- trump-organization
+- appeals-court
+- eighth-amendment
 - judiciary
 - courts
 sources:

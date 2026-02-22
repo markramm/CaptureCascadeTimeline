@@ -7,8 +7,8 @@ actors:
 - Pam Bondi
 - Sean Dunn
 tags:
-- doj weaponization
-- federal police
+- doj-weaponization
+- federal-police
 - dissent
 sources:
 - title: Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C.

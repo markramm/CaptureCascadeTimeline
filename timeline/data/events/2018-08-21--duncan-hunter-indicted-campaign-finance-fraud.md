@@ -14,12 +14,12 @@ summary: 'U.S. Representative Duncan D. Hunter (R-CA) and his wife Margaret E. H
 importance: 8
 status: confirmed
 tags:
-- congressional corruption
-- campaign finance violations
-- republican party
+- congressional-corruption
+- campaign-finance-violations
+- republican-party
 - california
-- wire fraud
-- political accountability
+- wire-fraud
+- political-accountability
 actors:
 - Duncan Hunter
 - Margaret Hunter

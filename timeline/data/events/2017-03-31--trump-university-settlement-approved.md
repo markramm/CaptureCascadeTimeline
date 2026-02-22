@@ -5,10 +5,10 @@ title: Judge Curiel Approves $25 Million Trump University Settlement, Victims to
 importance: 8
 status: confirmed
 tags:
-- trump university
+- trump-university
 - fraud
 - settlement
-- consumer protection
+- consumer-protection
 - accountability
 actors:
 - Gonzalo Curiel

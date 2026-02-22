@@ -3,7 +3,7 @@ id: 1953-04-13--cia-mkultra-project-inception
 date: '1953-04-13'
 title: CIA MKULTRA Project Officially Begins
 actors:
-- CIA
+- Central Intelligence Agency
 - Allen Dulles
 - Sidney Gottlieb
 importance: 9

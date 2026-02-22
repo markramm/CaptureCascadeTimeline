@@ -10,7 +10,7 @@ actors:
 - Project 2025
 - Federal Register
 tags:
-- executive-orders
+- executive-order
 - project-2025
 - authoritarian-blueprint
 - legislative-bypass

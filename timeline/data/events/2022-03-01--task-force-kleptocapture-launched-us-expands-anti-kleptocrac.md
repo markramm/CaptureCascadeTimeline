@@ -5,7 +5,7 @@ actors:
 - Merrick Garland
 - Andrew Adams
 - Department of Justice
-- FBI
+- Federal Bureau of Investigation
 - U.S. Secret Service
 - U.S. Department of Homeland Security
 - IRS Criminal Investigation
@@ -31,7 +31,7 @@ tags:
 - russia
 - ukraine
 - enforcement
-- financial-crimes
+- financial-crime
 status: confirmed
 id: 2022-03-01--task-force-kleptocapture-launched-us-expands-anti-kleptocrac
 priority_id: RP-20250909-resistance-movement-documentation

@@ -5,10 +5,10 @@ title: DeJoy Senate Testimony Denies Sabotage as Gary Peters Details Severe Mail
 importance: 8
 status: confirmed
 tags:
-- election interference
+- election-interference
 - usps
-- postal service
-- congressional oversight
+- postal-service
+- congressional-oversight
 - dejoy
 actors:
 - Louis DeJoy

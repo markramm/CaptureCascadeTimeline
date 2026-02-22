@@ -4,11 +4,11 @@ date: 2016-01-28
 title: Trump Uses Charity Foundation for Iowa Campaign Event, Violating Tax Law
 importance: 8
 tags:
-- trump foundation
-- charity fraud
-- campaign finance
-- tax violations
-- election interference
+- trump-foundation
+- charity-fraud
+- campaign-finance
+- tax-violations
+- election-interference
 actors:
 - Donald Trump
 - Trump Foundation

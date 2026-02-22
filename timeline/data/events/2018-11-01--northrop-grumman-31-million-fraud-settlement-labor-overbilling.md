@@ -9,15 +9,15 @@ actors:
 - Department of Justice
 - U.S. Air Force
 - Defense Criminal Investigative Service
-- FBI
+- Federal Bureau of Investigation
 - U.S. Air Force Office of Special Investigations
 tags:
-- defense contractors
+- defense-contractors
 - fraud
-- military-industrial complex
-- false claims act
-- pentagon contracts
-- contractor abuse
+- military-industrial-complex
+- false-claims-act
+- pentagon-contracts
+- contractor-abuse
 - accountability
 sources:
 - url: https://www.justice.gov/usao-sdca/pr/northrop-grumman-subsidiary-agrees-pay-3165-million-overbilling-us-air-force-civil-and

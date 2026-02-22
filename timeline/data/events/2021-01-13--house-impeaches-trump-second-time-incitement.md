@@ -4,11 +4,11 @@ date: '2021-01-13'
 title: House Impeaches Trump for Second Time on Single Charge of "Incitement of Insurrection"
 importance: 10
 tags:
-- trump presidency
+- trump-presidency
 - impeachment
-- january 6 attack
-- constitutional crisis
-- republican party
+- january-6-attack
+- constitutional-crisis
+- republican-party
 actors:
 - Donald Trump
 - Nancy Pelosi

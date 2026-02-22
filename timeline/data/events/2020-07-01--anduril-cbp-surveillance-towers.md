@@ -10,11 +10,11 @@ actors:
 - U.S. Department of Homeland Security
 - Palmer Luckey
 tags:
-- border militarization
+- border-militarization
 - surveillance
-- autonomous weapons
-- immigration enforcement
-- ai surveillance
+- autonomous-weapons
+- immigration-enforcement
+- ai-surveillance
 sources:
 - title: Contract to Anduril Industries, Inc.
   url: https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014

@@ -5,7 +5,7 @@ title: Maria Butina Pleads Guilty to Conspiring as Russian Agent, Admits Years-L
 importance: 8
 tags:
 - russian-influence
-- guilty-pleas
+- guilty-plea
 - foreign-agents
 - nra
 - fara-violations

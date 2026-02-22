@@ -5,7 +5,7 @@ title: Michael Flynn Retroactively Registers as Turkey Foreign Agent - $530K Lob
 importance: 10
 tags:
 - flynn
-- foreign-agent
+- foreign-agents
 - conflicts-of-interest
 - turkey
 - corruption

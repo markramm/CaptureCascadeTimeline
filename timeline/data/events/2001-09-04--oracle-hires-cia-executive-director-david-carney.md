@@ -13,7 +13,7 @@ tags:
 actors:
 - Oracle
 - David W. Carney
-- CIA
+- Central Intelligence Agency
 - Larry Ellison
 sources:
 - title: Larry Ellison's Oracle Started As a CIA Project

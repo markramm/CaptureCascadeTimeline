@@ -5,11 +5,11 @@ title: Intelligence Community Whistleblower Files Urgent Complaint About Trump-Z
 importance: 10
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - whistleblower
 - ukraine
-- intelligence community
-- congressional oversight
+- intelligence-community
+- congressional-oversight
 actors:
 - IC Whistleblower
 - Michael Atkinson

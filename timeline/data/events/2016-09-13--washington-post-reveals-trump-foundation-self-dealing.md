@@ -4,11 +4,11 @@ date: 2016-09-13
 title: Washington Post Investigation Reveals Trump Foundation Used for Self-Dealing and Business Settlements
 importance: 9
 tags:
-- trump foundation
-- charity fraud
+- trump-foundation
+- charity-fraud
 - self-dealing
-- investigative journalism
-- david fahrenthold
+- investigative-journalism
+- david-fahrenthold
 actors:
 - Donald Trump
 - Trump Foundation

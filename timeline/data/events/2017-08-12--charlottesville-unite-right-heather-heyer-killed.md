@@ -8,9 +8,9 @@ actors:
 - Heather Heyer
 - Donald Trump
 tags:
-- white nationalism
+- white-nationalism
 - extremism
-- domestic terrorism
+- domestic-terrorism
 - alt-right
 - hate-crimes
 status: confirmed

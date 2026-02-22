@@ -9,12 +9,12 @@ actors:
 - U.S. Air Force
 - U.S. Department of Defense
 tags:
-- military-industrial complex
-- defense contractors
-- cost overruns
-- pentagon contracts
-- stealth technology
-- maintenance costs
+- military-industrial-complex
+- defense-contractors
+- cost-overruns
+- pentagon-contracts
+- stealth-technology
+- maintenance-costs
 sources:
 - url: https://nationalinterest.org/blog/buzz/why-is-the-air-forces-b-2-spirit-so-expensive
   title: Why Is the Air Force's B-2 Spirit So Expensive?

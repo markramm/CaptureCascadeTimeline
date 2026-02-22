@@ -7,9 +7,9 @@ importance: 9
 actors:
 - Donald Trump
 - Henry Cuellar
-- DOJ
+- U.S. Department of Justice
 tags:
-- pardons
+- pardon
 - quid-pro-quo
 - corruption
 - congress

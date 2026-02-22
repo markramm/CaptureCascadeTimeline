@@ -4,11 +4,11 @@ date: '2019-07-28'
 title: Director of National Intelligence Dan Coats Resigns After Repeated Conflicts with Trump Over Russia
 importance: 8
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
-- intelligence community
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
+- intelligence-community
 - russia
 actors:
 - Dan Coats

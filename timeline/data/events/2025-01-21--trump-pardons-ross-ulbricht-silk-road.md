@@ -4,7 +4,7 @@ date: '2025-01-21'
 title: Trump Pardons Ross Ulbricht, Silk Road Dark Web Drug Marketplace Founder
 importance: 8
 tags:
-- presidential-pardons
+- presidential-pardon
 - systematic-corruption
 - drug-policy
 - dark-web

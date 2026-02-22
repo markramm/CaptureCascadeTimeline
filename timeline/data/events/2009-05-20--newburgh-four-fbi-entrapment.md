@@ -5,7 +5,7 @@ title: Newburgh Four Arrested in FBI Entrapment Sting - "Buffoonery" Made Into T
 importance: 8
 status: confirmed
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Shahed Hussain
 - James Cromitie
 - Department of Justice

@@ -5,12 +5,12 @@ title: Apprentice Producer Bill Pruitt's NDA Expires, Reveals Trump Used N-Word 
 importance: 7
 status: confirmed
 tags:
-- the apprentice
+- the-apprentice
 - racism
 - nda
-- bill pruitt
-- mark burnett
-- kwame jackson
+- bill-pruitt
+- mark-burnett
+- kwame-jackson
 sources:
 - url: https://deadline.com/2024/05/trump-the-apprentice-n-word-bill-pruitt-1235944516/
   title: Producer On 'The Apprentice' Claims Donald Trump Used N-Word When Faced With Prospect Of A Black Winner In Show's First Season

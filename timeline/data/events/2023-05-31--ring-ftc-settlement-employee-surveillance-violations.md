@@ -30,7 +30,7 @@ status: confirmed
 tags:
 - ring
 - ftc
-- privacy-violations
+- privacy-violation
 - employee-misconduct
 - surveillance-abuse
 - amazon

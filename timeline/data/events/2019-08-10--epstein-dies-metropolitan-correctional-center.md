@@ -6,7 +6,7 @@ actors:
 - Jeffrey Epstein
 - William Barr
 - Bureau of Prisons
-- FBI
+- Federal Bureau of Investigation
 - DOJ Inspector General
 tags:
 - institutional-failure

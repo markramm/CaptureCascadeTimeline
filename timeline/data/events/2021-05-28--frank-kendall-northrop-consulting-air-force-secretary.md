@@ -11,13 +11,13 @@ actors:
 - Joe Biden
 - U.S. Senate
 tags:
-- revolving door
-- military-industrial complex
-- defense contractors
+- revolving-door
+- military-industrial-complex
+- defense-contractors
 - corruption
-- conflicts of interest
-- pentagon leadership
-- biden administration
+- conflicts-of-interest
+- pentagon-leadership
+- biden-administration
 sources:
 - url: https://responsiblestatecraft.org/2021/05/24/frank-kendall-flies-out-of-revolving-door-and-into-air-force-confirmation/
   title: Frank Kendall flies out of revolving door and into Air Force confirmation

@@ -5,13 +5,13 @@ title: Secretary of State Pompeo Delivers Historic RNC Speech from Jerusalem Roo
 importance: 9
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- mike pompeo
-- republican national convention
-- state department
-- abuse of office
-- trump administration
+- hatch-act
+- ethics-violation
+- mike-pompeo
+- republican-national-convention
+- state-department
+- abuse-of-office
+- trump-administration
 actors:
 - Mike Pompeo
 - Donald Trump

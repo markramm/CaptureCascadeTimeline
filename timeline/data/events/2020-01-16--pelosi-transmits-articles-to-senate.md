@@ -5,10 +5,10 @@ title: Pelosi Transmits Impeachment Articles to Senate After 28-Day Strategic De
 importance: 9
 status: confirmed
 tags:
-- first impeachment
-- senate trial
+- first-impeachment
+- senate-trial
 - ukraine
-- congressional oversight
+- congressional-oversight
 actors:
 - Nancy Pelosi
 - Mitch McConnell

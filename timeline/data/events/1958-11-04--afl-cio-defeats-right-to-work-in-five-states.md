@@ -18,7 +18,7 @@ tags:
 - labor-organizing
 - democratic-resistance
 - state-legislation
-- ballot-initiatives
+- ballot-initiative
 capture_lanes:
 - Democratic Erosion
 sources:

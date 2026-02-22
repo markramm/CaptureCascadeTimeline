@@ -7,7 +7,7 @@ tags:
 - military-operations
 - operation-southern-spear
 - pacific-ocean
-- extrajudicial-killings
+- extrajudicial-killing
 - civilian-casualties
 sources:
 - title: US military strikes 5 more boats, killing 8

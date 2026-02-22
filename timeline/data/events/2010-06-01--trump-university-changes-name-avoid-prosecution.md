@@ -5,11 +5,11 @@ title: Trump University Changes Name to "Trump Entrepreneur Initiative" Under Pr
 importance: 8
 status: confirmed
 tags:
-- trump university
+- trump-university
 - fraud
-- education fraud
-- new york
-- regulatory evasion
+- education-fraud
+- new-york
+- regulatory-evasion
 actors:
 - Donald Trump
 - Michael Sexton

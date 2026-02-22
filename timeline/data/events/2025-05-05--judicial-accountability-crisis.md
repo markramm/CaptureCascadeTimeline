@@ -24,7 +24,7 @@ tags:
 - judicial-independence
 - constitutional-crisis
 - executive-power
-- legal-challenges
+- legal-challenge
 capture_lanes:
 - Judicial Capture
 - Democratic Erosion

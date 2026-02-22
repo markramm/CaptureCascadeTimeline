@@ -8,11 +8,11 @@ actors:
 - Amazon
 - Retail, Wholesale and Department Store Union
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
-- labor rights
-- corporate accountability
+- labor-rights
+- corporate-accountability
 sources:
 - url: https://www.cnn.com/2021/04/09/tech/amazon-bessemer-union-election/index.html
   title: Amazon workers vote against union at Alabama warehouse

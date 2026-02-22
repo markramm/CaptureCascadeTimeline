@@ -24,7 +24,7 @@ sources:
 status: confirmed
 type: political
 actors:
-- CIA
+- Central Intelligence Agency
 - Venezuela
 capture_lanes:
 - Military-Industrial Complex

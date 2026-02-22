@@ -12,7 +12,7 @@ actors:
 - January 6 defendants
 tags:
 - january-6
-- presidential-pardons
+- presidential-pardon
 - political-violence
 - normalization
 - proud-boys

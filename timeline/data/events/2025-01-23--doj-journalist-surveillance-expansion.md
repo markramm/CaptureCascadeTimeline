@@ -4,8 +4,8 @@ date: '2025-01-23'
 title: DOJ Expands Surveillance of Journalists Covering Administration
 importance: 8
 actors:
-- DOJ
-- FBI
+- U.S. Department of Justice
+- Federal Bureau of Investigation
 - National Security Division
 - Journalists
 - News Organizations
@@ -15,8 +15,7 @@ sources:
   url: https://www.npr.org/2025/04/25/nx-s1-5377624/pam-bondi-reporters-subpoena-leaks
   date: '2025-04-25'
 - outlet: Reuters
-  title: Justice Department Issues New Data Security Guidelines with Potential Surveillance
-    Implications
+  title: Justice Department Issues New Data Security Guidelines with Potential Surveillance Implications
   url: https://www.reuters.com/legal/government/justice-department-data-security-program-2025-01-08/
   date: '2025-01-08'
 - outlet: Electronic Frontier Foundation

@@ -6,7 +6,7 @@ importance: 6
 location: Washington DC
 actors:
 - U.S. Environmental Protection Agency
-- Lee Zeldin (EPA Administrator)
+- Lee Zeldin
 tags:
 - environmental-deregulation
 - epa

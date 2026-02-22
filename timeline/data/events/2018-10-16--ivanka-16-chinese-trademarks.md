@@ -15,7 +15,7 @@ tags:
 - china
 - trademarks
 - conflict-of-interest
-- trade-negotiations
+- trade-negotiation
 - nepotism
 status: confirmed
 sources:

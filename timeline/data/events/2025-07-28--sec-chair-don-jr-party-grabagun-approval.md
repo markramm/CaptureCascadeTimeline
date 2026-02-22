@@ -9,7 +9,7 @@ actors:
 - Donald Trump Jr.
 - Paul Atkins
 - Trump Administration
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 tags:
 - regulatory-capture
 - sec

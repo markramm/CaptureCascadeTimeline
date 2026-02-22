@@ -8,8 +8,8 @@ actors:
 - Supreme Court of the United States
 - Justice Amy Coney Barrett
 - Justice Samuel Alito
-- Justice Clarence Thomas (dissent)
-- Justice Neil Gorsuch (dissent)
+- Justice Clarence Thomas
+- Justice Neil Gorsuch
 - Missouri (plaintiff state)
 - Louisiana
 tags:

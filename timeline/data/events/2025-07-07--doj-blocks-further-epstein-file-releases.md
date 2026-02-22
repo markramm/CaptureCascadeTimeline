@@ -14,7 +14,7 @@ tags:
 - epstein-files
 - obstruction-of-justice
 - cover-up
-- financial-crimes
+- financial-crime
 capture_lanes:
 - Intelligence Penetration
 sources:

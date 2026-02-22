@@ -8,7 +8,7 @@ tags:
 - international-law
 - un-relations
 - palestinian-rights
-- treaty-violations
+- treaty-violation
 actors:
 - Marco Rubio
 - State Department

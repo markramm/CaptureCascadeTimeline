@@ -19,7 +19,7 @@ actors:
 - House Judiciary Committee Democrats
 - Jamie Raskin
 tags:
-- pardons
+- pardon
 - clemency
 - rule-of-law-erosion
 - doj

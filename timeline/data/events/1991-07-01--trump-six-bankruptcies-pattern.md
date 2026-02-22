@@ -6,13 +6,13 @@ importance: 7
 status: confirmed
 tags:
 - bankruptcy
-- business failure
-- atlantic city
-- casinos
-- financial history
+- business-failure
+- atlantic-city
+- casino
+- financial-history
 - debt
-- pattern of corruption
-- real estate
+- pattern-of-corruption
+- real-estate
 sources:
 - url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
   title: Yep, Donald Trump's companies have declared bankruptcy...more than four times

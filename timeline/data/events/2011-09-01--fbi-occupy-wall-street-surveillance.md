@@ -4,7 +4,7 @@ date: 2011-09-01
 title: FBI Surveils Occupy Wall Street as "Terrorist Threat" Before First Protest
 importance: 8
 actors:
-- FBI
+- Federal Bureau of Investigation
 - U.S. Department of Homeland Security
 - Occupy Wall Street
 - Joint Terrorism Task Force

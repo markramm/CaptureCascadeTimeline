@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Kash Patel
 tags:
-- kash patel
+- kash-patel
 - fbi
 - corruption
 - hypocrisy

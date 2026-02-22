@@ -5,13 +5,13 @@ title: Judge Sullivan Orders Emergency USPS Ballot Sweeps, DeJoy Initially Defie
 importance: 9
 status: confirmed
 tags:
-- election interference
+- election-interference
 - usps
-- postal service
-- judicial orders
+- postal-service
+- judicial-orders
 - dejoy
-- mail voting
-- election day
+- mail-voting
+- election-day
 actors:
 - Emmet Sullivan
 - Louis DeJoy

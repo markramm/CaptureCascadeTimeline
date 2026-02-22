@@ -24,7 +24,7 @@ sources:
 status: confirmed
 type: political
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Minnesota Bureau of Criminal Apprehension
 - Bob Jacobson
 - JD Vance

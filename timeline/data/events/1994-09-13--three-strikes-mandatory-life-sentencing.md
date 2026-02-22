@@ -9,7 +9,7 @@ actors:
 tags:
 - mass-incarceration
 - criminal-justice
-- mandatory-minimums
+- mandatory-minimum
 - sentencing-reform
 - legislation
 status: confirmed

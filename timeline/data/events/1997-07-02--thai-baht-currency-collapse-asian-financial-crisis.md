@@ -5,7 +5,7 @@ title: Thai Baht Collapses, Triggering Asian Financial Crisis
 importance: 8
 actors:
 - Thai Central Bank
-- IMF
+- International Monetary Fund
 - World Bank
 - McKinsey & Company
 - Bank of Thailand

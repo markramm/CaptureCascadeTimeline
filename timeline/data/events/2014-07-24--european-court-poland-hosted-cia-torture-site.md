@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - European Court of Human Rights
 - Poland
-- CIA
+- Central Intelligence Agency
 - Abu Zubaydah
 - Abd al-Rahim al-Nashiri
 - Aleksander Kwaśniewski

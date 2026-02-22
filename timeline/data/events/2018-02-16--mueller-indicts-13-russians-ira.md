@@ -5,12 +5,12 @@ title: Mueller Indicts 13 Russians and Internet Research Agency for Election Int
 status: confirmed
 importance: 9
 tags:
-- mueller investigation
-- russia interference
-- foreign interference
+- mueller-investigation
+- russia-interference
+- foreign-interference
 - disinformation
-- social media manipulation
-- election 2016
+- social-media-manipulation
+- election-2016
 actors:
 - Robert Mueller
 - Internet Research Agency

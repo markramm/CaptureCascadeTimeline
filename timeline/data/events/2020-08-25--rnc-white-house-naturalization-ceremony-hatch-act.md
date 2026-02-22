@@ -5,13 +5,13 @@ title: Acting DHS Secretary Chad Wolf Violates Hatch Act by Staging White House 
 importance: 8
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- republican national convention
-- abuse of office
+- hatch-act
+- ethics-violation
+- republican-national-convention
+- abuse-of-office
 - immigration
-- chad wolf
-- trump administration
+- chad-wolf
+- trump-administration
 actors:
 - Chad Wolf
 - Donald Trump

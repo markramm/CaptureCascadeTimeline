@@ -11,7 +11,7 @@ actors:
 tags:
 - private-equity
 - healthcare
-- nursing-homes
+- nursing-home
 - deaths
 - cost-cutting
 - profit-extraction

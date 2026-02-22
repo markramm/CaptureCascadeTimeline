@@ -5,11 +5,11 @@ title: Treasury Secretary Mnuchin Uses Military Jet for Solar Eclipse Viewing Tr
 importance: 7
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- steve mnuchin
-- misuse of funds
-- military aircraft
+- cabinet-corruption
+- ethics-violation
+- steve-mnuchin
+- misuse-of-funds
+- military-aircraft
 actors:
 - Steve Mnuchin
 - Louise Linton

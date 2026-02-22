@@ -17,7 +17,7 @@ actors:
 - Safe America Media
 tags:
 - corruption
-- ethics-violations
+- ethics-violation
 - conflicts-of-interest
 - government-contracts
 - dhs

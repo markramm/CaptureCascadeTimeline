@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Lindsey Halligan
 - James Comey
-- DOJ
+- U.S. Department of Justice
 - North Carolina Prosecutors
 sources:
 - title: DOJ adds out-of-state attorneys to Comey case ahead of arraignment
@@ -14,7 +14,7 @@ sources:
   date: '2025-10-07'
   tier: 1
   outlet: ABC News
-- title: "More turmoil at Virginia US attorney's office following Comey indictment"
+- title: More turmoil at Virginia US attorney's office following Comey indictment
   url: https://abcnews.go.com/Politics/virginia-us-attorneys-office-turmoil-comey-indictment-prosecutors/story?id=125368942
   date: '2025-10-04'
   tier: 1

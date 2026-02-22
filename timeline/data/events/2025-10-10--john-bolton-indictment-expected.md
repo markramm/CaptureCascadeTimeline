@@ -5,8 +5,8 @@ title: John Bolton Faces Imminent Federal Indictment on Classified Materials Cha
 importance: 9
 actors:
 - John Bolton
-- FBI
-- DOJ
+- Federal Bureau of Investigation
+- U.S. Department of Justice
 - Trump Administration
 sources:
 - title: Trump Critic John Bolton to be Charged Soon

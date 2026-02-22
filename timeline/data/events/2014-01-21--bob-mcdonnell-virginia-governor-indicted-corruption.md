@@ -6,13 +6,13 @@ title: Former Virginia Governor Bob McDonnell and Wife Indicted on Federal Corru
 importance: 8
 status: confirmed
 tags:
-- congressional corruption
-- gubernatorial corruption
-- republican party
+- congressional-corruption
+- gubernatorial-corruption
+- republican-party
 - virginia
 - bribery
-- supreme court
-- political accountability
+- supreme-court
+- political-accountability
 capture_lanes:
 - Systematic Corruption
 actors:

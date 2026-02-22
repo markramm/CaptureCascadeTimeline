@@ -5,7 +5,7 @@ title: Rex Tillerson Confirmation Hearing Reveals ExxonMobil-Russia Conflicts an
 importance: 9
 tags:
 - conflicts-of-interest
-- russia-connections
+- russia-connection
 - sanctions-violations
 - state-capture
 - fossil-fuel-industry

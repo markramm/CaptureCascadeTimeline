@@ -34,7 +34,7 @@ tags:
 - police-access
 - fourth-amendment
 - amazon
-- privacy-violations
+- privacy-violation
 - ed-markey
 title: Ring admits providing police with warrantless access to user footage 11 times in 2022
 ---

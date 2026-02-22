@@ -5,11 +5,11 @@ title: Speaker Pelosi Announces Formal Impeachment Inquiry After Ukraine Revelat
 importance: 10
 status: confirmed
 tags:
-- first impeachment
-- congressional oversight
+- first-impeachment
+- congressional-oversight
 - ukraine
-- abuse of power
-- nancy pelosi
+- abuse-of-power
+- nancy-pelosi
 actors:
 - Nancy Pelosi
 - Donald Trump

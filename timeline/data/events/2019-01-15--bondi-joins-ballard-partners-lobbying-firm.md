@@ -8,11 +8,11 @@ actors:
 - Donald Trump
 - Susie Wiles
 tags:
-- pam bondi
+- pam-bondi
 - lobbying
 - corruption
-- revolving door
-- ballard partners
+- revolving-door
+- ballard-partners
 sources:
 - title: Pam Bondi's Extensive Lobbying Poses Serious Conflict of Interest
   url: https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest

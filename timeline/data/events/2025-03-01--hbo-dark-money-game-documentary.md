@@ -7,7 +7,7 @@ location: National
 actors:
 - Alex Gibney (filmmaker)
 - HBO
-- FBI
+- Federal Bureau of Investigation
 - Unnamed officials (wiretapped)
 tags:
 - dark-money

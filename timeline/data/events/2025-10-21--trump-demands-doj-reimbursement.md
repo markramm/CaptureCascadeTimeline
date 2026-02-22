@@ -11,7 +11,7 @@ tags:
 - abuse-of-power
 actors:
 - Donald Trump
-- DOJ
+- U.S. Department of Justice
 - former Trump defense lawyers
 sources:
 - url: https://www.nytimes.com/2025/10/21/us/politics/trump-doj-reimbursement-demand.html

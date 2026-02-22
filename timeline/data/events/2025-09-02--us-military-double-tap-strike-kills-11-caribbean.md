@@ -6,7 +6,7 @@ importance: 10
 tags:
 - war-crimes
 - military-operations
-- extrajudicial-killings
+- extrajudicial-killing
 - international-law-violations
 - human-rights-violations
 sources:

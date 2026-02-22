@@ -5,10 +5,10 @@ title: Church Committee Exposes Psychological Manipulation Techniques in Governm
 importance: 9
 actors:
 - Senator Frank Church
-- CIA
+- Central Intelligence Agency
 - Intelligence Community
 - Donald Ewen Cameron
-- NSA
+- National Security Agency
 - U.S. Senate Select Committee
 tags:
 - psychological-manipulation

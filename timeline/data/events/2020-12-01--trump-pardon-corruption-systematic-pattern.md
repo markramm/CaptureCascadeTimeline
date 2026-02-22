@@ -9,7 +9,7 @@ actors:
 - Jared Kushner
 - William Barr
 tags:
-- pardons
+- pardon
 - corruption
 - pay-to-play
 - abuse-of-power

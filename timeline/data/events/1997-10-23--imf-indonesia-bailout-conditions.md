@@ -4,7 +4,7 @@ date: '1997-10-23'
 title: IMF Imposes Harsh Structural Adjustment on Indonesia
 importance: 9
 actors:
-- IMF
+- International Monetary Fund
 - Indonesian Government
 - World Bank
 - McKinsey & Company

@@ -5,7 +5,7 @@ date: 2006-03-01
 title: FBI Infiltrates Orange County Mosques with Informant in Dragnet Surveillance
 importance: 8
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Craig Monteilh
 - Muslim community
 - Department of Justice

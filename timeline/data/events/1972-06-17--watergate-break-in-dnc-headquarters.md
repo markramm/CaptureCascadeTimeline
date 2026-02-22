@@ -1,41 +1,41 @@
 ---
-id: '1972-06-17--watergate-break-in-dnc-headquarters'
+id: 1972-06-17--watergate-break-in-dnc-headquarters
 date: '1972-06-17'
-title: 'Five Burglars Arrested Breaking into Democratic National Committee Headquarters at Watergate Complex'
+title: Five Burglars Arrested Breaking into Democratic National Committee Headquarters at Watergate Complex
 importance: 10
 actors:
-  - James W. McCord Jr.
-  - E. Howard Hunt
-  - G. Gordon Liddy
-  - Bernard Barker
-  - Eugenio Martinez
-  - Committee to Re-elect the President (CREEP)
-  - FBI
+- James W. McCord Jr.
+- E. Howard Hunt
+- G. Gordon Liddy
+- Bernard Barker
+- Eugenio Martinez
+- Committee to Re-elect the President (CREEP)
+- Federal Bureau of Investigation
 tags:
-  - watergate
-  - abuse-of-power
-  - obstruction-of-justice
-  - institutional-corruption
-  - intelligence-agencies
+- watergate
+- abuse-of-power
+- obstruction-of-justice
+- institutional-corruption
+- intelligence-agencies
 sources:
-  - title: 'Watergate scandal | Summary, History, Timeline, Deep Throat & Facts'
-    url: 'https://www.britannica.com/event/Watergate-Scandal'
-    outlet: 'Britannica'
-    date: '2024'
-    verified: true
-    tier: 1
-  - title: 'Watergate | Federal Bureau of Investigation'
-    url: 'https://www.fbi.gov/history/famous-cases/watergate'
-    outlet: 'FBI'
-    date: '2024'
-    verified: true
-    tier: 1
-  - title: 'Watergate Burglars – Watergate.info'
-    url: 'https://watergate.info/burglary/burglars/'
-    outlet: 'Watergate.info'
-    date: '2024'
-    verified: true
-    tier: 2
+- title: Watergate scandal | Summary, History, Timeline, Deep Throat & Facts
+  url: https://www.britannica.com/event/Watergate-Scandal
+  outlet: Britannica
+  date: '2024'
+  verified: true
+  tier: 1
+- title: Watergate | Federal Bureau of Investigation
+  url: https://www.fbi.gov/history/famous-cases/watergate
+  outlet: FBI
+  date: '2024'
+  verified: true
+  tier: 1
+- title: Watergate Burglars – Watergate.info
+  url: https://watergate.info/burglary/burglars/
+  outlet: Watergate.info
+  date: '2024'
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

@@ -8,7 +8,7 @@ actors:
 - Denise Rich
 - Hillary Clinton
 tags:
-- presidential-pardons
+- presidential-pardon
 - corruption
 - campaign-finance
 - political-influence

@@ -8,7 +8,7 @@ tags:
 - revolving-door
 - lobbying
 - congressional-corruption
-- ethics-violations
+- ethics-violation
 - regulatory-capture
 sources:
 - url: https://www.opensecrets.org/revolving-door/trent-lott-r/summary?id=70566

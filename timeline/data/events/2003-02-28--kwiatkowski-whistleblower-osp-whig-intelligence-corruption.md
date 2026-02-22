@@ -12,7 +12,7 @@ actors:
 - David Wurmser
 - Karl Rove
 - Dick Cheney
-- NSA
+- National Security Agency
 - U.S. Congress
 tags:
 - whistleblower

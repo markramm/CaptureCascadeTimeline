@@ -14,13 +14,13 @@ summary: 'Illinois Governor Rod Blagojevich and his chief of staff John Harris w
   '
 importance: 9
 tags:
-- gubernatorial corruption
-- democratic party
+- gubernatorial-corruption
+- democratic-party
 - illinois
 - bribery
-- wire fraud
-- presidential pardons
-- political accountability
+- wire-fraud
+- presidential-pardon
+- political-accountability
 actors:
 - Rod Blagojevich
 - Barack Obama

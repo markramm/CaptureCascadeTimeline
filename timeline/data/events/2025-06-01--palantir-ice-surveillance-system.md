@@ -13,7 +13,7 @@ actors:
 tags:
 - mass-surveillance
 - data-integration
-- privacy-violations
+- privacy-violation
 - ai-surveillance
 - tech-authoritarianism
 capture_lanes:

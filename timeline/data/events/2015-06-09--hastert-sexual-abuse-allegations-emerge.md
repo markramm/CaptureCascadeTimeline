@@ -14,12 +14,12 @@ summary: 'Sexual abuse allegations against former House Speaker Dennis Hastert b
 importance: 9
 status: confirmed
 tags:
-- congressional corruption
-- sexual abuse
+- congressional-corruption
+- sexual-abuse
 - cover-up
-- republican party
-- political accountability
-- abuse of power
+- republican-party
+- political-accountability
+- abuse-of-power
 actors:
 - Dennis Hastert
 - Jolene Reinboldt Burdge

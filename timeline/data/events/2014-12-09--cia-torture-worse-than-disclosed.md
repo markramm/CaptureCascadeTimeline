@@ -4,7 +4,7 @@ date: '2014-12-09'
 title: Senate Report Documents CIA Torture Worse Than Disclosed - Rectal Feeding, Mock Executions, Deaths
 importance: 10
 actors:
-- CIA
+- Central Intelligence Agency
 - Gul Rahman
 - Senate Select Committee on Intelligence
 - James Mitchell

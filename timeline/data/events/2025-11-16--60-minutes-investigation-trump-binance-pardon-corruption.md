@@ -6,7 +6,7 @@ importance: 9
 tags:
 - media-investigation
 - corruption
-- pardons
+- pardon
 - cryptocurrency
 - binance
 - 60-minutes

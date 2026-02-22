@@ -13,7 +13,7 @@ actors:
 - Walter Reuther
 tags:
 - labor-rights
-- strikes
+- strike
 - sit-down-strikes
 - uaw
 - general-motors

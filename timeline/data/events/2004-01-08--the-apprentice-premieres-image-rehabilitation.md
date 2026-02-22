@@ -5,12 +5,12 @@ title: The Apprentice Premieres on NBC, Rehabilitating Trump's Image After Bankr
 importance: 7
 status: confirmed
 tags:
-- the apprentice
+- the-apprentice
 - media
-- image rehabilitation
-- mark burnett
+- image-rehabilitation
+- mark-burnett
 - nbc
-- reality tv
+- reality-tv
 sources:
 - url: https://www.realitytvworld.com/news/nbc-the-apprentice-premieres-big-draws-over-18-million-viewers-2147.php
   title: NBC's 'The Apprentice' premieres big, draws over 18 million viewers

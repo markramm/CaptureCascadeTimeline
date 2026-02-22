@@ -5,9 +5,9 @@ title: Fiona Hill Testifies - Giuliani Ran Shadow Ukraine Policy for "Domestic P
 importance: 9
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
-- shadow diplomacy
+- shadow-diplomacy
 - russia
 - nsc
 - disinformation

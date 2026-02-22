@@ -7,7 +7,7 @@ actors:
 - Roy Cohn
 - Joseph McCarthy
 - J. Edgar Hoover
-- FBI
+- Federal Bureau of Investigation
 - Genovese Crime Family
 sources:
 - title: 'Citizen Cohn: The Life and Times of Roy Cohn'

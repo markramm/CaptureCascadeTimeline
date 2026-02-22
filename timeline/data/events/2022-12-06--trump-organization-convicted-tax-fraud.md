@@ -4,11 +4,11 @@ date: '2022-12-06'
 title: Trump Organization Convicted on All 17 Criminal Counts in Tax Fraud Trial
 importance: 9
 tags:
-- tax fraud
-- trump organization
-- criminal conviction
-- manhattan da
-- corporate crime
+- tax-fraud
+- trump-organization
+- criminal-conviction
+- manhattan-da
+- corporate-crime
 actors:
 - Trump Organization
 - Trump Corporation

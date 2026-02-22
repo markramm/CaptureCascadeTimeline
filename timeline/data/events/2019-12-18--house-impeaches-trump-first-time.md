@@ -5,10 +5,10 @@ title: House Votes to Impeach Trump on Abuse of Power and Obstruction of Congres
 importance: 10
 status: confirmed
 tags:
-- first impeachment
-- abuse of power
-- obstruction of congress
-- constitutional crisis
+- first-impeachment
+- abuse-of-power
+- obstruction-of-congress
+- constitutional-crisis
 - ukraine
 actors:
 - Donald Trump

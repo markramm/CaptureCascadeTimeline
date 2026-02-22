@@ -19,7 +19,7 @@ tags:
 - afghan-refugees
 - taliban
 - cbp-one
-- deportations
+- deportation
 - columbus
 - ohio
 - refugee-betrayal

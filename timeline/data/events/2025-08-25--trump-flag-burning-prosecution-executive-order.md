@@ -10,9 +10,9 @@ actors:
 - Department of Justice
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - abuse-of-power
-- constitutional-violations
+- constitutional-violation
 sources:
 - url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
   title: 2025 Donald J. Trump Executive Orders

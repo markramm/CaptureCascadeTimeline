@@ -10,7 +10,7 @@ actors:
 - Warner Bros. Discovery
 - Paramount
 - Larry Ellison
-- DOJ
+- U.S. Department of Justice
 - Ted Sarandos
 tags:
 - antitrust

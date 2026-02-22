@@ -5,7 +5,7 @@ title: Human Rights Watch Report - FBI Terrorism Prosecutions "Often An Illusion
 importance: 8
 status: confirmed
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Human Rights Watch
 - Department of Justice
 tags:

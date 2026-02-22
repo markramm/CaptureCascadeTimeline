@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 actors:
 - Reality Winner
-- NSA
+- National Security Agency
 - The Intercept
 - Department of Justice
 - Trump Administration

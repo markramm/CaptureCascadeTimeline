@@ -13,8 +13,8 @@ tags:
 actors:
 - Ladar Levison
 - Lavabit
-- FBI
-- NSA
+- Federal Bureau of Investigation
+- National Security Agency
 - Edward Snowden
 sources:
 - title: Lavabit founder confirms feds' Snowden spy efforts led to encrypted email service shutdown

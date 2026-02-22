@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Donald Trump
 - Mark Rutte
-- NATO
+- North Atlantic Treaty Organization
 - Denmark
 - Greenland
 tags:

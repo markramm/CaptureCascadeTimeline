@@ -13,7 +13,7 @@ actors:
 - Tom Homan
 - Emil Bove
 - Kash Patel
-- FBI
+- Federal Bureau of Investigation
 - Department of Justice
 sources:
 - title: DOJ ended probe of 'border czar' Tom Homan for allegedly accepting $50K in FBI sting

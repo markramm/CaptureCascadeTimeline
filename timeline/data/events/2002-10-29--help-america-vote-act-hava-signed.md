@@ -7,10 +7,10 @@ actors:
 - George W. Bush
 - U.S. Election Assistance Commission
 tags:
-- election manipulation
-- voter suppression
+- election-manipulation
+- voter-suppression
 - technology
-- federal legislation
+- federal-legislation
 sources:
 - title: Help America Vote Act - Wikipedia
   url: https://en.wikipedia.org/wiki/Help_America_Vote_Act

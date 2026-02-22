@@ -5,12 +5,12 @@ title: Michael Cohen Pleads Guilty to Lying to Congress About Trump Tower Moscow
 importance: 8
 status: confirmed
 tags:
-- mueller investigation
-- trump tower moscow
-- congressional lies
-- michael cohen
-- russia business dealings
-- campaign finance
+- mueller-investigation
+- trump-tower-moscow
+- congressional-lies
+- michael-cohen
+- russia-business-dealings
+- campaign-finance
 actors:
 - Michael Cohen
 - Donald Trump

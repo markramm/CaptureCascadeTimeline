@@ -11,11 +11,11 @@ actors:
   - Alice Paul
   - Rose Winslow
 tags:
-  - womens-suffrage
-  - state-violence
-  - torture
-  - political-prisoners
-  - institutional-brutality
+- womens-suffrage
+- state-violence
+- torture
+- political-prisoner
+- institutional-brutality
 sources:
   - title: "The Night of Terror: When Suffragists Were Imprisoned and Tortured in 1917"
     url: "https://www.history.com/articles/night-terror-brutality-suffragists-19th-amendment"

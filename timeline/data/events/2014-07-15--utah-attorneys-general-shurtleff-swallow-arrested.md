@@ -9,7 +9,7 @@ actors:
 - John Swallow
 - Jeremy Johnson
 - Marc Sessions Jenson
-- FBI
+- Federal Bureau of Investigation
 - Utah Department of Public Safety
 tags:
 - corruption

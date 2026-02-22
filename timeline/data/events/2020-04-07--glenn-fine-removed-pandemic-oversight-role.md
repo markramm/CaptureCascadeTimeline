@@ -4,12 +4,12 @@ date: '2020-04-07'
 title: Trump Removes Glenn Fine from Pentagon IG, Blocking $2 Trillion CARES Act Oversight
 importance: 9
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
 - covid-19
-- cares act
+- cares-act
 actors:
 - Donald Trump
 - Glenn Fine

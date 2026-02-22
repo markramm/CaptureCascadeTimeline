@@ -9,7 +9,7 @@ actors:
 tags:
 - venezuela
 - invasion
-- protest
+- protests
 - anti-war
 - imperialism
 - 2026-cascade

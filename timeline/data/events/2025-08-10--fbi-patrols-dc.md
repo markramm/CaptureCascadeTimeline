@@ -10,7 +10,7 @@ id: 2025-08-10--fbi-patrols-dc
 location: Washington, DC
 actors:
 - Donald Trump
-- FBI
+- Federal Bureau of Investigation
 - DC Metropolitan Police
 notes: FBI agents typically work at desks, lack training for community policing. Trump admin didn't consult DC police leadership on optimal deployment. Trump compared DC crime action to border crackdown. Week-long minimum deployment. Secret Service Uniformed Division also launched special patrols. Unprecedented use of FBI for street-level law enforcement.
 status: confirmed

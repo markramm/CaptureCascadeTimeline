@@ -1,40 +1,40 @@
 ---
-id: '1973-10-20--saturday-night-massacre-cox-fired'
+id: 1973-10-20--saturday-night-massacre-cox-fired
 date: '1973-10-20'
 title: 'Saturday Night Massacre: Nixon Fires Special Prosecutor Cox, Richardson and Ruckelshaus Resign in Protest'
 importance: 10
 actors:
-  - Richard Nixon
-  - Archibald Cox
-  - Elliot Richardson
-  - William Ruckelshaus
-  - Robert Bork
-  - FBI
+- Richard Nixon
+- Archibald Cox
+- Elliot Richardson
+- William Ruckelshaus
+- Robert Bork
+- Federal Bureau of Investigation
 tags:
-  - watergate
-  - obstruction-of-justice
-  - abuse-of-power
-  - institutional-corruption
-  - constitutional-crisis
+- watergate
+- obstruction-of-justice
+- abuse-of-power
+- institutional-corruption
+- constitutional-crisis
 sources:
-  - title: 'Saturday Night Massacre - Wikipedia'
-    url: 'https://en.wikipedia.org/wiki/Saturday_Night_Massacre'
-    outlet: 'Wikipedia'
-    date: '2024'
-    verified: true
-    tier: 3
-  - title: 'A Brief History Of Nixon''s ''Saturday Night Massacre'''
-    url: 'https://www.npr.org/2018/10/21/659279158/a-brief-history-of-nixons-saturday-night-massacre'
-    outlet: 'NPR'
-    date: '2018'
-    verified: true
-    tier: 1
-  - title: 'What Was the Saturday Night Massacre?'
-    url: 'https://www.history.com/articles/what-was-the-saturday-night-massacre'
-    outlet: 'History.com'
-    date: '2024'
-    verified: true
-    tier: 2
+- title: Saturday Night Massacre - Wikipedia
+  url: https://en.wikipedia.org/wiki/Saturday_Night_Massacre
+  outlet: Wikipedia
+  date: '2024'
+  verified: true
+  tier: 3
+- title: A Brief History Of Nixon's 'Saturday Night Massacre'
+  url: https://www.npr.org/2018/10/21/659279158/a-brief-history-of-nixons-saturday-night-massacre
+  outlet: NPR
+  date: '2018'
+  verified: true
+  tier: 1
+- title: What Was the Saturday Night Massacre?
+  url: https://www.history.com/articles/what-was-the-saturday-night-massacre
+  outlet: History.com
+  date: '2024'
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

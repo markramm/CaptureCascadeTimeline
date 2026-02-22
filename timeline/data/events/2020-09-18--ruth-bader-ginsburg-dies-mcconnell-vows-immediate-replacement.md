@@ -5,10 +5,10 @@ title: Justice Ruth Bader Ginsburg Dies 46 Days Before Election, McConnell Immed
 importance: 9
 status: confirmed
 tags:
-- supreme court
-- judicial appointments
+- supreme-court
+- judicial-appointments
 - hypocrisy
-- institutional corruption
+- institutional-corruption
 actors:
 - Ruth Bader Ginsburg
 - Mitch McConnell

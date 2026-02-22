@@ -32,16 +32,16 @@ actors:
 - Ayad Mansoor Sakat
 - Islamic State (ISIS)
 tags:
-- military operations
+- military-operations
 - syria
 - counterterrorism
-- defense department
-- national security
+- defense-department
+- national-security
 - pentagon
-- trump administration
+- trump-administration
 - isis
 - retaliation
-- iowa national guard
+- iowa-national-guard
 sources:
 - url: https://www.pbs.org/newshour/world/hegseth-announces-operation-to-eliminate-isis-fighters-in-syria-after-americans-killed
   title: Hegseth announces operation to 'eliminate ISIS fighters' in Syria after Americans killed

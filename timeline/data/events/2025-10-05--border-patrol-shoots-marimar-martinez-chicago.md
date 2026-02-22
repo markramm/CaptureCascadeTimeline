@@ -5,7 +5,7 @@ title: Border Patrol Agent Shoots US Citizen Marimar Martinez Five Times in Chic
 importance: 9
 tags:
 - police-violence
-- border patrol
+- border-patrol
 - civil-rights
 - chicago
 - immigration-enforcement

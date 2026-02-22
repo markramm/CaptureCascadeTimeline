@@ -4,7 +4,7 @@ date: '2021-11-22'
 title: SEC Fines McKinsey Subsidiary MIO Partners $18 Million for Puerto Rico Conflict of Interest and Material Nonpublic Information Violations
 importance: 9
 actors:
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 - MIO Partners
 - McKinsey & Company
 - Financial Oversight and Management Board for Puerto Rico

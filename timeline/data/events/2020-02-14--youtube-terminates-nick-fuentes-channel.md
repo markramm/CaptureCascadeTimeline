@@ -7,8 +7,8 @@ actors:
 - Nick Fuentes
 tags:
 - deplatforming
-- white nationalism
-- tech policy
+- white-nationalism
+- tech-policy
 sources:
 - title: Nick Fuentes
   url: https://en.wikipedia.org/wiki/Nick_Fuentes

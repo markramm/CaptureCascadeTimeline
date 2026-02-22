@@ -5,12 +5,12 @@ title: Judge Unseals Trump University Documents Revealing Predatory Sales Playbo
 status: confirmed
 importance: 9
 tags:
-- trump university
+- trump-university
 - fraud
-- consumer protection
-- court documents
-- sales tactics
-- judicial transparency
+- consumer-protection
+- court-documents
+- sales-tactics
+- judicial-transparency
 actors:
 - Gonzalo Curiel
 - Donald Trump

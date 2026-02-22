@@ -11,7 +11,7 @@ actors:
 - ACLU of Georgia
 - Fair Fight Action
 tags:
-- voter-purges
+- voter-purge
 - exact-match
 - conflict-of-interest
 - racial-disparity

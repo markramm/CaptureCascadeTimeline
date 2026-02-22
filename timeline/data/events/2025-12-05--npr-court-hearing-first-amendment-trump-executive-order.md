@@ -53,7 +53,7 @@ tags:
 - political-retaliation
 - public-media
 - viewpoint-discrimination
-- constitutional-violations
+- constitutional-violation
 - weaponization-of-government
 title: NPR First Amendment Lawsuit Against Trump Reaches Pivotal Court Hearing on Retaliatory Funding Cuts
 capture_lanes:

@@ -6,7 +6,7 @@ importance: 10
 actors:
 - Donald Trump
 - Pam Bondi
-- DOJ
+- U.S. Department of Justice
 sources:
 - title: Inside the Justice Department Where the President Calls the Shots
   url: https://www.wsj.com/politics/policy/trump-justice-department-attorney-general-bondi-84a2e8d4

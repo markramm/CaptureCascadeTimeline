@@ -16,7 +16,7 @@ tags:
 actors:
 - Pam Bondi
 - Department of Justice
-- FBI
+- Federal Bureau of Investigation
 - Trump Administration
 capture_lane: judicial
 status: confirmed

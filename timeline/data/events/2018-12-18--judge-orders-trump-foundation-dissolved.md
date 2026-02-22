@@ -4,11 +4,11 @@ date: 2018-12-18
 title: New York Judge Orders Trump Foundation Dissolved, Assets Distributed to Charities
 importance: 9
 tags:
-- trump foundation
-- charity fraud
-- ny attorney general
-- court order
-- saliann scarpulla
+- trump-foundation
+- charity-fraud
+- ny-attorney-general
+- court-order
+- saliann-scarpulla
 actors:
 - Saliann Scarpulla
 - Donald Trump

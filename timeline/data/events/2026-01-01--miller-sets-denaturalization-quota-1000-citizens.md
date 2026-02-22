@@ -6,7 +6,7 @@ importance: 9
 tags:
 - denaturalization
 - citizenship
-- stephen miller
+- stephen-miller
 - immigration
 - authoritarianism
 - civil-rights

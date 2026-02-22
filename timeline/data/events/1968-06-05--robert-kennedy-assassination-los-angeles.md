@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Robert F. Kennedy
 - Sirhan Sirhan
-- FBI
+- Federal Bureau of Investigation
 - LAPD
 tags:
 - political-violence

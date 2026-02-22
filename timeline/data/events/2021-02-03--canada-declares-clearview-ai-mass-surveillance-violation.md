@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 tags:
 - surveillance-state
-- privacy-violations
+- privacy-violation
 - international-law
 - regulatory-action
 sources:

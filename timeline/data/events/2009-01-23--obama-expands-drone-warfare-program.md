@@ -6,7 +6,7 @@ title: Obama Dramatically Expands CIA Drone Strike Program - Ten Times More Stri
 importance: 9
 actors:
 - Barack Obama
-- CIA
+- Central Intelligence Agency
 - John Brennan
 - Leon Panetta
 tags:

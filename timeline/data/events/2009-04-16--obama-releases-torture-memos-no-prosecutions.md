@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Barack Obama
 - Eric Holder
-- CIA
+- Central Intelligence Agency
 - John Yoo
 - Jay Bybee
 - David Addington

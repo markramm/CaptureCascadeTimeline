@@ -4,11 +4,11 @@ date: '2022-11-10'
 title: New York Adult Survivors Act Creates Window for Carroll to Sue Trump for Battery
 importance: 8
 tags:
-- adult survivors act
-- sexual assault
-- e. jean carroll
-- new york legislation
-- statute of limitations
+- adult-survivors-act
+- sexual-assault
+- e.-jean-carroll
+- new-york-legislation
+- statute-of-limitations
 actors:
 - E. Jean Carroll
 - Donald Trump

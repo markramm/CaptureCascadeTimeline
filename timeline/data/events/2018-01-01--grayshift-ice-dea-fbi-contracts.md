@@ -7,8 +7,8 @@ importance: 7
 actors:
 - Grayshift
 - Immigration and Customs Enforcement (ICE)
-- DEA
-- FBI
+- Drug Enforcement Administration
+- Federal Bureau of Investigation
 - U.S. Customs and Border Protection
 - U.S. Secret Service
 tags:

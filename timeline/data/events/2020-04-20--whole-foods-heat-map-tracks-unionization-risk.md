@@ -8,12 +8,12 @@ actors:
 - Amazon
 - Whole Foods
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
 - surveillance
-- data analytics
-- corporate accountability
+- data-analytics
+- corporate-accountability
 sources:
 - url: https://www.businessinsider.com/whole-foods-tracks-unionization-risk-with-heat-map-2020-1
   title: Whole Foods tracks unionization risk with heat map

@@ -9,7 +9,7 @@ actors:
 - George Santos
 tags:
 - executive-power
-- pardons
+- pardon
 - abuse-of-power
 - corruption
 - accountability-crisis

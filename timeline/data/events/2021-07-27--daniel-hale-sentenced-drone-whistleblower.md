@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 actors:
 - Daniel Hale
-- NSA
+- National Security Agency
 - The Intercept
 - Department of Justice
 - Biden Administration

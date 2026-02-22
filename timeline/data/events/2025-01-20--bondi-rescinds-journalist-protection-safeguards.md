@@ -3,13 +3,12 @@ date: '2025-01-20'
 title: Pam Bondi Rescinds Journalist Protection Safeguards as AG
 actors:
 - Pam Bondi
-- DOJ
+- U.S. Department of Justice
 - Merrick Garland
 - News Outlets
 - Bruce Brown
 sources:
-- title: The Trump administration spied on journalists. The Biden administration defended
-    it.
+- title: The Trump administration spied on journalists. The Biden administration defended it.
   url: https://www.cjr.org/the_media_today/trump_washington_post_surveillance_biden.php
   outlet: Columbia Journalism Review
 - title: Justice Department revokes Biden-era protections for reporters in leak investigations
@@ -21,7 +20,7 @@ sources:
 importance: 9
 tags:
 - pam-bondi
-- journalist-protections
+- journalist-protection
 - surveillance-policy
 - press-freedom-elimination
 - systematic-intimidation

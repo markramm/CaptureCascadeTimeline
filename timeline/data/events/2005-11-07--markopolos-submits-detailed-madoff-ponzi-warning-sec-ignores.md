@@ -15,7 +15,7 @@ tags:
 - financial-crime
 - whistleblower
 - institutional-failure
-- bernie madoff
+- bernie-madoff
 sources:
 - title: 'Madoff Whistleblower: SEC Failed To Do The Math'
   url: https://www.npr.org/2010/03/02/124208012/madoff-whistleblower-sec-failed-to-do-the-math

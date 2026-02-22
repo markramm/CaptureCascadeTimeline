@@ -4,10 +4,10 @@ date: 2014-03-01
 title: Trump Foundation Buys $20,000 Portrait of Trump at Charity Auction, Hangs in Trump Golf Club
 importance: 8
 tags:
-- trump foundation
-- charity fraud
+- trump-foundation
+- charity-fraud
 - self-dealing
-- tax violations
+- tax-violations
 actors:
 - Donald Trump
 - Trump Foundation

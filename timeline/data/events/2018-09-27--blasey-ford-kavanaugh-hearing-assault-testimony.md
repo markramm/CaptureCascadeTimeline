@@ -5,10 +5,10 @@ title: Christine Blasey Ford Delivers Credible, Emotional Testimony Alleging Kav
 importance: 9
 status: confirmed
 tags:
-- supreme court
-- sexual assault
-- judicial appointments
-- accountability crisis
+- supreme-court
+- sexual-assault
+- judicial-appointments
+- accountability-crisis
 - metoo
 actors:
 - Christine Blasey Ford

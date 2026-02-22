@@ -10,10 +10,10 @@ actors:
 - Mike Pence
 - Matthew Dunlap
 tags:
-- voter suppression
+- voter-suppression
 - disinformation
-- trump administration
-- republican party
+- trump-administration
+- republican-party
 sources:
 - title: Presidential Advisory Commission on Election Integrity - Wikipedia
   url: https://en.wikipedia.org/wiki/Presidential_Advisory_Commission_on_Election_Integrity

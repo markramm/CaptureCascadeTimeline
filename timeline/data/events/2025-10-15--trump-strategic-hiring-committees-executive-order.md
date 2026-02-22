@@ -9,7 +9,7 @@ actors:
 - Office of Personnel Management
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - institutional-capture
 - systematic-corruption
 sources:

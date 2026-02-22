@@ -6,7 +6,7 @@ title: NATO Tariff Deadline Passes After Trump Greenland Framework Agreement
 importance: 7
 actors:
 - Donald Trump
-- NATO
+- North Atlantic Treaty Organization
 - Denmark
 - Mark Rutte
 tags:

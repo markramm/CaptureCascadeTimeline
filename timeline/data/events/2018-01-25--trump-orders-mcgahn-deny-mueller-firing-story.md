@@ -5,12 +5,12 @@ title: New York Times Reveals Trump Ordered McGahn to Fire Mueller; Trump Subseq
 status: confirmed
 importance: 9
 tags:
-- obstruction of justice
-- mueller investigation
-- white house counsel
-- presidential abuse of power
-- don mcgahn
-- press manipulation
+- obstruction-of-justice
+- mueller-investigation
+- white-house-counsel
+- presidential-abuse-of-power
+- don-mcgahn
+- press-manipulation
 actors:
 - Donald Trump
 - Don McGahn

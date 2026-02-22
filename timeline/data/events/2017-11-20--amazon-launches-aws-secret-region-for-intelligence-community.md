@@ -6,7 +6,7 @@ status: confirmed
 importance: 9
 actors:
 - Amazon Web Services
-- CIA
+- Central Intelligence Agency
 - Intelligence Community
 tags:
 - surveillance-infrastructure

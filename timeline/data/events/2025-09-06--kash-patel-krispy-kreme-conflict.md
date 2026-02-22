@@ -5,7 +5,7 @@ title: FBI Director Kash Patel's Krispy Kreme Stock Purchase Raises Conflict of 
 importance: 8
 actors:
 - Kash Patel
-- FBI
+- Federal Bureau of Investigation
 - Krispy Kreme
 - Joe Neguse
 sources:
@@ -26,7 +26,7 @@ sources:
   outlet: Benzinga
 tags:
 - conflicts-of-interest
-- ethics-violations
+- ethics-violation
 - institutional-corruption
 capture_lanes:
 - Systematic Corruption

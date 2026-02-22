@@ -5,10 +5,10 @@ title: Trump Wears "Keep America Great" Campaign Hat During CDC Visit, Makes Fal
 importance: 7
 tags:
 - covid-19
-- public health
-- hatch act
+- public-health
+- hatch-act
 - disinformation
-- accountability crisis
+- accountability-crisis
 actors:
 - Donald Trump
 - Robert Redfield

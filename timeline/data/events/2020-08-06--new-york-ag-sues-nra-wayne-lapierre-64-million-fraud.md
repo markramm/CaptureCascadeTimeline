@@ -7,7 +7,7 @@ location: New York
 actors:
 - Wayne LaPierre
 - Letitia James
-- NRA
+- National Rifle Association
 - Wilson "Woody" Phillips
 - Joshua Powell
 - John Frazer

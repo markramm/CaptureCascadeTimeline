@@ -5,7 +5,7 @@ title: Amazon AWS Wins $600 Million CIA Cloud Contract
 importance: 9
 actors:
 - Amazon Web Services
-- CIA
+- Central Intelligence Agency
 - IBM
 tags:
 - surveillance-infrastructure

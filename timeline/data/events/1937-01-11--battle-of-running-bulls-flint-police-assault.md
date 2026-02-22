@@ -14,7 +14,7 @@ actors:
 tags:
 - labor-rights
 - police-violence
-- strikes
+- strike
 - sit-down-strikes
 - uaw
 - general-motors

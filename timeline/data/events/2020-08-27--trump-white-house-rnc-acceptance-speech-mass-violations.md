@@ -5,13 +5,13 @@ title: Trump Delivers RNC Acceptance Speech from White House South Lawn in Unpre
 importance: 9
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- republican national convention
-- white house
-- abuse of office
-- trump administration
-- rule of law
+- hatch-act
+- ethics-violation
+- republican-national-convention
+- white-house
+- abuse-of-office
+- trump-administration
+- rule-of-law
 actors:
 - Donald Trump
 - Melania Trump

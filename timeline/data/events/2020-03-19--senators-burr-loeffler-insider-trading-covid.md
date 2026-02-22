@@ -14,13 +14,13 @@ summary: 'Reports emerged that multiple U.S. Senators sold significant amounts o
 importance: 9
 status: confirmed
 tags:
-- congressional corruption
-- insider trading
-- republican party
+- congressional-corruption
+- insider-trading
+- republican-party
 - covid-19
-- stock act
-- elite impunity
-- political accountability
+- stock-act
+- elite-impunity
+- political-accountability
 actors:
 - Richard Burr
 - Kelly Loeffler

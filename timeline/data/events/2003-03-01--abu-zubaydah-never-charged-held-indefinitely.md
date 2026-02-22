@@ -6,7 +6,7 @@ title: Abu Zubaydah - Waterboarded 83 Times, Tortured for Years, Never Charged w
 importance: 9
 actors:
 - Abu Zubaydah
-- CIA
+- Central Intelligence Agency
 - James Mitchell
 - Bruce Jessen
 - Gina Haspel

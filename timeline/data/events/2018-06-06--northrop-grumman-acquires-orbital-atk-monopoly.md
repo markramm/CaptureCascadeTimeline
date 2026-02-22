@@ -11,13 +11,13 @@ actors:
 - U.S. Department of Defense
 - Boeing
 tags:
-- military-industrial complex
-- defense contractors
-- monopoly power
-- mergers and acquisitions
+- military-industrial-complex
+- defense-contractors
+- monopoly-power
+- mergers-and-acquisitions
 - antitrust
-- pentagon contracts
-- market consolidation
+- pentagon-contracts
+- market-consolidation
 sources:
 - url: https://www.ftc.gov/news-events/news/press-releases/2018/06/ftc-imposes-conditions-northrop-grummans-acquisition-solid-rocket-motor-supplier-orbital-atk-inc
   title: FTC Imposes Conditions on Northrop Grumman's Acquisition of Solid Rocket Motor Supplier Orbital ATK

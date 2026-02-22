@@ -11,7 +11,7 @@ actors:
 tags:
 - doj-weaponization
 - institutional-capture
-- ethics-violations
+- ethics-violation
 - political-corruption
 sources:
 - url: https://www.judiciary.senate.gov/imo/media/doc/2025-02-20%20SJC%20Dems%20Letter%20to%20DOJ%20re%20Ethics.pdf

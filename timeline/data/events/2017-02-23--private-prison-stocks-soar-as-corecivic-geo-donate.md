@@ -11,7 +11,7 @@ actors:
 - Immigration and Customs Enforcement (ICE)
 - Department of Justice
 tags:
-- private-prisons
+- private-prison
 - pay-to-play
 - immigration-detention
 - campaign-finance

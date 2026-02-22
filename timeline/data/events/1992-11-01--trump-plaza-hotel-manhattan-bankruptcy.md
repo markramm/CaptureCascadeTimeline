@@ -5,12 +5,12 @@ title: Trump Plaza Hotel in Manhattan Files for Bankruptcy Protection
 importance: 6
 tags:
 - bankruptcy
-- business failure
-- new york
-- hotels
-- financial history
+- business-failure
+- new-york
+- hotel
+- financial-history
 - debt
-- real estate
+- real-estate
 sources:
 - url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
   title: Yep, Donald Trump's companies have declared bankruptcy...more than four times

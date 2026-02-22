@@ -4,7 +4,7 @@ date: '1998-06-30'
 title: IMF Finalizes Systematic Economic Transformation of Southeast Asian Economies
 importance: 9
 actors:
-- IMF
+- International Monetary Fund
 - World Bank
 - Indonesian Government
 - Thai Government

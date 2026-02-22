@@ -47,16 +47,16 @@ actors:
 - Seth Moulton
 - House Committee on Homeland Security
 tags:
-- immigration enforcement
-- congressional oversight
+- immigration-enforcement
+- congressional-oversight
 - dhs
-- veterans affairs
+- veterans-affairs
 - deportation
-- military service
-- trump administration
-- constitutional rights
+- military-service
+- trump-administration
+- constitutional-rights
 - ice
-- congressional hearing
+- congressional-hearing
 sources:
 - url: https://abcnews.go.com/Politics/dhs-secretary-kristi-noem-confronted-veteran-contentious-hearing/story?id=128325824
   title: DHS Secretary Kristi Noem confronted about veteran in contentious hearing over deportations

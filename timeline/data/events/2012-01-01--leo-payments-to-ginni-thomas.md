@@ -58,7 +58,7 @@ tags:
 - federalist-society
 - judicial-capture
 - conflicts-of-interest
-- ethics-violations
+- ethics-violation
 - cnp
 - conservative-movement
 status: confirmed

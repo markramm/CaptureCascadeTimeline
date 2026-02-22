@@ -8,7 +8,7 @@ tags:
 - conflicts-of-interest
 - corruption
 - trump-organization
-- constitutional-violations
+- constitutional-violation
 actors:
 - Donald Trump
 - Sheri Dillon

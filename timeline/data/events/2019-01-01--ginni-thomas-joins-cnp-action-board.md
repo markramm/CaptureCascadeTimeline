@@ -8,7 +8,7 @@ tags:
 - cnp
 - conservative-movement
 - coordination
-- ethics-violations
+- ethics-violation
 - institutional-capture
 actors:
 - Ginni Thomas

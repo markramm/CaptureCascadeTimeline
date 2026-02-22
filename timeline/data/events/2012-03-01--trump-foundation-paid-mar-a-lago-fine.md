@@ -4,11 +4,11 @@ date: 2012-03-01
 title: Trump Foundation Illegally Used $158,000 in Charity Funds to Settle Mar-a-Lago Legal Dispute
 importance: 9
 tags:
-- trump foundation
-- charity fraud
+- trump-foundation
+- charity-fraud
 - self-dealing
 - mar-a-lago
-- tax violations
+- tax-violations
 actors:
 - Donald Trump
 - Trump Foundation

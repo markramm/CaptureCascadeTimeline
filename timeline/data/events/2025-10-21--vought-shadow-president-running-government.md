@@ -8,10 +8,10 @@ actors:
 - Donald Trump
 - Stephen Miller
 tags:
-- russ vought
-- project 2025
-- shadow government
-- trump decline
+- russ-vought
+- project-2025
+- shadow-government
+- trump-decline
 sources:
 - title: 'Shadow President: Project 2025 Architect Russell Vought Using Shutdown to Gut Agencies'
   url: https://www.democracynow.org/2025/10/21/russell_vought_propublica_shadow_president

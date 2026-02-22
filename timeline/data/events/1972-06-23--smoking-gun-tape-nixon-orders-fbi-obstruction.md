@@ -1,40 +1,40 @@
 ---
-id: '1972-06-23--smoking-gun-tape-nixon-orders-fbi-obstruction'
+id: 1972-06-23--smoking-gun-tape-nixon-orders-fbi-obstruction
 date: '1972-06-23'
 title: 'Smoking Gun Tape: Nixon Orders CIA to Block FBI Watergate Investigation'
 importance: 10
 actors:
-  - Richard Nixon
-  - H.R. Haldeman
-  - Vernon Walters
-  - L. Patrick Gray
-  - CIA
-  - FBI
+- Richard Nixon
+- H.R. Haldeman
+- Vernon Walters
+- L. Patrick Gray
+- Central Intelligence Agency
+- Federal Bureau of Investigation
 tags:
-  - watergate
-  - obstruction-of-justice
-  - abuse-of-power
-  - intelligence-agencies
-  - institutional-corruption
+- watergate
+- obstruction-of-justice
+- abuse-of-power
+- intelligence-agencies
+- institutional-corruption
 sources:
-  - title: 'The Smoking Gun Tape'
-    url: 'https://watergate.info/1972/06/23/the-smoking-gun-tape.html/'
-    outlet: 'Watergate.info'
-    date: '2024'
-    verified: true
-    tier: 2
-  - title: 'Haldeman encourages Nixon, on tape, to thwart FBI inquiry into Watergate'
-    url: 'https://www.history.com/this-day-in-history/june-23/haldeman-encourages-nixon-to-ward-off-fbi'
-    outlet: 'History.com'
-    date: '2024'
-    verified: true
-    tier: 2
-  - title: 'Smoking Gun | Miller Center'
-    url: 'https://millercenter.org/smoking-gun'
-    outlet: 'Miller Center'
-    date: '2024'
-    verified: true
-    tier: 1
+- title: The Smoking Gun Tape
+  url: https://watergate.info/1972/06/23/the-smoking-gun-tape.html/
+  outlet: Watergate.info
+  date: '2024'
+  verified: true
+  tier: 2
+- title: Haldeman encourages Nixon, on tape, to thwart FBI inquiry into Watergate
+  url: https://www.history.com/this-day-in-history/june-23/haldeman-encourages-nixon-to-ward-off-fbi
+  outlet: History.com
+  date: '2024'
+  verified: true
+  tier: 2
+- title: Smoking Gun | Miller Center
+  url: https://millercenter.org/smoking-gun
+  outlet: Miller Center
+  date: '2024'
+  verified: true
+  tier: 1
 status: confirmed
 capture_lanes:
 - Judicial Capture

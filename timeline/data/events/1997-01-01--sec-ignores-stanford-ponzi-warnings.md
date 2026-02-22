@@ -16,7 +16,7 @@ tags:
 - financial-crime
 - corruption
 - institutional-failure
-- allen stanford
+- allen-stanford
 sources:
 - title: Investigation of the SEC's Response to Concerns Regarding Robert Allen Stanford's Alleged Ponzi Scheme
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigation-secs-response-concerns-regarding-robert-allen

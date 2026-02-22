@@ -7,7 +7,7 @@ actors:
 - J. Edgar Hoover
 - Robert F. Kennedy
 - Martin Luther King Jr.
-- FBI
+- Federal Bureau of Investigation
 - Stanley Levison
 tags:
 - surveillance

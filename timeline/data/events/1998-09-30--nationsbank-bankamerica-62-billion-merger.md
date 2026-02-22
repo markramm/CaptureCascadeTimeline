@@ -11,7 +11,7 @@ actors:
 - Hugh McColl
 tags:
 - banking-consolidation
-- mergers
+- merger
 - glass-steagall
 - deregulation
 - market-concentration

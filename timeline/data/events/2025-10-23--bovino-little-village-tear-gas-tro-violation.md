@@ -6,7 +6,7 @@ importance: 10
 tags:
 - gregory-bovino
 - border-patrol
-- constitutional-violations
+- constitutional-violation
 - judicial-defiance
 - use-of-force
 - tear-gas

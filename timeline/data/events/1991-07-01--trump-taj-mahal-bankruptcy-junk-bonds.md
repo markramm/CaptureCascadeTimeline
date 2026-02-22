@@ -6,10 +6,10 @@ importance: 7
 status: confirmed
 tags:
 - bankruptcy
-- business failure
-- atlantic city
-- casinos
-- financial history
+- business-failure
+- atlantic-city
+- casino
+- financial-history
 - debt
 sources:
 - url: https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city

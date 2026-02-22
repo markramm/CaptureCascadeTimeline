@@ -12,7 +12,7 @@ tags:
 actors:
 - Dilma Rousseff
 - Barack Obama
-- NSA
+- National Security Agency
 - Edward Snowden
 - Glenn Greenwald
 - Petrobras

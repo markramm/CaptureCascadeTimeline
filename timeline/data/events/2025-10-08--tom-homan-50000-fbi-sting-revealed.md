@@ -6,9 +6,9 @@ importance: 9
 actors:
 - Tom Homan
 - Pam Bondi
-- FBI
+- Federal Bureau of Investigation
 - Emil Bove
-- DOJ
+- U.S. Department of Justice
 sources:
 - title: Tom Homan Was Said to Have Received $50,000 From Agents. He May Not Have to Return It.
   url: https://www.nytimes.com/2025/10/08/us/politics/tom-homan-fbi-investigation.html

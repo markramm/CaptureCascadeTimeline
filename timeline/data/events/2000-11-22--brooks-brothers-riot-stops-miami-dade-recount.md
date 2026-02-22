@@ -12,10 +12,10 @@ actors:
 - Enron
 - Halliburton
 tags:
-- election manipulation
-- republican party
-- political violence
-- institutional capture
+- election-manipulation
+- republican-party
+- political-violence
+- institutional-capture
 sources:
 - title: Brooks Brothers riot - Wikipedia
   url: https://en.wikipedia.org/wiki/Brooks_Brothers_riot

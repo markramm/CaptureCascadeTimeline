@@ -10,11 +10,11 @@ actors:
 - U.S. Department of Defense
 - Palmer Luckey
 tags:
-- autonomous weapons
-- ai weapons
-- military-industrial complex
-- tech industry
-- defense contractors
+- autonomous-weapons
+- ai-weapons
+- military-industrial-complex
+- tech-industry
+- defense-contractors
 sources:
 - title: We saw a demo of the new AI system powering Anduril's vision for war
   url: https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/

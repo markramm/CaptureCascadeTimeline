@@ -18,12 +18,12 @@ tags:
 - dhs
 - ice
 - cbp
-- deportations
+- deportation
 - drug-seizures
-- coast guard
+- coast-guard
 - enforcement-statistics
-- trump administration
-- kristi noem
+- trump-administration
+- kristi-noem
 capture_lanes:
 - Civil Rights Suppression
 - Executive Power Expansion

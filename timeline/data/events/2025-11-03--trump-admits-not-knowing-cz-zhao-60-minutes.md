@@ -4,7 +4,7 @@ date: '2025-11-03'
 title: Trump Admits on 60 Minutes He Doesn't Know Changpeng Zhao, the Binance Founder He Pardoned
 importance: 9
 tags:
-- pardons
+- pardon
 - corruption
 - cryptocurrency
 - 60-minutes

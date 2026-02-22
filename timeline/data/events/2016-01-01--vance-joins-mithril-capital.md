@@ -5,9 +5,9 @@ title: J.D. Vance Joins Peter Thiel's Mithril Capital as Principal
 description: Following publication of "Hillbilly Elegy," J.D. Vance joins Peter Thiel's venture capital firm Mithril Capital as principal, deepening financial and ideological ties. Position provides Vance with Silicon Valley credentials and wealth while aligning him with Thiel's network of anti-establishment conservatives planning political disruption through tech-enabled strategies.
 importance: 6
 tags:
-- j.d. vance
-- peter thiel
-- mithril capital
+- j.d.-vance
+- peter-thiel
+- mithril-capital
 - venture-capital
 - silicon-valley
 - political-pipeline

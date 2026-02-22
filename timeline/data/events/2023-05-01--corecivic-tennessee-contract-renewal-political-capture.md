@@ -10,7 +10,7 @@ actors:
 - Tennessee State Building Commission
 location: Nashville, Tennessee
 tags:
-- private-prisons
+- private-prison
 - campaign-finance
 - government-contracts
 - regulatory-capture

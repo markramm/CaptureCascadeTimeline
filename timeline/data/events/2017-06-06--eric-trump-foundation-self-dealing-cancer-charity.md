@@ -5,11 +5,11 @@ title: Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organiza
   Businesses
 importance: 8
 tags:
-- eric trump
-- trump foundation
-- charity fraud
+- eric-trump
+- trump-foundation
+- charity-fraud
 - self-dealing
-- trump organization
+- trump-organization
 actors:
 - Eric Trump
 - Donald Trump

@@ -7,10 +7,10 @@ actors:
 - Donald Trump
 - U.S. Supreme Court
 tags:
-- supreme court
+- supreme-court
 - tariffs
-- emergency powers
-- separation of powers
+- emergency-powers
+- separation-of-powers
 - ieepa
 sources:
 - title: Supreme Court justices appear skeptical that Trump tariffs are legal

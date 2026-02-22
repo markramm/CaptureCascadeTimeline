@@ -14,7 +14,7 @@ tags:
 - aca-sabotage
 - supreme-court
 - subsidies
-- legal-challenges
+- legal-challenge
 - conservative-litigation
 sources:
 - title: King v. Burwell, 576 U.S. 473 (2015)

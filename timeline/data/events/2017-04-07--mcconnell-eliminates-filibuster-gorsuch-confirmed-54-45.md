@@ -5,11 +5,11 @@ title: McConnell Invokes Nuclear Option, Eliminates Filibuster for Supreme Court
 importance: 9
 status: confirmed
 tags:
-- supreme court
-- judicial appointments
-- senate rules
-- institutional corruption
-- nuclear option
+- supreme-court
+- judicial-appointments
+- senate-rules
+- institutional-corruption
+- nuclear-option
 actors:
 - Mitch McConnell
 - Neil Gorsuch

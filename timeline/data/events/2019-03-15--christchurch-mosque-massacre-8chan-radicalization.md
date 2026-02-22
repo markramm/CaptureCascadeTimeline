@@ -5,10 +5,10 @@ title: 'Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live
 importance: 10
 tags:
 - 8chan
-- white nationalism
-- mass shooting
-- online radicalization
-- gaming culture
+- white-nationalism
+- mass-shooting
+- online-radicalization
+- gaming-culture
 sources:
 - title: 'Christchurch shootings: 49 killed in New Zealand mosque attacks'
   url: https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead

@@ -5,13 +5,13 @@ title: Paul Manafort Sentenced to Combined 7.5 Years in Federal Prison, Longest 
 importance: 8
 status: confirmed
 tags:
-- mueller investigation
-- paul manafort
+- mueller-investigation
+- paul-manafort
 - sentencing
-- judicial bias
-- presidential pardons
-- tax fraud
-- bank fraud
+- judicial-bias
+- presidential-pardon
+- tax-fraud
+- bank-fraud
 actors:
 - Paul Manafort
 - Donald Trump

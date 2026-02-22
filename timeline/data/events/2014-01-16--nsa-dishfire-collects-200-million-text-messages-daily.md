@@ -10,7 +10,7 @@ tags:
 - text-message-surveillance
 - metadata-collection
 actors:
-- NSA
+- National Security Agency
 - GCHQ
 - Edward Snowden
 sources:

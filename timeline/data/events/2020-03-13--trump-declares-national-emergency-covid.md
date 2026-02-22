@@ -5,9 +5,9 @@ title: Trump Declares National Emergency for COVID-19 After Weeks of Denialism a
 importance: 8
 tags:
 - covid-19
-- public health
-- accountability crisis
-- federal response
+- public-health
+- accountability-crisis
+- federal-response
 actors:
 - Donald Trump
 - Alex Azar

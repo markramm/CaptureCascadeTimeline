@@ -10,7 +10,7 @@ actors:
 - Kash Patel
 - Igor Lopatonok
 - Global Tree Pictures
-- FBI
+- Federal Bureau of Investigation
 - Tucker Carlson Network
 - Senate Judiciary Committee
 tags:
@@ -20,7 +20,7 @@ tags:
 - russia
 - foreign-influence
 - kash-patel
-- national-security-risks
+- national-security-risk
 capture_type: monetizing_position
 sources:
 - title: Kash Patel Under Scrutiny Over Payment From Russian-Owned Film Company

@@ -6,7 +6,7 @@ importance: 9
 tags:
 - project-2025
 - trump-administration
-- executive-actions
+- executive-action
 - conservative-policy
 - federal-workforce
 - institutional-transformation

@@ -8,7 +8,7 @@ actors:
 - Eric Lichtblau
 - New York Times
 - George W. Bush
-- NSA
+- National Security Agency
 tags:
 - pulitzer-prize
 - whistleblowing

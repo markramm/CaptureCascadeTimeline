@@ -26,8 +26,8 @@ sources:
   tier: 2
   outlet: Trump Tyranny Tracker
 actors:
-- DOJ
-- FBI
+- U.S. Department of Justice
+- Federal Bureau of Investigation
 - U.S. Secret Service
 - Barbara Wien
 - Stephen Miller

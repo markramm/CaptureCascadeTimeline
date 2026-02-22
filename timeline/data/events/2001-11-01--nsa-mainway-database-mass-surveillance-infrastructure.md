@@ -4,11 +4,11 @@ date: '2001-11-01'
 importance: 9
 title: NSA Launches MAINWAY Database for Mass Metadata Collection
 actors:
-- NSA
+- National Security Agency
 - AT&T
 - Verizon
 - T-Mobile
-- FBI
+- Federal Bureau of Investigation
 - Dick Cheney
 - Michael Hayden
 tags:

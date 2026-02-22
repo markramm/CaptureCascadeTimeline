@@ -10,8 +10,8 @@ actors:
 tags:
 - gamergate
 - 4chan
-- online radicalization
-- steve bannon
+- online-radicalization
+- steve-bannon
 - alt-right
 sources:
 - title: Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream

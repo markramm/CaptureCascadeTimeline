@@ -5,7 +5,7 @@ title: FBI Redacted Trump's Name from Jeffrey Epstein Files Under Privacy Protec
 importance: 9
 status: confirmed
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Department of Justice
 - Donald Trump
 - Jeffrey Epstein

@@ -2,8 +2,7 @@
 id: 2004-06-28--whig-torture-memo-executive-immunity
 date: '2004-06-28'
 importance: 9
-title: WHIG-Enabled Torture Authorization Establishes Executive Immunity Precedent
-  for Constitutional Crisis Governance
+title: WHIG-Enabled Torture Authorization Establishes Executive Immunity Precedent for Constitutional Crisis Governance
 actors:
 - John Yoo
 - Jay Bybee
@@ -12,7 +11,7 @@ actors:
 - Department of Justice
 - Dick Cheney
 - Donald Rumsfeld
-- CIA
+- Central Intelligence Agency
 - Constitutional Framework
 - International Legal Framework
 tags:

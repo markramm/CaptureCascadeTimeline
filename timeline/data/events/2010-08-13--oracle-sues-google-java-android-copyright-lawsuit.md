@@ -6,7 +6,7 @@ importance: 7
 tags:
 - oracle
 - intellectual-property
-- lawsuits
+- lawsuit
 - anti-competitive
 - java
 actors:

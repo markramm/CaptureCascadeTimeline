@@ -12,7 +12,7 @@ tags:
 - privacy-rights
 actors:
 - Yahoo
-- NSA
+- National Security Agency
 - FISA Court
 - Foreign Intelligence Surveillance Court of Review
 sources:

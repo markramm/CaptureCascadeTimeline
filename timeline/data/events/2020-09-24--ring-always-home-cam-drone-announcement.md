@@ -28,7 +28,7 @@ sources:
 status: confirmed
 tags:
 - ring
-- drone
+- drones
 - surveillance
 - always-home-cam
 - amazon

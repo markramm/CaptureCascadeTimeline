@@ -12,7 +12,7 @@ tags:
 - law-enforcement
 actors:
 - Chainalysis
-- FBI
+- Federal Bureau of Investigation
 - Internal Revenue Service
 sources:
 - url: https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government

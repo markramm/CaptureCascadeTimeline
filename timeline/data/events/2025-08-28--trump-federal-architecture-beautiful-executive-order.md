@@ -9,7 +9,7 @@ actors:
 - General Services Administration
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - presidential-authority
 - institutional-capture
 sources:

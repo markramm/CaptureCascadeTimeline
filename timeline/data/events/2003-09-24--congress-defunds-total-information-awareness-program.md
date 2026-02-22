@@ -12,7 +12,7 @@ actors:
 - DARPA
 - Information Awareness Office
 - John Poindexter
-- NSA
+- National Security Agency
 - Advanced Research and Development Activity
 tags:
 - surveillance

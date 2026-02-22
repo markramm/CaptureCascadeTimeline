@@ -7,10 +7,10 @@ actors:
 - Jeff Bezos
 - Amazon
 tags:
-- worker exploitation
-- corporate accountability
+- worker-exploitation
+- corporate-accountability
 - amazon
-- labor rights
+- labor-rights
 sources:
 - url: https://www.cnn.com/2018/10/04/business/amazon-minimum-wage-bonus/index.html
   title: Amazon eliminates bonuses, stock awards for hourly workers

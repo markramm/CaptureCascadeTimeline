@@ -4,35 +4,35 @@ date: '1968-04-04'
 title: Martin Luther King Jr. Assassinated in Memphis While Supporting Striking Sanitation Workers
 importance: 10
 actors:
-  - Martin Luther King Jr.
-  - James Earl Ray
-  - FBI
-  - Memphis Police
+- Martin Luther King Jr.
+- James Earl Ray
+- Federal Bureau of Investigation
+- Memphis Police
 tags:
-  - civil-rights
-  - violence
-  - assassination
-  - institutional-racism
-  - democratic-erosion
+- civil-rights
+- violence
+- assassination
+- institutional-racism
+- democratic-erosion
 sources:
-  - title: "Assassination of Martin Luther King, Jr."
-    url: "https://kinginstitute.stanford.edu/assassination-martin-luther-king-jr"
-    outlet: "Martin Luther King Jr. Research and Education Institute"
-    date: 2024-04-04
-    verified: true
-    tier: 2
-  - title: "Findings on MLK Assassination"
-    url: "https://www.archives.gov/research/jfk/select-committee-report/part-2a.html"
-    outlet: "National Archives"
-    date: 2024-04-01
-    verified: true
-    tier: 1
-  - title: "Dr. Martin Luther King Jr. is assassinated"
-    url: "https://www.history.com/this-day-in-history/april-4/dr-king-is-assassinated"
-    outlet: "History Channel"
-    date: 2024-04-04
-    verified: true
-    tier: 2
+- title: Assassination of Martin Luther King, Jr.
+  url: https://kinginstitute.stanford.edu/assassination-martin-luther-king-jr
+  outlet: Martin Luther King Jr. Research and Education Institute
+  date: 2024-04-04
+  verified: true
+  tier: 2
+- title: Findings on MLK Assassination
+  url: https://www.archives.gov/research/jfk/select-committee-report/part-2a.html
+  outlet: National Archives
+  date: 2024-04-01
+  verified: true
+  tier: 1
+- title: Dr. Martin Luther King Jr. is assassinated
+  url: https://www.history.com/this-day-in-history/april-4/dr-king-is-assassinated
+  outlet: History Channel
+  date: 2024-04-04
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

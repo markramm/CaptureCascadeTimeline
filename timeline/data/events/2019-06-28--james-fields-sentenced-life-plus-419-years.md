@@ -8,9 +8,9 @@ actors:
 - Heather Heyer
 - Susan Bro
 tags:
-- white nationalism
+- white-nationalism
 - extremism
-- domestic terrorism
+- domestic-terrorism
 - hate-crimes
 - alt-right
 status: confirmed

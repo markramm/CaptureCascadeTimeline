@@ -9,7 +9,7 @@ tags:
 - antitrust
 - facebook
 - meta
-- acquisitions
+- acquisition
 actors:
 - Facebook Inc.
 - Mark Zuckerberg

@@ -4,10 +4,10 @@ date: '2019-11-16'
 title: OMB Official Mark Sandy Testifies on Ukraine Aid Freeze, Reveals Two Colleagues Resigned Over Concerns
 importance: 8
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
 - ukraine
 - impeachment
 actors:

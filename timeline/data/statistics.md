@@ -1,11 +1,11 @@
 # Timeline Statistics Report
 
-Generated: 2026-02-21 18:44:21
+Generated: 2026-02-21 19:34:15
 
 ## Overview
 - **Total Events**: 4238
 - **Date Range**: 1142-01-01 to 2026-02-15
-- **Total Sources**: 14701
+- **Total Sources**: 14709
 - **Unique Tags**: 6468
 - **Unique Actors**: 7667
 

@@ -11,7 +11,7 @@ actors:
 - TikTok
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - tech-policy
 - corruption
 sources:

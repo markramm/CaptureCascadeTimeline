@@ -6,7 +6,7 @@ title: Fifth Circuit Finds Biden Administration Violated First Amendment Through
 actors:
 - Fifth Circuit Court of Appeals
 - White House
-- FBI
+- Federal Bureau of Investigation
 - Centers for Disease Control and Prevention
 - Surgeon General
 - Social media platforms

@@ -32,7 +32,7 @@ tags:
 - suspicious-transactions
 - russian-finance
 - trump-finances
-- financial-crimes
+- financial-crime
 status: confirmed
 id: 2016-01-01--deutsche-bank-flags-trump-russia-transactions
 priority_id: russian-influence-networks-1757456698

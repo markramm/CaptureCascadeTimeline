@@ -28,7 +28,7 @@ tags:
 - state-repression
 - labor-suppression
 - fbi
-- deportations
+- deportation
 status: confirmed
 capture_lanes:
 - Democratic Erosion

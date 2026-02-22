@@ -5,13 +5,13 @@ title: Interior IG Investigates Bernhardt for California Water Decision Benefiti
 importance: 8
 status: confirmed
 tags:
-- cabinet corruption
-- ethics violations
-- david bernhardt
-- interior department
-- inspector general
-- conflicts of interest
-- westlands water district
+- cabinet-corruption
+- ethics-violation
+- david-bernhardt
+- interior-department
+- inspector-general
+- conflicts-of-interest
+- westlands-water-district
 actors:
 - David Bernhardt
 - Westlands Water District

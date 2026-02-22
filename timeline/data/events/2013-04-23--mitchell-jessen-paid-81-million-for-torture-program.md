@@ -6,7 +6,7 @@ importance: 8
 actors:
 - James Mitchell
 - Bruce Jessen
-- CIA
+- Central Intelligence Agency
 - George Tenet
 tags:
 - torture

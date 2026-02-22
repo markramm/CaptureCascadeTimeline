@@ -1,9 +1,8 @@
 ---
 date: '2017-04-15'
-title: DOJ Begins Surveillance of Washington Post Journalists Reporting on Russia
-  Investigation
+title: DOJ Begins Surveillance of Washington Post Journalists Reporting on Russia Investigation
 actors:
-- DOJ
+- U.S. Department of Justice
 - Ellen Nakashima
 - Greg Miller
 - Adam Entous
@@ -13,8 +12,7 @@ sources:
 - title: Trump DOJ secretly obtained phone records of Washington Post reporters
   url: https://www.cnn.com/2021/05/08/media/trump-doj-reporter-washington-post
   outlet: CNN
-- title: A House Panel Will Investigate Trump Era Surveillance By The Department Of
-    Justice
+- title: A House Panel Will Investigate Trump Era Surveillance By The Department Of Justice
   url: https://www.npr.org/2021/06/14/1006417513/a-house-panel-will-investigate-trump-era-surveillance-by-the-department-of-justi
   outlet: NPR
 - title: Why did the Trump DOJ secretly seize phone records from Post journalists?

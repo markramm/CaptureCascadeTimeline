@@ -9,7 +9,7 @@ actors:
 - Mark Rutte
 - Emmanuel Macron
 - Mark Carney
-- NATO
+- North Atlantic Treaty Organization
 tags:
 - davos
 - greenland

@@ -12,7 +12,7 @@ actors:
 - Office of the Comptroller of the Currency
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - financial-regulation
 - institutional-capture
 sources:

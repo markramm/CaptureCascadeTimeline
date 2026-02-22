@@ -9,7 +9,7 @@ actors:
 - Studio executives
 - House Un-American Activities Committee
 - American Legion
-- FBI
+- Federal Bureau of Investigation
 - J. Edgar Hoover
 tags:
 - mccarthyism

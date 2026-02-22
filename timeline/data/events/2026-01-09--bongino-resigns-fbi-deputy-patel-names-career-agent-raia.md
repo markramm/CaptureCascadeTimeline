@@ -7,7 +7,7 @@ actors:
 - Dan Bongino
 - Kash Patel
 - Christopher Raia
-- FBI
+- Federal Bureau of Investigation
 tags:
 - fbi
 - kash-patel

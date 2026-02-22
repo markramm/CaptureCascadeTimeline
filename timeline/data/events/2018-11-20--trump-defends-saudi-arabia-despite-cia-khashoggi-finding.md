@@ -17,7 +17,7 @@ tags:
 actors:
 - Donald Trump
 - Mohammed bin Salman
-- CIA
+- Central Intelligence Agency
 - King Salman
 - Gina Haspel
 sources:

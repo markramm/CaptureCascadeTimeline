@@ -14,12 +14,12 @@ summary: 'U.S. Senator Ted Stevens (R-AK), the longest-serving Republican senato
   '
 importance: 8
 tags:
-- congressional corruption
-- republican party
+- congressional-corruption
+- republican-party
 - alaska
-- prosecutorial misconduct
-- ethics violations
-- political accountability
+- prosecutorial-misconduct
+- ethics-violation
+- political-accountability
 actors:
 - Ted Stevens
 - Bill Allen

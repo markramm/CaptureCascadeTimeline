@@ -5,11 +5,11 @@ title: Bolton Book Manuscript Reveals Trump Directly Tied Ukraine Aid to Biden I
 importance: 10
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
-- quid pro quo
+- quid-pro-quo
 - bolton
-- senate trial
+- senate-trial
 actors:
 - John Bolton
 - Donald Trump

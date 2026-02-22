@@ -7,7 +7,7 @@ actors:
 - Alexia Palmer
 - Trump Model Management
 - Donald Trump
-- Federal Court
+- Federal Courts
 - Judge Analisa Torres
 tags:
 - legal-proceedings

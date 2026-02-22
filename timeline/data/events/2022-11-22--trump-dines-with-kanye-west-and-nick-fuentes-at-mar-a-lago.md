@@ -9,9 +9,9 @@ actors:
 - Kanye West
 tags:
 - trump
-- white nationalism
+- white-nationalism
 - antisemitism
-- 2024 election
+- 2024-election
 sources:
 - title: The inside story of Trump's explosive dinner with Ye and Nick Fuentes
   url: https://www.nbcnews.com/politics/donald-trump/story-trumps-explosive-dinner-ye-nick-fuentes-rcna59010

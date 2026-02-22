@@ -11,7 +11,7 @@ actors:
 - Margaret Hunter
 - Chris Christie
 tags:
-- pardons
+- pardon
 - corruption
 - nepotism
 - abuse-of-power

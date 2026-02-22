@@ -8,7 +8,7 @@ actors:
 - Booz Allen Hamilton
 - SAIC
 - CACI
-- NSA
+- National Security Agency
 - Edward Snowden
 - Mike McConnell
 tags:

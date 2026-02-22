@@ -6,7 +6,7 @@ actors:
 - YouTube
 - Google
 - QAnon movement
-- FBI
+- Federal Bureau of Investigation
 - QAnon believers
 - Platform researchers
 importance: 8

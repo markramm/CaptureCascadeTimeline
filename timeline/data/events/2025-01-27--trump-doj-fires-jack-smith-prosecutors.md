@@ -7,7 +7,7 @@ tags:
 - doj-weaponization
 - trump-administration
 - special-counsel
-- prosecutor-firings
+- prosecutor-firing
 - jack-smith
 - career-prosecutors
 - institutional-capture

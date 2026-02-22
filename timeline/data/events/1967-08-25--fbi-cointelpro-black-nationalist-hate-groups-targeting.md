@@ -4,36 +4,36 @@ date: '1967-08-25'
 title: FBI COINTELPRO Launches Black Nationalist Hate Groups Program Targeting Civil Rights Leaders
 importance: 9
 actors:
-  - J. Edgar Hoover
-  - FBI
-  - Martin Luther King Jr.
-  - Black Panther Party
-  - William C. Sullivan
+- J. Edgar Hoover
+- Federal Bureau of Investigation
+- Martin Luther King Jr.
+- Black Panther Party
+- William C. Sullivan
 tags:
-  - surveillance
-  - civil-rights
-  - fbi-abuse
-  - institutional-corruption
-  - democratic-erosion
+- surveillance
+- civil-rights
+- fbi-abuse
+- institutional-corruption
+- democratic-erosion
 sources:
-  - title: "Federal Bureau of Investigation (FBI)"
-    url: "https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi"
-    outlet: "Martin Luther King Jr. Research and Education Institute"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "Discredit, disrupt, and destroy: FBI records reveal violent surveillance of Black leaders"
-    url: "https://www.lib.berkeley.edu/about/news/fbi"
-    outlet: "UC Berkeley Library"
-    date: 2024-02-01
-    verified: true
-    tier: 2
-  - title: "The History of Surveillance and the Black Community"
-    url: "https://www.eff.org/deeplinks/2014/02/history-surveillance-and-black-community"
-    outlet: "Electronic Frontier Foundation"
-    date: 2024-02-15
-    verified: true
-    tier: 2
+- title: Federal Bureau of Investigation (FBI)
+  url: https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi
+  outlet: Martin Luther King Jr. Research and Education Institute
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: 'Discredit, disrupt, and destroy: FBI records reveal violent surveillance of Black leaders'
+  url: https://www.lib.berkeley.edu/about/news/fbi
+  outlet: UC Berkeley Library
+  date: 2024-02-01
+  verified: true
+  tier: 2
+- title: The History of Surveillance and the Black Community
+  url: https://www.eff.org/deeplinks/2014/02/history-surveillance-and-black-community
+  outlet: Electronic Frontier Foundation
+  date: 2024-02-15
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

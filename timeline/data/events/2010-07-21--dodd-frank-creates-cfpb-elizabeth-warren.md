@@ -13,7 +13,7 @@ tags:
 - regulatory-capture
 - predatory-lending
 - financial-reform
-- elizabeth warren
+- elizabeth-warren
 - institutional-creation
 sources:
 - title: Consumer Financial Protection Bureau

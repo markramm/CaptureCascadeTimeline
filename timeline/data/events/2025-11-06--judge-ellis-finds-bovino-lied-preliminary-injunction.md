@@ -8,7 +8,7 @@ tags:
 - judge-sara-ellis
 - judicial-rebuke
 - perjury
-- constitutional-violations
+- constitutional-violation
 - accountability
 - chicago
 - operation-midway-blitz

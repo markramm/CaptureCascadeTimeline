@@ -7,7 +7,7 @@ actors:
 - Franklin D. Roosevelt
 - Federal Trade Commission
 - Electric utility industry
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 sources:
 - title: Public Utility Holding Company Act of 1935
   outlet: Wikipedia

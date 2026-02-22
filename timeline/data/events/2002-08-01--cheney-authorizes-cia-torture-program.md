@@ -8,9 +8,9 @@ actors:
 - George W. Bush
 - David Addington
 - John Yoo
-- CIA
+- Central Intelligence Agency
 - DOJ Office of Legal Counsel
-- FBI
+- Federal Bureau of Investigation
 - International Red Cross
 tags:
 - torture
@@ -29,8 +29,7 @@ sources:
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
   outlet: Senate Select Committee on Intelligence
   date: '2014-12-09'
-- title: 'The Dark Side: The Inside Story of How The War on Terror Turned Into a War
-    on American Ideals'
+- title: 'The Dark Side: The Inside Story of How The War on Terror Turned Into a War on American Ideals'
   url: https://www.penguinrandomhouse.com/books/294688/the-dark-side-by-jane-mayer/
   outlet: Jane Mayer
   date: '2008-07-01'
@@ -42,8 +41,7 @@ sources:
   url: https://www.aclu.org/other/fbi-e-mails-detail-objections-cia-torture-techniques
   outlet: American Civil Liberties Union
   date: '2004-12-20'
-- title: Report of the International Committee of the Red Cross on the Treatment of
-    Fourteen 'High Value Detainees'
+- title: Report of the International Committee of the Red Cross on the Treatment of Fourteen 'High Value Detainees'
   url: https://assets.documentcloud.org/documents/278885/icrc-report-on-the-treatment-of-fourteen-high.pdf
   outlet: International Committee of the Red Cross
   date: '2007-02-14'

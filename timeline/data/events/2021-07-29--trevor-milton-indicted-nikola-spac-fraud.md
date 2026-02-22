@@ -8,7 +8,7 @@ actors:
 - Trevor Milton
 - Nikola Corporation
 - Securities and Exchange Commission
-- DOJ
+- U.S. Department of Justice
 - Hindenburg Research
 - VectoIQ
 - Donald Trump
@@ -19,7 +19,7 @@ tags:
 - regulatory-gaps
 - sec
 - hindenburg-research
-- trump-pardon
+- trump-pardons
 sources:
 - title: Former Nikola Corporation CEO Trevor Milton Charged In Securities Fraud Scheme
   url: https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme

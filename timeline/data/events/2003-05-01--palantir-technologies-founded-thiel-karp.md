@@ -12,7 +12,7 @@ actors:
 - Stephen Cohen
 - John Poindexter
 - In-Q-Tel
-- CIA
+- Central Intelligence Agency
 tags:
 - palantir
 - peter-thiel

@@ -7,7 +7,7 @@ tags:
 - united-nations
 - human-rights
 - international-law
-- extrajudicial-killings
+- extrajudicial-killing
 - caribbean
 - condemnation
 sources:

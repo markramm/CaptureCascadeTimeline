@@ -5,11 +5,11 @@ title: Senate Confirms Amy Coney Barrett 52-48 Eight Days Before Election, Creat
 importance: 10
 status: confirmed
 tags:
-- supreme court
-- judicial appointments
+- supreme-court
+- judicial-appointments
 - hypocrisy
-- institutional corruption
-- abortion rights
+- institutional-corruption
+- abortion-rights
 actors:
 - Amy Coney Barrett
 - Mitch McConnell

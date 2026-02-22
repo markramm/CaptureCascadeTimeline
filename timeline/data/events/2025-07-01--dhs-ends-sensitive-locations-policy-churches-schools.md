@@ -7,7 +7,7 @@ tags:
 - ice
 - schools
 - sanctuary-violations
-- hospitals
+- hospital
 - churches
 - immigration-enforcement
 - sensitive-locations

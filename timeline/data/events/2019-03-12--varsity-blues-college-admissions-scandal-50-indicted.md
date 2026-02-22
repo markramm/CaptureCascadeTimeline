@@ -9,7 +9,7 @@ actors:
 - Lori Loughlin
 - Felicity Huffman
 - U.S. Attorney Andrew Lelling
-- FBI
+- Federal Bureau of Investigation
 tags:
 - fraud
 - corruption

@@ -6,9 +6,9 @@ title: 'DOJ Returns to Court: Trump Violated 1975 Discrimination Settlement'
 importance: 8
 tags:
 - racism
-- housing discrimination
-- trump family
-- civil rights
+- housing-discrimination
+- trump-family
+- civil-rights
 - doj
 actors:
 - Donald Trump

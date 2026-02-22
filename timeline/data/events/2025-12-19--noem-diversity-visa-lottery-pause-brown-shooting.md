@@ -36,15 +36,15 @@ actors:
 - Marco Rubio
 - Claudio Manuel Neves Valente
 tags:
-- immigration policy
+- immigration-policy
 - dhs
-- national security
-- visa programs
-- trump administration
-- legal immigration
-- mass shooting
-- brown university
-- policy exploitation
+- national-security
+- visa-programs
+- trump-administration
+- legal-immigration
+- mass-shooting
+- brown-university
+- policy-exploitation
 sources:
 - url: https://www.cbsnews.com/news/noem-alleged-brown-shooter-diversity-visa-lottery/
   title: Noem says Brown shooting suspect got U.S. visa through diversity lottery, announces pause to program

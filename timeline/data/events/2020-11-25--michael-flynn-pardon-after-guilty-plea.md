@@ -10,7 +10,7 @@ actors:
 - Emmet Sullivan
 - William Barr
 tags:
-- pardons
+- pardon
 - russia-investigation
 - obstruction-of-justice
 - corruption

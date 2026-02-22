@@ -4,10 +4,10 @@ date: '2019-06-21'
 title: E. Jean Carroll Publicly Accuses Trump of Sexual Assault in New York Magazine
 importance: 8
 tags:
-- sexual assault
-- e. jean carroll
+- sexual-assault
+- e.-jean-carroll
 - defamation
-- trump personal conduct
+- trump-personal-conduct
 actors:
 - E. Jean Carroll
 - Donald Trump

@@ -6,9 +6,9 @@ importance: 8
 tags:
 - epstein
 - doj
-- sexual abuse
+- sexual-abuse
 - transparency
-- trump administration
+- trump-administration
 actors:
 - Pamela Bondi
 - Jeffrey Epstein

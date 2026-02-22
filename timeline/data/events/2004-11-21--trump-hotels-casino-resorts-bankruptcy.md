@@ -6,12 +6,12 @@ importance: 7
 status: confirmed
 tags:
 - bankruptcy
-- business failure
-- atlantic city
-- casinos
-- financial history
+- business-failure
+- atlantic-city
+- casino
+- financial-history
 - debt
-- corporate governance
+- corporate-governance
 sources:
 - url: https://lasvegassun.com/news/2004/dec/16/trump-hotels-casino-resorts-files-plan-to-exit-ban/
   title: Trump Hotels & Casino Resorts files plan to exit bankruptcy

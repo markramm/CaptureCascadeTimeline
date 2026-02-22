@@ -7,11 +7,11 @@ actors:
 - Jeff Bezos
 - Amazon
 tags:
-- worker exploitation
+- worker-exploitation
 - covid-19
-- corporate accountability
+- corporate-accountability
 - amazon
-- public health
+- public-health
 sources:
 - url: https://www.cnn.com/2020/10/01/tech/amazon-covid-cases/index.html
   title: Amazon said nearly 20,000 employees have tested positive or been presumed positive for COVID-19

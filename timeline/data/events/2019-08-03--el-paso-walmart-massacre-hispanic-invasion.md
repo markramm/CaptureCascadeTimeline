@@ -5,10 +5,10 @@ title: 'El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to 
 importance: 10
 tags:
 - 8chan
-- white nationalism
-- mass shooting
-- anti-latino violence
-- el paso
+- white-nationalism
+- mass-shooting
+- anti-latino-violence
+- el-paso
 sources:
 - title: El Paso Shooting Suspect's Manifesto Echoes Trump's Language
   url: https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html

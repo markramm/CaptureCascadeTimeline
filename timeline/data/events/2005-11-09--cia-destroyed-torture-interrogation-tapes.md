@@ -6,7 +6,7 @@ importance: 10
 status: confirmed
 actors:
 - Jose Rodriguez
-- CIA
+- Central Intelligence Agency
 - Gina Haspel
 - Abu Zubaydah
 - Abd al-Rahim al-Nashiri

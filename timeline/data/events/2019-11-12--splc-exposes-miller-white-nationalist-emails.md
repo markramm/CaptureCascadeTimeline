@@ -6,8 +6,8 @@ importance: 10
 actors:
 - Stephen Miller
 tags:
-- stephen miller
-- white nationalism
+- stephen-miller
+- white-nationalism
 - breitbart
 sources:
 - title: Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails

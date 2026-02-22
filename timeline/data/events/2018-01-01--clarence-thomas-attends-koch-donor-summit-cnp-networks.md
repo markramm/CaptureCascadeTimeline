@@ -7,7 +7,7 @@ tags:
 - supreme-court
 - cnp
 - koch-network
-- ethics-violations
+- ethics-violation
 - dark-money
 - judicial-corruption
 actors:

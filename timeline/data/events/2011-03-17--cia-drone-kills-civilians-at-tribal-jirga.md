@@ -4,7 +4,7 @@ date: '2011-03-17'
 title: CIA Drone Strike Massacres 42 Civilians at Pakistani Tribal Council Meeting
 importance: 8
 actors:
-- CIA
+- Central Intelligence Agency
 - Barack Obama
 - Pakistani civilians
 tags:

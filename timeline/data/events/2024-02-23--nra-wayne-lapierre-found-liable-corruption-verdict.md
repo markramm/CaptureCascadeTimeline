@@ -6,7 +6,7 @@ title: Jury finds NRA, Wayne LaPierre liable for corruption; $6.35M damages orde
 location: Manhattan, New York
 actors:
 - Wayne LaPierre
-- NRA
+- National Rifle Association
 - Wilson "Woody" Phillips
 - John Frazer
 - Letitia James

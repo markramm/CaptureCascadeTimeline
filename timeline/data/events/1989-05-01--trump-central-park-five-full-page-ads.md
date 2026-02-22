@@ -6,9 +6,9 @@ importance: 9
 status: confirmed
 tags:
 - racism
-- central park five
-- criminal justice
-- death penalty
+- central-park-five
+- criminal-justice
+- death-penalty
 actors:
 - Donald Trump
 - Yusef Salaam

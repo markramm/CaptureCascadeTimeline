@@ -6,7 +6,7 @@ summary: Attorney General Pam Bondi issued a classified memorandum ordering the 
 importance: 10
 actors:
 - Pam Bondi
-- FBI
+- Federal Bureau of Investigation
 - Donald Trump
 - Kash Patel
 - Ken Klippenstein

@@ -14,11 +14,11 @@ summary: 'Lobbyist Jack Abramoff and business partner Adam Kidan were indicted b
 importance: 8
 status: confirmed
 tags:
-- congressional corruption
-- wire fraud
-- jack abramoff
-- gambling industry
-- political accountability
+- congressional-corruption
+- wire-fraud
+- jack-abramoff
+- gambling-industry
+- political-accountability
 capture_lanes:
 - Systematic Corruption
 actors:

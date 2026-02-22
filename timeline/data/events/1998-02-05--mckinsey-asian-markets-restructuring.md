@@ -2,7 +2,7 @@
 actors:
 - McKinsey & Company
 - World Bank
-- IMF
+- International Monetary Fund
 - Multinational Corporations
 - South Korean Government
 capture_lanes:

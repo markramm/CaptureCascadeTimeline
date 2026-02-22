@@ -12,7 +12,7 @@ actors:
 - Roger Stone
 - Rudy Giuliani
 tags:
-- pardons
+- pardon
 - corruption
 - abuse-of-power
 - fraud

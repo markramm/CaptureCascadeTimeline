@@ -6,12 +6,12 @@ importance: 7
 status: confirmed
 tags:
 - bankruptcy
-- business failure
-- atlantic city
-- casinos
-- financial history
+- business-failure
+- atlantic-city
+- casino
+- financial-history
 - debt
-- economic recession
+- economic-recession
 sources:
 - url: https://money.cnn.com/2009/02/17/news/companies/trump_entertainment/index.htm
   title: Trump Entertainment files for Chapter 11

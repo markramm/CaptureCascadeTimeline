@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 actors:
 - Thomas Drake
-- NSA
+- National Security Agency
 - Obama Administration
 - Department of Justice
 tags:

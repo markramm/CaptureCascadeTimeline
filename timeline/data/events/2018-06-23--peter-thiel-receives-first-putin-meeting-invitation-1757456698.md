@@ -8,7 +8,7 @@ actors:
 - Vladimir Putin
 - Daniil Bisslinger
 - Christian Angermayer
-- FBI
+- Federal Bureau of Investigation
 sources:
 - outlet: Ground News
   title: Peter Thiel Told FBI About Kremlin Invitations

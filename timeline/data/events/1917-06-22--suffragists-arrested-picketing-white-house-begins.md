@@ -10,11 +10,11 @@ actors:
   - Woodrow Wilson
   - Washington DC Police
 tags:
-  - womens-suffrage
-  - state-repression
-  - political-prisoners
-  - civil-disobedience
-  - selective-prosecution
+- womens-suffrage
+- state-repression
+- political-prisoner
+- civil-disobedience
+- selective-prosecution
 sources:
   - title: "Confrontations, Sacrifice, and the Struggle for Democracy, 1916–1917"
     url: "https://www.loc.gov/exhibitions/women-fight-for-the-vote/about-this-exhibition/confrontations-sacrifice-and-the-struggle-for-democracy-1916-1917/"

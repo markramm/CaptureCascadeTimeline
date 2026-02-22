@@ -6,7 +6,7 @@ importance: 7
 status: confirmed
 tags:
 - homeland-security
-- government-contract
+- government-contracts
 - border-technology
 - surveillance
 - dhs-acquisition

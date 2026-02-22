@@ -7,8 +7,8 @@ summary: Attorney General Pam Bondi issued a memorandum explicitly directing fed
 importance: 9
 actors:
 - Pam Bondi
-- DOJ
-- FBI
+- U.S. Department of Justice
+- Federal Bureau of Investigation
 - Internal Revenue Service
 - U.S. Treasury Department
 - Ron Wyden

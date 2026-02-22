@@ -15,7 +15,7 @@ actors:
 - Google
 - Brad Smith
 - Department of Justice
-- NSA
+- National Security Agency
 sources:
 - title: Microsoft and Google Challenge US Government Gag Orders
   url: https://slashdot.org/story/13/08/30/2245249/microsoft-and-google-challenge-us-government-gag-orders

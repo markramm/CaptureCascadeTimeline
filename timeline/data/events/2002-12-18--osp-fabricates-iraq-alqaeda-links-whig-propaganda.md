@@ -11,7 +11,7 @@ actors:
 - David Wurmser
 - Karl Rove
 - Scooter Libby
-- CIA
+- Central Intelligence Agency
 - Senate Intelligence Committee
 tags:
 - osp

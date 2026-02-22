@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Franklin D. Roosevelt
 - Joseph P. Kennedy
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 - Wall Street
 tags:
 - regulatory-capture

@@ -11,7 +11,7 @@ tags:
 - privacy-rights
 actors:
 - Barack Obama
-- NSA
+- National Security Agency
 - FISA Court
 - Edward Snowden
 sources:

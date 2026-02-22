@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Fred Hampton
 - J. Edgar Hoover
-- FBI
+- Federal Bureau of Investigation
 - Chicago Police Department
 - Cook County State's Attorney Edward Hanrahan
 - William O'Neal

@@ -5,13 +5,13 @@ title: Judge Sullivan's Harsh Questioning of Flynn at Sentencing - "Arguably You
 importance: 7
 status: confirmed
 tags:
-- mueller investigation
-- michael flynn
+- mueller-investigation
+- michael-flynn
 - sentencing
-- foreign agent
-- turkey lobbying
-- trump pardons
-- national security
+- foreign-agents
+- turkey-lobbying
+- trump-pardons
+- national-security
 actors:
 - Michael Flynn
 - Judge Emmet Sullivan

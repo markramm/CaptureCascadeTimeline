@@ -9,7 +9,7 @@ actors:
 - Bari Weiss
 - Michael Shellenberger
 - David Zweig
-- FBI
+- Federal Bureau of Investigation
 - U.S. Department of Homeland Security
 - Centers for Disease Control
 - White House

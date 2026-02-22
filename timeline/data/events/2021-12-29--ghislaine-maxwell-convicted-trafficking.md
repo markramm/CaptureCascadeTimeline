@@ -6,7 +6,7 @@ actors:
 - Ghislaine Maxwell
 - Alison Nathan
 - Southern District of New York
-- FBI
+- Federal Bureau of Investigation
 tags:
 - sex-trafficking
 - federal-prosecution
@@ -15,8 +15,7 @@ tags:
 - sealed-documents
 sources:
 - url: https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-sentenced-20-years-prison-facilitating-jeffrey-epsteins-sexual-abuse
-  title: Ghislaine Maxwell Sentenced to 20 Years in Prison for Facilitating Jeffrey
-    Epstein's Sexual Abuse of Minor Girls
+  title: Ghislaine Maxwell Sentenced to 20 Years in Prison for Facilitating Jeffrey Epstein's Sexual Abuse of Minor Girls
   outlet: U.S. Attorney SDNY
   date: '2022-06-28'
 - url: https://www.reuters.com/legal/ghislaine-maxwell-convicted-helping-jeffrey-epstein-abuse-teenage-girls-2021-12-29/

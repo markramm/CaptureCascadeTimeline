@@ -5,7 +5,7 @@ title: Senate Investigation Reveals Epstein's Billion-Dollar Russian Bank Transf
 importance: 10
 tags:
 - jeffrey-epstein
-- russian-oligarchs
+- russian-oligarch
 - money-laundering
 - human-trafficking
 - senate-investigation

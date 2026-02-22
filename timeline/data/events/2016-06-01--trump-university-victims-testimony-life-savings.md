@@ -5,11 +5,11 @@ title: Trump University Victims Testify to Losing Retirement Savings, Disability
 status: confirmed
 importance: 8
 tags:
-- trump university
+- trump-university
 - fraud
-- consumer protection
-- victim testimony
-- elder abuse
+- consumer-protection
+- victim-testimony
+- elder-abuse
 actors:
 - Donald Trump
 - Ronald Schnackenberg

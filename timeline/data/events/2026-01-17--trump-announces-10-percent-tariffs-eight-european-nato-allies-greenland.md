@@ -14,7 +14,7 @@ actors:
 - United Kingdom
 - Netherlands
 - Finland
-- NATO
+- North Atlantic Treaty Organization
 tags:
 - foreign-policy
 - authoritarianism

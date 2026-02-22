@@ -5,11 +5,11 @@ title: HUD Secretary Ben Carson Spends $31,000 in Taxpayer Funds on Dining Room 
 status: confirmed
 importance: 7
 tags:
-- cabinet corruption
-- ethics violations
-- ben carson
+- cabinet-corruption
+- ethics-violation
+- ben-carson
 - hud
-- misuse of funds
+- misuse-of-funds
 - whistleblower
 actors:
 - Ben Carson

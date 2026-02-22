@@ -18,7 +18,7 @@ actors:
 - Mohammed bin Salman
 - Saudi Arabia government
 - Turkish intelligence
-- CIA
+- Central Intelligence Agency
 sources:
 - title: U.S. Intelligence Says Saudi Crown Prince Approved Operation
   url: https://www.npr.org/2021/02/25/971215788/biden-administration-poised-to-release-report-on-killing-of-jamal-khashoggi

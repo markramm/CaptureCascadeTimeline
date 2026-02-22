@@ -8,7 +8,7 @@ actors:
 - Dick Cheney
 - John McCain
 - Porter Goss
-- CIA
+- Central Intelligence Agency
 - David Addington
 tags:
 - torture

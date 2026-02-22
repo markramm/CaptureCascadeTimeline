@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - White House
 tags:
-- executive-orders
+- executive-order
 - deregulation
 - biden-reversal
 capture_lanes:

@@ -14,7 +14,7 @@ actors:
 tags:
 - campaign-finance
 - pay-to-play
-- appointments
+- appointment
 - bundling
 - corruption
 - karl-rove

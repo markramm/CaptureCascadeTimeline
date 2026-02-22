@@ -10,7 +10,7 @@ actors:
 - Donald Trump
 - U.S. Department of Homeland Security
 tags:
-- personnel-purges
+- personnel-purge
 - impossible-quotas
 - loyalty-tests
 - deportation-quotas

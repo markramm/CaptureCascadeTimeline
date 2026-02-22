@@ -5,9 +5,9 @@ title: Trump Calls Coronavirus "Their New Hoax" at South Carolina Rally
 importance: 9
 tags:
 - covid-19
-- public health
+- public-health
 - disinformation
-- accountability crisis
+- accountability-crisis
 actors:
 - Donald Trump
 sources:

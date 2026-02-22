@@ -5,12 +5,12 @@ title: Trump Explicitly Admits Blocking USPS Funding to Restrict Mail Voting
 importance: 9
 status: confirmed
 tags:
-- election interference
+- election-interference
 - usps
-- postal service
-- voter suppression
-- mail voting
-- trump confessions
+- postal-service
+- voter-suppression
+- mail-voting
+- trump-confessions
 actors:
 - Donald Trump
 - Louis DeJoy

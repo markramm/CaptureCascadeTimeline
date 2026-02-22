@@ -11,7 +11,7 @@ actors:
 - Carl Kline
 - Tricia Newbold
 tags:
-- security-clearances
+- security-clearance
 - national-security
 - nepotism
 - foreign-influence

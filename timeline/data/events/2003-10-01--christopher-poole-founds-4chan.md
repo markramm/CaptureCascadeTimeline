@@ -7,9 +7,9 @@ actors:
 - Christopher Poole
 tags:
 - 4chan
-- radicalization infrastructure
-- platform architecture
-- online extremism
+- radicalization-infrastructure
+- platform-architecture
+- online-extremism
 sources:
 - title: 4chan
   url: https://en.wikipedia.org/wiki/4chan

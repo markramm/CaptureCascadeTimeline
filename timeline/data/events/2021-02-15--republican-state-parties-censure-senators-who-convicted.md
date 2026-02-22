@@ -4,11 +4,11 @@ date: '2021-02-15'
 title: Republican State Parties Censure Senators Who Voted to Convict Trump
 importance: 8
 tags:
-- republican party
+- republican-party
 - impeachment
 - censure
-- party loyalty
-- political retaliation
+- party-loyalty
+- political-retaliation
 actors:
 - Bill Cassidy
 - Richard Burr

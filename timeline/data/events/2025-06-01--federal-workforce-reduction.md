@@ -6,7 +6,7 @@ title: Federal workforce shrinks by 59,000 jobs with 154,000 on paid leave
 location: Washington, DC
 actors:
 - Trump Administration
-- DOGE (Department of Government Efficiency)
+- Department of Government Efficiency
 - Elon Musk
 - Office of Personnel Management
 - U.S. Department of Labor

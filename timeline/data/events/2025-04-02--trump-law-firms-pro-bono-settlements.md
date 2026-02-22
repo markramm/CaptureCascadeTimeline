@@ -13,7 +13,7 @@ capture_lanes:
 - Judicial Capture
 tags:
 - government-contracts
-- executive-orders
+- executive-order
 - legal-system
 sources:
 - outlet: NPR

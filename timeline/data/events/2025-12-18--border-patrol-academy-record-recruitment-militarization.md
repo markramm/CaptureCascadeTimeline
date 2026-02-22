@@ -10,7 +10,7 @@ actors:
 - Donald Trump
 - Department of Homeland Security (DHS)
 tags:
-- border patrol
+- border-patrol
 - cbp
 - recruitment
 - training
@@ -19,7 +19,7 @@ tags:
 - enforcement-expansion
 - use-of-force
 - vehicle-pursuits
-- trump administration
+- trump-administration
 capture_lanes:
 - Military-Industrial Complex
 - Civil Rights Suppression

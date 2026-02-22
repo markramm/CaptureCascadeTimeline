@@ -9,12 +9,12 @@ actors:
 - Rep. Scott Perry (R-PA)
 - Rep. Brian Jack (R-GA)
 - Department of Justice
-- Pam Bondi (Attorney General)
+- Pam Bondi
 tags:
 - epstein-files
 - congressional-oversight
 - bipartisan-action
-- subpoenas
+- subpoena
 capture_lanes:
 - Intelligence Penetration
 status: confirmed

@@ -7,7 +7,7 @@ actors:
 - Colin Powell
 - George W. Bush
 - Dick Cheney
-- CIA
+- Central Intelligence Agency
 - Curveball
 tags:
 - iraq-war
@@ -29,11 +29,7 @@ sources:
   url: https://theintercept.com/2018/02/06/lie-after-lie-what-colin-powell-knew-about-iraq-fifteen-years-ago-and-what-he-told-the-un/
   outlet: The Intercept
   date: '2018-02-06'
-notes: Powell's presentation was based on fabricated intelligence including 'Curveball'
-  testimony and aluminum tubes claims that intelligence agencies had warned were unreliable.
-  The presentation became the centerpiece of the Bush administration's case for war
-  despite internal warnings about the evidence's credibility. Powell himself later
-  acknowledged it as a permanent 'blot' on his record.
+notes: Powell's presentation was based on fabricated intelligence including 'Curveball' testimony and aluminum tubes claims that intelligence agencies had warned were unreliable. The presentation became the centerpiece of the Bush administration's case for war despite internal warnings about the evidence's credibility. Powell himself later acknowledged it as a permanent 'blot' on his record.
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

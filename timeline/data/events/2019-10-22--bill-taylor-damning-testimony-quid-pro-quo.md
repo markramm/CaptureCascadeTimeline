@@ -5,11 +5,11 @@ title: Acting Ukraine Ambassador Bill Taylor Testifies - Clear Quid Pro Quo for 
 importance: 9
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
-- quid pro quo
-- state department
-- congressional testimony
+- quid-pro-quo
+- state-department
+- congressional-testimony
 actors:
 - Bill Taylor
 - Gordon Sondland

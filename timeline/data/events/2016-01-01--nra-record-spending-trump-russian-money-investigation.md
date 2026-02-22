@@ -18,7 +18,7 @@ actors:
 - Donald Trump
 - Maria Butina
 - Alexander Torshin
-- FBI
+- Federal Bureau of Investigation
 - Trump Campaign
 sources:
 - title: 'The Trump-Russia-NRA Connection: Here''s What You Need to Know'

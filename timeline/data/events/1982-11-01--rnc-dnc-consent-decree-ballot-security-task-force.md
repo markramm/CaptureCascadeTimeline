@@ -8,10 +8,10 @@ actors:
 - Democratic National Committee
 - Dickinson R. Debevoise
 tags:
-- voter suppression
-- republican party
-- voting rights
-- racial justice
+- voter-suppression
+- republican-party
+- voting-rights
+- racial-justice
 sources:
 - title: Ballot Security Task Force - Wikipedia
   url: https://en.wikipedia.org/wiki/Ballot_Security_Task_Force

@@ -5,11 +5,11 @@ title: Sondland Testifies - "Was There a Quid Pro Quo? The Answer Is Yes. Everyo
 importance: 10
 status: confirmed
 tags:
-- first impeachment
+- first-impeachment
 - ukraine
-- quid pro quo
-- state department
-- abuse of power
+- quid-pro-quo
+- state-department
+- abuse-of-power
 actors:
 - Gordon Sondland
 - Mike Pompeo

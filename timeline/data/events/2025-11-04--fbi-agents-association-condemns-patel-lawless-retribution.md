@@ -8,9 +8,9 @@ actors:
 - Pam Bondi
 tags:
 - fbi
-- kash patel
-- institutional collapse
-- doj weaponization
+- kash-patel
+- institutional-collapse
+- doj-weaponization
 sources:
 - title: 'FBI agents rip Kash Patel''s firings: erratic and arbitrary retribution'
   url: https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond

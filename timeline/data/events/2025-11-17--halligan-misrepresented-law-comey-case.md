@@ -10,7 +10,7 @@ tags:
 - judicial-rebuke
 - doj-weaponization
 - grand-jury-abuse
-- constitutional-violations
+- constitutional-violation
 sources:
 - title: Judge says James Comey indictment may be tainted by 'profound investigative missteps'
   url: https://abcnews.go.com/US/judge-comey-case-raises-alarm-profound-investigative-missteps/story?id=127594703
@@ -32,7 +32,7 @@ actors:
 - Lindsey Halligan
 - James Comey
 - Department of Justice
-- FBI
+- Federal Bureau of Investigation
 - Daniel Richman
 - Donald Trump
 capture_lanes:

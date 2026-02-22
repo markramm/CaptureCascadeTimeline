@@ -9,7 +9,7 @@ actors:
 - Lev Parnas
 - Rudy Giuliani
 tags:
-- pardons
+- pardon
 - corruption
 - pay-to-play
 - bribery

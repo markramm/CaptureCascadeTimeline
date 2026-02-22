@@ -13,11 +13,11 @@ summary: 'The Stop Trading on Congressional Knowledge (STOCK) Act gained explosi
   '
 importance: 8
 tags:
-- congressional corruption
-- insider trading
-- political accountability
-- financial regulation
-- ethics reform
+- congressional-corruption
+- insider-trading
+- political-accountability
+- financial-regulation
+- ethics-reform
 actors:
 - Scott Brown
 - Kirsten Gillibrand

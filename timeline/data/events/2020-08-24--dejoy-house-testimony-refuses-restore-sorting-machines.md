@@ -5,12 +5,12 @@ title: DeJoy House Testimony Refuses to Restore Mail Sorting Machines Despite Co
 importance: 9
 status: confirmed
 tags:
-- election interference
+- election-interference
 - usps
-- postal service
-- congressional oversight
+- postal-service
+- congressional-oversight
 - dejoy
-- mail voting
+- mail-voting
 actors:
 - Louis DeJoy
 - Carolyn Maloney

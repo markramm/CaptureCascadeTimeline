@@ -5,15 +5,15 @@ title: Microsoft Terminates Israeli Unit 8200's Azure Access for Mass Surveillan
 importance: 9
 tags:
 - microsoft
-- unit 8200
+- unit-8200
 - surveillance
-- mass surveillance
-- israeli intelligence
+- mass-surveillance
+- israeli-intelligence
 - azure
-- palestinian surveillance
-- corporate accountability
-- tech ethics
-- carbyne context
+- palestinian-surveillance
+- corporate-accountability
+- tech-ethics
+- carbyne-context
 sources:
 - title: Update on ongoing Microsoft review
   url: https://blogs.microsoft.com/on-the-issues/2025/09/25/update-on-ongoing-microsoft-review/

@@ -12,11 +12,11 @@ actors:
 - Trae Stephens
 - Andreessen Horowitz
 tags:
-- defense contractors
-- venture capital
-- autonomous weapons
-- military-industrial complex
-- peter thiel network
+- defense-contractors
+- venture-capital
+- autonomous-weapons
+- military-industrial-complex
+- peter-thiel-network
 sources:
 - title: Anduril raises funding at $30.5 billion valuation in round led by Founders Fund, chairman says
   url: https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html

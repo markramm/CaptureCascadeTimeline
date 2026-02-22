@@ -26,7 +26,7 @@ sources:
 importance: 8
 tags:
 - corporate-raiding
-- hostile-takeovers
+- hostile-takeover
 - junk-bonds
 - financial-manipulation
 status: confirmed

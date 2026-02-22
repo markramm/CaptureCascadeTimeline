@@ -14,13 +14,13 @@ summary: 'Former House Speaker Dennis Hastert was sentenced to 15 months in pris
   '
 importance: 10
 tags:
-- congressional corruption
-- sexual abuse
+- congressional-corruption
+- sexual-abuse
 - cover-up
-- republican party
-- political accountability
-- abuse of power
-- judicial system
+- republican-party
+- political-accountability
+- abuse-of-power
+- judicial-system
 actors:
 - Dennis Hastert
 - Thomas Durkin

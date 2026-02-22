@@ -5,11 +5,11 @@ title: Trump Launches "Trump University" Real Estate Seminars Without Academic L
 importance: 8
 status: confirmed
 tags:
-- trump university
+- trump-university
 - fraud
-- consumer protection
-- education fraud
-- business ethics
+- consumer-protection
+- education-fraud
+- business-ethics
 actors:
 - Donald Trump
 - Michael Sexton

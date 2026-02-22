@@ -6,8 +6,8 @@ importance: 9
 actors:
 - Pam Bondi
 tags:
-- pam bondi
-- foreclosure fraud
+- pam-bondi
+- foreclosure-fraud
 - corruption
 - pay-to-play
 - florida

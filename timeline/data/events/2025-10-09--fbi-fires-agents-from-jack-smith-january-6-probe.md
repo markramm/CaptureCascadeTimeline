@@ -5,7 +5,7 @@ title: FBI Terminates Two Special Agents Who Worked on January 6 Investigation
 importance: 9
 actors:
 - Kash Patel
-- FBI
+- Federal Bureau of Investigation
 - Jack Smith
 - FBI Special Agents
 sources:

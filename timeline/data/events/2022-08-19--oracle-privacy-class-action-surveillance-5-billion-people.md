@@ -9,7 +9,7 @@ tags:
 - privacy
 - data-brokers
 - oracle
-- lawsuits
+- lawsuit
 - civil-liberties
 actors:
 - Oracle

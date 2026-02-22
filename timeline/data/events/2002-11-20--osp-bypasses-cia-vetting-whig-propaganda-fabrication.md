@@ -10,7 +10,7 @@ actors:
 - Harold Rhode
 - Karl Rove
 - Dick Cheney
-- CIA
+- Central Intelligence Agency
 - Carl Levin
 tags:
 - osp

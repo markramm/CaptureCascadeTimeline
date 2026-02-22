@@ -5,10 +5,10 @@ title: Judge Finalizes Trump University Settlement After Appeal Resolved, Victim
 importance: 8
 status: confirmed
 tags:
-- trump university
+- trump-university
 - fraud
 - settlement
-- consumer protection
+- consumer-protection
 - accountability
 actors:
 - Gonzalo Curiel

@@ -10,8 +10,8 @@ actors:
 tags:
 - trump
 - corruption
-- historic preservation
-- cognitive decline
+- historic-preservation
+- cognitive-decline
 sources:
 - title: Trump plans to demolish White House East Wing as ballroom cost grows to $300 million
   url: https://www.cbsnews.com/news/demolish-white-house-east-wing-ballroom-trump-cost/

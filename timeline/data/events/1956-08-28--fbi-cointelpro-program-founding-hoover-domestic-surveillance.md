@@ -5,7 +5,7 @@ title: FBI Director Hoover Launches COINTELPRO to Target Communist Party and Dom
 importance: 9
 actors:
 - J. Edgar Hoover
-- FBI
+- Federal Bureau of Investigation
 - Communist Party USA
 tags:
 - surveillance

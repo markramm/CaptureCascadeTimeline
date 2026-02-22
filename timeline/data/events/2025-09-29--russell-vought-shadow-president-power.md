@@ -12,7 +12,7 @@ tags:
 actors:
 - Russell Vought
 - Donald Trump
-- OMB
+- Office of Management and Budget
 - Project 2025
 sources:
 - title: Russell Vought, Trump's Shadow President

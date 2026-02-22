@@ -5,9 +5,9 @@ title: Senate Acquits Trump 57-43 Despite Bipartisan Majority Finding Him Guilty
 importance: 10
 tags:
 - impeachment
-- senate trial
-- constitutional crisis
-- republican party
+- senate-trial
+- constitutional-crisis
+- republican-party
 - acquittal
 actors:
 - Donald Trump

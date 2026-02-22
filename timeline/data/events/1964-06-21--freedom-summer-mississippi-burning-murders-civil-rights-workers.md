@@ -13,7 +13,7 @@ actors:
 - Neshoba County Sheriff's Department
 - CORE
 - SNCC
-- FBI
+- Federal Bureau of Investigation
 tags:
 - civil-rights
 - voter-suppression

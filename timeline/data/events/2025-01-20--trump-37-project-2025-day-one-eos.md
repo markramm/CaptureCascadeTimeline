@@ -26,7 +26,7 @@ sources:
   date: '2025-07-01'
 tags:
 - project-2025-implementation
-- executive-orders
+- executive-order
 - day-one-actions
 - blueprint-execution
 - administrative-capture

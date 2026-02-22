@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Palantir Technologies
 - Amazon Web Services
-- CIA
+- Central Intelligence Agency
 - U.S. Department of Defense
 tags:
 - surveillance-infrastructure

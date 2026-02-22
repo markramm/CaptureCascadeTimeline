@@ -8,9 +8,9 @@ actors:
 - Pam Bondi
 - Lindsey Halligan
 tags:
-- doj weaponization
-- james comey
-- judicial pushback
+- doj-weaponization
+- james-comey
+- judicial-pushback
 sources:
 - title: Judge scolds Comey prosecutors for 'indict first and investigate second' approach
   url: https://www.washingtonpost.com/national-security/2025/11/05/justice-department-prosecution-james-comey/

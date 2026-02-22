@@ -4,11 +4,11 @@ date: '2020-09-27'
 title: New York Times Obtains Trump Tax Returns, Reveals $750 in Federal Taxes Paid
 importance: 9
 tags:
-- tax fraud
-- financial fraud
-- trump organization
-- tax avoidance
-- media investigation
+- tax-fraud
+- financial-fraud
+- trump-organization
+- tax-avoidance
+- media-investigation
 actors:
 - Donald Trump
 - New York Times

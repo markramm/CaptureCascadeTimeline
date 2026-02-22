@@ -4,7 +4,7 @@ date: '2019-09-27'
 title: Senate Finance Committee Report Reveals NRA Misled Public About Russia Connections and 2015 Moscow Trip
 importance: 8
 tags:
-- congressional-investigations
+- congressional-investigation
 - nra
 - russian-influence
 - sanctions-violations

@@ -13,7 +13,7 @@ actors:
 tags:
 - immigration-policy
 - alec
-- private-prisons
+- private-prison
 - corporate-capture
 - racial-profiling
 - profit-motive

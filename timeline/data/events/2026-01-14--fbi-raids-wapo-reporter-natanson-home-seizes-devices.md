@@ -5,7 +5,7 @@ status: confirmed
 title: FBI Raids Washington Post Reporter's Home, Seizes Devices in Unprecedented Press Freedom Violation
 importance: 9
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Washington Post
 - Hannah Natanson
 - Pam Bondi

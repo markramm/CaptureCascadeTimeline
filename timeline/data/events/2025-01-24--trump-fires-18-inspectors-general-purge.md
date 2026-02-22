@@ -12,7 +12,7 @@ tags:
 - watchdog-purge
 - government-oversight
 - authoritarian
-- legal-violations
+- legal-violation
 actors:
 - Donald Trump
 - Robert Storch

@@ -5,11 +5,11 @@ title: Louis DeJoy Begins Serving as Postmaster General Despite Conflicts of Int
 importance: 9
 status: confirmed
 tags:
-- election interference
+- election-interference
 - usps
-- postal service
-- conflicts of interest
-- political appointees
+- postal-service
+- conflicts-of-interest
+- political-appointees
 actors:
 - Louis DeJoy
 - Donald Trump

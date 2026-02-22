@@ -6,7 +6,7 @@ importance: 10
 actors:
 - George W. Bush
 - Michael Hayden
-- NSA
+- National Security Agency
 - Dick Cheney
 - David Addington
 - Ron Wyden

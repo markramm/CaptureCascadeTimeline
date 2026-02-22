@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Trump Administration
 - NOAA
-- OMB
+- Office of Management and Budget
 tags:
 - noaa
 - climate-science

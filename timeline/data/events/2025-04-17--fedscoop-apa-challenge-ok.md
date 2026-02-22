@@ -33,7 +33,7 @@ capture_lanes:
 location: Washington, DC
 actors:
 - Judge John D. Bates (D.D.C.)
-- DOGE (Department of Government Efficiency)
+- Department of Government Efficiency
 - AFL-CIO
 - American Federation of Government Employees
 - SEIU

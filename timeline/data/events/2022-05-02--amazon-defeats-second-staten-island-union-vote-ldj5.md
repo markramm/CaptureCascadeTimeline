@@ -8,10 +8,10 @@ actors:
 - Christian Smalls
 - Amazon Labor Union
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
-- labor rights
+- labor-rights
 sources:
 - url: https://www.npr.org/2022/05/02/1095866859/amazon-labor-union-staten-island-union-election-chris-smalls-warehouse-workers
   title: Amazon Labor Union fails to repeat victory in Staten Island Amazon warehouse election

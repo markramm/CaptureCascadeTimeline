@@ -10,7 +10,7 @@ tags:
 - diplomatic-crisis
 - foreign-surveillance
 actors:
-- NSA
+- National Security Agency
 - Angela Merkel
 - Barack Obama
 - Edward Snowden

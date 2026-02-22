@@ -10,10 +10,10 @@ actors:
 - Facebook
 - Donald Trump
 tags:
-- tech industry
-- political influence
-- silicon valley
-- corporate censorship
+- tech-industry
+- political-influence
+- silicon-valley
+- corporate-censorship
 sources:
 - title: Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame
   url: https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html

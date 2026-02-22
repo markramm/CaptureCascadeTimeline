@@ -17,7 +17,7 @@ tags:
 - emoluments
 - constitutional-crisis
 - judicial-review
-- financial-conflict
+- financial-conflicts
 actors:
 - D.C. Circuit Court
 - 4th Circuit Court

@@ -62,7 +62,7 @@ tags:
 - supreme-court
 - cnp
 - conflicts-of-interest
-- ethics-violations
+- ethics-violation
 - electoral-manipulation
 - conservative-movement
 - stop-the-steal

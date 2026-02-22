@@ -34,7 +34,7 @@ sources:
   verified: true
 tags:
 - labor-organizing
-- strikes
+- strike
 - corporate-power
 - postwar-economy
 - union-rights

@@ -7,8 +7,8 @@ location: New York, NY
 actors:
 - Jules Kroll
 - Kroll Associates
-- CIA
-- FBI
+- Central Intelligence Agency
+- Federal Bureau of Investigation
 - Mossad
 - MI5
 tags:

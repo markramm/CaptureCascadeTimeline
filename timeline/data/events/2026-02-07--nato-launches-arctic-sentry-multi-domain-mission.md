@@ -5,7 +5,7 @@ status: confirmed
 title: NATO Launches Arctic Sentry Multi-Domain Mission in High North
 importance: 8
 actors:
-- NATO
+- North Atlantic Treaty Organization
 - Mark Rutte
 - Joint Force Command Norfolk
 - Denmark

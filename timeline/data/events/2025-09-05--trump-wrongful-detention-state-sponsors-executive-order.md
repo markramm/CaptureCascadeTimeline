@@ -9,7 +9,7 @@ actors:
 - Department of State
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - presidential-authority
 - foreign-policy
 sources:

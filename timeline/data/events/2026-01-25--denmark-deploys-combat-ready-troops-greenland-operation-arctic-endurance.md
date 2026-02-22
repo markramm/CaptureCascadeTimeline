@@ -8,7 +8,7 @@ actors:
 - Denmark
 - Danish Armed Forces
 - Greenland
-- NATO
+- North Atlantic Treaty Organization
 - Peter Harling Boysen
 tags:
 - foreign-policy

@@ -4,7 +4,7 @@ date: '2012-06-04'
 title: Bureau Investigation Exposes CIA Double-Tap Drone Strikes Killing Rescuers and Mourners
 importance: 8
 actors:
-- CIA
+- Central Intelligence Agency
 - Barack Obama
 - Pakistani civilians
 tags:

@@ -1,19 +1,17 @@
 ---
 date: '2020-12-23'
-title: DOJ Secret Court Order Targets Washington Post Journalists Days Before Barr's
-  Resignation
+title: DOJ Secret Court Order Targets Washington Post Journalists Days Before Barr's Resignation
 actors:
 - William Barr
 - Michael R. Sherwin
-- DOJ
-- Federal Court
+- U.S. Department of Justice
+- Federal Courts
 - Washington Post Journalists
 - Ellen Nakashima
 - Greg Miller
 - Adam Entous
 sources:
-- title: Trump DOJ tried to seize Washington Post journalists records over Russia
-    leaks
+- title: Trump DOJ tried to seize Washington Post journalists records over Russia leaks
   url: https://www.axios.com/2021/07/14/trump-doj-tried-to-seize-washpost-journalists-records-over-russia-leaks
   outlet: Axios
 - title: This Is How Trump's Department of Justice Spied on Journalists

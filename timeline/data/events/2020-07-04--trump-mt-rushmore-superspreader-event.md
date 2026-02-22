@@ -5,9 +5,9 @@ title: Trump Holds Mt. Rushmore Rally with 7,500 Packed, Maskless Attendees Duri
 importance: 7
 tags:
 - covid-19
-- public health
-- superspreader event
-- accountability crisis
+- public-health
+- superspreader-event
+- accountability-crisis
 actors:
 - Donald Trump
 - Kristi Noem

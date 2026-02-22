@@ -14,13 +14,13 @@ summary: 'FBI agents raided the home of Rep. William J. Jefferson (D-LA) in Nort
 importance: 9
 status: confirmed
 tags:
-- congressional corruption
+- congressional-corruption
 - bribery
-- democratic party
+- democratic-party
 - louisiana
-- fbi investigation
-- political accountability
-- international corruption
+- fbi-investigation
+- political-accountability
+- international-corruption
 actors:
 - William Jefferson
 - Lori Mody

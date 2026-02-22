@@ -10,12 +10,12 @@ actors:
 - U.S. Department of Defense
 - U.S. Government Accountability Office
 tags:
-- military-industrial complex
-- defense contractors
-- cost overruns
-- surveillance state
-- drone warfare
-- pentagon contracts
+- military-industrial-complex
+- defense-contractors
+- cost-overruns
+- surveillance-state
+- drone-warfare
+- pentagon-contracts
 - accountability
 sources:
 - url: https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-05-6/html/GAOREPORTS-GAO-05-6.htm

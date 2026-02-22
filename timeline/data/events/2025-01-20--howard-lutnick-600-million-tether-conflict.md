@@ -53,7 +53,7 @@ tags:
 - money-laundering
 - conflict-of-interest
 - commerce-department
-- financial-crimes
+- financial-crime
 - regulatory-capture
 - elizabeth-warren
 title: Commerce Secretary Lutnick Maintains $600 Million Tether Stake Despite DOJ Investigation and Senate Scrutiny

@@ -14,13 +14,13 @@ summary: 'Rep. Randy "Duke" Cunningham (R-CA) pleaded guilty in federal court in
   '
 importance: 9
 tags:
-- congressional corruption
-- defense contractors
+- congressional-corruption
+- defense-contractors
 - bribery
-- republican party
-- military contracts
-- political accountability
-- presidential pardons
+- republican-party
+- military-contracts
+- political-accountability
+- presidential-pardon
 actors:
 - Duke Cunningham
 - Mitchell Wade

@@ -5,17 +5,17 @@ title: Intelligence Community Assessment Concludes Putin Ordered Campaign to Inf
 importance: 9
 status: confirmed
 tags:
-- russia interference
-- intelligence community
-- election security
+- russia-interference
+- intelligence-community
+- election-security
 - putin
-- foreign interference
-- cyber warfare
+- foreign-interference
+- cyber-warfare
 actors:
 - Vladimir Putin
-- CIA
-- FBI
-- NSA
+- Central Intelligence Agency
+- Federal Bureau of Investigation
+- National Security Agency
 - Donald Trump
 - Barack Obama
 - James Clapper

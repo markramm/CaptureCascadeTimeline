@@ -10,7 +10,7 @@ actors:
 - MAHA Commission
 tags:
 - executive-power
-- executive-orders
+- executive-order
 - healthcare
 - tech-policy
 sources:

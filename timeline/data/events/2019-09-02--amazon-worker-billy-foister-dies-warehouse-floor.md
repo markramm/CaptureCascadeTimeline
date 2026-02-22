@@ -8,11 +8,11 @@ actors:
 - Amazon
 - Billy Foister
 tags:
-- worker exploitation
-- corporate accountability
+- worker-exploitation
+- corporate-accountability
 - amazon
-- worker death
-- labor rights
+- worker-death
+- labor-rights
 sources:
 - url: https://www.business-humanrights.org/en/latest-news/usa-amazon-warehouse-worker-who-died-of-heart-attack-at-work-reportedly-left-on-the-floor-for-20-minutes-before-receiving-treatment/
   title: 'USA: Amazon warehouse worker who died of heart attack at work reportedly left on the floor for 20 minutes before receiving treatment'

@@ -4,7 +4,7 @@ actors:
 - Trump Administration
 - Elon Musk
 - Kash Patel
-- FBI
+- Federal Bureau of Investigation
 capture_lanes:
 - Intelligence Penetration
 - Civil Rights Suppression

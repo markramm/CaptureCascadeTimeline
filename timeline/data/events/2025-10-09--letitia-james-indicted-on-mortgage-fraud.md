@@ -7,7 +7,7 @@ actors:
 - Letitia James
 - Lindsey Halligan
 - Trump Administration
-- DOJ
+- U.S. Department of Justice
 sources:
 - title: Justice Department obtains indictment of Trump foe Letitia James
   url: https://www.washingtonpost.com/national-security/2025/10/09/letitia-james-grand-jury-trump/

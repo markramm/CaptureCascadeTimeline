@@ -1,38 +1,38 @@
 ---
-id: '1950-08-01--paul-robeson-passport-revoked-persecution'
+id: 1950-08-01--paul-robeson-passport-revoked-persecution
 date: '1950-08-01'
-title: 'State Department Revokes Paul Robeson Passport for Political Views and Soviet Support'
+title: State Department Revokes Paul Robeson Passport for Political Views and Soviet Support
 importance: 7
 actors:
-  - Paul Robeson
-  - State Department
-  - J. Edgar Hoover
-  - FBI
+- Paul Robeson
+- State Department
+- J. Edgar Hoover
+- Federal Bureau of Investigation
 tags:
-  - red-scare
-  - civil-liberties
-  - political-persecution
-  - surveillance-state
-  - racial-justice
+- red-scare
+- civil-liberties
+- political-persecution
+- surveillance-state
+- racial-justice
 sources:
-  - title: "Aug. 16, 1955: Paul Robeson Lost Court Appeal"
-    url: "https://www.zinnedproject.org/news/tdih/paul-robeson/"
-    outlet: "Zinn Education Project"
-    date: 1950-08-01
-    verified: true
-    tier: 2
-  - title: "Paul Robeson, Part III: Freedom's Price"
-    url: "https://collaborativehistory.gse.upenn.edu/stories/paul-robeson-part-iii-freedom's-price"
-    outlet: "West Philadelphia Collaborative History"
-    date: 1950-08-01
-    verified: true
-    tier: 2
-  - title: "What Paul Robeson Said"
-    url: "https://www.smithsonianmag.com/history/what-paul-robeson-said-77742433/"
-    outlet: "Smithsonian Magazine"
-    date: 1950-08-01
-    verified: true
-    tier: 2
+- title: 'Aug. 16, 1955: Paul Robeson Lost Court Appeal'
+  url: https://www.zinnedproject.org/news/tdih/paul-robeson/
+  outlet: Zinn Education Project
+  date: 1950-08-01
+  verified: true
+  tier: 2
+- title: 'Paul Robeson, Part III: Freedom''s Price'
+  url: https://collaborativehistory.gse.upenn.edu/stories/paul-robeson-part-iii-freedom's-price
+  outlet: West Philadelphia Collaborative History
+  date: 1950-08-01
+  verified: true
+  tier: 2
+- title: What Paul Robeson Said
+  url: https://www.smithsonianmag.com/history/what-paul-robeson-said-77742433/
+  outlet: Smithsonian Magazine
+  date: 1950-08-01
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Judicial Capture

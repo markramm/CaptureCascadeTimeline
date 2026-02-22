@@ -11,11 +11,11 @@ actors:
 - U.S. Congress
 - U.S. Government Accountability Office
 tags:
-- military-industrial complex
-- defense contractors
-- cost overruns
-- pentagon contracts
-- stealth technology
+- military-industrial-complex
+- defense-contractors
+- cost-overruns
+- pentagon-contracts
+- stealth-technology
 - accountability
 sources:
 - url: https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-164/html/GAOREPORTS-NSIAD-95-164.htm

@@ -5,11 +5,11 @@ title: Michael Cohen Pleads Guilty to Campaign Finance Violations, Implicates Tr
 importance: 9
 status: confirmed
 tags:
-- mueller investigation
-- campaign finance violations
-- hush money
-- michael cohen
-- presidential accountability
+- mueller-investigation
+- campaign-finance-violations
+- hush-money
+- michael-cohen
+- presidential-accountability
 - individual-1
 actors:
 - Michael Cohen

@@ -8,7 +8,7 @@ actors:
 - Office of Special Counsel
 - Whistleblower Groups
 - U.S. Congress
-- FBI
+- Federal Bureau of Investigation
 tags:
 - whistleblower-suppression
 - osc

@@ -4,11 +4,11 @@ date: '2023-11-06'
 title: Trump Takes Stand in NY Fraud Trial, Delivers Combative Testimony Calling Case "Witch Hunt"
 importance: 8
 tags:
-- financial fraud
-- ny attorney general
-- trump organization
-- court testimony
-- arthur engoron
+- financial-fraud
+- ny-attorney-general
+- trump-organization
+- court-testimony
+- arthur-engoron
 actors:
 - Donald Trump
 - Arthur Engoron

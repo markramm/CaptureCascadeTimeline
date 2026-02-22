@@ -5,7 +5,7 @@ title: FBI Arrests Maria Butina for Conspiring to Act as Russian Agent to Infilt
 importance: 9
 tags:
 - russian-influence
-- arrests
+- arrest
 - foreign-agents
 - nra
 - fara-violations
@@ -14,7 +14,7 @@ tags:
 - maria-butina
 actors:
 - Maria Butina
-- FBI
+- Federal Bureau of Investigation
 - Alexander Torshin
 - Department of Justice
 - National Rifle Association

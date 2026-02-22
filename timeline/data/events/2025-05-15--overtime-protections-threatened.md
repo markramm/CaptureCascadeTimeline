@@ -12,7 +12,7 @@ tags:
 - labor-rights
 - regulatory-rollback
 - project-2025
-- worker-protections
+- worker-protection
 capture_lanes:
 - Executive Power Expansion
 sources:

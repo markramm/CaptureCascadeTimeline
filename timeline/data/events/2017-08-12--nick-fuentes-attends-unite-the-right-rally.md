@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Nick Fuentes
 tags:
-- white nationalism
+- white-nationalism
 - extremism
 - alt-right
 sources:

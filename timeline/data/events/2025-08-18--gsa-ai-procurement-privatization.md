@@ -17,8 +17,8 @@ tags:
 - transparency
 actors:
 - General Services Administration
-- tech-companies
-- defense-contractors
+- Tech companies
+- Defense contractors
 capture_lane: regulatory
 status: confirmed
 sources:

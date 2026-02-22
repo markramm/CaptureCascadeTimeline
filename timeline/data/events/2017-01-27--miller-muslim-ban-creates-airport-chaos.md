@@ -8,10 +8,10 @@ actors:
 - Donald Trump
 - Steve Bannon
 tags:
-- stephen miller
-- muslim ban
+- stephen-miller
+- muslim-ban
 - immigration
-- white nationalism
+- white-nationalism
 sources:
 - title: Two Courts Find That, Yes, It Was a Muslim Ban All Along
   url: https://www.aclu.org/news/immigrants-rights/two-courts-find-yes-it-was-muslim-ban-all-along

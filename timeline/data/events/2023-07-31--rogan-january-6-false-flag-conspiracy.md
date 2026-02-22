@@ -15,7 +15,7 @@ tags:
 actors:
 - Joe Rogan
 - Ray Epps
-- FBI
+- Federal Bureau of Investigation
 - House Select Committee on January 6
 sources:
 - title: Spotify's Joe Rogan has repeatedly spread the baseless conspiracy theory that January 6 was a false flag orchestrated by the FBI

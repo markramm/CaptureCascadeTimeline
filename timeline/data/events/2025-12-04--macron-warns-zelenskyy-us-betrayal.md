@@ -16,7 +16,7 @@ actors:
 - France
 - Germany
 - Ukraine
-- NATO
+- North Atlantic Treaty Organization
 tags:
 - ukraine-war
 - nato-alliance

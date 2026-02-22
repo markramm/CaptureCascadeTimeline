@@ -5,12 +5,12 @@ title: Rumors Surface of Apprentice Outtakes Showing Trump Using N-Word, Burnett
 importance: 7
 status: confirmed
 tags:
-- the apprentice
-- mark burnett
+- the-apprentice
+- mark-burnett
 - racism
 - nda
-- media cover-up
-- tom arnold
+- media-cover-up
+- tom-arnold
 sources:
 - url: https://abcnews.go.com/US/alleged-trump-apprentice-tapes/story?id=57192712
   title: What Tom Arnold, Omarosa and Trump have said about the alleged 'Apprentice' tapes

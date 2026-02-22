@@ -12,7 +12,7 @@ actors:
 tags:
 - doj
 - civil-rights-division
-- resignations
+- resignation
 - renee-good
 - cover-up
 - ice

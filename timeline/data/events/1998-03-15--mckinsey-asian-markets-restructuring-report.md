@@ -1,12 +1,11 @@
 ---
 id: 1998-03-15--mckinsey-asian-markets-restructuring-report
 date: '1998-03-15'
-title: McKinsey and International Organizations Outline Restructuring Strategy for
-  Asian Markets
+title: McKinsey and International Organizations Outline Restructuring Strategy for Asian Markets
 importance: 8
 actors:
 - McKinsey & Company
-- IMF
+- International Monetary Fund
 - World Bank
 - Multinational Corporations
 tags:

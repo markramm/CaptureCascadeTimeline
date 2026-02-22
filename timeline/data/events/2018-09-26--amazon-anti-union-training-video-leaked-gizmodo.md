@@ -8,10 +8,10 @@ actors:
 - Amazon
 - Whole Foods
 tags:
-- union organizing
-- worker exploitation
+- union-organizing
+- worker-exploitation
 - amazon
-- corporate accountability
+- corporate-accountability
 - surveillance
 sources:
 - url: https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201

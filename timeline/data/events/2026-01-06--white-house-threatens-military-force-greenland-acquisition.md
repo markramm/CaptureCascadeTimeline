@@ -31,7 +31,7 @@ actors:
 - Stephen Miller
 - Karoline Leavitt
 - Mette Frederiksen
-- NATO
+- North Atlantic Treaty Organization
 - John Kennedy
 - Mitch McConnell
 capture_lanes:

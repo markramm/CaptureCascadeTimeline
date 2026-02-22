@@ -13,7 +13,7 @@ actors:
 tags:
 - puerto-rico
 - labor-organizing
-- strikes
+- strike
 - promesa
 - austerity
 - mckinsey

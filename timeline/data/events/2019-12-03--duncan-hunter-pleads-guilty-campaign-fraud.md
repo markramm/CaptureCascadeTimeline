@@ -14,12 +14,12 @@ summary: 'U.S. Representative Duncan D. Hunter pleaded guilty in federal court i
 importance: 8
 status: confirmed
 tags:
-- congressional corruption
-- campaign finance violations
-- republican party
+- congressional-corruption
+- campaign-finance-violations
+- republican-party
 - california
-- political accountability
-- presidential pardons
+- political-accountability
+- presidential-pardon
 actors:
 - Duncan Hunter
 - Margaret Hunter

@@ -34,9 +34,9 @@ sources:
   url: https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/
 status: confirmed
 tags:
-- j.d. vance
-- peter thiel
-- yale law school
+- j.d.-vance
+- peter-thiel
+- yale-law-school
 - political-pipeline
 - tech-politics
 - mentorship

@@ -11,7 +11,7 @@ tags:
 - privacy-rights
 actors:
 - Richard Leon
-- NSA
+- National Security Agency
 - Larry Klayman
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2013/12/16/251645205/federal-judge-rules-nsa-bulk-phone-record-collection-unconstitutional

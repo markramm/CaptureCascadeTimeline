@@ -5,12 +5,12 @@ date: 2007-09-01
 title: FBI Inspector General Reports 35% Error Rate on Terror Watchlist
 importance: 7
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Department of Justice Inspector General
 - Terrorist Screening Center
 tags:
 - fbi-abuse
-- watchlists
+- watchlist
 - no-fly-list
 - civil-liberties
 - due-process

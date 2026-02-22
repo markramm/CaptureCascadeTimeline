@@ -11,7 +11,7 @@ tags:
 actors:
 - Angela Merkel
 - Harald Range
-- NSA
+- National Security Agency
 - Edward Snowden
 - Barack Obama
 sources:

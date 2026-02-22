@@ -7,9 +7,9 @@ actors:
 - Stephen Miller
 - Richard Spencer
 tags:
-- stephen miller
-- white nationalism
-- richard spencer
+- stephen-miller
+- white-nationalism
+- richard-spencer
 sources:
 - title: Email from 2007 ties Trump adviser Stephen Miller to neo-Nazi Richard Spencer
   url: https://electronicintifada.net/blogs/michael-f-brown/email-2007-ties-trump-adviser-stephen-miller-neo-nazi-richard-spencer

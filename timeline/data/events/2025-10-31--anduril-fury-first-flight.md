@@ -8,10 +8,10 @@ actors:
 - U.S. Air Force
 - Palmer Luckey
 tags:
-- autonomous weapons
-- ai weapons
-- military-industrial complex
-- defense contractors
+- autonomous-weapons
+- ai-weapons
+- military-industrial-complex
+- defense-contractors
 sources:
 - title: Anduril conducts first flight test of Air Force CCA drone prototype
   url: https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/

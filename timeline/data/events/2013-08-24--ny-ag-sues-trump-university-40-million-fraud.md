@@ -4,12 +4,12 @@ date: 2013-08-24
 title: New York Attorney General Sues Trump University for $40 Million, Calls It "Straight Up Fraud"
 importance: 9
 tags:
-- trump university
+- trump-university
 - fraud
-- consumer protection
-- new york attorney general
-- eric schneiderman
-- civil lawsuit
+- consumer-protection
+- new-york-attorney-general
+- eric-schneiderman
+- civil-lawsuit
 actors:
 - Eric Schneiderman
 - Donald Trump

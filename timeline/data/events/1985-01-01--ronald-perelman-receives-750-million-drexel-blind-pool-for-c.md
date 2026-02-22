@@ -8,7 +8,7 @@ actors:
 - Michael Milken
 - Drexel Burnham Lambert
 tags:
-- corporate-raiders
+- corporate-raider
 - junk-bonds
 - hostile-takeover
 - financial-innovation

@@ -9,9 +9,9 @@ actors:
 - Church Committee
 - Mike Mansfield
 - Seymour Hersh
-- CIA
-- FBI
-- NSA
+- Central Intelligence Agency
+- Federal Bureau of Investigation
+- National Security Agency
 - Internal Revenue Service
 tags:
 - intelligence-privatization

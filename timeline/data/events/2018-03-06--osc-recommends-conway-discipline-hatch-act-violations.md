@@ -5,11 +5,11 @@ title: Office of Special Counsel Recommends Disciplining Kellyanne Conway for Ha
 status: confirmed
 importance: 8
 tags:
-- hatch act
-- ethics violations
-- kellyanne conway
-- abuse of office
-- trump administration
+- hatch-act
+- ethics-violation
+- kellyanne-conway
+- abuse-of-office
+- trump-administration
 actors:
 - Kellyanne Conway
 - Donald Trump

@@ -2,10 +2,9 @@
 id: 2020-10-14--fbi-enables-social-media-suppression-of-hunter-bid
 date: '2020-10-14'
 importance: 8
-title: FBI Enables Social Media Suppression of Hunter Biden Laptop Story Despite Knowing
-  Authenticity
+title: FBI Enables Social Media Suppression of Hunter Biden Laptop Story Despite Knowing Authenticity
 actors:
-- FBI
+- Federal Bureau of Investigation
 - Twitter
 - Facebook
 - Yoel Roth
@@ -19,18 +18,15 @@ tags:
 - disinformation
 status: confirmed
 sources:
-- title: Testimony Reveals FBI Employees Who Warned Social Media Companies Knew Hunter
-    Biden Laptop Wasn't Russian Disinformation
+- title: Testimony Reveals FBI Employees Who Warned Social Media Companies Knew Hunter Biden Laptop Wasn't Russian Disinformation
   url: https://judiciary.house.gov/media/press-releases/testimony-reveals-fbi-employees-who-warned-social-media-companies-about-hack
   outlet: House Judiciary Committee
   date: '2023-07-10'
-- title: Former Twitter execs tell House committee that removal of Hunter Biden laptop
-    story was a mistake
+- title: Former Twitter execs tell House committee that removal of Hunter Biden laptop story was a mistake
   url: https://abcnews.go.com/US/former-twitter-execs-house-committee-removal-hunter-biden/story?id=96979014
   outlet: ABC News
   date: '2023-02-08'
-- title: Twitter execs acknowledge mistakes with Hunter Biden laptop story but say
-    no government involvement
+- title: Twitter execs acknowledge mistakes with Hunter Biden laptop story but say no government involvement
   url: https://www.cnn.com/2023/02/08/politics/twitter-hearing-house-oversight/index.html
   outlet: CNN
   date: '2023-02-08'

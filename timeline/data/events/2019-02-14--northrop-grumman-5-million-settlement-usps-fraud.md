@@ -10,12 +10,12 @@ actors:
 - U.S. Postal Service
 - USPS Office of Inspector General
 tags:
-- defense contractors
+- defense-contractors
 - fraud
-- false claims act
-- contractor abuse
+- false-claims-act
+- contractor-abuse
 - accountability
-- cost-plus contracts
+- cost-plus-contracts
 sources:
 - url: https://www.justice.gov/archives/opa/pr/northrop-grumman-systems-corporation-agrees-pay-52-million-settle-allegations-false-labor
   title: Northrop Grumman Systems Corporation Agrees to Pay $5.2 Million to Settle Allegations of False Labor Charges

@@ -5,10 +5,10 @@ title: Jury Awards E. Jean Carroll $83.3 Million in Second Defamation Trial Agai
 importance: 9
 tags:
 - defamation
-- e. jean carroll
-- civil liability
-- jury verdict
-- damages award
+- e.-jean-carroll
+- civil-liability
+- jury-verdict
+- damages-award
 actors:
 - E. Jean Carroll
 - Donald Trump

@@ -5,10 +5,10 @@ title: Senate Votes 51-49 to Block Witnesses in Impeachment Trial, Ensuring Trum
 importance: 10
 status: confirmed
 tags:
-- first impeachment
-- senate trial
+- first-impeachment
+- senate-trial
 - cover-up
-- republican complicity
+- republican-complicity
 - ukraine
 actors:
 - Mitch McConnell

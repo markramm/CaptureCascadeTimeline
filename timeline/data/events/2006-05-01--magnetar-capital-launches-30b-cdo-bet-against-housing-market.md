@@ -9,7 +9,7 @@ actors:
 - Investment banks
 - Institutional investors
 tags:
-- synthetic-cdos
+- synthetic-cdo
 - mortgage-backed-securities
 - wall-street
 - financial-fraud

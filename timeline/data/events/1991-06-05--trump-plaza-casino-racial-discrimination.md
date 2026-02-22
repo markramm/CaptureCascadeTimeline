@@ -6,9 +6,9 @@ importance: 7
 status: confirmed
 tags:
 - racism
-- trump business
+- trump-business
 - casino
-- employment discrimination
+- employment-discrimination
 actors:
 - Donald Trump
 - Robert LiButti

@@ -7,11 +7,11 @@ actors:
 - Amazon
 - Strategic Organizing Center
 tags:
-- worker exploitation
-- corporate accountability
+- worker-exploitation
+- corporate-accountability
 - amazon
-- labor rights
-- worker safety
+- labor-rights
+- worker-safety
 sources:
 - url: https://www.cnbc.com/2023/04/12/study-amazon-workers-seriously-hurt-at-twice-rate-of-other-warehouses.html
   title: Amazon workers seriously injured at more than twice the rate of other warehouses, study finds

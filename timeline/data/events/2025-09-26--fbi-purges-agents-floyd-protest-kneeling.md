@@ -11,7 +11,7 @@ tags:
 - authoritarianism
 actors:
 - Kash Patel
-- FBI
+- Federal Bureau of Investigation
 - FBI Agents Association
 - Christopher Wray
 sources:

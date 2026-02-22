@@ -9,7 +9,7 @@ tags:
 - defense-contractors
 - antitrust
 - monopolization
-- mergers
+- merger
 - military-industrial-complex
 sources:
 - url: https://www.airandspaceforces.com/raytheon-utc-merger-approved-creating-second-largest-defense-company/

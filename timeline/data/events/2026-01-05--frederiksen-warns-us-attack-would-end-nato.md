@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Mette Frederiksen
 - Donald Trump
-- NATO
+- North Atlantic Treaty Organization
 tags:
 - greenland
 - denmark

@@ -14,7 +14,7 @@ actors:
 - Edward Snowden
 - Glenn Greenwald
 - Bart Gellman
-- NSA
+- National Security Agency
 - Microsoft
 - Yahoo
 - Google

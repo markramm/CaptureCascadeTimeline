@@ -84,7 +84,7 @@ actors:
 - California Governor's Office
 - Republican National Committee
 tags:
-- pardons
+- pardon
 - corruption
 - criminal-justice
 - state-federal-conflict

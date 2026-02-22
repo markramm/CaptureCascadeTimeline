@@ -8,9 +8,9 @@ actors:
 - Amazon
 - Ver.di Union
 tags:
-- worker exploitation
-- labor rights
-- union organizing
+- worker-exploitation
+- labor-rights
+- union-organizing
 - amazon
 - international
 sources:

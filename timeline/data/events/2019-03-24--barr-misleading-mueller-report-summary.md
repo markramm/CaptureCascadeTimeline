@@ -5,12 +5,12 @@ title: Attorney General Barr Releases Misleading 4-Page Summary of Mueller Repor
 importance: 10
 status: confirmed
 tags:
-- mueller investigation
-- obstruction of justice
-- attorney general corruption
+- mueller-investigation
+- obstruction-of-justice
+- attorney-general-corruption
 - disinformation
-- accountability crisis
-- doj politicization
+- accountability-crisis
+- doj-politicization
 actors:
 - William Barr
 - Robert Mueller

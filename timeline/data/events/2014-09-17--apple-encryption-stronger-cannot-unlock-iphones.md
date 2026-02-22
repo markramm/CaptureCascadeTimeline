@@ -13,8 +13,8 @@ tags:
 actors:
 - Apple
 - Tim Cook
-- NSA
-- FBI
+- National Security Agency
+- Federal Bureau of Investigation
 sources:
 - title: Apple will no longer unlock most iPhones, iPads for police, even with search warrants
   url: https://www.washingtonpost.com/business/technology/2014/09/17/2612af58-3ed2-11e4-b03f-de718edeb92f_story.html

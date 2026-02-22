@@ -10,13 +10,13 @@ actors:
 - National Security Agency
 - U.S. Department of Defense
 tags:
-- cyber weapons
-- surveillance state
-- military-industrial complex
-- defense contractors
+- cyber-weapons
+- surveillance-state
+- military-industrial-complex
+- defense-contractors
 - nsa
-- pentagon contracts
-- offensive cyber operations
+- pentagon-contracts
+- offensive-cyber-operations
 sources:
 - url: https://www.militaryaerospace.com/computers/article/16726574/northrop-grumman-to-coordinate-us-cyber-warfare-computer-tools-and-software-applications
   title: Northrop Grumman to coordinate U.S. cyber warfare computer tools and software applications

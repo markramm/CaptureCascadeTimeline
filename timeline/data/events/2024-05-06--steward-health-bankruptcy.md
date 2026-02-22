@@ -16,7 +16,7 @@ tags:
 - bankruptcy
 - patient-harm
 - cerberus
-- ralph de la torre
+- ralph-de-la-torre
 sources:
 - title: On Anniversary of Steward Health Care Bankruptcy, Warren, Markey Push For Accountability
   url: https://www.warren.senate.gov/newsroom/press-releases/on-anniversary-of-steward-health-care-bankruptcy-warren-markey-push-for-accountability-for-ralph-de-la-torre-and-other-steward-mpt-executives

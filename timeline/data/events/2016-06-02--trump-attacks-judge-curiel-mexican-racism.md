@@ -5,12 +5,12 @@ title: Trump Attacks Federal Judge Curiel as "Mexican" Despite Indiana Birth, Pa
 status: confirmed
 importance: 9
 tags:
-- trump university
+- trump-university
 - racism
-- judicial independence
-- witness intimidation
-- paul ryan
-- donald trump
+- judicial-independence
+- witness-intimidation
+- paul-ryan
+- donald-trump
 actors:
 - Donald Trump
 - Gonzalo Curiel

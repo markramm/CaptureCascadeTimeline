@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Barack Obama
 - John Brennan
-- CIA
+- Central Intelligence Agency
 - Leon Panetta
 tags:
 - drones

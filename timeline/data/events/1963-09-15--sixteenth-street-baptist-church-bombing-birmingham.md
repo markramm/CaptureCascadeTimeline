@@ -4,36 +4,36 @@ date: '1963-09-15'
 title: KKK Bombs 16th Street Baptist Church in Birmingham Killing Four Young Girls
 importance: 10
 actors:
-  - Ku Klux Klan
-  - Robert Chambliss
-  - Thomas Blanton
-  - Bobby Frank Cherry
-  - FBI
+- Ku Klux Klan
+- Robert Chambliss
+- Thomas Blanton
+- Bobby Frank Cherry
+- Federal Bureau of Investigation
 tags:
-  - civil-rights
-  - terrorism
-  - violence
-  - institutional-racism
-  - judicial-failure
+- civil-rights
+- terrorism
+- violence
+- institutional-racism
+- judicial-failure
 sources:
-  - title: "16th Street Baptist Church Bombing (1963)"
-    url: "https://www.nps.gov/articles/16thstreetbaptist.htm"
-    outlet: "National Park Service"
-    date: 2024-09-15
-    verified: true
-    tier: 1
-  - title: "Baptist Street Church Bombing"
-    url: "https://www.fbi.gov/history/famous-cases/baptist-street-church-bombing"
-    outlet: "Federal Bureau of Investigation"
-    date: 2024-01-10
-    verified: true
-    tier: 1
-  - title: "16th Street Baptist Church bombing"
-    url: "https://www.britannica.com/event/16th-Street-Baptist-Church-bombing"
-    outlet: "Encyclopaedia Britannica"
-    date: 2024-09-01
-    verified: true
-    tier: 2
+- title: 16th Street Baptist Church Bombing (1963)
+  url: https://www.nps.gov/articles/16thstreetbaptist.htm
+  outlet: National Park Service
+  date: 2024-09-15
+  verified: true
+  tier: 1
+- title: Baptist Street Church Bombing
+  url: https://www.fbi.gov/history/famous-cases/baptist-street-church-bombing
+  outlet: Federal Bureau of Investigation
+  date: 2024-01-10
+  verified: true
+  tier: 1
+- title: 16th Street Baptist Church bombing
+  url: https://www.britannica.com/event/16th-Street-Baptist-Church-bombing
+  outlet: Encyclopaedia Britannica
+  date: 2024-09-01
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

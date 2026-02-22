@@ -37,7 +37,7 @@ category: surveillance_infrastructure
 verification_status: documented
 actors:
 - Sprint Nextel
-- NSA
+- National Security Agency
 - Bush Administration
 - Law Enforcement Agencies
 status: confirmed

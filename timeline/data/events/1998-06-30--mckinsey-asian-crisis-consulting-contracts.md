@@ -5,7 +5,7 @@ title: McKinsey Leverages Asian Financial Crisis for Consulting Expansion
 importance: 9
 actors:
 - McKinsey & Company
-- IMF
+- International Monetary Fund
 - World Bank
 - Thailand Government
 - Indonesia Government

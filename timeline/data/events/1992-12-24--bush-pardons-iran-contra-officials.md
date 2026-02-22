@@ -6,7 +6,7 @@ importance: 10
 status: confirmed
 tags:
 - iran-contra
-- presidential-pardons
+- presidential-pardon
 - obstruction-of-justice
 - accountability
 - cover-up

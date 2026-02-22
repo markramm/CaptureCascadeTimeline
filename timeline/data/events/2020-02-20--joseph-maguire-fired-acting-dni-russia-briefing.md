@@ -4,13 +4,13 @@ date: '2020-02-20'
 title: Trump Fires Acting DNI Joseph Maguire After Intelligence Briefing That Russia Prefers Trump in 2020
 importance: 9
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
-- intelligence community
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
+- intelligence-community
 - russia
-- election security
+- election-security
 actors:
 - Joseph Maguire
 - Donald Trump

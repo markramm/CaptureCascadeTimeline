@@ -4,10 +4,10 @@ date: 2007-10-01
 title: Trump Foundation Pays $258,000 for Six-Foot Portrait of Trump at Charity Auction
 importance: 8
 tags:
-- trump foundation
-- charity fraud
+- trump-foundation
+- charity-fraud
 - self-dealing
-- tax violations
+- tax-violations
 - mar-a-lago
 actors:
 - Donald Trump

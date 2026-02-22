@@ -11,7 +11,7 @@ tags:
 - shell-company
 - fraudulent-transfers
 - irs
-- financial-crimes
+- financial-crime
 - asset-concealment
 actors:
 - Roger Stone

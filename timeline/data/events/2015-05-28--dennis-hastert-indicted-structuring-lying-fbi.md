@@ -13,12 +13,12 @@ summary: 'A seven-page federal indictment was unsealed charging former House Spe
   '
 importance: 9
 tags:
-- congressional corruption
-- sexual abuse
+- congressional-corruption
+- sexual-abuse
 - cover-up
-- republican party
-- bank fraud
-- political accountability
+- republican-party
+- bank-fraud
+- political-accountability
 actors:
 - Dennis Hastert
 status: confirmed

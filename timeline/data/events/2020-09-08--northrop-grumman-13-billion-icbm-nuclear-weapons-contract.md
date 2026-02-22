@@ -11,12 +11,12 @@ actors:
 - Boeing
 - Orbital ATK
 tags:
-- military-industrial complex
-- defense contractors
-- nuclear weapons
-- pentagon contracts
+- military-industrial-complex
+- defense-contractors
+- nuclear-weapons
+- pentagon-contracts
 - icbms
-- monopoly power
+- monopoly-power
 sources:
 - url: https://www.af.mil/News/Article-Display/Article/2340139/department-of-the-air-force-awards-contract-for-new-icbm-system-that-enhances-s/
   title: Department of the Air Force awards contract for new ICBM system

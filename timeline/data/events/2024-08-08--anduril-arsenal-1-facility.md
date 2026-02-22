@@ -9,11 +9,11 @@ actors:
 - Palmer Luckey
 - State of Ohio
 tags:
-- autonomous weapons
-- military-industrial complex
-- ai weapons
+- autonomous-weapons
+- military-industrial-complex
+- ai-weapons
 - manufacturing
-- defense contractors
+- defense-contractors
 sources:
 - title: Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio
   url: https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/

@@ -4,7 +4,7 @@ date: '1998-06-12'
 title: South Korea Completes IMF-Mandated Economic Restructuring
 importance: 9
 actors:
-- IMF
+- International Monetary Fund
 - World Bank
 - South Korean Government
 - Chaebol Corporations

@@ -6,7 +6,7 @@ importance: 9
 location: Multiple U.S. Cities (Atlanta, Chicago, Dallas, Los Angeles, New York, San Francisco, Seattle, Washington D.C.)
 actors:
 - AT&T Corporate Leadership
-- NSA
+- National Security Agency
 - Bush Administration
 - Mark Klein (AT&T Technician)
 sources:

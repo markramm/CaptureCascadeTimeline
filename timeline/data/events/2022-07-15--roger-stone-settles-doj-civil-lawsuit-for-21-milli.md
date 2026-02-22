@@ -8,7 +8,7 @@ actors:
 - Roger Stone
 - Department of Justice
 tags:
-- financial-crimes
+- financial-crime
 - tax-evasion
 - stone-network
 - fraudulent-transfers

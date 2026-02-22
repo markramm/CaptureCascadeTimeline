@@ -7,8 +7,8 @@ actors:
 - Nick Fuentes
 tags:
 - deplatforming
-- white nationalism
-- tech policy
+- white-nationalism
+- tech-policy
 sources:
 - title: Twitter Deplatforms White Nationalist Nick Fuentes
   url: https://jewishjournal.com/news/338588/twitter-deplatforms-white-nationalist-nick-fuentes/

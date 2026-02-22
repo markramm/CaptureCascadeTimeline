@@ -25,7 +25,7 @@ sources:
   tier: 2
   verified: true
 tags:
-- treaty-violations
+- treaty-violation
 - indigenous-genocide
 - land-theft
 - institutional-corruption

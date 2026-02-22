@@ -11,7 +11,7 @@ tags:
 - surveillance-technology
 - peter-thiel
 - israeli-intelligence
-- intelligence-networks
+- intelligence-network
 - emergency-response-tech
 actors:
 - Jeffrey Epstein

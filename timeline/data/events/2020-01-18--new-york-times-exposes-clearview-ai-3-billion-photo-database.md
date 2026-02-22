@@ -6,7 +6,7 @@ importance: 9
 status: confirmed
 tags:
 - surveillance-state
-- privacy-violations
+- privacy-violation
 - investigative-journalism
 - authoritarian-infrastructure
 sources:

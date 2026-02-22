@@ -11,11 +11,11 @@ actors:
 - Palmer Luckey
 - General Atomics
 tags:
-- autonomous weapons
-- military-industrial complex
-- ai weapons
-- defense contractors
-- pentagon contracts
+- autonomous-weapons
+- military-industrial-complex
+- ai-weapons
+- defense-contractors
+- pentagon-contracts
 sources:
 - title: Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program
   url: https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/

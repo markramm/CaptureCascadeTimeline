@@ -8,9 +8,9 @@ actors:
 - Donald Trump
 - Mike Pence
 tags:
-- january 6
+- january-6
 - insurrection
-- stephen miller
+- stephen-miller
 - trump
 sources:
 - title: Donald Trump adviser Stephen Miller grilled about rally that preceded Jan. 6 insurrection

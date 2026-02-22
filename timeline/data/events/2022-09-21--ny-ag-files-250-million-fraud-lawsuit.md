@@ -4,12 +4,12 @@ date: '2022-09-21'
 title: NY Attorney General Files $250 Million Fraud Lawsuit Against Trump Organization
 importance: 9
 tags:
-- financial fraud
-- ny attorney general
-- trump organization
-- civil lawsuit
-- letitia james
-- bank fraud
+- financial-fraud
+- ny-attorney-general
+- trump-organization
+- civil-lawsuit
+- letitia-james
+- bank-fraud
 actors:
 - Letitia James
 - Donald Trump

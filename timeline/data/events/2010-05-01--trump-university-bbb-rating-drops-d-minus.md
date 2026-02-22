@@ -5,11 +5,11 @@ title: Better Business Bureau Drops Trump University Rating to D- After Flood of
 importance: 8
 status: confirmed
 tags:
-- trump university
+- trump-university
 - fraud
-- consumer protection
-- better business bureau
-- education fraud
+- consumer-protection
+- better-business-bureau
+- education-fraud
 actors:
 - Donald Trump
 - Michael Sexton

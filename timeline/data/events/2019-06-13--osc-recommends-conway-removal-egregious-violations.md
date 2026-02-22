@@ -5,12 +5,12 @@ title: Office of Special Counsel Issues Unprecedented Recommendation to Remove K
 importance: 9
 status: confirmed
 tags:
-- hatch act
-- ethics violations
-- kellyanne conway
-- abuse of office
-- trump administration
-- rule of law
+- hatch-act
+- ethics-violation
+- kellyanne-conway
+- abuse-of-office
+- trump-administration
+- rule-of-law
 actors:
 - Kellyanne Conway
 - Donald Trump

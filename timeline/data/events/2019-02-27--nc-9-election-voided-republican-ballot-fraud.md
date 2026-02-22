@@ -9,10 +9,10 @@ actors:
 - Dan McCready
 - North Carolina State Board of Elections
 tags:
-- election manipulation
-- republican party
-- election fraud
-- criminal justice
+- election-manipulation
+- republican-party
+- election-fraud
+- criminal-justice
 sources:
 - title: State Board unanimously orders new election in 9th Congressional District
   url: https://www.ncsbe.gov/news/press-releases/2019/02/25/state-board-unanimously-orders-new-election-9th-congressional-district

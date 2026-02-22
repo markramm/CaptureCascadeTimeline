@@ -4,12 +4,12 @@ date: 2004-06-01
 title: The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properties and Brand
 importance: 6
 tags:
-- the apprentice
-- conflicts of interest
-- trump organization
-- mark burnett
+- the-apprentice
+- conflicts-of-interest
+- trump-organization
+- mark-burnett
 - nbc
-- product placement
+- product-placement
 sources:
 - url: https://fortune.com/2016/12/09/donald-trump-celebrity-apprentice-nbc/
   title: Why Donald Trump on 'Celebrity Apprentice' Raises Conflict of Interest Questions

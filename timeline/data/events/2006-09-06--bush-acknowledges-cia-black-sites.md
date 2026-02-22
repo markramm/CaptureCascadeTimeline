@@ -6,7 +6,7 @@ title: Bush Publicly Acknowledges CIA Secret Prisons for First Time, Transfers D
 importance: 8
 actors:
 - George W. Bush
-- CIA
+- Central Intelligence Agency
 - Khalid Sheikh Mohammed
 - Abu Zubaydah
 - Abd al-Rahim al-Nashiri

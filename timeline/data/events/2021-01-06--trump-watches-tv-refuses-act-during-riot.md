@@ -1,8 +1,7 @@
 ---
 id: 2021-01-06--trump-watches-tv-refuses-act-during-riot
 date: '2021-01-06'
-title: FBI forensics show Trump watched TV and tweeted instead of stopping Capitol
-  riot
+title: FBI forensics show Trump watched TV and tweeted instead of stopping Capitol riot
 importance: 10
 tags:
 - january-6
@@ -14,15 +13,14 @@ tags:
 - jack-smith-report
 actors:
 - Donald Trump
-- FBI
+- Federal Bureau of Investigation
 - Jack Smith
 sources:
 - title: Donald Trump's Phone Will Provide Critical Evidence in Jack Smith Trial
   url: https://www.newsweek.com/donald-trump-phone-jack-smith-trial-1963160
   outlet: Newsweek
   date: '2024-10-25'
-- title: Special counsel Jack Smith provides fullest picture yet of his 2020 election
-    case against Trump
+- title: Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump
   url: https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html
   outlet: CNN
   date: '2024-10-02'

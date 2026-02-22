@@ -27,7 +27,7 @@ sources:
   outlet: Trump Tyranny Tracker
 actors:
 - U.S. Marshals Service
-- FBI
+- Federal Bureau of Investigation
 - National Guard
 - Memphis Safe Task Force
 capture_lanes:

@@ -6,8 +6,8 @@ importance: 8
 status: confirmed
 actors:
 - Amazon Web Services
-- CIA
-- NSA
+- Central Intelligence Agency
+- National Security Agency
 - Pentagon
 - U.S. Department of Defense
 tags:

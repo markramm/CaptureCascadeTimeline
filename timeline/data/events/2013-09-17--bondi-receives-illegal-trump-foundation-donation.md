@@ -7,7 +7,7 @@ actors:
 - Pam Bondi
 - Donald Trump
 tags:
-- pam bondi
+- pam-bondi
 - trump
 - corruption
 - pay-to-play

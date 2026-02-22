@@ -5,12 +5,12 @@ title: Trump Asks Comey to "Let Flynn Go" in Private Oval Office Meeting
 importance: 10
 status: confirmed
 tags:
-- obstruction of justice
-- mueller investigation
-- comey firing
-- flynn investigation
-- presidential abuse of power
-- witness tampering
+- obstruction-of-justice
+- mueller-investigation
+- comey-firing
+- flynn-investigation
+- presidential-abuse-of-power
+- witness-tampering
 actors:
 - Donald Trump
 - James Comey

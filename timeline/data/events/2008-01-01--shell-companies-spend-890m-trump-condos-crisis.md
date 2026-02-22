@@ -15,7 +15,7 @@ tags:
 - shell-companies
 - financial-crisis
 - real-estate
-- delaware-llcs
+- delaware-llc
 - all-cash-sales
 - foreign-corporations
 capture_lanes:

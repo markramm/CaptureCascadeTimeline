@@ -5,7 +5,7 @@ title: DHS Secretary Noem Fires 23 FEMA Employees, Demands Public Trump Praise, 
 importance: 8
 tags:
 - institutional-capture
-- loyalty-oaths
+- loyalty-oath
 - political-purge
 - fema
 - disaster-response

@@ -4,11 +4,11 @@ date: '2022-01-18'
 title: NY Attorney General James Files Motion Revealing Evidence of Trump Organization Fraud
 importance: 9
 tags:
-- financial fraud
-- ny attorney general
-- trump organization
-- asset valuation fraud
-- letitia james
+- financial-fraud
+- ny-attorney-general
+- trump-organization
+- asset-valuation-fraud
+- letitia-james
 actors:
 - Letitia James
 - Donald Trump

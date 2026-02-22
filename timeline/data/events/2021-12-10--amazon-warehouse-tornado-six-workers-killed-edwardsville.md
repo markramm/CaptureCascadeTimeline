@@ -7,11 +7,11 @@ actors:
 - Jeff Bezos
 - Amazon
 tags:
-- worker exploitation
-- corporate accountability
+- worker-exploitation
+- corporate-accountability
 - amazon
-- worker death
-- labor rights
+- worker-death
+- labor-rights
 sources:
 - url: https://www.cnn.com/2021/12/11/business/amazon-deaths-warehouse-tornado/index.html
   title: Six people killed in Illinois Amazon warehouse collapse after tornado

@@ -5,11 +5,11 @@ title: Trump Blocks Ambassador Sondland Testimony, Declares Total Obstruction of
 importance: 9
 status: confirmed
 tags:
-- first impeachment
-- obstruction of congress
+- first-impeachment
+- obstruction-of-congress
 - ukraine
-- state department
-- gordon sondland
+- state-department
+- gordon-sondland
 actors:
 - Donald Trump
 - Gordon Sondland

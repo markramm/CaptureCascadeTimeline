@@ -5,12 +5,12 @@ title: Paradise Papers Reveal Commerce Secretary Ross Concealed Stake in Russian
 status: confirmed
 importance: 8
 tags:
-- cabinet corruption
-- ethics violations
-- wilbur ross
+- cabinet-corruption
+- ethics-violation
+- wilbur-ross
 - russia
-- paradise papers
-- conflicts of interest
+- paradise-papers
+- conflicts-of-interest
 actors:
 - Wilbur Ross
 - Kirill Shamalov

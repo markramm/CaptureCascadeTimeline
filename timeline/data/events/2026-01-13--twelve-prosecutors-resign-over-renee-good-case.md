@@ -9,7 +9,7 @@ actors:
 - Melinda Williams
 - Todd Blanche
 - Harmeet Dhillon
-- DOJ
+- U.S. Department of Justice
 tags:
 - doj-politicization
 - operation-metro-surge

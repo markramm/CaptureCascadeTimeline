@@ -8,7 +8,7 @@ actors:
 - Justin Sun
 - Donald Trump
 - Trump Family
-- Securities and Exchange Commission (SEC)
+- Securities and Exchange Commission
 - World Liberty Financial
 - CIC Digital LLC
 - HTX exchange

@@ -7,7 +7,7 @@ actors:
 - Maria Farmer
 - Jeffrey Epstein
 - Ghislaine Maxwell
-- FBI
+- Federal Bureau of Investigation
 - Les Wexner
 tags:
 - epstein-intelligence

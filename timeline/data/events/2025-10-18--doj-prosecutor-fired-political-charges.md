@@ -13,7 +13,7 @@ actors:
 - Donald Trump
 - Letitia James
 - Lindsey Halligan
-- DOJ
+- U.S. Department of Justice
 sources:
 - url: https://www.nytimes.com/2025/10/18/us/politics/doj-prosecutor-fired-letitia-james.html
   title: DOJ Prosecutor Fired for Refusing Political Charges

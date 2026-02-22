@@ -18,7 +18,7 @@ tags:
 - corruption
 - lobbying
 - political-influence
-- allen stanford
+- allen-stanford
 - money-laundering
 sources:
 - title: SEC Charges R. Allen Stanford, Stanford International Bank for Multi-Billion Dollar Investment Scheme

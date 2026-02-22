@@ -9,7 +9,7 @@ actors:
 - Donald Trump
 - Immigration and Customs Enforcement (ICE)
 tags:
-- protest
+- protests
 - civil-resistance
 - immigration
 - 2026-cascade

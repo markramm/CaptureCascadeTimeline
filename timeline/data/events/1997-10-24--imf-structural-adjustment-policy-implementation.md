@@ -4,7 +4,7 @@ date: '1997-10-24'
 title: IMF Structural Adjustment Policies Implemented in Asian Economies
 importance: 9
 actors:
-- IMF
+- International Monetary Fund
 - World Bank
 - McKinsey & Company
 - Goldman Sachs

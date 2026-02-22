@@ -16,7 +16,7 @@ tags:
 - campaign-finance
 - project-2025
 - electoral-corruption
-- donor-advised-funds
+- donor-advised-fund
 - kleptocracy
 capture_lanes:
 - International Kleptocracy

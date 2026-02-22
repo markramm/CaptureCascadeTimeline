@@ -4,10 +4,10 @@ date: '2019-05-07'
 title: Ambassador Marie Yovanovitch Recalled from Ukraine After Giuliani-Led Smear Campaign
 importance: 8
 tags:
-- inspector general
-- whistleblower retaliation
-- obstruction of justice
-- accountability crisis
+- inspector-general
+- whistleblower-retaliation
+- obstruction-of-justice
+- accountability-crisis
 - ukraine
 - corruption
 actors:

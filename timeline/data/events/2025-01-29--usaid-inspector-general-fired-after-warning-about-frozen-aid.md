@@ -1,7 +1,7 @@
 ---
 actors:
 - Paul Martin
-- USAID
+- United States Agency for International Development
 - Donald Trump
 - White House Personnel Office
 - Marco Rubio
