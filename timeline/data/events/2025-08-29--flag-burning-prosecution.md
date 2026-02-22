@@ -18,6 +18,16 @@ sources:
   title: Federal prosecutors charge veteran for flag burning following Trump DOJ directive
   tier: 1
   outlet: CBS News
+- url: https://www.pbs.org/newshour/politics/army-veteran-who-burned-u-s-flag-near-white-house-pleads-not-guilty-to-federal-charges
+  title: Army veteran who burned U.S. flag near White House pleads not guilty to federal charges
+  outlet: PBS NewsHour
+  date: '2025-08-29'
+  tier: 1
+- url: https://thehill.com/regulation/court-battles/5508318-veteran-pleads-not-guilty-flag-burning/
+  title: Army veteran Jan Carey pleads not guilty in flag burning near White House
+  outlet: The Hill
+  date: '2025-08-29'
+  tier: 2
 capture_lanes:
 - Regulatory Capture
 - Media Capture & Control

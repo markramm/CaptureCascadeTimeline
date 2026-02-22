@@ -19,6 +19,16 @@ sources:
   title: State Dept.'s Security Arm Partners With DC Police for Safety Sake
   tier: 2
   outlet: Daily Signal
+- url: https://www.npr.org/2025/08/22/nx-s1-5511990/trump-d-c-arrests-poor-indicator-public-safety
+  title: As Trump touts D.C. arrests, experts caution they're not the best indicator of public safety
+  outlet: NPR
+  date: '2025-08-22'
+  tier: 1
+- url: https://www.washingtonpost.com/dc-md-va/2025/12/23/dc-police-arrests-federal-takeover/
+  title: Federal agents patrol D.C. long after takeover of city police ended
+  outlet: Washington Post
+  date: '2025-12-23'
+  tier: 1
 capture_lanes:
 - Democratic Erosion
 status: reported

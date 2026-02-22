@@ -2,6 +2,7 @@
 id: 2020-08-13--epic-games-sues-apple-app-store-monopoly
 date: '2020-08-13'
 title: Epic Games Sues Apple Over App Store Monopoly and 30% Commission Tax on Developers
+importance: 7
 status: confirmed
 actors:
 - Epic Games
@@ -38,7 +39,6 @@ tags:
 - tech-monopoly
 - developer-restrictions
 - platform-power
-importance: 7
 ---
 
 Epic Games filed a landmark antitrust lawsuit against Apple in the U.S. District Court for the Northern District of California, challenging Apple's App Store monopoly and mandatory 30% commission on in-app purchases. The suit was filed hours after Apple removed Fortnite from the App Store for implementing direct payments that bypassed Apple's payment system, revealing Epic's coordinated "Project Liberty" campaign to challenge Apple's anti-competitive control over iOS app distribution and expose how the company extracts billions in monopoly rents from developers while blocking all alternative payment methods and app stores.

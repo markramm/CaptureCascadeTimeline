@@ -18,6 +18,16 @@ sources:
   outlet: National Women's Law Center
   date: '2025-07-15'
   tier: 2
+- url: https://www.wkrn.com/news/tennessee-politics/tn-medical-ethics-defense-act-signed-into-law/
+  title: Healthcare providers can deny care that conflicts with conscience under new Tennessee law
+  outlet: WKRN News 2
+  date: '2025-04-24'
+  tier: 2
+- url: https://www.wsmv.com/2025/03/07/bill-that-would-allow-medical-professionals-refuse-care-based-personal-religious-beliefs-passes-tn-senate/
+  title: Bill that would allow medical professionals to refuse care based on personal, religious beliefs passes TN Senate
+  outlet: WSMV
+  date: '2025-03-07'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

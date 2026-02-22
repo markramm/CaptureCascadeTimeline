@@ -15,6 +15,16 @@ sources:
   title: Wells Fargo SEC Filing
   tier: 1
   outlet: SEC
+- url: https://pogo.org/report/2013/02/dangerous-liaisons-revolving-door-at-sec-creates-risk-of-regulatory-capture
+  title: 'Dangerous Liaisons: Revolving Door at SEC Creates Risk of Regulatory Capture'
+  outlet: ProPublica / POGO
+  date: '2013-02-11'
+  tier: 1
+- url: https://www.cnbc.com/2013/02/11/tough-wall-street-enforcement-lost-in-revolving-door-study.html
+  title: "Tough Wall Street Enforcement Lost in 'Revolving Door': Study"
+  outlet: CNBC
+  date: '2013-02-11'
+  tier: 2
 capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture
