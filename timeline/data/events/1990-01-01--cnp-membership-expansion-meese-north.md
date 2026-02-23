@@ -16,22 +16,23 @@ actors:
 - Donald Hodel
 sources:
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
-  url: https://www.goodreads.com/book/show/46020029-shadow-network
+  url: 'https://www.goodreads.com/book/show/46020029-shadow-network'
   publication: Goodreads
   date: '2019-10-01'
   tier: 2
+  outlet: Goodreads
 - title: Council for National Policy
-  url: https://en.wikipedia.org/wiki/Council_for_National_Policy
+  url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Legislative Capture
 - Systematic Corruption
 ---
-
 By 1990, the Council for National Policy's membership roster had expanded to include prominent Reagan administration officials, with former Attorney General Edwin Meese and Colonel Oliver North representing the integration of government power into CNP's coordination network.
 
 Edwin Meese, who served as Reagan's Attorney General from 1985-1988 and was a key architect of conservative legal theory, became one of CNP's most prominent members and would later serve as organization president. His membership connected CNP directly to Heritage Foundation (where he became a fellow) and to the development of conservative judicial philosophy.

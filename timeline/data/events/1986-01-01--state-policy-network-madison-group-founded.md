@@ -17,27 +17,29 @@ actors:
 - Heartland Institute
 sources:
 - title: State Policy Network
-  url: https://en.wikipedia.org/wiki/State_Policy_Network
+  url: 'https://en.wikipedia.org/wiki/State_Policy_Network'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Records Show State Policy Network Was Created by ALEC
-  url: https://progressive.org/latest/records-show-state-policy-network-created-alec/
+  url: 'https://progressive.org/latest/records-show-state-policy-network-created-alec/'
   publication: The Progressive
   date: '2024-09-15'
   tier: 1
+  outlet: Progressive
 - title: State Policy Network - SourceWatch
-  url: https://www.sourcewatch.org/index.php/State_Policy_Network
+  url: 'https://www.sourcewatch.org/index.php/State_Policy_Network'
   publication: SourceWatch
   date: '2024-08-20'
   tier: 2
+  outlet: SourceWatch
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Legislative Capture
 - Corporate Capture
 ---
-
 In 1986, the Madison Group was established as an informal confederation of state-level think tanks and their supporters, named after the Madison Hotel in Washington, DC where they first met. This network, which would be formalized as the State Policy Network (SPN) in 1992, represented the extension of Powell Memo infrastructure from federal to state level.
 
 Documents from the University of California-San Francisco's Legacy Tobacco Documents reveal that the State Policy Network's precursor - the Madison Group - was "launched by the American Legislative Exchange Council and housed in the Chicago-based Heartland Institute." This demonstrates the coordinated nature of conservative infrastructure building, with ALEC creating a complementary think tank network to support its model legislation efforts.

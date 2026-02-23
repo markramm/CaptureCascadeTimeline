@@ -13,24 +13,26 @@ tags:
 sources:
 - title: K Street Project
   outlet: Wikipedia
-  url: https://en.wikipedia.org/wiki/K_Street_Project
+  url: 'https://en.wikipedia.org/wiki/K_Street_Project'
   tier: 2
 - title: The K Street Project and Tom DeLay
   outlet: NPR
-  url: https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay
+  url: 'https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay'
   tier: 1
 - title: K Street Project
   outlet: SourceWatch
-  url: https://sourcewatch.org/index.php?title=K_Street_Project
+  url: 'https://sourcewatch.org/index.php?title=K_Street_Project'
   tier: 2
 status: confirmed
-actors: []
+actors:
+- Tom DeLay
+- Rick Santorum
+- Grover Norquist
 capture_lanes:
 - Legislative Capture
 - Corporate Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 The Republican Party, led by Newt Gingrich, Tom DeLay, and Grover Norquist, launched the K Street Project to fundamentally restructure Washington lobbying. By creating an explicit pay-to-play system, they pressured lobbying firms to hire Republican staff, track employee political affiliations, and redirect corporate campaign contributions. By 2003, an estimated 33 of 36 top lobbying positions were held by Republicans, demonstrating a systematic transformation of corporate-political influence networks.
 
 Key mechanisms:

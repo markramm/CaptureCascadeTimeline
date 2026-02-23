@@ -17,15 +17,15 @@ tags:
 - independent-expenditures
 sources:
 - title: 'FEC Legal Resources: SpeechNow.org v. FEC'
-  url: https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/
+  url: 'https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/'
   outlet: Federal Election Commission
   tier: 1
 - title: 'Free Speech for People: SpeechNow v. FEC Case Created Super PACs'
-  url: https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/
+  url: 'https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/'
   outlet: Free Speech for People
   tier: 2
-- title: The Landscape For Campaign Finance, 10 Years After Citizens United
-  url: https://www.npr.org/2020/01/21/798252685/the-landscape-for-campaign-finance-10-years-after-citizens-united
+- title: 'The Landscape For Campaign Finance, 10 Years After Citizens United'
+  url: 'https://www.npr.org/2020/01/21/798252685/the-landscape-for-campaign-finance-10-years-after-citizens-united'
   outlet: NPR
   date: '2020-01-21'
   tier: 1
@@ -36,6 +36,9 @@ capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 - Labor Suppression
+actors:
+- David Keating
+- Federal Election Commission
+- U.S. Court of Appeals for the D.C. Circuit
 ---
-
 The D.C. Circuit Court of Appeals issues its decision in SpeechNow.org v. FEC, creating what become known as "super PACs" by allowing unlimited contributions to independent expenditure committees. Building directly on the Supreme Court's Citizens United logic from just two months earlier, the three-judge panel rules that contribution limits to groups making only independent expenditures violate the First Amendment. The court reasons that since Citizens United held independent expenditures cannot corrupt candidates, unlimited contributions to independent expenditure committees similarly cannot create corruption. SpeechNow.org, founded by conservative activist David Keating, challenges FEC contribution limits arguing they want to pool resources for independent advocacy. The appeals court's decision allows these committees to accept unlimited contributions from individuals, corporations, and unions as long as they don't coordinate with candidates or donate directly to campaigns. Crucially, the Justice Department under Attorney General Eric Holder declines to appeal this decision to the Supreme Court, with Holder wrongly predicting it would "affect only a small subset of federally regulated contributions." This creates the legal framework enabling billionaires and corporations to funnel unlimited money through super PACs while maintaining the fiction of independence from candidate campaigns. The decision proves catastrophically wrong in its assumption about limited impact, as super PACs become dominant forces in American elections, raising and spending billions in subsequent election cycles.

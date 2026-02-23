@@ -13,22 +13,23 @@ actors:
 - Council for National Policy
 sources:
 - title: Council for National Policy
-  url: https://en.wikipedia.org/wiki/Council_for_National_Policy
+  url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: God, Trump and the Closed-Door World of the Council for National Policy
-  url: https://www.washingtonpost.com/magazine/2021/10/25/god-trump-closed-door-world-council-national-policy/
+  outlet: Wikipedia
+- title: 'God, Trump and the Closed-Door World of the Council for National Policy'
+  url: 'https://www.washingtonpost.com/magazine/2021/10/25/god-trump-closed-door-world-council-national-policy/'
   publication: Washington Post
   date: '2021-10-25'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Labor Suppression
 - Legislative Capture
 ---
-
 By 1985, the Council for National Policy had established its operational model of meeting three times yearly behind closed doors at undisclosed locations for confidential conferences, creating a regular rhythm for conservative movement coordination that would persist for four decades.
 
 The New York Times described CNP as "a little-known club of a few hundred of the most powerful conservatives in the country," who meet three times yearly to coordinate strategy away from public scrutiny. This meeting schedule became the heartbeat of conservative movement coordination.

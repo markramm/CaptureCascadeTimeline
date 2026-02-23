@@ -16,27 +16,29 @@ actors:
 - Conservative foundations
 sources:
 - title: Philanthropy Roundtable
-  url: https://en.wikipedia.org/wiki/Philanthropy_Roundtable
+  url: 'https://en.wikipedia.org/wiki/Philanthropy_Roundtable'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Philanthropy Roundtable - InfluenceWatch
-  url: https://www.influencewatch.org/non-profit/philanthropy-roundtable/
+  url: 'https://www.influencewatch.org/non-profit/philanthropy-roundtable/'
   publication: InfluenceWatch
   date: '2024-09-15'
   tier: 2
+  outlet: Influencewatch
 - title: Philanthropy Roundtable - SourceWatch
-  url: https://www.sourcewatch.org/index.php/Philanthropy_Roundtable
+  url: 'https://www.sourcewatch.org/index.php/Philanthropy_Roundtable'
   publication: SourceWatch
   date: '2024-08-20'
   tier: 2
+  outlet: SourceWatch
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Labor Suppression
 - Corporate Capture
 ---
-
 In 1987, the Philanthropy Roundtable was founded as a project of the Institute for Educational Affairs, establishing itself as a conservative alternative to the Council on Foundations. The organization would become an independent nonprofit in 1991, serving as a coordination hub for right-wing charitable giving and strategic donor collaboration.
 
 The Roundtable's mission was to help conservative donors pursue strategic grantmaking activities aimed at issues where philanthropic intervention could have maximum political impact. Through conferences, working groups, publications, and private consultations, the organization connected donors with leaders, scholars, and other donors working toward similar conservative objectives.

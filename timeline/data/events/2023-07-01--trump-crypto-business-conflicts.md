@@ -21,19 +21,23 @@ sources:
   date: '2023-07-15'
   url: 'https://www.pbs.org/newshour/show/what-to-know-about-trumps-cryptocurrency-plans-and-a-potential-conflict-of-interest'
   tier: 1
+  outlet: PBS NewsHour
 - title: 'Senate Banking Committee: Crypto Deal Conflict of Interest Report'
   date: '2023-07-20'
   url: 'https://www.banking.senate.gov/newsroom/minority/forwarding-merkley-warren-trump-linked-crypto-deal-is-a-staggering-conflict-of-interest'
   tier: 1
+  outlet: Banking
 - title: 'Permanent Subcommittee on Investigations: Trump Crypto Inquiry'
   date: '2023-08-01'
   url: 'https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption'
   tier: 1
   notes: Congressional investigation into potential legal violations
+  outlet: Blumenthal
 - title: 'ABC News: Trump Family Crypto Empire Expansion'
   date: '2023-07-10'
   url: 'https://abcnews.go.com/US/wireStory/trump-family-crypto-empire-expands-crypto-partnership-124990306'
   tier: 1
+  outlet: ABC News
 capture_lanes:
 - 'Digital & Tech Capture'
 - Financial Capture

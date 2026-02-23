@@ -14,21 +14,24 @@ actors:
 - William Barr
 sources:
 - title: justice.gov
-  url: https://www.justice.gov/archives/opa/speech/special-counsel-robert-s-mueller-iii-makes-statement-investigation-russian-interference
+  url: 'https://www.justice.gov/archives/opa/speech/special-counsel-robert-s-mueller-iii-makes-statement-investigation-russian-interference'
   tier: 1
+  outlet: U.S. Department of Justice
 - title: washingtonpost.com
-  url: https://www.washingtonpost.com/politics/2019/05/29/muellers-statement-annotated-if-we-had-confidence-that-president-clearly-did-not-commit-crime-we-would-have-said-so/
+  url: 'https://www.washingtonpost.com/politics/2019/05/29/muellers-statement-annotated-if-we-had-confidence-that-president-clearly-did-not-commit-crime-we-would-have-said-so/'
   tier: 1
+  outlet: The Washington Post
 - title: lawfaremedia.org
-  url: https://www.lawfaremedia.org/article/defending-muellers-constitutional-analysis-obstruction-and-faithful-execution
+  url: 'https://www.lawfaremedia.org/article/defending-muellers-constitutional-analysis-obstruction-and-faithful-execution'
   tier: 2
+  outlet: Lawfare
 - title: americanprogress.org
-  url: https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/
+  url: 'https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/'
   tier: 2
+  outlet: Americanprogress
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Regulatory Capture
 ---
-
 Special Counsel Robert Mueller publicly clarified his investigation\u0027s constraints, stating that DOJ policy prohibits charging a sitting president with a federal crime. Mueller emphasized that \u0027under long-standing Department policy, a President cannot be charged with a federal crime while he is in office. That is unconstitutional.\u0027 He further explained that \u0027charging the President with a crime was therefore not an option we could consider\u0027 due to Department of Justice regulations, and the Constitution requires alternative processes like impeachment to address potential presidential misconduct.

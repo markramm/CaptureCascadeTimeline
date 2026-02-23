@@ -20,20 +20,22 @@ actors:
 sources:
 - title: TIME Magazine - The Keating Five
   date: '1991'
-  url: https://time.com/archive/6904639/the-keating-five/
+  url: 'https://time.com/archive/6904639/the-keating-five/'
   tier: 1
+  outlet: TIME
 - title: Factual America - Keating Five Scandal
   date: '2023'
-  url: https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption
+  url: 'https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption'
   tier: 2
+  outlet: Factualamerica
 - title: 'NPR: Scandal Shaped McCain''s Sense of Honor in Office'
   date: '2007-12-13'
-  url: https://www.npr.org/2007/12/13/17137136/scandal-shaped-mccains-sense-of-honor-in-office
+  url: 'https://www.npr.org/2007/12/13/17137136/scandal-shaped-mccains-sense-of-honor-in-office'
   tier: 1
+  outlet: NPR
 capture_lanes:
 - Legislative Capture
 - Systematic Corruption
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 The Senate Ethics Committee launched an investigation into five senators (McCain, Glenn, Cranston, Riegle, and DeConcini) for their improper intervention with federal regulators on behalf of Charles Keating's Lincoln Savings and Loan Association. The investigation was initiated after Keating's $1.3 million in political contributions raised significant ethical concerns.

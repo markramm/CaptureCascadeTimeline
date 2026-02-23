@@ -19,24 +19,27 @@ actors:
 - FreedomWorks
 sources:
 - title: jstor.org
-  url: https://www.jstor.org/stable/perspoli/article/10.1017/S1537592711001019
+  url: 'https://www.jstor.org/stable/perspoli/article/10.1017/S1537592711001019'
   tier: 2
+  outlet: Jstor
 - title: journals.sagepub.com
-  url: https://journals.sagepub.com/doi/10.1177/23294965221123808
+  url: 'https://journals.sagepub.com/doi/10.1177/23294965221123808'
   tier: 2
+  outlet: Journals
 - title: desmog.com
-  url: https://www.desmog.com/2010/10/13/david-koch-has-direct-contact-tea-party-astroturf-organizers-americans-prosperity-event/
+  url: 'https://www.desmog.com/2010/10/13/david-koch-has-direct-contact-tea-party-astroturf-organizers-americans-prosperity-event/'
   tier: 2
+  outlet: Desmog
 - title: theguardian.com
-  url: https://www.theguardian.com/world/2010/aug/30/koch-brothers-tea-party-group
+  url: 'https://www.theguardian.com/world/2010/aug/30/koch-brothers-tea-party-group'
   tier: 1
+  outlet: The Guardian
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- Media Capture & Control
+- 'Media Capture & Control'
 - Financial Capture
 ---
-
 Following Rick Santelli's CNBC rant criticizing Obama's mortgage bailout, the Koch brothers' network immediately mobilized to create the Tea Party movement. Within hours, Americans for Prosperity registered TaxDayTeaParty.com, while other conservative organizations quickly followed. Peer-reviewed research by Skocpol and Williamson confirms this was a coordinated effort by billionaire-funded groups like Americans for Prosperity and FreedomWorks to simulate a grassroots uprising.
 
 Key findings from academic research:

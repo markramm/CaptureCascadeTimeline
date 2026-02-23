@@ -15,22 +15,23 @@ actors:
 - Faith and Freedom Coalition
 sources:
 - title: Faith and Freedom Coalition
-  url: https://en.wikipedia.org/wiki/Faith_and_Freedom_Coalition
+  url: 'https://en.wikipedia.org/wiki/Faith_and_Freedom_Coalition'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Council for National Policy
-  url: https://persagen.org/docs/council_for_national_policy.html
+  url: 'https://persagen.org/docs/council_for_national_policy.html'
   publication: Persagen
   date: '2024-11-10'
   tier: 2
+  outlet: Persagen
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- 'Media Capture & Control'
 - Legislative Capture
 ---
-
 In 2009, Ralph Reed - a prominent Council for National Policy member - founded the Faith and Freedom Coalition, officially incorporated on May 14, 2009, describing it as "a 21st century version of the Christian Coalition." This expanded CNP's religious right coordination capacity as the conservative movement prepared for the Tea Party era.
 
 Reed had been executive director of the Christian Coalition in the 1990s and brought decades of experience in religious right mobilization to his role as a CNP member. The founding of Faith and Freedom Coalition represented CNP members creating new organizations that would plug into the existing coordination network.

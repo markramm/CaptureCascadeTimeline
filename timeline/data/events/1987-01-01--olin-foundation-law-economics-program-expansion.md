@@ -18,27 +18,29 @@ actors:
 - University of Chicago Law School
 sources:
 - title: John M. Olin Foundation
-  url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation
+  url: 'https://en.wikipedia.org/wiki/John_M._Olin_Foundation'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Linking Law and Economics
-  url: https://www.philanthropyroundtable.org/almanac/linking-law-and-economics/
+  url: 'https://www.philanthropyroundtable.org/almanac/linking-law-and-economics/'
   publication: Philanthropy Roundtable
   date: '2024-09-15'
   tier: 2
+  outlet: Philanthropyroundtable
 - title: John M. Olin Foundation (1953–2005)
-  url: https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/
+  url: 'https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/'
   publication: Duke Center for Strategic Philanthropy
   date: '2024-08-20'
   tier: 1
+  outlet: Cspcs
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Labor Suppression
 - Corporate Capture
 ---
-
 In 1987, the John M. Olin Foundation expanded its systematic funding of Law and Economics programs at elite law schools, with Stanford Law School initiating its John M. Olin Program in Law and Economics through a generous foundation gift. This represented the maturation of a decades-long effort to reshape American legal education and jurisprudence to favor corporate interests.
 
 The Olin Foundation, founded in 1953 by chemical and munitions manufacturer John M. Olin, had been actively funding conservative legal programs since 1968 when Olin determined at age 80 that he needed to "pour his resources into preserving the free-market system." Under president William E. Simon (Treasury Secretary under Nixon and Ford, and leveraged buyout pioneer), the foundation systematically targeted elite law schools to establish Law and Economics programs.

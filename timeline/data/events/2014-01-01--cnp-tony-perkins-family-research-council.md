@@ -15,22 +15,23 @@ actors:
 - Council for National Policy
 sources:
 - title: Tony Perkins
-  url: https://www.splcenter.org/fighting-hate/extremist-files/individual/tony-perkins
+  url: 'https://www.splcenter.org/fighting-hate/extremist-files/individual/tony-perkins'
   publication: Southern Poverty Law Center
   date: '2024-11-10'
   tier: 1
+  outlet: Southern Poverty Law Center
 - title: Council for National Policy
-  url: https://persagen.org/docs/council_for_national_policy.html
+  url: 'https://persagen.org/docs/council_for_national_policy.html'
   publication: Persagen
   date: '2024-11-10'
   tier: 2
+  outlet: Persagen
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
 - Electoral Manipulation
 - Judicial Capture
 ---
-
 In 2014, Tony Perkins served as vice president of the Council for National Policy - one of the organization's three executive officers - while simultaneously serving as president of the Family Research Council, demonstrating the integration of religious right leadership into CNP's coordination structure.
 
 Perkins had served as president of the Family Research Council since 2003, making FRC one of the most prominent organizations opposing LGBTQ rights and promoting Christian nationalist policies. His position as CNP vice president meant FRC's activities could be coordinated with Heritage Foundation policy, ALEC legislation, Federalist Society judicial strategy, and major donor funding through CNP's network.

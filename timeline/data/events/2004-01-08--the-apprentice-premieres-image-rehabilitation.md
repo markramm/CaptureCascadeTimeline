@@ -1,7 +1,7 @@
 ---
 id: 2004-01-08--the-apprentice-premieres-image-rehabilitation
 date: 2004-01-08
-title: The Apprentice Premieres on NBC, Rehabilitating Trump's Image After Bankruptcies
+title: 'The Apprentice Premieres on NBC, Rehabilitating Trump''s Image After Bankruptcies'
 importance: 7
 status: confirmed
 tags:
@@ -12,18 +12,18 @@ tags:
 - nbc
 - reality-tv
 sources:
-- url: https://www.realitytvworld.com/news/nbc-the-apprentice-premieres-big-draws-over-18-million-viewers-2147.php
-  title: NBC's 'The Apprentice' premieres big, draws over 18 million viewers
+- url: 'https://www.realitytvworld.com/news/nbc-the-apprentice-premieres-big-draws-over-18-million-viewers-2147.php'
+  title: 'NBC''s ''The Apprentice'' premieres big, draws over 18 million viewers'
   date: 2004-01-09
   tier: 2
   outlet: Reality TV World
-- url: https://variety.com/2004/tv/news/nbc-s-apprentice-gets-off-to-fast-start-1117898177/
-  title: NBC's 'Apprentice' gets off to fast start
+- url: 'https://variety.com/2004/tv/news/nbc-s-apprentice-gets-off-to-fast-start-1117898177/'
+  title: 'NBC''s ''Apprentice'' gets off to fast start'
   date: 2004-01-09
   tier: 1
   outlet: Variety
-- url: https://www.washingtonpost.com/archive/lifestyle/2004/01/14/nbcs-apprentice-proves-a-quick-learner/812bf41c-f68f-4d48-a9a6-6ebd59575806/
-  title: NBC's 'Apprentice' Proves a Quick Learner
+- url: 'https://www.washingtonpost.com/archive/lifestyle/2004/01/14/nbcs-apprentice-proves-a-quick-learner/812bf41c-f68f-4d48-a9a6-6ebd59575806/'
+  title: 'NBC''s ''Apprentice'' Proves a Quick Learner'
   date: 2004-01-14
   tier: 1
   outlet: The Washington Post
@@ -31,8 +31,11 @@ capture_lanes:
 - Judicial Capture
 - Legislative Capture
 - Systematic Corruption
+actors:
+- Donald Trump
+- Mark Burnett
+- NBC
 ---
-
 NBC's reality competition show "The Apprentice" premieres on January 8, 2004, drawing 18.5 million viewers and scoring the highest adult 18-49 rating for any preview or premiere of any new television series in a year. Producer Mark Burnett successfully transforms Trump from "a mogul on the decline" known primarily for multiple bankruptcies and business failures into what would become a highly influential television persona of a successful, decisive business leader.
 
 ## Background: Trump's Declining Image

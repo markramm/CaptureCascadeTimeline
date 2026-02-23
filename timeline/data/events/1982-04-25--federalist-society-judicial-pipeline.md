@@ -17,32 +17,35 @@ actors:
 - Antonin Scalia
 - Leonard Leo
 sources:
-- title: How the Federalist Society Shaped America's Judiciary
-  url: https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/
+- title: 'How the Federalist Society Shaped America''s Judiciary'
+  url: 'https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/'
   tier: 2
   publication: Yale Daily News
   date: '2024-11-04'
+  outlet: Yaledailynews
 - title: Federalist Society Founding and Conservative Legal Movement
-  url: https://en.wikipedia.org/wiki/Federalist_Society
+  url: 'https://en.wikipedia.org/wiki/Federalist_Society'
   publication: Wikipedia
   date: '2025-09-17'
   tier: 2
+  outlet: Wikipedia
 - title: 'Federalist Society: A Conservative Legal Movement''s Infrastructure'
-  url: https://www.britannica.com/topic/Federalist-Society
+  url: 'https://www.britannica.com/topic/Federalist-Society'
   publication: Encyclopedia Britannica
   date: '2025-09-15'
   tier: 2
+  outlet: Britannica
 - title: The Federalist Society and Conservative Judicial Recruitment
-  url: https://www.peoplefor.org/report/the-federalist-society-from-obscurity-to-power
+  url: 'https://www.peoplefor.org/report/the-federalist-society-from-obscurity-to-power'
   publication: People For The American Way
   date: '2025-02-15'
   tier: 2
+  outlet: Peoplefor
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 ---
-
 In April 1982, three Yale Law School alumni – Steven Calabresi, David McIntosh, and Lee Liberman Otis – founded the Federalist Society at a pivotal moment in conservative legal thought. Their inaugural conference, funded by the Institute for Educational Affairs and John M. Olin Foundation, featured prominent conservative legal scholars like Robert Bork and Antonin Scalia, establishing a systematic approach to reshaping the American judicial landscape.
 
 Key Founding Characteristics:

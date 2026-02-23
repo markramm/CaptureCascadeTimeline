@@ -15,18 +15,20 @@ actors:
 - Marc Rich
 sources:
 - title: en.wikipedia.org
-  url: https://en.wikipedia.org/wiki/Rupert_Murdoch
+  url: 'https://en.wikipedia.org/wiki/Rupert_Murdoch'
   tier: 2
+  outlet: Wikipedia
 - title: pewresearch.org
-  url: https://www.pewresearch.org/journalism/2007/08/01/publisher-murdochs-u-s-track-record/
+  url: 'https://www.pewresearch.org/journalism/2007/08/01/publisher-murdochs-u-s-track-record/'
   tier: 2
+  outlet: Pewresearch
 - title: cnn.com
-  url: https://www.cnn.com/interactive/2011/07/world/interactive.rupert.murdoch/index.html
+  url: 'https://www.cnn.com/interactive/2011/07/world/interactive.rupert.murdoch/index.html'
   tier: 1
+  outlet: CNN
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Media Capture & Control
+- 'Media Capture & Control'
 ---
-
 In 1985, Rupert Murdoch orchestrated a pivotal expansion of his media empire through strategic acquisitions and regulatory maneuvering. Key developments include acquiring 50% of 20th Century Fox in March for $162 million and purchasing Metromedia television stations for $3.5 billion in May. Most critically, Murdoch became a naturalized U.S. citizen on September 4 to satisfy media ownership laws, enabling future television network ownership. These moves demonstrated a systematic approach to bypassing media ownership restrictions while consolidating unprecedented media influence across film, television, and print industries.

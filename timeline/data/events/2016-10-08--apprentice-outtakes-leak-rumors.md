@@ -1,7 +1,7 @@
 ---
 id: 2016-10-08--apprentice-outtakes-leak-rumors
 date: 2016-10-08
-title: Rumors Surface of Apprentice Outtakes Showing Trump Using N-Word, Burnett Refuses Release
+title: 'Rumors Surface of Apprentice Outtakes Showing Trump Using N-Word, Burnett Refuses Release'
 importance: 7
 status: confirmed
 tags:
@@ -12,27 +12,29 @@ tags:
 - media-cover-up
 - tom-arnold
 sources:
-- url: https://abcnews.go.com/US/alleged-trump-apprentice-tapes/story?id=57192712
-  title: What Tom Arnold, Omarosa and Trump have said about the alleged 'Apprentice' tapes
+- url: 'https://abcnews.go.com/US/alleged-trump-apprentice-tapes/story?id=57192712'
+  title: 'What Tom Arnold, Omarosa and Trump have said about the alleged ''Apprentice'' tapes'
   date: 2018-09-10
   tier: 1
   outlet: ABC News
-- url: https://www.mic.com/articles/160460/tom-arnold-says-he-has-apprentice-tapes-of-trump-saying-n-gger-and-retard
-  title: Tom Arnold says he has 'Apprentice' tapes of Trump saying "n*gger" and "retard"
+- url: 'https://www.mic.com/articles/160460/tom-arnold-says-he-has-apprentice-tapes-of-trump-saying-n-gger-and-retard'
+  title: 'Tom Arnold says he has ''Apprentice'' tapes of Trump saying "n*gger" and "retard"'
   date: 2016-12-08
   tier: 2
   outlet: Mic
-- url: https://variety.com/2016/tv/news/mark-burnett-response-the-apprentice-donald-trump-footage-tapes-1201884255/
-  title: Mark Burnett's Response to 'The Apprentice,' Donald Trump Pressure
+- url: 'https://variety.com/2016/tv/news/mark-burnett-response-the-apprentice-donald-trump-footage-tapes-1201884255/'
+  title: 'Mark Burnett''s Response to ''The Apprentice,'' Donald Trump Pressure'
   date: 2016-10-07
   tier: 1
   outlet: Variety
 capture_lanes:
-- Media Capture & Control
+- 'Media Capture & Control'
 - Civil Rights Suppression
 - Intelligence Penetration
+actors:
+- Donald Trump
+- Mark Burnett
 ---
-
 During the 2016 presidential campaign, widespread rumors emerge of damaging outtakes from "The Apprentice" showing Donald Trump using the n-word and other racist and sexist language. Producer Mark Burnett, through his company now owned by MGM, refuses to release any footage, citing contractual and legal restrictions, while sources indicate Burnett threatens to sue anyone who leaks the material. The controversy highlights how entertainment industry NDAs and corporate ownership can suppress potentially consequential information about a presidential candidate.
 
 ## The Rumors Emerge

@@ -19,11 +19,13 @@ sources:
   tier: 1
   date_accessed: '2025-10-17'
   notes: 'Confirmed details of 2025 meeting with Trump, Musk, and MBS'
+  outlet: CBS News
 - url: 'https://thehill.com/business/5297272-trump-business-leaders-saudi-investment/'
   title: 'Business Leaders Attend Trump''s Saudi Investment Meeting'
   date_accessed: '2025-10-17'
   notes: 'Lists key CEOs present, including Musk'
   tier: 2
+  outlet: The Hill
 capture_lanes:
 - International Kleptocracy
 status: reported

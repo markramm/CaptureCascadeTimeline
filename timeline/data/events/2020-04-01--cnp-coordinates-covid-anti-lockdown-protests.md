@@ -21,20 +21,21 @@ actors:
 - Lisa Nelson
 sources:
 - title: Secretive Right-Wing Nonprofit Plays Role in COVID-19 Organizing
-  url: https://www.prwatch.org/news/2020/05/13581/secretive-right-wing-nonprofit-plays-role-covid-19-organizing
+  url: 'https://www.prwatch.org/news/2020/05/13581/secretive-right-wing-nonprofit-plays-role-covid-19-organizing'
   publication: PR Watch
   date: '2020-05-15'
   tier: 1
-- title: The Council for National Policy organizes anti-lockdown protests & national COVID response
-  url: https://trumpfile.org/cnp-protests-covid/
+  outlet: Prwatch
+- title: 'The Council for National Policy organizes anti-lockdown protests & national COVID response'
+  url: 'https://trumpfile.org/cnp-protests-covid/'
   publication: Trump File
   date: '2020-05-01'
   tier: 2
+  outlet: Trumpfile
 status: confirmed
 capture_lanes:
 - Democratic Erosion
 ---
-
 In April 2020, CNP Action (the 501(c)(4) affiliate of the Council for National Policy) began hosting weekly conference calls to coordinate conservative response tactics to the COVID-19 pandemic, mobilizing Tea Party-like protests against virus-related public safety lockdowns in swing states.
 
 The coordination effort demonstrated CNP's power as a command-and-control hub for the conservative movement. CNP Action organized weekly calls with conservative figures to promote anti-lockdown protests and publish action memos around reopening states' economies, working alongside close allies who helped coordinate the on-the-ground protests.

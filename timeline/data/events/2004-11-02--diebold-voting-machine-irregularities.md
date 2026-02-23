@@ -10,28 +10,31 @@ tags:
 - election-manipulation
 - ohio-2004-election
 actors:
-- Walden O'Dell
+- 'Walden O''Dell'
 - John Conyers
 - Kenneth Blackwell
 - Matt Damschroder
 sources:
 - title: en.wikipedia.org
-  url: https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies
+  url: 'https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies'
   tier: 2
+  outlet: Wikipedia
 - title: columbusfreepress.com
-  url: https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections
+  url: 'https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections'
   tier: 2
+  outlet: Columbusfreepress
 - title: money.cnn.com
-  url: https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/
+  url: 'https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/'
   tier: 1
+  outlet: CNN Money
 - title: verifiedvoting.org
-  url: https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/
+  url: 'https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/'
   tier: 2
+  outlet: Verifiedvoting
 status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 - Legislative Capture
 ---
-
 In the 2004 Presidential Election, significant irregularities were discovered in Ohio's voting infrastructure, primarily involving Diebold voting machines. Key issues included potential vote switching, software vulnerabilities, and conflicts of interest. Diebold CEO Walden O'Dell had previously committed to 'delivering Ohio' to President Bush. Multiple academic studies, including research from Johns Hopkins and UC Berkeley, documented serious security flaws in Diebold's electronic voting systems. Congressional investigations by John Conyers revealed 'numerous serious election irregularities' that potentially influenced the election outcome.

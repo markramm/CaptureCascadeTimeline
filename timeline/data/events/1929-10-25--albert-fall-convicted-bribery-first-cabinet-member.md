@@ -17,19 +17,21 @@ actors:
 sources:
 - title: History.com - Cabinet Member Found Guilty in Teapot Dome Scandal
   date: '2024'
-  url: https://www.history.com/this-day-in-history/cabinet-member-guilty-in-teapot-dome-scandal
+  url: 'https://www.history.com/this-day-in-history/cabinet-member-guilty-in-teapot-dome-scandal'
   tier: 2
   verified: true
+  outlet: History.com
 - title: Wikipedia - Albert B. Fall
   date: '2024'
-  url: https://en.wikipedia.org/wiki/Albert_B._Fall
+  url: 'https://en.wikipedia.org/wiki/Albert_B._Fall'
   tier: 2
   verified: true
+  outlet: Wikipedia
 - title: UPI - Interior Secretary Albert Fall Found Guilty in Teapot Dome Scandal
   date: '2020-10-25'
-  url: https://www.upi.com/amp/Top_News/2020/10/25/On-This-Day-Interior-Secretary-Fall-found-guilty-in-Teapot-Dome-scandal/4771603466234
+  url: 'https://www.upi.com/amp/Top_News/2020/10/25/On-This-Day-Interior-Secretary-Fall-found-guilty-in-Teapot-Dome-scandal/4771603466234'
   tier: 2
   verified: true
+  outlet: Upi
 ---
-
 Albert Fall, former Secretary of the Interior under President Warren Harding, was found guilty of accepting bribes from oil executive Edward Doheny and sentenced to one year in prison and a $100,000 fine. Fall became the first presidential Cabinet member in American history to be convicted of a crime committed while in office. The conviction occurred on October 25, 1929 - the same day as Black Thursday, the start of the stock market crash. In a remarkable legal paradox, Fall was convicted of accepting the bribe, but Doheny was acquitted in 1930 of paying it. Sinclair was also acquitted of bribery but served time for contempt. The Teapot Dome scandal became the benchmark for government corruption until Watergate, when Attorney General John Mitchell became the second Cabinet member imprisoned.

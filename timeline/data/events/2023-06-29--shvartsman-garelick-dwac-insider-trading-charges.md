@@ -11,20 +11,25 @@ actors:
 - U.S. Department of Justice
 sources:
 - title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals
-  url: https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10
+  url: 'https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10'
   tier: 1
+  outlet: U.S. Department of Justice
 - title: SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC Securities
-  url: https://www.sec.gov/newsroom/press-releases/2023-121
+  url: 'https://www.sec.gov/newsroom/press-releases/2023-121'
   tier: 1
+  outlet: Securities and Exchange Commission
 - title: Three Charged with Illegal Trading Ahead of Trump Media Merger
-  url: https://www.cnbc.com/2023/06/29/three-charged-with-illegal-trading-ahead-of-trump-media-merger.html
+  url: 'https://www.cnbc.com/2023/06/29/three-charged-with-illegal-trading-ahead-of-trump-media-merger.html'
   tier: 2
+  outlet: CNBC
 - title: US Government Continues to Crack Down on Insider Trading with Four Coordinated Actions
-  url: https://www.morganlewis.com/pubs/2023/07/us-government-continues-to-crack-down-on-insider-trading-with-four-coordinated-actions
+  url: 'https://www.morganlewis.com/pubs/2023/07/us-government-continues-to-crack-down-on-insider-trading-with-four-coordinated-actions'
   tier: 2
+  outlet: Morganlewis
 - title: 2 Investors Plead Guilty to Insider Trading Linked to Trump Media Deal
-  url: https://www.upi.com/Top_News/US/2024/04/03/Trump-Media-investors-guilty-insider-trading/6551712170472/
+  url: 'https://www.upi.com/Top_News/US/2024/04/03/Trump-Media-investors-guilty-insider-trading/6551712170472/'
   tier: 2
+  outlet: Upi
 status: confirmed
 tags:
 - insider-trading
@@ -39,7 +44,6 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
-
 Federal prosecutors and the SEC charged Michael Shvartsman, Gerald Shvartsman, and Bruce Garelick with securities fraud in a $22.9 million insider trading scheme centered on the DWAC-Trump Media merger. Bruce Garelick, a former DWAC board member and chief strategy officer at Rocket One Capital, allegedly shared confidential merger information with his boss Michael Shvartsman, who then tipped his brother Gerald. The scheme demonstrated systematic abuse of insider information in SPAC fraud networks.
 
 In a significant follow-up, Michael and Gerald Shvartsman pleaded guilty to securities fraud in April 2024, facing potential prison sentences of up to 20 years for their roles in making over $22 million in illegal profits. The case highlights ongoing regulatory efforts to combat insider trading and protect market integrity.

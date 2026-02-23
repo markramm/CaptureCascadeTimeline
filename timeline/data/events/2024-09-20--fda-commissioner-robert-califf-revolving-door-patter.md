@@ -21,15 +21,18 @@ sources:
   title: Califf Pledges Not to Use Revolving Door Between FDA and Industry
   tier: 2
   date_accessed: '2025-10-17'
+  outlet: Pharmaphorum
 - url: 'https://therevolvingdoorproject.org/will-bidens-fda-be-led-by-a-pharma-guy/'
   title: 'Will Biden''s FDA Be Led by a Pharma Guy?'
   date_accessed: '2025-10-17'
   tier: 2
+  outlet: Therevolvingdoorproject
 - url: 'https://apnews.com/article/fda-robert-califf-pharmaceutical-connections'
   title: 'Manchin Criticizes Califf''s FDA Nomination Over Industry Ties'
   publication: Associated Press
   date: '2024-09-20'
   tier: 1
+  outlet: Associated Press
 capture_lanes:
 - Corporate Capture
 - Regulatory Capture

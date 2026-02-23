@@ -17,19 +17,21 @@ actors:
 - CFTC
 sources:
 - title: fsb.org
-  url: https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/
+  url: 'https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/'
   tier: 2
+  outlet: Fsb
 - title: financemagnates.com
-  url: https://www.financemagnates.com/cryptocurrency/regulatory-winds-of-change-crypto-industry-prepares-for-compliance-in-2024/
+  url: 'https://www.financemagnates.com/cryptocurrency/regulatory-winds-of-change-crypto-industry-prepares-for-compliance-in-2024/'
   tier: 2
+  outlet: Financemagnates
 - title: gov.uk
-  url: https://www.gov.uk/government/publications/regulatory-regime-for-cryptoassets-regulated-activities-draft-si-and-policy-note/future-financial-services-regulatory-regime-for-cryptoassets-regulated-activities-policy-note-accessible
+  url: 'https://www.gov.uk/government/publications/regulatory-regime-for-cryptoassets-regulated-activities-draft-si-and-policy-note/future-financial-services-regulatory-regime-for-cryptoassets-regulated-activities-policy-note-accessible'
   tier: 1
+  outlet: Gov
 status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 In November 2024, the cryptocurrency industry accelerated its self-regulatory efforts in response to intensifying global regulatory pressures. Following the EU's Markets in Crypto-Assets (MiCA) regulation and the Financial Stability Board's global framework, crypto firms began proactively developing comprehensive compliance mechanisms. Key developments include enhanced KYC/AML protocols, transparent reporting standards, and collaborative efforts to preempt strict governmental oversight.

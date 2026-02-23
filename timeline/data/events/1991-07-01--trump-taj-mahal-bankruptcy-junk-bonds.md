@@ -12,27 +12,28 @@ tags:
 - financial-history
 - debt
 sources:
-- url: https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city
-  title: Opening The Books On Donald Trump's Business Deals In Atlantic City
+- url: 'https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city'
+  title: 'Opening The Books On Donald Trump''s Business Deals In Atlantic City'
   date: 2016-03-17
   tier: 1
   outlet: NPR
-- url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
-  title: Yep, Donald Trump's companies have declared bankruptcy...more than four times
+- url: 'https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/'
+  title: 'Yep, Donald Trump''s companies have declared bankruptcy...more than four times'
   date: 2016-06-21
   tier: 1
   outlet: PolitiFact
-- url: https://abcnews.go.com/Politics/donald-trump-filed-bankruptcy-times/story?id=13419250
-  title: Donald Trump's Companies Filed for Bankruptcy 4 Times
+- url: 'https://abcnews.go.com/Politics/donald-trump-filed-bankruptcy-times/story?id=13419250'
+  title: 'Donald Trump''s Companies Filed for Bankruptcy 4 Times'
   date: 2011-04-21
   tier: 1
   outlet: ABC News
 capture_lanes:
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Financial Capture
 - Intelligence Penetration
+actors:
+- Donald Trump
 ---
-
 Donald Trump's Trump Taj Mahal casino in Atlantic City filed for Chapter 11 bankruptcy protection in July 1991, just over one year after its lavish April 1990 opening. The casino, which Trump had called "the eighth wonder of the world," was buried under nearly $3 billion in debt, much of it raised through junk bonds carrying interest rates as high as 14 percent. Trump had personally guaranteed $833 million of the debt despite having a reported net worth of only $206 million according to the Casino Control Commission.
 
 ## The Debt Trap

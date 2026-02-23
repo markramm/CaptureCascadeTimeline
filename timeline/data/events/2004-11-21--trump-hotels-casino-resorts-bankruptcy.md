@@ -1,7 +1,7 @@
 ---
 id: 2004-11-21--trump-hotels-casino-resorts-bankruptcy
 date: 2004-11-21
-title: Trump Hotels & Casino Resorts Files Bankruptcy, Trump Removed as CEO
+title: 'Trump Hotels & Casino Resorts Files Bankruptcy, Trump Removed as CEO'
 importance: 7
 status: confirmed
 tags:
@@ -13,27 +13,28 @@ tags:
 - debt
 - corporate-governance
 sources:
-- url: https://lasvegassun.com/news/2004/dec/16/trump-hotels-casino-resorts-files-plan-to-exit-ban/
-  title: Trump Hotels & Casino Resorts files plan to exit bankruptcy
+- url: 'https://lasvegassun.com/news/2004/dec/16/trump-hotels-casino-resorts-files-plan-to-exit-ban/'
+  title: 'Trump Hotels & Casino Resorts files plan to exit bankruptcy'
   date: 2004-12-16
   tier: 1
   outlet: Las Vegas Sun
-- url: https://www.politifact.com/factchecks/2015/sep/21/carly-fiorina/trumps-four-bankruptcies/
-  title: Fact-checking claims about Donald Trump's four bankruptcies
+- url: 'https://www.politifact.com/factchecks/2015/sep/21/carly-fiorina/trumps-four-bankruptcies/'
+  title: 'Fact-checking claims about Donald Trump''s four bankruptcies'
   date: 2015-09-21
   tier: 1
   outlet: PolitiFact
-- url: https://ir.law.utk.edu/cgi/viewcontent.cgi?article=1048&context=utk_studlawbankruptcy
+- url: 'https://ir.law.utk.edu/cgi/viewcontent.cgi?article=1048&context=utk_studlawbankruptcy'
   title: 'Trump Entertainment Resorts: Three Bankruptcies and the Failure to Make America Great Again'
   date: 2017
   tier: 1
   outlet: University of Tennessee College of Law
 capture_lanes:
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Corporate Capture
 - Financial Capture
+actors:
+- Donald Trump
 ---
-
 Trump Hotels and Casino Resorts, the publicly traded company that operated Trump's Atlantic City casino empire, filed for Chapter 11 bankruptcy protection on November 21, 2004, unable to make a $73 million interest payment due November 1. The company was drowning in approximately $1.8 billion of debt accumulated from years of overleveraged casino operations and unsuccessful expansion attempts. The bankruptcy forced Trump to relinquish his CEO title and drastically reduce his ownership stake from 47 percent to 27 percent, though he remained the largest individual shareholder and maintained his role as chairman.
 
 ## Years of Mounting Debt

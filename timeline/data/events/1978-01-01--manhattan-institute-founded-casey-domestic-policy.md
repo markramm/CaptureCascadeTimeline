@@ -18,27 +18,29 @@ actors:
 - James Q. Wilson
 sources:
 - title: Manhattan Institute for Policy Research
-  url: https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research
+  url: 'https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Manhattan Institute - SourceWatch
-  url: https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research
+  url: 'https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research'
   publication: SourceWatch
   date: '2024-09-15'
   tier: 2
+  outlet: SourceWatch
 - title: William J. Casey
-  url: https://en.wikipedia.org/wiki/William_J._Casey
+  url: 'https://en.wikipedia.org/wiki/William_J._Casey'
   publication: Wikipedia
   date: '2024-11-08'
   tier: 2
+  outlet: Wikipedia
 status: confirmed
 capture_lanes:
 - Surveillance Infrastructure
 - Corporate Capture
 - Regulatory Capture
 ---
-
 In 1978, William J. Casey and Antony Fisher established the International Center for Economic Policy Studies (ICEPS) in Manhattan, which would be renamed the Manhattan Institute for Policy Research in 1981. Casey, a neoconservative who would become Reagan's CIA Director from 1981 to 1987, created a domestic policy think tank that would have profound influence on urban policy, welfare reform, and policing strategies.
 
 The Manhattan Institute became strongly associated with controversial policy frameworks that served corporate interests while appearing to address social problems. In 1982, the institute commissioned Charles Murray to write "Losing Ground," published in 1984, which became highly influential in conservative welfare reform efforts and provided intellectual justification for cutting social programs.

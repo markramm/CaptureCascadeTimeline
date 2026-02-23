@@ -17,22 +17,23 @@ actors:
 - Council for National Policy
 sources:
 - title: Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol
-  url: https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/
+  url: 'https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/'
   publication: Center for Media and Democracy
   date: '2021-01-08'
   tier: 1
+  outlet: Exposedbycmd
 - title: The Shadow Network (Council for National Policy) Is Not Going Away
-  url: https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/
+  url: 'https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/'
   publication: Bill Moyers
   date: '2021-01-08'
   tier: 1
+  outlet: Bill Moyers
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-
 On January 2, 2021, Cleta Mitchell - CNP board of governors member and attorney who had been central to the organization's election denial coordination - represented President Trump on his infamous call to Georgia Secretary of State Brad Raffensperger, pressuring him to "find 11,780 votes" to overturn Biden's Georgia victory.
 
 Mitchell's participation in the call represented the direct application of CNP's coordinated election denial strategy. She had presented voter fraud theories at CNP's November 12-14 strategy meeting, drafted CNP's December 10 letter calling on state legislators to throw out 25 million votes, and now participated in Trump's direct pressure on a state election official.

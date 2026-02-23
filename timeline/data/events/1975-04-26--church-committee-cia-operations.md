@@ -16,19 +16,21 @@ actors:
 - Federal Bureau of Investigation
 sources:
 - title: senate.gov
-  url: https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
+  url: 'https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm'
   tier: 1
+  outlet: U.S. Senate
 - title: aarclibrary.org
-  url: https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm
+  url: 'https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm'
   tier: 2
+  outlet: Aarclibrary
 - title: constitutioncenter.org
-  url: https://constitutioncenter.org/blog/looking-back-at-the-church-committee
+  url: 'https://constitutioncenter.org/blog/looking-back-at-the-church-committee'
   tier: 2
+  outlet: Constitutioncenter
 status: confirmed
 capture_lanes:
 - Surveillance Infrastructure
 - Legislative Capture
 - Intelligence Penetration
 ---
-
 The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, led by Senator Frank Church, comprehensively investigated illegal activities by US intelligence agencies. The committee exposed widespread constitutional violations including NSA's Project Shamrock (mass telegram surveillance), FBI's COINTELPRO (targeting civil rights leaders), and CIA's MKULTRA (unethical human experimentation). The investigation revealed systematic domestic surveillance, political manipulation, and rights violations, leading to landmark reforms including the creation of permanent intelligence oversight mechanisms and the Foreign Intelligence Surveillance Act (FISA) of 1978.

@@ -18,20 +18,22 @@ actors:
 sources:
 - title: TIME Magazine - Chronology of Enron Collapse
   date: '2002'
-  url: https://content.time.com/time/specials/packages/article/0,28804,2021097_2023262_2023247,00.html
+  url: 'https://content.time.com/time/specials/packages/article/0,28804,2021097_2023262_2023247,00.html'
   tier: 1
+  outlet: Content
 - title: FBI Famous Cases - Enron Investigation
   date: '2023'
-  url: https://www.fbi.gov/history/famous-cases/enron
+  url: 'https://www.fbi.gov/history/famous-cases/enron'
   tier: 1
+  outlet: Fbi
 - title: 'NBC News: Enron Whistleblower Reveals Accounting Fraud'
   date: '2002'
-  url: https://www.nbcnews.com/id/wbna11839694
+  url: 'https://www.nbcnews.com/id/wbna11839694'
   tier: 1
+  outlet: NBC News
 capture_lanes:
 - Corporate Capture
 - Systematic Corruption
 - Regulatory Capture
 ---
-
 Enron filed for bankruptcy after a series of meetings between its executives, Vice President Dick Cheney, and the National Energy Policy Development Group. The bankruptcy exposed massive corporate fraud, with the company having claimed $101 billion in revenues but ultimately collapsing due to systematic financial misrepresentation and illegal accounting practices.

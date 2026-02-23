@@ -1,7 +1,7 @@
 ---
 id: 1981-12-01--cnp-heritage-alec-three-legged-stool-established
 date: '1981-12-01'
-title: CNP Completes "Three-Legged Stool" with Heritage and ALEC - Coordination Infrastructure Operational
+title: 'CNP Completes "Three-Legged Stool" with Heritage and ALEC - Coordination Infrastructure Operational'
 importance: 10
 tags:
 - cnp
@@ -18,22 +18,23 @@ actors:
 - Paul Weyrich
 sources:
 - title: A Rare Peek Inside the Vast Right-Wing Conspiracy
-  url: https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy
+  url: 'https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy'
   publication: The New Republic
   date: '2020-12-10'
   tier: 1
+  outlet: The New Republic
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
-  url: https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics
+  url: 'https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics'
   publication: NPR
   date: '2019-10-29'
   tier: 1
+  outlet: NPR
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Legislative Capture
 - Corporate Capture
 ---
-
 By the end of 1981, Paul Weyrich had established the three core institutions that would serve as the infrastructure for conservative movement coordination for the next four decades: Heritage Foundation (policy research), ALEC (state legislation), and CNP (coordination hub).
 
 Weyrich co-founded Heritage Foundation in 1973 "in tandem with" the American Legislative Exchange Council (ALEC), creating the think tank and bill mill components. Eight years later in 1981, he co-founded the Council for National Policy to serve as the coordination mechanism linking these institutions with donors, media, and activists.

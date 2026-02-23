@@ -16,22 +16,23 @@ actors:
 - Council for National Policy
 sources:
 - title: Clarence Thomas Secretly Participated in Koch Network Donor Events
-  url: https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus
+  url: 'https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus'
   publication: ProPublica
   date: '2023-09-22'
   tier: 1
+  outlet: ProPublica
 - title: 'It''s Not Personal: Why Clarence Thomas'' Trip to the Koch Summit Undermines His Ethics Defense'
-  url: https://www.propublica.org/article/clarence-thomas-koch-network-trips-disclosure-law-scotus
+  url: 'https://www.propublica.org/article/clarence-thomas-koch-network-trips-disclosure-law-scotus'
   publication: ProPublica
   date: '2023-09-22'
   tier: 1
+  outlet: ProPublica
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 - Intelligence Penetration
 ---
-
 In January 2018, Supreme Court Justice Clarence Thomas flew on a private jet to Palm Springs, California to speak at the annual winter donor summit of the Koch network, attending a private dinner for donors in what ProPublica later revealed was an extraordinary ethics violation.
 
 Thomas was brought in to speak at the summit in the hopes that such access to a sitting Supreme Court justice would encourage wealthy donors to continue giving to the Koch network - organizations that regularly bring cases before the Supreme Court.

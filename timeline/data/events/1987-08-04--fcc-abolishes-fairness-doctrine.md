@@ -1,7 +1,7 @@
 ---
 id: 1987-08-04--fcc-abolishes-fairness-doctrine
 date: '1987-08-04'
-title: Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage Requirements for Broadcasters
+title: 'Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage Requirements for Broadcasters'
 importance: 10
 actors:
 - Dennis R. Patrick
@@ -23,45 +23,45 @@ tags:
 - corporate-lobbying
 sources:
 - title: Fairness doctrine
-  url: https://en.wikipedia.org/wiki/Fairness_doctrine
+  url: 'https://en.wikipedia.org/wiki/Fairness_doctrine'
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
 - title: Fairness Doctrine
-  url: https://www.reaganlibrary.gov/archives/topic-guide/fairness-doctrine
+  url: 'https://www.reaganlibrary.gov/archives/topic-guide/fairness-doctrine'
   outlet: Ronald Reagan Presidential Library
   date: '2024-01-01'
   verified: true
   tier: 1
 - title: Fairness Doctrine
-  url: https://docs.fcc.gov/public/attachments/FCC-87-266A1.pdf
+  url: 'https://docs.fcc.gov/public/attachments/FCC-87-266A1.pdf'
   outlet: Federal Communications Commission
   date: '1987-08-04'
   verified: true
   tier: 1
 - title: The repeal of the fairness doctrine accelerated the polarization of US media
-  url: https://www.poynter.org/reporting-editing/2025/poynter-50-repeal-fairness-doctrine-rush-limbaugh-conservative-talk-radio/
+  url: 'https://www.poynter.org/reporting-editing/2025/poynter-50-repeal-fairness-doctrine-rush-limbaugh-conservative-talk-radio/'
   outlet: Poynter Institute
   date: '2025-01-01'
   verified: true
   tier: 2
-- title: How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media
-  url: https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/
+- title: 'How Rush Limbaugh''s rise after the gutting of the fairness doctrine led to today''s highly partisan media'
+  url: 'https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/'
   publication: Poynter Institute
   date: '2024-09-15'
   tier: 1
+  outlet: Poynter Institute
 - title: 'The Fairness Doctrine: How We Lost It and Why We Need It Back'
-  url: https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/
+  url: 'https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/'
   publication: Sisyphus Literary Magazine
   date: '2024-08-20'
   tier: 2
+  outlet: Sisyphuslitmag
 status: confirmed
 capture_lanes:
 - Regulatory Capture
 ---
-
-
 FCC Chairman Dennis R. Patrick's Commission votes 4-0 to abolish the Fairness Doctrine in the Syracuse Peace Council decision, eliminating the 38-year requirement that broadcast licensees using publicly-owned airwaves must provide balanced coverage of controversial issues and present opposing viewpoints. The decision culminates a coordinated corporate lobbying campaign and Reagan administration deregulation effort to remove public interest obligations from broadcasters, justified by claims that the doctrine violates First Amendment rights and that marketplace competition will ensure media diversity without regulatory enforcement.
 
 The abolition follows systematic groundwork by Reagan-appointed FCC Chairman Mark S. Fowler (1981-1987), a telecommunications attorney and Reagan campaign staffer who releases a 1985 FCC report declaring the Fairness Doctrine "hurt the public interest and violated free speech rights guaranteed by the First Amendment." Reagan judicial appointees Judges Robert Bork and Antonin Scalia provide crucial legal support through a 1986 D.C. Circuit Court opinion declaring that Congress had not actually codified the doctrine into law despite the 1959 amendment to Section 315(a) of the Communications Act explicitly requiring broadcasters to "afford reasonable opportunity for discussion of conflicting views on matters of public importance."

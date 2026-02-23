@@ -10,21 +10,23 @@ tags:
 - anti-latino-violence
 - el-paso
 sources:
-- title: El Paso Shooting Suspect's Manifesto Echoes Trump's Language
-  url: https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html
+- title: 'El Paso Shooting Suspect''s Manifesto Echoes Trump''s Language'
+  url: 'https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html'
   outlet: The New York Times
   tier: 1
 - title: El Paso shooting suspect said he targeted Mexicans
-  url: https://www.washingtonpost.com/national/el-paso-shooting-suspect-told-officers-he-was-targeting-mexicans-police-say/2019/08/09/
+  url: 'https://www.washingtonpost.com/national/el-paso-shooting-suspect-told-officers-he-was-targeting-mexicans-police-say/2019/08/09/'
   outlet: The Washington Post
   tier: 1
 - title: El Paso Walmart shooting leaves 20 dead
-  url: https://www.cnn.com/2019/08/03/us/el-paso-shooting/index.html
+  url: 'https://www.cnn.com/2019/08/03/us/el-paso-shooting/index.html'
   outlet: CNN
   tier: 1
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
+actors:
+- Patrick Crusius
+- 8chan
 ---
-
 On August 3, 2019, a white nationalist terrorist killed 23 people at a Walmart in El Paso, Texas, specifically targeting Latino families in what his manifesto called "a response to the Hispanic invasion of Texas." The shooter drove 650 miles from Allen, Texas to El Paso specifically to target the Latino community, posting his manifesto to 8chan minutes before the attack. The manifesto used dehumanizing language describing immigrants as an "invasion" and "infestation," echoing rhetoric from 8chan, President Trump, and Fox News. Coming just five months after Christchurch, El Paso was part of a cluster of 8chan-linked mass shootings in 2019 that killed 75 people total, demonstrating the platform's radicalization infrastructure was producing regular terrorist attacks. The El Paso shooting is **directly relevant to the 2024-2025 Latino voter betrayal narrative**: Latino voters who supported Trump in 2024 (48%) became targets of the same dehumanizing language by 2025 when DHS recruitment posts described immigrants as parasitic aliens to "DESTROY THE FLOOD." The six-year trajectory from El Paso's "Hispanic invasion" manifesto to DHS's 2025 "DESTROY THE FLOOD" recruitment shows how 8chan terrorist rhetoric became official federal immigration enforcement language. The massacre targeted the same communities that would vote for Trump in 2024, unaware they were empowering a movement that viewed them as subhuman invaders. El Paso proved 8chan radicalization wasn't just producing lone wolves but was part of broader white nationalist movement seeking to eliminate Latino presence in America—a goal that by 2025 would be pursued through both terrorism and federal policy using identical dehumanizing language.

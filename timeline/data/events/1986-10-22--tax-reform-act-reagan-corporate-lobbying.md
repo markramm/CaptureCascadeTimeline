@@ -17,27 +17,29 @@ actors:
 - U.S. Congress
 sources:
 - title: Tax Reform Act of 1986
-  url: https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986
+  url: 'https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: How four decades of tax cuts fueled inequality
-  url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
+  url: 'https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/'
   publication: Center for Public Integrity
   date: '2024-09-15'
   tier: 1
-- title: Reagan's Tax Reform Was A Bipartisan Effort of Surrender to America's Deepest Pockets
-  url: https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/
+  outlet: Publicintegrity
+- title: 'Reagan''s Tax Reform Was A Bipartisan Effort of Surrender to America''s Deepest Pockets'
+  url: 'https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/'
   publication: Institute for Policy Studies
   date: '2024-08-20'
   tier: 2
+  outlet: Ips Dc
 status: confirmed
 capture_lanes:
 - Legislative Capture
 - Regulatory Capture
 - Financial Capture
 ---
-
 On October 22, 1986, President Reagan signed the Tax Reform Act of 1986, the centerpiece of his second term domestic agenda. The legislation dramatically lowered the top individual income tax rate from 50% to 28% - the largest single drop in the history of the federal income tax - while reducing the corporate tax rate from 50% to 35%.
 
 The legislative process demonstrated corporate lobbying power at its peak. The hallway outside the Senate Finance Committee became known as "Gucci Gulch" due to the swarms of well-dressed corporate lobbyists who lined up to influence tax provisions. Members of Congress were buttressed by arguments and campaign donations from these lobbyists, who secured special provisions deep in the Internal Revenue Code that would allow corporations to further reduce their tax burden.

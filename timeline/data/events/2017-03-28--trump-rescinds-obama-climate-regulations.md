@@ -15,20 +15,22 @@ tags:
 - fossil-fuel-industry
 - environmental-policy
 sources:
-- title: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
-  url: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
+- title: 'https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way'
+  url: 'https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way'
   tier: 1
-- title: https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/
-  url: https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/
+  outlet: Environmental Protection Agency
+- title: 'https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/'
+  url: 'https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/'
   tier: 2
-- title: https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation
-  url: https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation
+  outlet: Scientificamerican
+- title: 'https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation'
+  url: 'https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation'
   tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 - Executive Power Expansion
 ---
-
 President Trump signed a sweeping executive order at the EPA that effectively dismantled Obama's climate change policies, targeting the Clean Power Plan and lifting restrictions on carbon emissions. The order represented a significant regulatory rollback, prioritizing fossil fuel industry interests over environmental protections. Trump was accompanied by coal miners and industry executives, symbolizing the administration's commitment to deregulation and supporting traditional energy sectors.

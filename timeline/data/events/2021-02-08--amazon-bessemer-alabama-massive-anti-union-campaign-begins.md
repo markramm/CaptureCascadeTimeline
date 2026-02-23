@@ -6,31 +6,38 @@ importance: 9
 actors:
 - Jeff Bezos
 - Amazon
-- Retail, Wholesale and Department Store Union
+- 'Retail, Wholesale and Department Store Union'
 - Morgan Lewis
 sources:
-- url: https://newlaborforum.cuny.edu/2021/11/15/crushing-unions-by-any-means-necessary-how-amazons-blistering-anti-union-campaign-won-in-bessemer-alabama/
+- url: 'https://newlaborforum.cuny.edu/2021/11/15/crushing-unions-by-any-means-necessary-how-amazons-blistering-anti-union-campaign-won-in-bessemer-alabama/'
   title: 'Crushing Unions, by Any Means Necessary: How Amazon''s Blistering Anti-Union Campaign Won in Bessemer, Alabama'
   date: 2021-11-15
   tier: 1
   outlet: New Labor Forum
-- url: https://www.cnbc.com/2021/04/16/how-amazon-fought-the-union-drive-in-alabama.html
+- url: 'https://www.cnbc.com/2021/04/16/how-amazon-fought-the-union-drive-in-alabama.html'
   title: How Amazon fought the union drive in Alabama
   date: 2021-04-16
   tier: 1
   outlet: CNBC
-- url: https://www.nbcnews.com/think/opinion/amazon-s-anti-union-pr-efforts-amid-alabama-vote-are-ncna1262687
-  title: Amazon's anti-union PR efforts amid Alabama vote are a very bad look
+- url: 'https://www.nbcnews.com/think/opinion/amazon-s-anti-union-pr-efforts-amid-alabama-vote-are-ncna1262687'
+  title: 'Amazon''s anti-union PR efforts amid Alabama vote are a very bad look'
   date: 2021-03-29
   tier: 1
   outlet: NBC News
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Electoral Manipulation
+tags:
+- union-busting
+- amazon
+- labor-rights
+- warehouse-workers
+- nlrb
+- anti-union
+- corporate-power
 ---
-
 # Amazon Launches Massive Anti-Union Campaign at Bessemer Alabama Warehouse
 
 In early February 2021, Amazon launched one of the most aggressive and expensive anti-union campaigns in recent U.S. labor history, spending millions of dollars on consultants, lawyers, and captive-audience meetings to defeat a unionization effort at its Bessemer, Alabama warehouse (BHM1). The Retail, Wholesale and Department Store Union (RWDSU) had filed for a union election representing approximately 5,800 workers, and Amazon responded with overwhelming force: mandatory weekly anti-union meetings, a sophisticated website spreading disinformation, anti-union texts sent every 30 minutes, anti-union messages in bathroom stalls and hallways, and the controversial installation of a USPS mailbox in the warehouse parking lot that the NLRB would later rule constituted illegal election interference. Amazon hired approximately a dozen attorneys from elite anti-union law firms Morgan Lewis and Constangy Brooks, likely paying several million dollars in legal fees alone, and deployed union-busting consultants to flood the warehouse with anti-union propaganda. The campaign demonstrated Amazon's willingness to deploy unlimited resources to prevent workers from organizing, even in a Deep South state with weak labor traditions where union success seemed unlikely.

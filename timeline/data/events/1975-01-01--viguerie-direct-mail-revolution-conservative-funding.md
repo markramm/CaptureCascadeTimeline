@@ -19,27 +19,29 @@ actors:
 - Barry Goldwater
 sources:
 - title: Richard Viguerie
-  url: https://en.wikipedia.org/wiki/Richard_Viguerie
+  url: 'https://en.wikipedia.org/wiki/Richard_Viguerie'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Remembering the New Right
-  url: https://politicalresearch.org/2009/06/10/remembering-the-new-right-political-strategy-and-the-building-of-the-gop-coalition
+  url: 'https://politicalresearch.org/2009/06/10/remembering-the-new-right-political-strategy-and-the-building-of-the-gop-coalition'
   publication: Political Research Associates
   date: '2024-08-15'
   tier: 2
-- title: The World of Richard Viguerie. At 90 'Our work isn't finished yet.'
-  url: https://agitator.thedonorvoice.com/the-world-of-richard-viguerie-at-90-our-work-isnt-finished-yet/
+  outlet: Politicalresearch
+- title: 'The World of Richard Viguerie. At 90 ''Our work isn''t finished yet.'''
+  url: 'https://agitator.thedonorvoice.com/the-world-of-richard-viguerie-at-90-our-work-isnt-finished-yet/'
   publication: The Agitator
   date: '2024-09-20'
   tier: 2
+  outlet: Agitator
 status: confirmed
 capture_lanes:
 - Legislative Capture
 - Corporate Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 ---
-
 By the mid-1970s, Richard Viguerie had revolutionized conservative political fundraising through direct mail campaigns, building a massive donor network that would finance the New Right movement and create the infrastructure for corporate-funded "grassroots" activism. Dubbed the "funding father" of modern conservative strategy, Viguerie transformed how conservative causes mobilized financial support while maintaining an appearance of grassroots spontaneity.
 
 In early 1965, Viguerie went to the clerk of the U.S. House of Representatives and copied by longhand 12,500 donors who had contributed to Barry Goldwater's 1964 presidential campaign. He grew this list from 12,500 to 125,000 donors in just one year - a 1,000% increase. Before the end of the 1960s, Viguerie had a million names in his files, adding many millions more as the New Right remade Republican politics in the 1970s.

@@ -15,21 +15,23 @@ tags:
 - policy-engineering
 sources:
 - title: 'InfluenceWatch: ALEC Founding Overview'
-  url: https://www.influencewatch.org/non-profit/american-legislative-exchange-council/
+  url: 'https://www.influencewatch.org/non-profit/american-legislative-exchange-council/'
   tier: 2
   date_accessed: '2025-09-17'
+  outlet: Influencewatch
 - title: 'SourceWatch: ALEC Strategic Approach'
-  url: https://www.sourcewatch.org/index.php/American_legislative_exchange_council
+  url: 'https://www.sourcewatch.org/index.php/American_legislative_exchange_council'
   date_accessed: '2025-09-17'
   tier: 2
+  outlet: SourceWatch
 - title: 'Bill Moyers: United States of ALEC'
-  url: https://billmoyers.com/episode/united-states-of-alec-a-follow-up/
+  url: 'https://billmoyers.com/episode/united-states-of-alec-a-follow-up/'
   date_accessed: '2025-09-17'
   tier: 2
+  outlet: Bill Moyers
 status: confirmed
 capture_lanes:
 - Legislative Capture
 - Corporate Capture
 ---
-
 ALEC was strategically established in September 1973 by Paul Weyrich, Henry Hyde, and Lou Barnett as a pioneering corporate-legislative coordination mechanism. Developed from the Powell Memorandum's blueprint, ALEC created a novel 'model legislation' approach allowing corporations to directly draft state-level policy templates, fundamentally transforming state legislative processes. The organization pioneered a systematic state-level corporate influence strategy, enabling approximately 18% of its drafted model bills to become law across multiple states.

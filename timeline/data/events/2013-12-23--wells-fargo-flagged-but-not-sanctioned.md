@@ -19,6 +19,7 @@ sources:
   tier: 1
   date_accessed: '2025-10-17'
   type: government_document
+  outlet: Govinfo
 - url: 'https://www.npr.org/2015/05/08/405125463/la-lawsuit-alleges-wells-fargo-engaged-in-fraudulent-conduct'
   title: Los Angeles Lawsuit Alleges Wells Fargo Engaged In Fraudulent Conduct
   outlet: NPR

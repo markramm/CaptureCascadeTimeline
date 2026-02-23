@@ -16,22 +16,23 @@ actors:
 - Republican state legislators
 sources:
 - title: The Shadow Network (Council for National Policy) Is Not Going Away
-  url: https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/
+  url: 'https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/'
   publication: Bill Moyers
   date: '2021-01-08'
   tier: 1
+  outlet: Bill Moyers
 - title: Christian-Right Council for National Policy Linked to Violent Breach of Capitol
-  url: https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/
+  url: 'https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/'
   publication: Truthout
   date: '2021-01-08'
   tier: 1
+  outlet: Truthout
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- 'Media Capture & Control'
 - Systematic Corruption
 ---
-
 On December 10, 2020, the Council for National Policy leadership released a letter drafted by CNP board member and attorney Cleta Mitchell calling on legislators in swing states to throw out over 25 million votes based on false claims of electoral fraud.
 
 The letter represented the execution of the strategy CNP had coordinated at its November 12-14 meeting, where members discussed promoting election fraud claims and supporting challenges to electors in Republican-controlled statehouses. Mitchell, who had presented at that meeting, now authored the formal call to action.

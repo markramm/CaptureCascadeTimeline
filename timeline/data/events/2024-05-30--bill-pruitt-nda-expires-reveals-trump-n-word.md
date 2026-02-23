@@ -1,7 +1,7 @@
 ---
 id: 2024-05-30--bill-pruitt-nda-expires-reveals-trump-n-word
 date: 2024-05-30
-title: Apprentice Producer Bill Pruitt's NDA Expires, Reveals Trump Used N-Word on Camera
+title: 'Apprentice Producer Bill Pruitt''s NDA Expires, Reveals Trump Used N-Word on Camera'
 importance: 7
 status: confirmed
 tags:
@@ -12,18 +12,18 @@ tags:
 - mark-burnett
 - kwame-jackson
 sources:
-- url: https://deadline.com/2024/05/trump-the-apprentice-n-word-bill-pruitt-1235944516/
-  title: Producer On 'The Apprentice' Claims Donald Trump Used N-Word When Faced With Prospect Of A Black Winner In Show's First Season
+- url: 'https://deadline.com/2024/05/trump-the-apprentice-n-word-bill-pruitt-1235944516/'
+  title: 'Producer On ''The Apprentice'' Claims Donald Trump Used N-Word When Faced With Prospect Of A Black Winner In Show''s First Season'
   date: 2024-05-30
   tier: 1
   outlet: Deadline
-- url: https://www.cnn.com/2024/05/30/politics/trump-apprentice-producer-black-contestant/index.html
-  title: Former 'Apprentice' producer alleges Trump used N-word to refer to Black contestant
+- url: 'https://www.cnn.com/2024/05/30/politics/trump-apprentice-producer-black-contestant/index.html'
+  title: 'Former ''Apprentice'' producer alleges Trump used N-word to refer to Black contestant'
   date: 2024-05-30
   tier: 1
   outlet: CNN
-- url: https://www.hollywoodreporter.com/tv/tv-news/donald-trump-racial-slur-apprentice-revelations-1235911967/
-  title: Donald Trump Used Racial Slur on 'The Apprentice' Set, Says Producer
+- url: 'https://www.hollywoodreporter.com/tv/tv-news/donald-trump-racial-slur-apprentice-revelations-1235911967/'
+  title: 'Donald Trump Used Racial Slur on ''The Apprentice'' Set, Says Producer'
   date: 2024-05-30
   tier: 1
   outlet: The Hollywood Reporter
@@ -31,8 +31,11 @@ capture_lanes:
 - Corporate Capture
 - Electoral Manipulation
 - Financial Capture
+actors:
+- Bill Pruitt
+- Donald Trump
+- Mark Burnett
 ---
-
 Twenty years after "The Apprentice" premiered, former producer Bill Pruitt publishes a Slate article revealing that his highly restrictive non-disclosure agreement—which threatened a $5 million fine and potential jail time—has finally expired. Pruitt discloses that Donald Trump used the n-word on camera during the show's first season when discussing whether Black finalist Kwame Jackson should win the competition, stating "Yeah, but, I mean, would America buy a n— winning?" The revelation confirms long-standing rumors about racist footage being suppressed by NDAs and corporate legal structures.
 
 ## The NDA Expires After Two Decades

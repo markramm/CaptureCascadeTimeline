@@ -17,22 +17,23 @@ actors:
 - Clarence Thomas
 sources:
 - title: Leonard Leo
-  url: https://en.wikipedia.org/wiki/Leonard_Leo
+  url: 'https://en.wikipedia.org/wiki/Leonard_Leo'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court Supermajority'
-  url: https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority
+  url: 'https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority'
   publication: ProPublica
   date: '2023-12-20'
   tier: 1
+  outlet: ProPublica
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Legislative Capture
 - Electoral Manipulation
 ---
-
 By 2000, the Council for National Policy had established deep coordination with the Federalist Society through overlapping membership and shared strategy sessions, with Leonard Leo serving as a member of both organizations and coordinating judicial selection strategy across the conservative network.
 
 CNP's membership lists included leaders of the Federalist Society alongside Heritage Foundation, ALEC, and Alliance Defending Freedom, creating a coordination structure that linked conservative legal strategy (Federalist Society) with policy development (Heritage), state legislation (ALEC), and litigation strategy (ADF).

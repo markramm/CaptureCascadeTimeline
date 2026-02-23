@@ -18,26 +18,28 @@ actors:
 - Robert Bork
 sources:
 - title: American Enterprise Institute
-  url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
+  url: 'https://en.wikipedia.org/wiki/American_Enterprise_Institute'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: American Enterprise Institute - SourceWatch
-  url: https://www.sourcewatch.org/index.php/American_Enterprise_Institute
+  url: 'https://www.sourcewatch.org/index.php/American_Enterprise_Institute'
   publication: SourceWatch
   date: '2024-08-15'
   tier: 2
+  outlet: SourceWatch
 - title: American Enterprise Institute (AEI)
-  url: https://www.britannica.com/topic/American-Enterprise-Institute
+  url: 'https://www.britannica.com/topic/American-Enterprise-Institute'
   publication: Encyclopedia Britannica
   date: '2024-09-20'
   tier: 1
+  outlet: Britannica
 status: confirmed
 capture_lanes:
 - Corporate Capture
 - Military-Industrial Complex
 ---
-
 By 1977, the American Enterprise Institute's budget had surged to approximately $10 million, representing more than a 12-fold increase from its 1970 budget of $800,000. This dramatic expansion transformed AEI from a modest research organization into a major policy influence machine, demonstrating the massive corporate investment in conservative intellectual infrastructure following the Powell Memo.
 
 The growth was fueled primarily by the Howard Pew Freedom Trust and the newly rejuvenated John M. Olin Foundation, whose staff had been influenced by neoconservative thinking. By 1980, AEI would grow to a budget of $8 million with a staff of 125, up from just $1 million and 10 staff members at the start of the decade.

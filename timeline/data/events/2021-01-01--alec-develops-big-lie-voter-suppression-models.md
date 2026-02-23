@@ -1,7 +1,7 @@
 ---
 id: 2021-01-01--alec-develops-big-lie-voter-suppression-models
 date: 2021-01-01
-title: ALEC Develops New Model Election Bills to Implement Trump's "Big Lie"
+title: 'ALEC Develops New Model Election Bills to Implement Trump''s "Big Lie"'
 importance: 9
 actors:
 - American Legislative Exchange Council
@@ -21,13 +21,19 @@ tags:
 status: confirmed
 sources:
 - title: The Big Lie and the Push to Restrict Voting
-  url: https://www.brennancenter.org/our-work/analysis-opinion/big-lie-and-push-restrict-voting
+  url: 'https://www.brennancenter.org/our-work/analysis-opinion/big-lie-and-push-restrict-voting'
   outlet: Brennan Center for Justice
   date: 2021-06-10
   tier: 1
 - title: Conservative groups are writing GOP voter suppression bills
-  url: https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills
-  tier: 2---and-spending-millions-to-pass-them/
+  url: 'https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills'
+  tier: 2
+  outlet: Salon
+capture_lanes:
+- Legislative Capture
+- Electoral Manipulation
+---
+and-spending-millions-to-pass-them/
   outlet: Salon
   tier: 1
 - title: ALEC Members Lead Voter Suppression Efforts in 2020 Battleground States

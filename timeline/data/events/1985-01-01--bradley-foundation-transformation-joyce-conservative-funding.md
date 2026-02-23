@@ -19,27 +19,29 @@ actors:
 - Rockwell International
 sources:
 - title: Bradley Foundation
-  url: https://en.wikipedia.org/wiki/Bradley_Foundation
+  url: 'https://en.wikipedia.org/wiki/Bradley_Foundation'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: Lynde and Harry Bradley Foundation - SourceWatch
-  url: https://www.sourcewatch.org/index.php/Lynde_and_Harry_Bradley_Foundation
+  url: 'https://www.sourcewatch.org/index.php/Lynde_and_Harry_Bradley_Foundation'
   publication: SourceWatch
   date: '2024-09-15'
   tier: 2
+  outlet: SourceWatch
 - title: Michael S. Joyce
-  url: https://en.wikipedia.org/wiki/Michael_S._Joyce
+  url: 'https://en.wikipedia.org/wiki/Michael_S._Joyce'
   publication: Wikipedia
   date: '2024-11-08'
   tier: 2
+  outlet: Wikipedia
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Legislative Capture
 - International Kleptocracy
 ---
-
 In 1985, the Bradley Foundation underwent a dramatic transformation when Rockwell International Corporation acquired the Allen-Bradley Company, expanding the foundation's assets from $14 million to over $290 million - a more than 20-fold increase. This windfall enabled systematic, coordinated funding of conservative infrastructure on an unprecedented scale.
 
 Michael S. Joyce, hired away from the Olin Foundation, became Bradley Foundation president in 1985 and would serve until 2001. Dubbed the "godfather of conservative philanthropy" by neoconservative writer Irving Kristol, Joyce was described as "an accomplished neoconservative thinker in his own right."

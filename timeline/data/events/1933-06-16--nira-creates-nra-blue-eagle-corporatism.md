@@ -1,7 +1,7 @@
 ---
 id: 1933-06-16--nira-creates-nra-blue-eagle-corporatism
 date: '1933-06-16'
-title: National Industrial Recovery Act Creates NRA Blue Eagle Program, Enabling Corporate Self-Regulation
+title: 'National Industrial Recovery Act Creates NRA Blue Eagle Program, Enabling Corporate Self-Regulation'
 importance: 8
 actors:
 - Franklin D. Roosevelt
@@ -19,58 +19,56 @@ tags:
 - industrial-policy
 sources:
 - title: National Industrial Recovery Act of 1933
-  url: https://www.britannica.com/topic/National-Industrial-Recovery-Act
+  url: 'https://www.britannica.com/topic/National-Industrial-Recovery-Act'
   outlet: Encyclopedia Britannica
   date: '2024-01-01'
   tier: 2
   verified: true
-  tier: 2
 - title: The National Recovery Administration
-  url: https://www.fdrlibrary.org/nra
-  outlet: FDR Presidential Library & Museum
+  url: 'https://www.fdrlibrary.org/nra'
+  outlet: 'FDR Presidential Library & Museum'
   date: '2024-01-01'
   verified: true
   tier: 1
 - title: Records of the National Recovery Administration
-  url: https://www.archives.gov/research/guide-fed-records/groups/009.html
+  url: 'https://www.archives.gov/research/guide-fed-records/groups/009.html'
   outlet: National Archives
   date: '2024-01-01'
   verified: true
   tier: 1
 - title: Banking Act of 1933 (Glass-Steagall)
   outlet: Federal Reserve History
-  url: https://www.federalreservehistory.org/essays/glass-steagall-act
+  url: 'https://www.federalreservehistory.org/essays/glass-steagall-act'
   retrieval_date: '2024-12-24'
   tier: 1
 - title: The Glass-Steagall Act - A Legal and Policy Analysis
   outlet: Congressional Research Service
-  url: https://www.congress.gov/crs-product/R44349
+  url: 'https://www.congress.gov/crs-product/R44349'
   retrieval_date: '2024-12-24'
   tier: 1
 - title: Banking Act of 1933 (Glass-Steagall Act)
   outlet: Federal Reserve Archive - FRASER
-  url: https://fraser.stlouisfed.org/title/banking-act-1933-glass-steagall-act-991
+  url: 'https://fraser.stlouisfed.org/title/banking-act-1933-glass-steagall-act-991'
   retrieval_date: '2024-12-24'
   tier: 2
 - title: Glass-Steagall Act
   outlet: History Channel
-  url: https://www.history.com/topics/great-depression/glass-steagall-act
+  url: 'https://www.history.com/topics/great-depression/glass-steagall-act'
   retrieval_date: '2024-12-24'
   tier: 2
-- title: H.R. 5661, Banking Act of 1933 (Glass-Steagall Act)
-  url: https://www.visitthecapitol.gov/artifact/hr-5661-banking-act-1933-glass-steagall-act-june-13-1933
+- title: 'H.R. 5661, Banking Act of 1933 (Glass-Steagall Act)'
+  url: 'https://www.visitthecapitol.gov/artifact/hr-5661-banking-act-1933-glass-steagall-act-june-13-1933'
   outlet: U.S. Capitol Visitor Center
   tier: 1
 - title: Pecora Commission - Wikipedia
-  url: https://en.wikipedia.org/wiki/Pecora_Commission
+  url: 'https://en.wikipedia.org/wiki/Pecora_Commission'
   tier: 2
+  outlet: Wikipedia
 capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 status: confirmed
 ---
-
-
 President Roosevelt signs the National Industrial Recovery Act (NIRA) on June 16, 1933, creating the National Recovery Administration (NRA) to oversee the development of industry-wide "codes of fair competition" establishing minimum wages, maximum hours, collective bargaining rights, and production limits. The NRA launches its iconic Blue Eagle campaign, with businesses displaying the Blue Eagle emblem and slogan "We Do Our Part" to signal compliance. The program represents the most extensive experiment in government-supervised industrial self-regulation in American history—and demonstrates how corporate interests can capture ostensibly reform-minded institutions.
 
 General Hugh Johnson, appointed NRA administrator, presides over the drafting of 557 basic codes and 208 supplementary codes covering approximately 23 million workers. While the codes establish important labor protections including Section 7(a)'s guarantee of collective bargaining rights, the code-drafting process is dominated by large corporations and trade associations that use the opportunity to cartelize their industries. Major corporations dominate the code authorities that administer each industry's regulations, effectively allowing big business to write the rules governing their own conduct. Small businesses complain bitterly that the codes favor large competitors, while labor unions find that enforcement of Section 7(a) collective bargaining provisions is weak to nonexistent.

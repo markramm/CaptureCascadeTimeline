@@ -20,27 +20,29 @@ actors:
 - William Cies
 sources:
 - title: Council for National Policy
-  url: https://en.wikipedia.org/wiki/Council_for_National_Policy
+  url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
+  outlet: Wikipedia
 - title: 'The Council for National Policy: Behind the Curtain'
-  url: https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain
+  url: 'https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain'
   publication: Southern Poverty Law Center
   date: '2024-09-15'
   tier: 1
+  outlet: Southern Poverty Law Center
 - title: Council for National Policy - SourceWatch
-  url: https://www.sourcewatch.org/index.php/Council_for_National_Policy
+  url: 'https://www.sourcewatch.org/index.php/Council_for_National_Policy'
   publication: SourceWatch
   date: '2024-08-20'
   tier: 2
+  outlet: SourceWatch
 status: confirmed
 capture_lanes:
 - Corporate Capture
 - Military-Industrial Complex
 - Regulatory Capture
 ---
-
 In May 1981, during the Reagan administration, Tim LaHaye (then head of the Moral Majority), Paul Weyrich, Nelson Bunker Hunt, T. Cullen Davis, Howard Phillips, and William Cies founded the Council for National Policy (CNP) as an umbrella organization and networking group for conservative and Republican Party initiatives.
 
 Critically, two of the three primary founders had direct ties to the John Birch Society: Tim LaHaye had "regularly lectured and ran training seminars for the John Birch Society in the 1960s and 70s" according to the Southern Poverty Law Center, while Nelson Bunker Hunt was "a one-time member of the John Birch Society's ruling council" who served on the JBS National Council from 1976-1985 and again from 2007 until his death in 2014. Hunt, along with his brother William Herbert, provided the CNP's start-up funding.

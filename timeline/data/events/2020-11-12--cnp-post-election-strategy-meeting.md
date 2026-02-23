@@ -19,22 +19,23 @@ actors:
 - Virginia Thomas
 sources:
 - title: Recordings and Materials From Council for National Policy Meetings
-  url: https://documented.net/investigations/council-for-national-policy-recordings
+  url: 'https://documented.net/investigations/council-for-national-policy-recordings'
   publication: Documented
   date: '2020-11-20'
   tier: 1
+  outlet: Documented
 - title: A Rare Peek Inside the Vast Right-Wing Conspiracy
-  url: https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy
+  url: 'https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy'
   publication: The New Republic
   date: '2020-12-10'
   tier: 1
+  outlet: The New Republic
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
 - Surveillance Infrastructure
 - Systematic Corruption
 ---
-
 The Council for National Policy convened a critical strategy meeting November 12-14, 2020 to coordinate the conservative movement's response to Trump's election loss, with strategists laying out a multi-stage plan to challenge the results through claims of election fraud and state legislature intervention.
 
 Videos obtained by researcher Brent Allpress documented CNP strategists presenting their tactical options: If Trump lost the popular vote, they would emphasize the Electoral College. If he lost the Electoral College, they would promote spurious claims of election fraud and support challenges to electors in Republican-controlled state legislatures.

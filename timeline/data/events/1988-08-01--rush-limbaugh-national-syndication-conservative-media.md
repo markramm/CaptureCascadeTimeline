@@ -16,27 +16,29 @@ actors:
 - ABC Radio Network
 sources:
 - title: The Rush Limbaugh Show
-  url: https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show
+  url: 'https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show'
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media
-  url: https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/
+  outlet: Wikipedia
+- title: 'How Rush Limbaugh''s rise after the gutting of the fairness doctrine led to today''s highly partisan media'
+  url: 'https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/'
   publication: Poynter Institute
   date: '2024-09-15'
   tier: 1
+  outlet: Poynter Institute
 - title: Rush Limbaugh
-  url: https://en.wikipedia.org/wiki/Rush_Limbaugh
+  url: 'https://en.wikipedia.org/wiki/Rush_Limbaugh'
   publication: Wikipedia
   date: '2024-11-08'
   tier: 2
+  outlet: Wikipedia
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Regulatory Capture
 ---
-
 On August 1, 1988, just one year after the FCC abolished the Fairness Doctrine, Rush Limbaugh launched his radio broadcast into national syndication with 56 radio stations. The show was co-owned and syndicated by Edward F. McLaughlin's EFM Media Management, with McLaughlin being former president of ABC Radio who founded EFM Media in 1988 with Limbaugh's show as his first product.
 
 The timing was not coincidental - the elimination of balanced coverage requirements in 1987 made Limbaugh's unapologetically partisan conservative commentary commercially viable on a national scale. Within three months of launch, the show had expanded to 100 stations. By the mid-1990s, Limbaugh reached over 600 stations and 20+ million listeners, making him the most influential voice in conservative media.

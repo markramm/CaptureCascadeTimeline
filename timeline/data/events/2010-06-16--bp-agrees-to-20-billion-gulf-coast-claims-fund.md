@@ -14,14 +14,17 @@ sources:
   url: 'https://www.reuters.com/article/us-oil-spill-bp-fund-idUSTRE65J4MO20100620'
   tier: 2
   verified: true
+  outlet: Reuters
 - title: washingtonpost.com
   url: 'https://www.washingtonpost.com/wp-dyn/content/article/2010/06/16/AR2010061600570.html'
   tier: 2
   verified: true
+  outlet: The Washington Post
 - title: gulfspillrestoration.noaa.gov
   url: 'https://www.gulfspillrestoration.noaa.gov/funding'
   tier: 2
   verified: true
+  outlet: Gulfspillrestoration
 - outlet: Government Accountability Office (GAO)
   title: 'Deepwater Horizon Oil Spill: Preliminary Assessment of Federal Financial Risks and Claims Processing'
   url: 'https://www.gao.gov/assets/a97170.html'

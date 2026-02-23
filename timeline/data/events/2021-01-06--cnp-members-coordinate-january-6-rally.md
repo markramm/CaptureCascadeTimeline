@@ -1,7 +1,7 @@
 ---
 id: 2021-01-06--cnp-members-coordinate-january-6-rally
 date: '2021-01-06'
-title: At Least Six CNP Members Coordinate January 6 Rally - Conservative Network's Role in Insurrection
+title: 'At Least Six CNP Members Coordinate January 6 Rally - Conservative Network''s Role in Insurrection'
 importance: 10
 tags:
 - cnp
@@ -21,21 +21,22 @@ actors:
 - Turning Point USA
 sources:
 - title: Council for National Policy - Insurrection Exposed
-  url: https://insurrectionexposed.org/council-for-national-policy/
+  url: 'https://insurrectionexposed.org/council-for-national-policy/'
   publication: Insurrection Exposed
   date: '2021-01-15'
   tier: 2
+  outlet: Insurrectionexposed
 - title: Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol
-  url: https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/
+  url: 'https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/'
   publication: Center for Media and Democracy
   date: '2021-01-08'
   tier: 1
+  outlet: Exposedbycmd
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
 - Legislative Capture
 ---
-
 On January 6, 2021, at least six current or former members of the Council for National Policy played central roles in organizing and promoting the rally that became a violent insurrection at the U.S. Capitol, demonstrating how CNP's coordination infrastructure was deployed to execute the strategy planned at the organization's November 2020 meeting.
 
 CNP members involved in January 6 coordination included: Charlie Kirk (Turning Point USA founder, CNP member who tweeted he was sending "80+ buses full of patriots to DC"), Jenny Beth Martin (Tea Party Patriots CEO, CNP Executive Committee member whose phone number was on the rally permit application), Ali Alexander (former CNP fellow who organized Stop the Steal), Cleta Mitchell (CNP board member who had coordinated legal strategy), and Ginni Thomas (CNP Action board member who promoted the event).

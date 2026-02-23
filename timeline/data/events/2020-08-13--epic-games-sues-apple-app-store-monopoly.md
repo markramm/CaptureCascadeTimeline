@@ -1,7 +1,7 @@
 ---
 id: 2020-08-13--epic-games-sues-apple-app-store-monopoly
 date: '2020-08-13'
-title: Epic Games Sues Apple Over App Store Monopoly and 30% Commission Tax on Developers
+title: 'Epic Games Sues Apple Over App Store Monopoly and 30% Commission Tax on Developers'
 importance: 7
 status: confirmed
 actors:
@@ -11,13 +11,27 @@ actors:
 - Tim Cook
 sources:
 - title: Epic Games Apple lawsuit filing
-  url: https://www.documentcloud.org/documents/7039937-Epic-Games-v-Apple-Complaint.html
+  url: 'https://www.documentcloud.org/documents/7039937-Epic-Games-v-Apple-Complaint.html'
   date: '2020-08-13'
   outlet: DocumentCloud
   tier: 1
 - title: Epic Games vs Apple - The continuing App Store saga
-  url: https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga
-  tier: 2----the-story-so-far
+  url: 'https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga'
+  tier: 2
+  outlet: Appleinsider
+tags:
+- antitrust
+- app-store-monopoly
+- tech-monopoly
+- apple
+- epic-games
+- digital-marketplace
+- anti-competitive-practices
+capture_lanes:
+- Regulatory Capture
+- 'Digital & Tech Capture'
+---
+-the-story-so-far
   date: '2020-08-23'
   outlet: AppleInsider
   tier: 2

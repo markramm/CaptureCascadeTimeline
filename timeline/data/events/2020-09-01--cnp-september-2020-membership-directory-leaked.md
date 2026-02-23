@@ -14,22 +14,23 @@ actors:
 - Documented
 sources:
 - title: Documented Has Obtained a New Council for National Policy Membership List
-  url: https://documented.net/investigations/documented-has-obtained-a-recent-council-for-national-policy-membership-list
+  url: 'https://documented.net/investigations/documented-has-obtained-a-recent-council-for-national-policy-membership-list'
   publication: Documented
   date: '2022-01-15'
   tier: 1
+  outlet: Documented
 - title: Council for National Policy Membership Directory September 2020
-  url: https://www.documentcloud.org/documents/7280937-Council-for-National-Policy-Membership-Directory/
+  url: 'https://www.documentcloud.org/documents/7280937-Council-for-National-Policy-Membership-Directory/'
   publication: DocumentCloud
   date: '2020-09-01'
   tier: 1
+  outlet: Documentcloud
 status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 - Judicial Capture
 ---
-
 A September 2020 Council for National Policy membership directory was obtained and shared by a member, later obtained by Documented in January 2022, exposing the current coordination network two months before the presidential election and three months before January 6, 2021.
 
 The leaked directory provided a comprehensive snapshot of CNP's coordination network at a critical moment: Trump had spoken at CNP's August 21, 2020 meeting, CNP was coordinating COVID-19 anti-lockdown protests through weekly calls, and the organization was preparing for the November election.

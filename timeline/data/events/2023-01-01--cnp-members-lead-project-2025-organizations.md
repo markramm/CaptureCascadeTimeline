@@ -19,22 +19,23 @@ actors:
 - Tony Perkins
 sources:
 - title: 'Mapping the Authoritarian Movement: Part One - Project 2025'
-  url: https://globalextremism.org/post/mapping-the-trump-movement-part-one-project-2025/
+  url: 'https://globalextremism.org/post/mapping-the-trump-movement-part-one-project-2025/'
   publication: Global Project Against Hate and Extremism
   date: '2024-01-15'
   tier: 1
+  outlet: Globalextremism
 - title: Project 2025 Reaches 100 Coalition Partners
-  url: https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president
+  url: 'https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president'
   publication: Heritage Foundation
   date: '2023-06-01'
   tier: 2
+  outlet: Heritage Foundation
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
 - Labor Suppression
 - Surveillance Infrastructure
 ---
-
 By 2023, prominent Council for National Policy members held leadership positions in organizations affiliated with Project 2025, Heritage Foundation's comprehensive plan for a second Trump administration, demonstrating how CNP's coordination network extended into the blueprint for executive branch capture.
 
 The Global Project Against Hate and Extremism identified three networks as most influential in conservative politics: Project 2025 organizations (spearheaded by Heritage Foundation), America First Policy Institute, and the Council for National Policy - with significant overlap between them through shared leadership.

@@ -16,23 +16,24 @@ actors:
 - Council for National Policy
 - CNP Action
 sources:
-- title: Documented Obtains List of 2020 Donors to Ginni Thomas Group That Supported Trump's Attempted Coup
-  url: https://documented.net/investigations/documented-obtains-list-of-2020-donors-to-ginni-thomas-group-that-supported-trumps-attempted-coup
+- title: 'Documented Obtains List of 2020 Donors to Ginni Thomas Group That Supported Trump''s Attempted Coup'
+  url: 'https://documented.net/investigations/documented-obtains-list-of-2020-donors-to-ginni-thomas-group-that-supported-trumps-attempted-coup'
   publication: Documented
   date: '2021-01-15'
   tier: 1
+  outlet: Documented
 - title: How Ginni Thomas and the Shadowy Council of National Policy Advanced the Election Disinformation Campaign
-  url: https://www.peoplefor.org/rightwingwatch/post/how-ginni-thomas-and-the-shadowy-council-of-national-policy-advanced-a-disinformation-campaign
+  url: 'https://www.peoplefor.org/rightwingwatch/post/how-ginni-thomas-and-the-shadowy-council-of-national-policy-advanced-a-disinformation-campaign'
   publication: People For the American Way
   date: '2021-01-15'
   tier: 1
+  outlet: Peoplefor
 status: confirmed
 capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 - Electoral Manipulation
 ---
-
 Virginia "Ginni" Thomas, wife of Supreme Court Justice Clarence Thomas, joined the nine-member board of directors of CNP Action in 2019, placing the spouse of a sitting Supreme Court justice at the heart of the conservative movement's primary coordination network.
 
 CNP Action is the 501(c)(4) lobbying arm of the Council for National Policy, the secretive organization that serves as the coordination hub for conservative institutions, donors, and political operatives. As a board member, Ginni Thomas participated in strategic planning for the organization that coordinates between Heritage Foundation, ALEC, the Federalist Society, and other conservative groups.

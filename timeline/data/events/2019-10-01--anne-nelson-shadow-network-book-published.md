@@ -1,7 +1,7 @@
 ---
 id: 2019-10-01--anne-nelson-shadow-network-book-published
 date: '2019-10-01'
-title: Anne Nelson Publishes "Shadow Network" - Exposing CNP as Conservative Coordination Hub
+title: 'Anne Nelson Publishes "Shadow Network" - Exposing CNP as Conservative Coordination Hub'
 importance: 9
 tags:
 - cnp
@@ -14,22 +14,23 @@ actors:
 - Council for National Policy
 sources:
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
-  url: https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X
+  url: 'https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X'
   publication: Bloomsbury Publishing
   date: '2019-10-01'
   tier: 1
+  outlet: Amazon
 - title: 'Book Review: ''Shadow Network'' Offers A Lesson On The American Right''s Mastery Of Politics'
-  url: https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics
+  url: 'https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics'
   publication: NPR
   date: '2019-10-29'
   tier: 1
+  outlet: NPR
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Media Capture & Control
+- 'Media Capture & Control'
 - International Kleptocracy
 ---
-
 In October 2019, journalist Anne Nelson published "Shadow Network: Media, Money, and the Secret Hub of the Radical Right," providing the first comprehensive investigation of the Council for National Policy and its role as the coordination mechanism explaining how conservative institutions move in lockstep.
 
 Nelson's book documented how CNP links "the manpower and media of the Christian right," "finances of Western plutocrats," and "strategy of right-wing Republican political operatives" through a single secretive coordination network. She revealed how Heritage Foundation, ALEC, and CNP functioned as a "three-legged stool for the right, with Heritage as the think tank; ALEC as a state-level 'bill mill'; and the CNP as a coordinating body for donors, media, and activists."

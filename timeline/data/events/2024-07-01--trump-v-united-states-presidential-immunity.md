@@ -86,12 +86,15 @@ sources:
 - title: pbs.org
   url: 'https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation'
   tier: 1
+  outlet: PBS NewsHour
 - title: abcnews.go.com
   url: 'https://abcnews.go.com/Politics/director-heritage-foundations-project-2025-stepping/story?id=112415277'
   tier: 1
+  outlet: ABC News
 - title: newsweek.com
   url: 'https://www.newsweek.com/project-2025-director-steps-down-heritage-foundation-report-1932277'
   tier: 2
+  outlet: Newsweek
 status: confirmed
 capture_lanes:
 - Judicial Capture

@@ -20,22 +20,23 @@ actors:
 - Erik Prince
 sources:
 - title: Council for National Policy - DeSmog
-  url: https://www.desmog.com/council-national-policy/
+  url: 'https://www.desmog.com/council-national-policy/'
   publication: DeSmog
   date: '2024-11-10'
   tier: 2
+  outlet: Desmog
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
-  url: https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X
+  url: 'https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X'
   publication: Amazon
   date: '2019-10-01'
   tier: 2
+  outlet: Amazon
 status: confirmed
 capture_lanes:
-- Digital & Tech Capture
+- 'Digital & Tech Capture'
 - Intelligence Penetration
 - Electoral Manipulation
 ---
-
 By 2014, the Council for National Policy's membership included the DeVos and Mercer families, representing some of America's wealthiest conservative donors and demonstrating CNP's function as a coordination hub linking billionaire money with conservative institutional infrastructure.
 
 Richard DeVos, Amway co-founder and billionaire, served as one of CNP's presidents. His daughter-in-law Betsy DeVos would later serve as Trump's Secretary of Education. Elsa Prince Broekhuizen, mother of Blackwater founder Erik Prince and Betsy DeVos, was a CNP member, with the Edgar and Elsa Prince Foundation serving as a donor to the organization.

@@ -20,17 +20,20 @@ sources:
   tier: 2
   date_accessed: '2025-10-17'
   type: news_article
+  outlet: Texastribune
 - url: 'https://firstamendmentwatch.org/deep-dive/alex-jones-infowars-and-the-sandy-hook-defamation-suits/'
   title: 'First Amendment Watch: Alex Jones, Infowars, and Sandy Hook Defamation Suits'
   date_accessed: '2025-10-17'
   type: legal_analysis
   tier: 2
+  outlet: Firstamendmentwatch
 - url: 'https://www.npr.org/2025/10/15/nx-s1-5574929/supreme-court-alex-jones-defamation-judgment'
   title: 'NPR: Supreme Court Rejects Alex Jones'' Appeal of Sandy Hook Defamation Judgment'
   date_accessed: '2025-10-17'
   type: legal_follow_up
   description: 'Details Supreme Court''s rejection of Jones'' appeal and context of the defamation ruling'
   tier: 1
+  outlet: NPR
 capture_lanes:
 - 'Media Capture & Control'
 - Military-Industrial Complex
