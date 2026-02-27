@@ -15,6 +15,7 @@ tags:
 - healthcare
 - regulatory-capture
 - no-bid-contracts
+- defense-production-act
 status: confirmed
 sources:
 - title: Feds Spend Billions On COVID-19 Contracts, Often Without Fully Competitive Bidding
