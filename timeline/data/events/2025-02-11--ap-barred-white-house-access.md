@@ -45,6 +45,7 @@ sources:
   outlet: The Washington Post
   date: '2025-04-08'
 
-  tier: 1---
+  tier: 1
+---
 
 The White House blocked AP reporters from pooled access on Feb. 11 amid a naming dispute over the Gulf of Mexico ("Gulf of America"), with administration stating it has the right to punish AP reporters. On Apr. 8, a federal district court ordered access restored, finding viewpoint discrimination.

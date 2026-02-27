@@ -46,6 +46,7 @@ sources:
   outlet: Electronic Frontier Foundation
   date: '2024-07-01'
 
-  tier: 1---
+  tier: 1
+---
 
 The Supreme Court ruled 6-3 on June 26, 2024, that neither state nor individual plaintiffs established standing to enjoin federal officials over alleged coercion of social-media platforms. Justice Barrett's majority opinion found plaintiffs failed to show government actions caused platforms to moderate their specific posts, noting platforms had independently moderated similar content before government involvement. The Court avoided ruling on First Amendment questions about government jawboning, deciding on narrow procedural grounds instead.

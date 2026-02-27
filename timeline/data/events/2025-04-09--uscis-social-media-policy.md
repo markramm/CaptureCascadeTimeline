@@ -49,6 +49,7 @@ sources:
   outlet: Bloomberg Law
   date: '2025-04-09'
 
-  tier: 2---
+  tier: 2
+---
 
 U.S. Citizenship and Immigration Services announced on April 9, 2025, that it would screen immigrants' social media activity for antisemitic content when adjudicating immigration benefits. The policy allows denial of visas, green cards, and citizenship based on social media posts deemed antisemitic, raising First Amendment concerns and fears of viewpoint discrimination. Civil liberties groups warned this could be used to suppress criticism of Israeli policies.

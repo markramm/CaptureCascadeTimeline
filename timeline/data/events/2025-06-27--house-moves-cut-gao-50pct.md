@@ -49,6 +49,7 @@ sources:
   outlet: National Taxpayers Union
   date: '2025-06-27'
 
-  tier: 2---
+  tier: 2
+---
 
 House Appropriations Committee advanced a Legislative Branch bill on June 27, 2025, proposing to cut the Government Accountability Office (GAO) budget by nearly 50% and limiting its ability to enforce impoundment laws. The cuts would cripple Congress's primary watchdog agency responsible for investigating government waste and illegal spending. The proposal would have led to an immediate staff reduction of about 2,220 GAO employees (63% of workforce). Senate appropriators later rejected these cuts, recognizing GAO's critical oversight role, and approved a budget on par with current spending levels.

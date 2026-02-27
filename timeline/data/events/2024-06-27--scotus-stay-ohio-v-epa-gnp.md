@@ -45,6 +45,7 @@ sources:
   outlet: CBS News
   date: '2024-06-27'
 
-  tier: 1---
+  tier: 1
+---
 
 The Supreme Court granted a 5-4 stay on June 27, 2024, blocking the EPA's Good Neighbor Plan addressing interstate ozone pollution while litigation proceeds. Justice Gorsuch's majority opinion found EPA failed to reasonably explain its methodology after some states left the program. The stay affects enforcement in 11 states including California, Illinois, Indiana, Maryland, Michigan, New Jersey, New York, Ohio, Pennsylvania, Virginia, and Wisconsin. Justice Barrett's dissent warned this leaves upwind states free to contribute to downwind neighbors' ozone problems for years.

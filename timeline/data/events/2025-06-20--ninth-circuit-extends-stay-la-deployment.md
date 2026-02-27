@@ -38,6 +38,7 @@ sources:
   outlet: The Washington Post
   date: '2025-06-20'
 
-  tier: 1---
+  tier: 1
+---
 
 Three-judge panel (2 Trump, 1 Biden appointees) unanimously grants stay after Judge Breyer ruled deployment exceeded authority. Court finds 'colorable basis' under Title 10 for 4,100 Guard troops and 700 Marines in LA. Rules governors have no veto power over federal deployment. Case proceeds on merits.

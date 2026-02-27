@@ -44,6 +44,7 @@ sources:
   outlet: All Voting Is Local
   date: '2025-04-02'
 
-  tier: 2---
+  tier: 2
+---
 
 All Voting Is Local analysis on April 2, 2025, revealed 34,364 Ohio provisional ballots rejected in 2024 election (10,000 more than 2020 despite lower turnout) after HB 458's photo ID law took effect. Rejection rate for ID issues tripled, jumping to 28.4% in November 2023. Multiple local races decided by 1-2 votes while 25% of provisional ballots went uncounted. Voters lost 3 days to cure ballots.

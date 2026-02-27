@@ -41,6 +41,7 @@ sources:
   outlet: The Washington Post
   date: '2025-04-08'
 
-  tier: 1---
+  tier: 1
+---
 
 A federal judge on April 8, 2025, ordered the White House to restore Associated Press access to cover presidential events, finding that the administration's February ban constituted viewpoint-based discrimination in violation of the First Amendment. The ruling came after AP was barred from White House coverage following critical reporting. The administration responded by restructuring the press pool system days later to circumvent the court order.

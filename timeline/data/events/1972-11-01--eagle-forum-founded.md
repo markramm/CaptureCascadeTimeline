@@ -45,7 +45,8 @@ sources:
   date: '2017-01-01'
   verified: true
 
-  tier: 1---
+  tier: 1
+---
 
 
 Phyllis Schlafly founds Eagle Forum in Alton, Illinois, creating permanent institutional infrastructure for conservative social activism that will last for decades. Initially created to coordinate the STOP ERA campaign, Eagle Forum quickly grows into a comprehensive conservative advocacy organization. By 1975, Schlafly formally renames her STOP ERA organization as Eagle Forum, consolidating her grassroots network under a single institutional brand. Less than a year after its creation, the organization grows to several thousand members, and by 1988, Eagle Forum claims 80,000 members organized into state chapters across the country. Eagle Forum becomes part of the New Right in the 1970s, emphasizing social issues important to the Christian right in the conservative movement. In 1981, Schlafly creates the Eagle Forum Education and Legal Defense Fund as a non-profit wing to expand the organization's capacity for legal advocacy and educational programming. Schlafly remains Eagle Forum's chair and CEO until her death in 2016, providing 44 years of continuous leadership. Eagle Forum's model of combining grassroots organizing, regular communications through newsletters, legal advocacy, and coalition-building with religious conservatives becomes a template for modern conservative movement infrastructure. The organization demonstrates how a single charismatic leader can build lasting institutional power by consistently mobilizing activists around cultural and social issues framed as threats to traditional families and values.

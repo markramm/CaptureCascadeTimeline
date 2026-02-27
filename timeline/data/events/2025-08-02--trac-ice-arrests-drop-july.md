@@ -42,6 +42,7 @@ sources:
   outlet: KTVU FOX 2
   date: '2025-08-02'
 
-  tier: 2---
+  tier: 2
+---
 
 According to TRAC Syracuse University analysis of ICE data, average daily arrests fell to 990 in July 2025 (July 1-27) from 1,224 in June—a 19% decline, amid protests and litigation. Total arrests 31,281 in July (27,483 by ICE, 3,798 by CBP). Both numbers well below Stephen Miller's stated goal of 3,000 arrests daily. As of July 27, about 71% of those in ICE detention hadn't been convicted of a crime; many with convictions had minor offenses like traffic violations. Despite arrest decline, removals increased by average 84 more per day over June.

@@ -40,6 +40,7 @@ sources:
   outlet: Votebeat
   date: '2025-07-11'
 
-  tier: 2---
+  tier: 2
+---
 
 Cochise County Supervisor Thomas Crosby's trial for conspiring to delay the 2022 election certification was pushed back from May to September 2025. Crosby faces felony charges for refusing to certify the county's votes by the legal deadline, risking 47,000 voters' ballots. He has incurred $263,000 in legal fees and seeks $300,000 from the county's insurer. Co-supervisor Peggy Judd pleaded guilty to a misdemeanor. An appeals court ruled Crosby wasn't protected by legislative immunity.

@@ -40,6 +40,7 @@ sources:
   outlet: ProPublica
   date: '2024-06-04'
 
-  tier: 1---
+  tier: 1
+---
 
 The Brennan Center warned that Georgia's SB 189, effective July 1, 2024, dramatically eases third-party challenges to voter eligibility, enabling mass challenges based on unreliable data. The law requires local boards to hold hearings when there's "probable cause," specifically including known unreliable information sources. Within days of the law taking effect, activists filed over 34,000 challenges, with 89% of recent challenges coming from just six right-wing activists using tools like EagleAI and IV3. The law prevents challenges within 45 days of elections from being heard until after certification.
