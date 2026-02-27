@@ -13,6 +13,16 @@ sources:
   date: '2026-02-24'
   outlet: CREW
   tier: 2
+- url: 'https://www.huffpost.com/entry/trump-golf-300-million_n_69271f3ce4b00aca68d3d689'
+  title: "Second-Term Tab For Trump's Golf Hobby Tops $70 Million, On Track To Exceed $300 Million"
+  date: '2026-02-24'
+  outlet: HuffPost
+  tier: 3
+- url: 'https://www.newsweek.com/donald-trump-golfing-second-term-2102161'
+  title: 'Donald Trump Is Golfing Way More During His Second Term'
+  date: '2026-02-24'
+  outlet: Newsweek
+  tier: 2
 tags:
 - emoluments
 - self-dealing

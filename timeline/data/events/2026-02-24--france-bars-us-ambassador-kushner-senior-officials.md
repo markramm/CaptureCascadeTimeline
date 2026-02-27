@@ -14,6 +14,16 @@ sources:
   date: '2026-02-24'
   outlet: NPR
   tier: 1
+- url: 'https://www.nbcnews.com/world/europe/france-ambassador-charles-kushner-banned-meeting-officials-summons-rcna260380'
+  title: "U.S. Ambassador to France Charles Kushner Banned from Meeting Officials After Summons No-Show"
+  date: '2026-02-24'
+  outlet: NBC News
+  tier: 1
+- url: 'https://www.bloomberg.com/news/articles/2026-02-23/france-pulls-kushner-s-ambassadorial-access-after-official-snub'
+  title: "France Pulls Kushner's Ambassadorial Access After Official Snub"
+  date: '2026-02-23'
+  outlet: Bloomberg
+  tier: 2
 tags:
 - diplomacy
 - france

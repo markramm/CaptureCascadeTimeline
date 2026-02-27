@@ -13,6 +13,16 @@ sources:
   date: '2026-02-24'
   outlet: Wall Street Journal
   tier: 1
+- url: 'https://www.washingtonpost.com/business/2026/02/24/trump-banks-citizenship-status/'
+  title: 'Trump Administration Considers Requiring Banks to Collect Citizenship Information'
+  date: '2026-02-24'
+  outlet: Washington Post
+  tier: 1
+- url: 'https://edition.cnn.com/2026/02/24/business/trump-immigration-banks-citizenship'
+  title: "Trump Administration Considers Forcing Banks to Verify Customers' Citizenship"
+  date: '2026-02-24'
+  outlet: CNN
+  tier: 1
 tags:
 - banking-surveillance
 - citizenship

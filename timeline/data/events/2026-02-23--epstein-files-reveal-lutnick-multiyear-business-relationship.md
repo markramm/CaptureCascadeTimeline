@@ -14,6 +14,16 @@ sources:
   date: '2026-02-23'
   outlet: Mother Jones
   tier: 2
+- url: 'https://www.cnn.com/2026/02/15/politics/howard-lutnick-epstein-ties-trump'
+  title: "Howard Lutnick's Epstein Ties Raise Concerns on Wall Street but Not in the White House"
+  date: '2026-02-15'
+  outlet: CNN
+  tier: 1
+- url: 'https://www.cbsnews.com/news/howard-lutnick-jeffrey-epstein-in-business-together/'
+  title: 'Lutnick and Epstein Were in Business Together, Epstein Files Show'
+  date: '2026-02-23'
+  outlet: CBS News
+  tier: 1
 tags:
 - epstein
 - conflicts-of-interest

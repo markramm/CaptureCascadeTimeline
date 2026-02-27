@@ -13,6 +13,16 @@ sources:
   date: '2026-02-19'
   outlet: NPR
   tier: 1
+- url: 'https://thehill.com/homenews/administration/5745544-hud-bars-undocumented-immigrants/'
+  title: "HUD to Close 'Mixed Status Households' Roommate Loophole"
+  date: '2026-02-19'
+  outlet: The Hill
+  tier: 2
+- url: 'https://www.thecity.nyc/2026/02/20/immigration-families-mixed-status-hud-housing-development-rule-change/'
+  title: 'HUD Rule Change Targets Mixed-Immigration Status Families'
+  date: '2026-02-20'
+  outlet: THE CITY
+  tier: 3
 tags:
 - immigration-enforcement
 - housing

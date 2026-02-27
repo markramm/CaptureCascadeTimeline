@@ -13,6 +13,16 @@ sources:
   date: '2026-02-24'
   outlet: Associated Press
   tier: 1
+- url: 'https://www.usnews.com/news/health-news/articles/2026-02-24/states-sue-trump-administration-over-changes-to-childhood-vaccine-recommendations'
+  title: 'States Sue Trump Administration Over Changes to Childhood Vaccine Recommendations'
+  date: '2026-02-24'
+  outlet: U.S. News & World Report
+  tier: 2
+- url: 'https://www.gov.ca.gov/2026/02/24/california-co-leads-multi-state-lawsuit-against-cdcs-unscientific-vaccine-recommendations-putting-public-health-at-risk/'
+  title: "California Co-Leads Multi-State Lawsuit Against CDC's Unscientific Vaccine Recommendations"
+  date: '2026-02-24'
+  outlet: California Governor's Office
+  tier: 2
 tags:
 - vaccines
 - public-health

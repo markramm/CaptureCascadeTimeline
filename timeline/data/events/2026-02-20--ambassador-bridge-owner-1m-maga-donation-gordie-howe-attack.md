@@ -14,6 +14,16 @@ sources:
   date: '2026-02-20'
   outlet: New York Times
   tier: 1
+- url: 'https://www.cbsnews.com/detroit/news/ambassador-bridge-matthew-moroun-donation-maga-inc/'
+  title: 'Detroit Bridge Owner Donates $1 Million to MAGA PAC Before Trump Gordie Howe Bridge Post'
+  date: '2026-02-20'
+  outlet: CBS News
+  tier: 1
+- url: 'https://michiganadvance.com/briefs/moroun-gave-1m-to-pac-supporting-trump-prior-to-presidents-tirade-over-gordie-howe-bridge/'
+  title: "Moroun Gave $1M to PAC Supporting Trump Prior to President's Tirade Over Gordie Howe Bridge"
+  date: '2026-02-20'
+  outlet: Michigan Advance
+  tier: 3
 tags:
 - corruption
 - pay-to-play

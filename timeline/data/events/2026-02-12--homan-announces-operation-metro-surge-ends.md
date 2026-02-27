@@ -13,6 +13,9 @@ actors:
 tags:
 - immigration-enforcement
 - ice
+- operation-metro-surge
+- minnesota
+- civil-liberties
 sources:
 - url: https://www.kare11.com/article/news/local/ice-in-minnesota/homan-announces-end-to-operation-metro-surge/89-12276bb4-a329-450e-a06b-8da67430105e
   title: Homan announces end to Operation Metro Surge - MN now less of a sanctuary state

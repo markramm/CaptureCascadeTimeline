@@ -13,6 +13,11 @@ sources:
   date: '2026-02-23'
   outlet: 404 Media
   tier: 3
+- url: 'https://www.gadgetreview.com/ice-strike-teams-are-using-a-free-iphone-app-to-coordinate-arrests'
+  title: 'ICE Strike Teams Are Using a Free iPhone App to Coordinate Arrests'
+  date: '2026-02-23'
+  outlet: Gadget Review
+  tier: 3
 tags:
 - ice
 - cybersecurity

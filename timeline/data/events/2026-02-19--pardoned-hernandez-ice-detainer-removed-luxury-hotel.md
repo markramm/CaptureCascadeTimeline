@@ -14,6 +14,16 @@ sources:
   date: '2026-02-19'
   outlet: ProPublica
   tier: 2
+- url: 'https://www.wlrn.org/americas/2026-02-20/amid-mass-ice-arrests-trump-pardon-recipient-juan-orlando-hernandez-given-special-treatment'
+  title: 'Amid Mass ICE Arrests, Trump Pardon Recipient Juan Orlando Hernandez Given Special Treatment'
+  date: '2026-02-20'
+  outlet: WLRN
+  tier: 3
+- url: 'https://www.latintimes.com/ex-honduran-president-convicted-drug-trafficking-pardoned-trump-had-red-carpet-rolled-out-him-594849'
+  title: "Ex-Honduran President Convicted of Drug-Trafficking and Pardoned by Trump Had 'Red Carpet Rolled Out for Him'"
+  date: '2026-02-19'
+  outlet: Latin Times
+  tier: 3
 tags:
 - presidential-pardon
 - drug-trafficking

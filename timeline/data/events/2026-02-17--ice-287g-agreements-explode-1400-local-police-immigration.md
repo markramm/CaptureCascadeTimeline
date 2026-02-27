@@ -13,6 +13,16 @@ sources:
   date: '2026-02-17'
   outlet: NPR
   tier: 1
+- url: 'https://www.nbcnews.com/politics/immigration/agreements-allow-local-police-work-ice-skyrocket-rcna258787'
+  title: 'Agreements That Allow Local Police to Work with ICE Skyrocket'
+  date: '2026-02-17'
+  outlet: NBC News
+  tier: 1
+- url: 'https://www.aclu.org/news/immigrants-rights/ice-expanding-287g-agreements-police'
+  title: 'ICE is Rapidly Expanding Dangerous 287(g) Agreements with Local Police'
+  date: '2026-02-17'
+  outlet: ACLU
+  tier: 3
 tags:
 - ice
 - 287g

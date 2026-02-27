@@ -13,6 +13,16 @@ sources:
   date: '2026-02-17'
   outlet: Brennan Center for Justice
   tier: 1
+- url: 'https://stateline.org/2025/12/18/trumps-doj-offers-states-confidential-deal-to-wipe-voters-flagged-by-feds-as-ineligible/'
+  title: "Trump's DOJ Offers States Confidential Deal to Wipe Voters Flagged by Feds as Ineligible"
+  date: '2025-12-18'
+  outlet: Stateline
+  tier: 2
+- url: 'https://www.npr.org/2026/01/15/nx-s1-5678969/doj-voter-data-california-dismissal'
+  title: 'A Federal Judge Dismisses the DOJ Effort to Get Voter Data from California'
+  date: '2026-01-15'
+  outlet: NPR
+  tier: 1
 tags:
 - voter-data
 - election-integrity

@@ -13,6 +13,16 @@ sources:
   date: '2026-02-20'
   outlet: CNN
   tier: 1
+- url: 'https://www.nbcnews.com/politics/national-security/cia-reports-bias-review-trump-appointed-board-rcna260037'
+  title: "CIA Retracts and Revises Reports for 'Bias' After Review by Trump-Appointed Board"
+  date: '2026-02-20'
+  outlet: NBC News
+  tier: 1
+- url: 'https://www.cia.gov/stories/story/dcia-retracts-biased-intelligence-products-to-reinforce-cia-analytic-objectivity'
+  title: 'DCIA Retracts Biased Intelligence Products to Reinforce CIA Analytic Objectivity'
+  date: '2026-02-20'
+  outlet: CIA
+  tier: 1
 tags:
 - intelligence-politicization
 - cia

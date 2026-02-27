@@ -15,6 +15,16 @@ sources:
   date: '2026-02-24'
   outlet: Associated Press
   tier: 1
+- url: 'https://thehill.com/homenews/education/5751248-education-department-trump-mcmahon/'
+  title: 'Education Department to Move More Programs to Other Federal Agencies Amid Trump, McMahon Efforts to Close It'
+  date: '2026-02-24'
+  outlet: The Hill
+  tier: 2
+- url: 'https://www.edweek.org/policy-politics/the-education-department-will-send-more-of-its-programs-to-other-agencies/2026/02'
+  title: 'Education Department Will Send More of Its Programs to Other Agencies'
+  date: '2026-02-24'
+  outlet: Education Week
+  tier: 2
 tags:
 - education
 - executive-overreach

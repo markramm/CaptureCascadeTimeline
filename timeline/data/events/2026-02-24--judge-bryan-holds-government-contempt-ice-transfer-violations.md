@@ -14,6 +14,16 @@ sources:
   date: '2026-02-24'
   outlet: MPR News
   tier: 1
+- url: 'https://www.washingtonpost.com/national-security/2026/01/27/ice-federal-judge-contempt/'
+  title: 'U.S. Judge Orders ICE Chief to Appear in Court, Threatens Contempt Ruling'
+  date: '2026-01-27'
+  outlet: Washington Post
+  tier: 1
+- url: 'https://www.courthousenews.com/judges-blast-ice-for-violating-court-orders-in-minnesota-threaten-contempt/'
+  title: 'Judges Blast ICE for Violating Court Orders in Minnesota, Threaten Contempt'
+  date: '2026-02-26'
+  outlet: Courthouse News Service
+  tier: 3
 tags:
 - contempt-of-court
 - rule-of-law

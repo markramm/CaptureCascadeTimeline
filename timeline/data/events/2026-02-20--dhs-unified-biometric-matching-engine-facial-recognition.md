@@ -14,6 +14,16 @@ sources:
   date: '2026-02-20'
   outlet: WIRED
   tier: 2
+- url: 'https://www.biometricupdate.com/202602/dhs-signals-major-expansion-of-biometric-matching-infrastructure'
+  title: 'DHS Signals Major Expansion of Biometric Matching Infrastructure'
+  date: '2026-02-20'
+  outlet: Biometric Update
+  tier: 3
+- url: 'https://www.bloomberg.com/news/articles/2026-02-02/dhs-face-scanning-app-pulls-from-1-2-billion-image-database'
+  title: 'DHS Face-Scanning App Pulls From 1.2 Billion-Image Database'
+  date: '2026-02-02'
+  outlet: Bloomberg
+  tier: 2
 tags:
 - facial-recognition
 - biometric-surveillance

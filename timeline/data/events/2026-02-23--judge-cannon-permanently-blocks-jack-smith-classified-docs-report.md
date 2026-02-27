@@ -14,6 +14,16 @@ sources:
   date: '2026-02-23'
   outlet: The Guardian
   tier: 2
+- url: 'https://www.cbsnews.com/news/trump-classified-documents-case-judge-blocks-jack-smith-special-counsel-report/'
+  title: 'Judge Permanently Blocks Release of Jack Smith Report on Trump Classified Documents Case'
+  date: '2026-02-23'
+  outlet: CBS News
+  tier: 1
+- url: 'https://www.pbs.org/newshour/politics/judge-permanently-blocks-release-of-special-counsel-jack-smiths-report-on-trump-classified-documents-case'
+  title: "Judge Permanently Blocks Release of Special Counsel Jack Smith's Report on Trump Classified Documents Case"
+  date: '2026-02-23'
+  outlet: PBS NewsHour
+  tier: 1
 tags:
 - judicial-obstruction
 - classified-documents

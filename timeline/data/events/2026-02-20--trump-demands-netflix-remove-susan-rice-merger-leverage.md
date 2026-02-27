@@ -14,6 +14,16 @@ sources:
   date: '2026-02-20'
   outlet: Wall Street Journal
   tier: 1
+- url: 'https://www.cnbc.com/2026/02/22/trump-demands-netflix-fire-susan-rice-as-doj-probes-warner-deal.html'
+  title: 'Trump Demands Netflix Fire Susan Rice as DOJ Probes Warner Deal'
+  date: '2026-02-22'
+  outlet: CNBC
+  tier: 2
+- url: 'https://variety.com/2026/film/news/donald-trump-netflix-fire-susan-rice-warner-bros-1236669384/'
+  title: 'Donald Trump Demands Netflix Fire Board Member Susan Rice'
+  date: '2026-02-22'
+  outlet: Variety
+  tier: 2
 tags:
 - corporate-coercion
 - merger-leverage

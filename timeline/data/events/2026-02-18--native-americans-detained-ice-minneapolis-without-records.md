@@ -13,6 +13,16 @@ sources:
   date: '2026-02-18'
   outlet: TIME
   tier: 1
+- url: 'https://www.cnn.com/2026/01/14/us/oglala-sioux-tribe-minneapolis-immigration-enforcement'
+  title: 'Oglala Sioux Tribe Says Three Tribal Members Arrested in Minneapolis Are in ICE Detention'
+  date: '2026-01-14'
+  outlet: CNN
+  tier: 1
+- url: 'https://ictnews.org/news/five-native-americans-detained-by-ice-during-ongoing-raids-in-minneapolis'
+  title: 'Five Native Americans Detained by ICE During Ongoing Raids in Minneapolis'
+  date: '2026-01-14'
+  outlet: ICT News
+  tier: 3
 tags:
 - ice
 - native-americans

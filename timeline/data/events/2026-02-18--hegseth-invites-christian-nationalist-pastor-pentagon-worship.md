@@ -14,6 +14,16 @@ sources:
   date: '2026-02-18'
   outlet: Washington Post
   tier: 1
+- url: 'https://www.cnn.com/2026/02/19/politics/douglas-wilson-pastor-pentagon-service-christian-nationalism'
+  title: 'Hegseth Invited Pastor Who Calls for Christian Theocracy to Lead Pentagon Prayer Service'
+  date: '2026-02-19'
+  outlet: CNN
+  tier: 1
+- url: 'https://www.military.com/daily-news/2026/02/18/who-doug-wilson-pentagon-defends-pastor-who-led-christian-prayer-service.html'
+  title: 'Who Is Doug Wilson? Pentagon Defends Pastor Who Led Christian Prayer Service'
+  date: '2026-02-18'
+  outlet: Military.com
+  tier: 2
 tags:
 - christian-nationalism
 - church-state-separation

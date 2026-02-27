@@ -14,6 +14,16 @@ sources:
   date: '2026-02-23'
   outlet: Wall Street Journal
   tier: 1
+- url: 'https://fortune.com/2026/02/13/binance-investigators-fired-iran-sanctions-potential-violations/'
+  title: 'Binance Fires Top Investigators Who Claim to Have Uncovered Evidence of Iranian Sanctions Violations'
+  date: '2026-02-13'
+  outlet: Fortune
+  tier: 2
+- url: 'https://decrypt.co/359109/democrat-senator-launches-1-7b-iran-sanctions-probe-into-binance'
+  title: 'Democrat Senator Launches $1.7B Iran Sanctions Probe Into Binance'
+  date: '2026-02-24'
+  outlet: Decrypt
+  tier: 3
 tags:
 - crypto
 - sanctions-evasion

@@ -13,6 +13,16 @@ sources:
   date: '2026-02-20'
   outlet: Reuters
   tier: 1
+- url: 'https://variety.com/2026/tv/news/trump-fcc-chairman-broadcasters-pro-america-programming-1236668371/'
+  title: "FCC Chair Calls on TV Networks to Air 'Pro-America Content' for US 250th Birthday"
+  date: '2026-02-20'
+  outlet: Variety
+  tier: 2
+- url: 'https://www.npr.org/2026/02/21/nx-s1-5722297/federal-communications-commission-fcc-broadcasters-patriotic-250th-anniversary'
+  title: "FCC Calls for More 'Patriotic, Pro-America' Programming in Run-Up to 250th Anniversary"
+  date: '2026-02-21'
+  outlet: NPR
+  tier: 1
 tags:
 - fcc
 - media-control

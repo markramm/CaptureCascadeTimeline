@@ -15,6 +15,16 @@ sources:
   date: '2026-02-19'
   outlet: WIRED
   tier: 2
+- url: 'https://siliconangle.com/2026/02/19/dhs-awards-palantir-1b-deploy-ai-data-analytics-platforms/'
+  title: 'DHS Awards Palantir Up to $1B to Deploy AI and Data Analytics Platforms'
+  date: '2026-02-19'
+  outlet: SiliconANGLE
+  tier: 3
+- url: 'https://www.bloomberg.com/news/articles/2026-02-05/new-york-s-pension-funds-scrutinize-palantir-over-ice-contract'
+  title: "New York Pension Funds Question Palantir on ICE, DHS Contracts"
+  date: '2026-02-05'
+  outlet: Bloomberg
+  tier: 2
 tags:
 - surveillance
 - palantir

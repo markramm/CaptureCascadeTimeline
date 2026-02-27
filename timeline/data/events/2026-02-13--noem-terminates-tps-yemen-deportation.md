@@ -10,6 +10,9 @@ actors:
 tags:
 - immigration-enforcement
 - abuse-of-power
+- tps
+- yemen
+- deportation
 sources:
 - url: https://www.uscis.gov/newsroom/news-releases/dhs-terminates-temporary-protected-status-for-yemen
   title: DHS Terminates Temporary Protected Status for Yemen

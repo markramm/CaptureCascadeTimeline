@@ -13,6 +13,16 @@ sources:
   date: '2026-02-24'
   outlet: Reuters
   tier: 1
+- url: 'https://thehill.com/homenews/state-watch/5754391-new-york-kathy-hochul-tariff-refunds-trump-supreme-court/'
+  title: 'Kathy Hochul Seeks $13.5B Tariff Refund for New Yorkers'
+  date: '2026-02-24'
+  outlet: The Hill
+  tier: 2
+- url: 'https://abc7ny.com/post/ny-gov-kathy-hochul-asks-trump-administration-refund-new-yorkers-135-billion-tariff-payments/18654595/'
+  title: 'NY Gov. Kathy Hochul Asks Trump Administration to Refund New Yorkers $13.5 Billion in Tariff Payments'
+  date: '2026-02-24'
+  outlet: ABC7 New York
+  tier: 1
 tags:
 - tariffs
 - scotus

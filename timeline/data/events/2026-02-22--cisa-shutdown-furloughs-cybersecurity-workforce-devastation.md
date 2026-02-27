@@ -13,6 +13,16 @@ sources:
   date: '2026-02-22'
   outlet: New York Times
   tier: 1
+- url: 'https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/'
+  title: 'US Cybersecurity Agency CISA Reportedly in Dire Shape Amid Trump Cuts and Layoffs'
+  date: '2026-02-25'
+  outlet: TechCrunch
+  tier: 2
+- url: 'https://www.cybersecuritydive.com/news/cisa-government-shutdown-plan-employees/761365/'
+  title: 'CISA to Furlough 65% of Staff if Government Shuts Down'
+  date: '2026-02-22'
+  outlet: Cybersecurity Dive
+  tier: 2
 tags:
 - cybersecurity
 - dhs-shutdown

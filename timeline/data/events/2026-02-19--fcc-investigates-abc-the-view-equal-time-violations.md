@@ -14,6 +14,16 @@ sources:
   date: '2026-02-19'
   outlet: Associated Press
   tier: 1
+- url: 'https://www.pbs.org/newshour/politics/fcc-is-investigating-abcs-the-view-over-equal-time-rule-chairman-says'
+  title: "FCC Is Investigating ABC's 'The View' Over 'Equal Time' Rule, Chairman Says"
+  date: '2026-02-19'
+  outlet: PBS NewsHour
+  tier: 1
+- url: 'https://variety.com/2026/tv/news/brendan-carr-fcc-the-view-equal-time-colbert-1236667002/'
+  title: "Brendan Carr Confirms FCC Has Begun 'Enforcement Proceedings' Against ABC's 'The View'"
+  date: '2026-02-19'
+  outlet: Variety
+  tier: 2
 tags:
 - fcc
 - media-intimidation

@@ -13,6 +13,16 @@ sources:
   date: '2026-02-17'
   outlet: Washington Post
   tier: 1
+- url: 'https://www.cbsnews.com/baltimore/news/maryland-immigration-casa-governor-moore-ending-287g-agreements/'
+  title: 'Maryland Gov. Moore Signs Bills into Law Ending Law Enforcement Partnerships with ICE'
+  date: '2026-02-17'
+  outlet: CBS News
+  tier: 1
+- url: 'https://thedailyrecord.com/2026/02/17/maryland-bans-local-287g-ice-partnerships/'
+  title: "No More: MD Ban on Local Police Partnerships with ICE Becomes Law"
+  date: '2026-02-17'
+  outlet: Maryland Daily Record
+  tier: 3
 tags:
 - sanctuary-state
 - ice

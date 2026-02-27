@@ -13,6 +13,16 @@ sources:
   date: '2026-02-18'
   outlet: Associated Press
   tier: 1
+- url: 'https://abcnews.com/US/wireStory/fda-drop-study-requirement-new-drug-approvals-aiming-130281423'
+  title: 'FDA Will Drop Two-Study Requirement for New Drug Approvals, Aiming to Speed Access'
+  date: '2026-02-18'
+  outlet: ABC News
+  tier: 1
+- url: 'https://www.ajmc.com/view/fda-will-require-only-1-study-to-approve-new-drugs-speeding-up-process'
+  title: 'FDA Will Require Only 1 Study to Approve New Drugs, Speeding Up Process'
+  date: '2026-02-18'
+  outlet: AJMC
+  tier: 3
 tags:
 - fda
 - drug-approval

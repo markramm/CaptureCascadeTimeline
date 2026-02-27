@@ -13,6 +13,16 @@ sources:
   date: '2026-02-20'
   outlet: Washington Post
   tier: 1
+- url: 'https://www.nbcnews.com/politics/trump-administration/deputy-ag-fires-interim-us-attorney-rcna260012'
+  title: 'DOJ Fires New U.S. Attorney Hours After Judges Appointed Him to Replace Trump Loyalist'
+  date: '2026-02-20'
+  outlet: NBC News
+  tier: 1
+- url: 'https://thehill.com/homenews/administration/5749239-doj-fires-interim-us-attorney/'
+  title: 'DOJ Moves Quickly to Boot Judge-Appointed Virginia US Attorney'
+  date: '2026-02-20'
+  outlet: The Hill
+  tier: 2
 tags:
 - doj-purge
 - prosecutorial-independence
