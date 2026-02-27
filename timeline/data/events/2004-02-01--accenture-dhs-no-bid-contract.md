@@ -28,13 +28,13 @@ sources:
   outlet: GAO
 - url: 'https://apnews.com/article/accenture-dhs-no-bid-contract-2004-details'
   title: Accenture Wins Major DHS Border Security Technology Contract
-  publication: Associated Press
+  outlet: Associated Press
   date: '2004-02-01'
   tier: 1
   outlet: Associated Press
 - url: 'https://www.reuters.com/article/2004/02/01/us-accenture-dhs-contract/'
   title: Accenture Lands Multi-Billion Dollar DHS US-VISIT Contract
-  publication: Reuters
+  outlet: Reuters
   date: '2004-02-01'
   tier: 1
   outlet: Reuters

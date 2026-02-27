@@ -19,19 +19,19 @@ actors:
 sources:
 - title: American Enterprise Institute
   url: 'https://en.wikipedia.org/wiki/American_Enterprise_Institute'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: American Enterprise Institute - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/American_Enterprise_Institute'
-  publication: SourceWatch
+  outlet: SourceWatch
   date: '2024-08-15'
   tier: 2
   outlet: SourceWatch
 - title: American Enterprise Institute (AEI)
   url: 'https://www.britannica.com/topic/American-Enterprise-Institute'
-  publication: Encyclopedia Britannica
+  outlet: Encyclopedia Britannica
   date: '2024-09-20'
   tier: 1
   outlet: Britannica

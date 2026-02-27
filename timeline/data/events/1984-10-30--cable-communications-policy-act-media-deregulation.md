@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Cable Communications Policy Act of 1984
   url: 'https://en.wikipedia.org/wiki/Cable_Communications_Policy_Act_of_1984'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Cable Communications Policy Act of 1984 (1984)
   url: 'https://firstamendment.mtsu.edu/article/cable-communications-policy-act-of-1984/'
-  publication: The First Amendment Encyclopedia
+  outlet: The First Amendment Encyclopedia
   date: '2024-09-15'
   tier: 1
   outlet: Firstamendment
 - title: 'S.66 - 98th Congress (1983-1984): Cable Communications Policy Act of 1984'
   url: 'https://www.congress.gov/bill/98th-congress/senate-bill/66'
-  publication: Congress.gov
+  outlet: Congress.gov
   date: '2024-08-20'
   tier: 1
   outlet: Congress.gov

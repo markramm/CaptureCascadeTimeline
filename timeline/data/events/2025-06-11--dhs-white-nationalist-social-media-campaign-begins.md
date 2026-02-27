@@ -18,17 +18,17 @@ actors:
 sources:
 - title: 'DHS deploys white nationalist, anti-immigrant graphics to recruit'
   url: https://www.splcenter.org/resources/hatewatch/dhs-white-nationalist-anti-immigrant-social-media/
-  publication: Southern Poverty Law Center Hatewatch
+  outlet: Southern Poverty Law Center Hatewatch
   date: '2025-09-15'
   tier: 1
 - title: 'On social media, the Department of Homeland Security appeals to nostalgia — with motifs of White identity'
   url: https://www.cnn.com/2025/08/13/politics/homeland-security-department-social-media
-  publication: CNN
+  outlet: CNN
   date: '2025-08-13'
   tier: 1
-- title: 'New report shows how Trump's DHS is mainstreaming white supremacy'
+- title: "New report shows how Trump's DHS is mainstreaming white supremacy"
   url: https://www.msnbc.com/top-stories/latest/homeland-security-social-media-white-supremacy-rcna228582
-  publication: MSNBC
+  outlet: MSNBC
   date: '2025-09-16'
   tier: 1
 status: confirmed

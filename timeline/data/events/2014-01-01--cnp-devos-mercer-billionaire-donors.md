@@ -21,13 +21,13 @@ actors:
 sources:
 - title: Council for National Policy - DeSmog
   url: 'https://www.desmog.com/council-national-policy/'
-  publication: DeSmog
+  outlet: DeSmog
   date: '2024-11-10'
   tier: 2
   outlet: Desmog
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
   url: 'https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X'
-  publication: Amazon
+  outlet: Amazon
   date: '2019-10-01'
   tier: 2
   outlet: Amazon

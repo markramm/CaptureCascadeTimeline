@@ -17,13 +17,13 @@ actors:
 sources:
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
   url: 'https://www.goodreads.com/book/show/46020029-shadow-network'
-  publication: Goodreads
+  outlet: Goodreads
   date: '2019-10-01'
   tier: 2
   outlet: Goodreads
 - title: Council for National Policy
   url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia

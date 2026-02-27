@@ -18,19 +18,19 @@ actors:
 sources:
 - title: The Heritage Foundation
   url: 'https://en.wikipedia.org/wiki/The_Heritage_Foundation'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Joe Coors Brews Up the Heritage Foundation
   url: 'https://www.philanthropyroundtable.org/almanac/joe-coors-brews-up-the-heritage-foundation/'
-  publication: Philanthropy Roundtable
+  outlet: Philanthropy Roundtable
   date: '2024-09-15'
   tier: 2
   outlet: Philanthropyroundtable
 - title: Heritage Foundation - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/Heritage_Foundation'
-  publication: SourceWatch
+  outlet: SourceWatch
   date: '2024-08-20'
   tier: 2
   outlet: SourceWatch

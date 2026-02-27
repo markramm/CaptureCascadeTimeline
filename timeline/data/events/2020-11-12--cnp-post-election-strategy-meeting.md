@@ -20,13 +20,13 @@ actors:
 sources:
 - title: Recordings and Materials From Council for National Policy Meetings
   url: 'https://documented.net/investigations/council-for-national-policy-recordings'
-  publication: Documented
+  outlet: Documented
   date: '2020-11-20'
   tier: 1
   outlet: Documented
 - title: A Rare Peek Inside the Vast Right-Wing Conspiracy
   url: 'https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy'
-  publication: The New Republic
+  outlet: The New Republic
   date: '2020-12-10'
   tier: 1
   outlet: The New Republic

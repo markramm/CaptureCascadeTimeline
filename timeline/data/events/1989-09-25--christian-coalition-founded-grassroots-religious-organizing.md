@@ -16,19 +16,19 @@ actors:
 sources:
 - title: Robertson Founds the Christian Coalition
   url: 'https://www.ebsco.com/research-starters/history/robertson-founds-christian-coalition'
-  publication: EBSCO Research Starters
+  outlet: EBSCO Research Starters
   date: '2024-09-15'
   tier: 2
   outlet: EBSCO Research Starters
 - title: Christian Coalition of America
   url: 'https://en.wikipedia.org/wiki/Christian_Coalition_of_America'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Ralph Reed
   url: 'https://en.wikipedia.org/wiki/Ralph_Reed'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
   outlet: Wikipedia

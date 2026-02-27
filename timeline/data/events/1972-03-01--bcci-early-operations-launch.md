@@ -18,24 +18,24 @@ sources:
 - title: Bank of Credit and Commerce International
   url: 'https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International'
   tier: 2
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2025'
   outlet: Wikipedia
 - title: The BCCI Affair - Origins and Early Years
   url: 'https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm'
-  publication: Federation of American Scientists
+  outlet: Federation of American Scientists
   date: '1992'
   tier: 2
   outlet: Irp
 - title: BCCI Archival Records
   url: 'https://atom.lib.strath.ac.uk/bank-of-credit-and-commerce-international'
-  publication: University of Strathclyde Archives
+  outlet: University of Strathclyde Archives
   date: '2025'
   tier: 2
   outlet: Atom
 - title: Congressional Investigation of BCCI
   url: 'https://irp.fas.org/congress/1992_rpt/bcci'
-  publication: U.S. Senate Committee Report
+  outlet: U.S. Senate Committee Report
   date: '1992'
   tier: 2
   outlet: Irp

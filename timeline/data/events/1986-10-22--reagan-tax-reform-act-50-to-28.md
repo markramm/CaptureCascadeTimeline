@@ -47,12 +47,12 @@ sources:
 - title: How four decades of tax cuts fueled inequality
   url: 'https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/'
   tier: 1
-  publication: Center for Public Integrity
+  outlet: Center for Public Integrity
   date: '2024-09-15'
   outlet: Publicintegrity
 - title: 'Reagan''s Tax Reform Was A Bipartisan Effort of Surrender to America''s Deepest Pockets'
   url: 'https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/'
-  publication: Institute for Policy Studies
+  outlet: Institute for Policy Studies
   date: '2024-08-20'
   tier: 2
   outlet: Ips Dc

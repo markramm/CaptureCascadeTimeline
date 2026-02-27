@@ -19,19 +19,19 @@ actors:
 sources:
 - title: Manhattan Institute for Policy Research
   url: 'https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Manhattan Institute - SourceWatch
   url: 'https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research'
-  publication: SourceWatch
+  outlet: SourceWatch
   date: '2024-09-15'
   tier: 2
   outlet: SourceWatch
 - title: William J. Casey
   url: 'https://en.wikipedia.org/wiki/William_J._Casey'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
   outlet: Wikipedia

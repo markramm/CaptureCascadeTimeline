@@ -29,13 +29,13 @@ sources:
   verified: true
 - title: 1978 California Proposition 13
   url: 'https://en.wikipedia.org/wiki/1978_California_Proposition_13'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: 'Proposition 13: Everything You Thought You Knew, and Things You Didn''t'
   url: 'https://aoausa.com/proposition-13-everything-you-thought-you-knew-and-things-you-didnt-from-the-howard-jarvis-taxpayers-association/'
-  publication: Howard Jarvis Taxpayers Association
+  outlet: Howard Jarvis Taxpayers Association
   date: '2024-06-15'
   tier: 2
   outlet: Aoausa

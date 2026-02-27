@@ -17,13 +17,13 @@ actors:
 sources:
 - title: 'The Council for National Policy: Behind the Curtain'
   url: 'https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain'
-  publication: Southern Poverty Law Center
+  outlet: Southern Poverty Law Center
   date: '2016-05-17'
   tier: 1
   outlet: Southern Poverty Law Center
 - title: 'Revealed: Conway, Bannon Members of Secretive Group'
   url: 'https://www.splcenter.org/hatewatch/2016/08/31/revealed-conway-bannon-members-secretive-group'
-  publication: Southern Poverty Law Center
+  outlet: Southern Poverty Law Center
   date: '2016-08-31'
   tier: 1
   outlet: Southern Poverty Law Center

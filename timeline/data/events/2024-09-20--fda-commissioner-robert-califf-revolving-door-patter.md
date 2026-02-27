@@ -29,7 +29,7 @@ sources:
   outlet: Therevolvingdoorproject
 - url: 'https://apnews.com/article/fda-robert-califf-pharmaceutical-connections'
   title: 'Manchin Criticizes Califf''s FDA Nomination Over Industry Ties'
-  publication: Associated Press
+  outlet: Associated Press
   date: '2024-09-20'
   tier: 1
   outlet: Associated Press

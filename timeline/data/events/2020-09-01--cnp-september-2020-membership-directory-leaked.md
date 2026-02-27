@@ -15,13 +15,13 @@ actors:
 sources:
 - title: Documented Has Obtained a New Council for National Policy Membership List
   url: 'https://documented.net/investigations/documented-has-obtained-a-recent-council-for-national-policy-membership-list'
-  publication: Documented
+  outlet: Documented
   date: '2022-01-15'
   tier: 1
   outlet: Documented
 - title: Council for National Policy Membership Directory September 2020
   url: 'https://www.documentcloud.org/documents/7280937-Council-for-National-Policy-Membership-Directory/'
-  publication: DocumentCloud
+  outlet: DocumentCloud
   date: '2020-09-01'
   tier: 1
   outlet: Documentcloud

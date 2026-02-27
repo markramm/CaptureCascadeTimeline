@@ -16,13 +16,13 @@ actors:
 sources:
 - title: Faith and Freedom Coalition
   url: 'https://en.wikipedia.org/wiki/Faith_and_Freedom_Coalition'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Council for National Policy
   url: 'https://persagen.org/docs/council_for_national_policy.html'
-  publication: Persagen
+  outlet: Persagen
   date: '2024-11-10'
   tier: 2
   outlet: Persagen

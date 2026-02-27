@@ -19,13 +19,13 @@ actors:
 sources:
 - title: A Rare Peek Inside the Vast Right-Wing Conspiracy
   url: 'https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy'
-  publication: The New Republic
+  outlet: The New Republic
   date: '2020-12-10'
   tier: 1
   outlet: The New Republic
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
   url: 'https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics'
-  publication: NPR
+  outlet: NPR
   date: '2019-10-29'
   tier: 1
   outlet: NPR

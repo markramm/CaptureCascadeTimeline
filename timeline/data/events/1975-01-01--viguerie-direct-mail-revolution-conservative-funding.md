@@ -20,19 +20,19 @@ actors:
 sources:
 - title: Richard Viguerie
   url: 'https://en.wikipedia.org/wiki/Richard_Viguerie'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Remembering the New Right
   url: 'https://politicalresearch.org/2009/06/10/remembering-the-new-right-political-strategy-and-the-building-of-the-gop-coalition'
-  publication: Political Research Associates
+  outlet: Political Research Associates
   date: '2024-08-15'
   tier: 2
   outlet: Politicalresearch
 - title: 'The World of Richard Viguerie. At 90 ''Our work isn''t finished yet.'''
   url: 'https://agitator.thedonorvoice.com/the-world-of-richard-viguerie-at-90-our-work-isnt-finished-yet/'
-  publication: The Agitator
+  outlet: The Agitator
   date: '2024-09-20'
   tier: 2
   outlet: Agitator

@@ -20,19 +20,19 @@ actors:
 sources:
 - title: Bradley Foundation
   url: 'https://en.wikipedia.org/wiki/Bradley_Foundation'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Lynde and Harry Bradley Foundation - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/Lynde_and_Harry_Bradley_Foundation'
-  publication: SourceWatch
+  outlet: SourceWatch
   date: '2024-09-15'
   tier: 2
   outlet: SourceWatch
 - title: Michael S. Joyce
   url: 'https://en.wikipedia.org/wiki/Michael_S._Joyce'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
   outlet: Wikipedia

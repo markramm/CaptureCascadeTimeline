@@ -40,19 +40,19 @@ sources:
   tier: 1
 - title: The Rush Limbaugh Show
   url: 'https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: 'How Rush Limbaugh''s rise after the gutting of the fairness doctrine led to today''s highly partisan media'
   url: 'https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/'
-  publication: Poynter Institute
+  outlet: Poynter Institute
   date: '2024-09-15'
   tier: 1
   outlet: Poynter Institute
 - title: Rush Limbaugh
   url: 'https://en.wikipedia.org/wiki/Rush_Limbaugh'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
   outlet: Wikipedia

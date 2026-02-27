@@ -20,24 +20,24 @@ sources:
 - title: 'How the Federalist Society Shaped America''s Judiciary'
   url: 'https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/'
   tier: 2
-  publication: Yale Daily News
+  outlet: Yale Daily News
   date: '2024-11-04'
   outlet: Yaledailynews
 - title: Federalist Society Founding and Conservative Legal Movement
   url: 'https://en.wikipedia.org/wiki/Federalist_Society'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2025-09-17'
   tier: 2
   outlet: Wikipedia
 - title: 'Federalist Society: A Conservative Legal Movement''s Infrastructure'
   url: 'https://www.britannica.com/topic/Federalist-Society'
-  publication: Encyclopedia Britannica
+  outlet: Encyclopedia Britannica
   date: '2025-09-15'
   tier: 2
   outlet: Britannica
 - title: The Federalist Society and Conservative Judicial Recruitment
   url: 'https://www.peoplefor.org/report/the-federalist-society-from-obscurity-to-power'
-  publication: People For The American Way
+  outlet: People For The American Way
   date: '2025-02-15'
   tier: 2
   outlet: Peoplefor

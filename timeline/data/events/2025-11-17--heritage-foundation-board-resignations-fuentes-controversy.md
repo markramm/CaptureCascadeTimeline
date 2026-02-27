@@ -16,9 +16,9 @@ actors:
 - Nick Fuentes
 - Tucker Carlson
 sources:
-- title: 'How Nick Fuentes ignited a civil war within the Republican Party - and DC's most prominent conservative think tank'
+- title: "How Nick Fuentes ignited a civil war within the Republican Party - and DC's most prominent conservative think tank"
   url: https://us.cnn.com/2025/11/06/politics/nick-fuentes-tucker-carlson-heritage-foundation-kevin-roberts
-  publication: CNN
+  outlet: CNN
   date: '2025-11-06'
   tier: 1
 status: confirmed

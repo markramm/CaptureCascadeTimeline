@@ -22,13 +22,13 @@ actors:
 sources:
 - title: Council for National Policy - Insurrection Exposed
   url: 'https://insurrectionexposed.org/council-for-national-policy/'
-  publication: Insurrection Exposed
+  outlet: Insurrection Exposed
   date: '2021-01-15'
   tier: 2
   outlet: Insurrectionexposed
 - title: Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol
   url: 'https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/'
-  publication: Center for Media and Democracy
+  outlet: Center for Media and Democracy
   date: '2021-01-08'
   tier: 1
   outlet: Exposedbycmd

@@ -15,13 +15,13 @@ actors:
 sources:
 - title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
   url: 'https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X'
-  publication: Bloomsbury Publishing
+  outlet: Bloomsbury Publishing
   date: '2019-10-01'
   tier: 1
   outlet: Amazon
 - title: 'Book Review: ''Shadow Network'' Offers A Lesson On The American Right''s Mastery Of Politics'
   url: 'https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics'
-  publication: NPR
+  outlet: NPR
   date: '2019-10-29'
   tier: 1
   outlet: NPR

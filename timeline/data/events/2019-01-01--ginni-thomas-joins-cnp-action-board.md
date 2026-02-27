@@ -18,13 +18,13 @@ actors:
 sources:
 - title: 'Documented Obtains List of 2020 Donors to Ginni Thomas Group That Supported Trump''s Attempted Coup'
   url: 'https://documented.net/investigations/documented-obtains-list-of-2020-donors-to-ginni-thomas-group-that-supported-trumps-attempted-coup'
-  publication: Documented
+  outlet: Documented
   date: '2021-01-15'
   tier: 1
   outlet: Documented
 - title: How Ginni Thomas and the Shadowy Council of National Policy Advanced the Election Disinformation Campaign
   url: 'https://www.peoplefor.org/rightwingwatch/post/how-ginni-thomas-and-the-shadowy-council-of-national-policy-advanced-a-disinformation-campaign'
-  publication: People For the American Way
+  outlet: People For the American Way
   date: '2021-01-15'
   tier: 1
   outlet: Peoplefor

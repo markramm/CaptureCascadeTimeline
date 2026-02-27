@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Council for National Policy
   url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: 'The Council for National Policy: Behind the Curtain'
   url: 'https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain'
-  publication: Southern Poverty Law Center
+  outlet: Southern Poverty Law Center
   date: '2024-09-15'
   tier: 1
   outlet: Southern Poverty Law Center
 - title: Council for National Policy - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/Council_for_National_Policy'
-  publication: SourceWatch
+  outlet: SourceWatch
   date: '2024-08-20'
   tier: 2
   outlet: SourceWatch

@@ -20,18 +20,18 @@ sources:
 - title: President Trump Fires State Department Inspector General Steve Linick
   url: 'https://www.npr.org/2020/05/16/857334790/president-trump-removes-state-department-inspector-general-steve-linick'
   tier: 1
-  publication: NPR
+  outlet: NPR
   date: '2020-05-16'
   outlet: NPR
 - title: 'President Trump Ousts Steve Linick, State Department Watchdog'
   url: 'https://www.bloomberg.com/news/articles/2020-05-16/state-department-inspector-general-steve-linick-is-fired'
-  publication: Bloomberg
+  outlet: Bloomberg
   date: '2020-05-16'
   tier: 1
   outlet: Bloomberg
 - title: Pompeo urged Trump to fire State Department inspector general
   url: 'https://www.cnbc.com/2020/05/16/pompeo-urged-trump-to-fire-state-department-inspector-general.html'
-  publication: CNBC
+  outlet: CNBC
   date: '2020-05-16'
   tier: 2
   outlet: CNBC

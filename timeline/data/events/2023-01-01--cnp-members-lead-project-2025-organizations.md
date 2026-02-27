@@ -20,13 +20,13 @@ actors:
 sources:
 - title: 'Mapping the Authoritarian Movement: Part One - Project 2025'
   url: 'https://globalextremism.org/post/mapping-the-trump-movement-part-one-project-2025/'
-  publication: Global Project Against Hate and Extremism
+  outlet: Global Project Against Hate and Extremism
   date: '2024-01-15'
   tier: 1
   outlet: Globalextremism
 - title: Project 2025 Reaches 100 Coalition Partners
   url: 'https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president'
-  publication: Heritage Foundation
+  outlet: Heritage Foundation
   date: '2023-06-01'
   tier: 2
   outlet: Heritage Foundation

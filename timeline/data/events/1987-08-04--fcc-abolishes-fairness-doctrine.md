@@ -48,13 +48,13 @@ sources:
   tier: 2
 - title: 'How Rush Limbaugh''s rise after the gutting of the fairness doctrine led to today''s highly partisan media'
   url: 'https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/'
-  publication: Poynter Institute
+  outlet: Poynter Institute
   date: '2024-09-15'
   tier: 1
   outlet: Poynter Institute
 - title: 'The Fairness Doctrine: How We Lost It and Why We Need It Back'
   url: 'https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/'
-  publication: Sisyphus Literary Magazine
+  outlet: Sisyphus Literary Magazine
   date: '2024-08-20'
   tier: 2
   outlet: Sisyphuslitmag

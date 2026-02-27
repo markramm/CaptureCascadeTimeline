@@ -17,12 +17,12 @@ actors:
 sources:
 - title: "'Remigration,' once a fringe idea, becomes a mantra for the Trump administration"
   url: https://www.npr.org/2025/12/09/nx-s1-5630505/remigration-once-a-fringe-idea-becomes-a-mantra-for-the-trump-administration
-  publication: NPR
+  outlet: NPR
   date: '2025-12-09'
   tier: 1
-- title: 'Trump administration urges 'remigration,' borrowing white nationalist language'
+- title: "Trump administration urges 'remigration,' borrowing white nationalist language"
   url: https://www.npr.org/2025/12/08/nx-s1-5637253/trump-administration-urges-remigration-borrowing-white-nationalist-language
-  publication: NPR Politics Podcast
+  outlet: NPR Politics Podcast
   date: '2025-12-08'
   tier: 1
 status: confirmed

@@ -22,13 +22,13 @@ actors:
 sources:
 - title: Secretive Right-Wing Nonprofit Plays Role in COVID-19 Organizing
   url: 'https://www.prwatch.org/news/2020/05/13581/secretive-right-wing-nonprofit-plays-role-covid-19-organizing'
-  publication: PR Watch
+  outlet: PR Watch
   date: '2020-05-15'
   tier: 1
   outlet: Prwatch
 - title: 'The Council for National Policy organizes anti-lockdown protests & national COVID response'
   url: 'https://trumpfile.org/cnp-protests-covid/'
-  publication: Trump File
+  outlet: Trump File
   date: '2020-05-01'
   tier: 2
   outlet: Trumpfile

@@ -19,19 +19,19 @@ actors:
 sources:
 - title: John M. Olin Foundation
   url: 'https://en.wikipedia.org/wiki/John_M._Olin_Foundation'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Linking Law and Economics
   url: 'https://www.philanthropyroundtable.org/almanac/linking-law-and-economics/'
-  publication: Philanthropy Roundtable
+  outlet: Philanthropy Roundtable
   date: '2024-09-15'
   tier: 2
   outlet: Philanthropyroundtable
 - title: John M. Olin Foundation (1953–2005)
   url: 'https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/'
-  publication: Duke Center for Strategic Philanthropy
+  outlet: Duke Center for Strategic Philanthropy
   date: '2024-08-20'
   tier: 1
   outlet: Cspcs

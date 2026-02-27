@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Moral Majority
   url: 'https://en.wikipedia.org/wiki/Moral_Majority'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
   outlet: Wikipedia
 - title: Paul Weyrich
   url: 'https://en.wikipedia.org/wiki/Paul_Weyrich'
-  publication: Wikipedia
+  outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
   outlet: Wikipedia
 - title: Moral Majority Is Founded
   url: 'https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded'
-  publication: EBSCO Research Starters
+  outlet: EBSCO Research Starters
   date: '2024-09-15'
   tier: 2
   outlet: EBSCO Research Starters

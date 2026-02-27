@@ -17,13 +17,13 @@ actors:
 sources:
 - title: The Shadow Network (Council for National Policy) Is Not Going Away
   url: 'https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/'
-  publication: Bill Moyers
+  outlet: Bill Moyers
   date: '2021-01-08'
   tier: 1
   outlet: Bill Moyers
 - title: Christian-Right Council for National Policy Linked to Violent Breach of Capitol
   url: 'https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/'
-  publication: Truthout
+  outlet: Truthout
   date: '2021-01-08'
   tier: 1
   outlet: Truthout
