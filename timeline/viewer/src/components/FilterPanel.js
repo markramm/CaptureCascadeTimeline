@@ -13,7 +13,6 @@ import {
   ArrowUpDown,
   Star
 } from 'lucide-react';
-import TimelineMinimap from './TimelineMinimap';
 import GraphControls from './GraphControls';
 import TimelineControls from './TimelineControls';
 import { Github } from 'lucide-react';

@@ -84,7 +84,7 @@ const VirtualTimelineView = ({
     };
 
     loadInitialEvents();
-  }, [isReady, effectiveFilters, sortBy, sortOrder, getEvents, getEventCount]);
+  }, [isReady, effectiveFilters, sortBy, sortOrder, getEvents, getEventCount, onFilteredCountChange]);
 
   /**
    * Load more events for a specific page

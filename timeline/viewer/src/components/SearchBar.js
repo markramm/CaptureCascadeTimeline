@@ -18,7 +18,7 @@ const SearchBar = ({ value, onChange, placeholder }) => {
     if (value === '' && localValue !== '') {
       setLocalValue('');
     }
-  }, [value]);
+  }, [value, localValue]);
 
   return (
     <div className="search-bar">

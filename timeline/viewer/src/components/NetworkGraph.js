@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, useMemo } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import { calculateDegreeCentrality, calculateBetweennessCentrality, calculateClusteringCoefficient } from '../utils/graphMetrics';
 import './NetworkGraph.css';
@@ -25,7 +25,7 @@ const NetworkGraph = ({
   const simulationRef = useRef(null);
   const [selectedNode, setSelectedNode] = useState(null);
   const [isLayoutFrozen, setIsLayoutFrozen] = useState(false);
-  const [filterType, setFilterType] = useState('important'); // Keep filterType internal for now or move next
+  const [filterType] = useState('important'); // Keep filterType internal for now or move next
   const [highlightedNodeId, setHighlightedNodeId] = useState(null);
 
   // Reset local filters when global search changes
@@ -34,21 +34,6 @@ const NetworkGraph = ({
     setSelectedNode(null);
   }, [searchQuery, events]);
 
-  // Extract unique actors and tags for dropdowns
-  const { uniqueActors, uniqueTags } = useMemo(() => {
-    const actors = new Set();
-    const tags = new Set();
-
-    events?.forEach(event => {
-      event.actors?.forEach(actor => actors.add(actor));
-      event.tags?.forEach(tag => tags.add(tag));
-    });
-
-    return {
-      uniqueActors: Array.from(actors).sort(),
-      uniqueTags: Array.from(tags).sort()
-    };
-  }, [events]);
 
   // Category colors and definitions
   const categories = [
@@ -803,24 +788,6 @@ const NetworkGraph = ({
       // Store reference to simulation (null for timeline layout)
       simulationRef.current = null;
 
-      // Drag functions for timeline (constrained movement)
-      function dragStarted(event) {
-        // Timeline layout is static
-        event.subject.fx = event.subject.x;
-        event.subject.fy = event.subject.y;
-      }
-
-      function dragged(event) {
-        event.subject.fx = event.x;
-        event.subject.fy = event.y;
-        d3.select(this).attr('cx', event.x).attr('cy', event.y);
-      }
-
-      function dragEnded(event) {
-        event.subject.fx = event.x;
-        event.subject.fy = event.y;
-      }
-
       function highlightConnections(node) {
         const connectedNodes = new Set([node.id]);
 
@@ -945,7 +912,6 @@ const NetworkGraph = ({
       const sortedNodes = graphData.nodes.sort((a, b) => (b.impact || 0) - (a.impact || 0));
 
       const cols = Math.ceil(Math.sqrt(sortedNodes.length * (width / height)));
-      const cellSize = width / cols;
 
       sortedNodes.forEach((node, i) => {
         const col = i % cols;
@@ -1002,7 +968,7 @@ const NetworkGraph = ({
       default:
         renderForceLayout(graphData);
     }
-  }, [events, graphLayout, filterType, showLabels, maxNodes, minConnectionStrength,
+  }, [events, graphLayout, filterType, showLabels, showMetrics, maxNodes, minConnectionStrength,
     searchQuery, selectedActor, selectedTag, highlightedNodeId, activeCategories, isLayoutFrozen]);
 
   const handleCategoryToggle = (categoryId) => {

@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, useMemo, useCallback } from 'react';
+import React, { useEffect, useRef, useState, useMemo } from 'react';
 import * as d3 from 'd3';
 import './NetworkGraph.css';
 
@@ -485,7 +485,7 @@ const NetworkGraphActors = ({
       }
     });
 
-  }, [events, minEvents, showLabels, searchQuery, compareMode, compareNodes]);
+  }, [events, minEvents, showLabels, searchQuery, compareMode, compareNodes, onCompareNodesChange]);
 
   // Get top actors for stats
   const topActors = useMemo(() => {
