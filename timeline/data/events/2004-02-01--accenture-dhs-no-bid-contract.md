@@ -31,13 +31,11 @@ sources:
   outlet: Associated Press
   date: '2004-02-01'
   tier: 1
-  outlet: Associated Press
 - url: 'https://www.reuters.com/article/2004/02/01/us-accenture-dhs-contract/'
   title: Accenture Lands Multi-Billion Dollar DHS US-VISIT Contract
   outlet: Reuters
   date: '2004-02-01'
   tier: 1
-  outlet: Reuters
 capture_lanes:
 - Surveillance Infrastructure
 - 'Digital & Tech Capture'

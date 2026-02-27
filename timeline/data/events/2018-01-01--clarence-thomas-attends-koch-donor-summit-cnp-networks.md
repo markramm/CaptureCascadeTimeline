@@ -20,13 +20,11 @@ sources:
   outlet: ProPublica
   date: '2023-09-22'
   tier: 1
-  outlet: ProPublica
 - title: 'It''s Not Personal: Why Clarence Thomas'' Trip to the Koch Summit Undermines His Ethics Defense'
   url: 'https://www.propublica.org/article/clarence-thomas-koch-network-trips-disclosure-law-scotus'
   outlet: ProPublica
   date: '2023-09-22'
   tier: 1
-  outlet: ProPublica
 status: confirmed
 capture_lanes:
 - Judicial Capture

@@ -22,19 +22,16 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: American Enterprise Institute - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/American_Enterprise_Institute'
   outlet: SourceWatch
   date: '2024-08-15'
   tier: 2
-  outlet: SourceWatch
 - title: American Enterprise Institute (AEI)
   url: 'https://www.britannica.com/topic/American-Enterprise-Institute'
   outlet: Encyclopedia Britannica
   date: '2024-09-20'
   tier: 1
-  outlet: Britannica
 status: confirmed
 capture_lanes:
 - Corporate Capture

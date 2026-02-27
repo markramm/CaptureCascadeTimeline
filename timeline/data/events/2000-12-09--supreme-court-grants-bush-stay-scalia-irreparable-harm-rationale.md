@@ -44,7 +44,6 @@ sources:
   url: https://www.brookings.edu/books/bush-v-gore/
   outlet: Brookings Institution Press
   date: '2001-02-01'
-  tier: 1
 - title: 'Bush v. Gore: Perspectives on the Supreme Court Judicial Intervention'
   url: https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=3000&context=journal_articles
   outlet: University of Chicago Law Review

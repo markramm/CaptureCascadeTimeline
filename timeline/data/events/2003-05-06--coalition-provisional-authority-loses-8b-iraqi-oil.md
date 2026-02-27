@@ -28,7 +28,6 @@ sources:
   url: https://www.dpc.senate.gov/documents/dpc-iraq-report.pdf
   outlet: Senate Democratic Policy Committee
   date: '2007-09-25'
-  tier: 1
 - title: 'Iraq: Bremer CPA Lost Track of  Billion in Oil Revenues'
   url: https://corpwatch.org/article/iraq-bremer-cpa-lost-track-9-billion-oil-revenues-meant-rebuilding
   outlet: CorpWatch

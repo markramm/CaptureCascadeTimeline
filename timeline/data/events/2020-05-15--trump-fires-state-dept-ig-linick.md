@@ -22,19 +22,16 @@ sources:
   tier: 1
   outlet: NPR
   date: '2020-05-16'
-  outlet: NPR
 - title: 'President Trump Ousts Steve Linick, State Department Watchdog'
   url: 'https://www.bloomberg.com/news/articles/2020-05-16/state-department-inspector-general-steve-linick-is-fired'
   outlet: Bloomberg
   date: '2020-05-16'
   tier: 1
-  outlet: Bloomberg
 - title: Pompeo urged Trump to fire State Department inspector general
   url: 'https://www.cnbc.com/2020/05/16/pompeo-urged-trump-to-fire-state-department-inspector-general.html'
   outlet: CNBC
   date: '2020-05-16'
   tier: 2
-  outlet: CNBC
 capture_lanes:
 - Environmental Capture
 ---

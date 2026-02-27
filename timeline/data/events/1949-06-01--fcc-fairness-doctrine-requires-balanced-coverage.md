@@ -20,7 +20,6 @@ sources:
   date: '2024-01-01'
   tier: 2
   verified: true
-  tier: 2
 - title: Fairness doctrine
   url: https://www.britannica.com/topic/Fairness-Doctrine
   outlet: Encyclopaedia Britannica

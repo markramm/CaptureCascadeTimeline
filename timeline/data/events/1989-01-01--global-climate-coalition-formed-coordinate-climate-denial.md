@@ -29,7 +29,6 @@ sources:
   outlet: SourceWatch
   tier: 2
   verified: true
-  tier: 2
 - title: Industry Ignored Own Scientists on Climate
   url: https://www.nytimes.com/2009/04/24/science/earth/24deny.html
   outlet: New York Times

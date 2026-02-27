@@ -20,7 +20,6 @@ sources:
   date: '1984-07-26'
   tier: 1
   verified: true
-  tier: 2
 - title: Review of the Commission's Broadcast Ownership Rules
   url: https://docs.fcc.gov/public/attachments/DOC-347796A2.pdf
   outlet: Federal Communications Commission

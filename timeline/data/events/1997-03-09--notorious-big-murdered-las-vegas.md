@@ -27,7 +27,6 @@ sources:
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
   outlet: Unlimited Hangout
   date: '2025-04-01'
-  tier: 3
 - title: Investigation into death of Notorious B.I.G. heats up
   url: https://cnn.com/2011/CRIME/01/07/california.biggie.death.probe/index.html?amp=&amp=&amp=&eref=rss_topstories
   outlet: CNN

@@ -23,7 +23,6 @@ sources:
   date: '2025-01-01'
   tier: 2
   verified: true
-  tier: 2
 - title: In re Debs
   url: https://www.britannica.com/money/In-re-Debs
   outlet: Britannica

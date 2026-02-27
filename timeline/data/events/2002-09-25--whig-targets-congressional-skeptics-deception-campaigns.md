@@ -32,7 +32,6 @@ sources:
   url: https://www.amazon.com/Way-Win-Clinton-Rove-White/dp/0812975413
   outlet: Random House
   date: '2006-10-03'
-  tier: 2
 - title: 'The Argument: Billionaires, Bloggers, and the Battle to Remake Democratic
     Politics'
   url: https://www.amazon.com/Argument-Billionaires-Bloggers-Democratic-Politics/dp/1594201323

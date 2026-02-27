@@ -32,7 +32,6 @@ sources:
   outlet: Associated Press
   date: '2024-09-20'
   tier: 1
-  outlet: Associated Press
 capture_lanes:
 - Corporate Capture
 - Regulatory Capture

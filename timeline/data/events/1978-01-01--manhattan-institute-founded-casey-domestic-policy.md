@@ -22,19 +22,16 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: Manhattan Institute - SourceWatch
   url: 'https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research'
   outlet: SourceWatch
   date: '2024-09-15'
   tier: 2
-  outlet: SourceWatch
 - title: William J. Casey
   url: 'https://en.wikipedia.org/wiki/William_J._Casey'
   outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
-  outlet: Wikipedia
 status: confirmed
 capture_lanes:
 - Surveillance Infrastructure

@@ -20,13 +20,11 @@ sources:
   outlet: Southern Poverty Law Center
   date: '2016-05-17'
   tier: 1
-  outlet: Southern Poverty Law Center
 - title: 'Revealed: Conway, Bannon Members of Secretive Group'
   url: 'https://www.splcenter.org/hatewatch/2016/08/31/revealed-conway-bannon-members-secretive-group'
   outlet: Southern Poverty Law Center
   date: '2016-08-31'
   tier: 1
-  outlet: Southern Poverty Law Center
 status: confirmed
 capture_lanes:
 - Regulatory Capture

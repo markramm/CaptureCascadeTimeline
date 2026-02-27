@@ -20,19 +20,16 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: Cable Communications Policy Act of 1984 (1984)
   url: 'https://firstamendment.mtsu.edu/article/cable-communications-policy-act-of-1984/'
   outlet: The First Amendment Encyclopedia
   date: '2024-09-15'
   tier: 1
-  outlet: Firstamendment
 - title: 'S.66 - 98th Congress (1983-1984): Cable Communications Policy Act of 1984'
   url: 'https://www.congress.gov/bill/98th-congress/senate-bill/66'
   outlet: Congress.gov
   date: '2024-08-20'
   tier: 1
-  outlet: Congress.gov
 status: confirmed
 capture_lanes:
 - Corporate Capture

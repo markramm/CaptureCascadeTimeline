@@ -26,7 +26,6 @@ sources:
   tier: 1
     over "Socialized Medicine"'
   outlet: Project MUSE / Journal of Policy History
-  tier: 1
   date: '2017-10-01'
   verified: true
 - url: https://www.sfgate.com/opinion/article/How-AMA-Coffeecup-gave-Reagan-a-boost-3228367.php

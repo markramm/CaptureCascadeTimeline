@@ -22,7 +22,6 @@ sources:
   date: '1994-01-01'
   tier: 1
   verified: true
-  tier: 1
 - title: Oregon Department of Forestry Forest Practices Act
   url: https://www.oregon.gov/odf/working/pages/fpa.aspx
   outlet: Oregon Department of Forestry

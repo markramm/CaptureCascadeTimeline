@@ -23,13 +23,11 @@ sources:
   outlet: Documented
   date: '2020-11-20'
   tier: 1
-  outlet: Documented
 - title: A Rare Peek Inside the Vast Right-Wing Conspiracy
   url: 'https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy'
   outlet: The New Republic
   date: '2020-12-10'
   tier: 1
-  outlet: The New Republic
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

@@ -20,19 +20,16 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: Philanthropy Roundtable - InfluenceWatch
   url: 'https://www.influencewatch.org/non-profit/philanthropy-roundtable/'
   outlet: InfluenceWatch
   date: '2024-09-15'
   tier: 2
-  outlet: Influencewatch
 - title: Philanthropy Roundtable - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/Philanthropy_Roundtable'
   outlet: SourceWatch
   date: '2024-08-20'
   tier: 2
-  outlet: SourceWatch
 status: confirmed
 capture_lanes:
 - Judicial Capture

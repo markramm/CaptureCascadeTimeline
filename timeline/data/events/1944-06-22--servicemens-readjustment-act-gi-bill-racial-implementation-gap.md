@@ -22,7 +22,6 @@ sources:
   date: '2024-01-01'
   tier: 2
   verified: true
-  tier: 2
 - title: GI Bill - National Archives
   url: https://www.archives.gov/milestone-documents/servicemens-readjustment-act
   outlet: National Archives

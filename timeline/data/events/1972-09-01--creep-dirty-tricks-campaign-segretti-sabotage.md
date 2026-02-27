@@ -24,7 +24,6 @@ sources:
   date: '2024'
   tier: 1
   verified: true
-  tier: 1
 - title: Canuck letter - Wikipedia
   url: https://en.wikipedia.org/wiki/Canuck_letter
   outlet: Wikipedia

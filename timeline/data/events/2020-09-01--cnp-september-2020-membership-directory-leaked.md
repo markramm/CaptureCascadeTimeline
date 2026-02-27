@@ -18,13 +18,11 @@ sources:
   outlet: Documented
   date: '2022-01-15'
   tier: 1
-  outlet: Documented
 - title: Council for National Policy Membership Directory September 2020
   url: 'https://www.documentcloud.org/documents/7280937-Council-for-National-Policy-Membership-Directory/'
   outlet: DocumentCloud
   date: '2020-09-01'
   tier: 1
-  outlet: Documentcloud
 status: confirmed
 capture_lanes:
 - Regulatory Capture

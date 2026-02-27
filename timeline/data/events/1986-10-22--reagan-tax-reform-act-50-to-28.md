@@ -49,13 +49,11 @@ sources:
   tier: 1
   outlet: Center for Public Integrity
   date: '2024-09-15'
-  outlet: Publicintegrity
 - title: 'Reagan''s Tax Reform Was A Bipartisan Effort of Surrender to America''s Deepest Pockets'
   url: 'https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/'
   outlet: Institute for Policy Studies
   date: '2024-08-20'
   tier: 2
-  outlet: Ips Dc
 - title: C. Everett Koop and First Surgeon General Report on AIDS
   url: 'https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/'
   outlet: UNT Libraries

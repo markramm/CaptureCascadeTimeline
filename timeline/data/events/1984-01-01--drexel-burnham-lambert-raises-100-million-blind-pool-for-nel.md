@@ -14,7 +14,6 @@ sources:
     the JunkBond Raiders'
   url: https://www.amazon.com/Predators-Ball-Burnham-JunkBond-Raiders/dp/0140120904
   outlet: Connie Bruck
-  tier: 2
 - title: 'Private Equity in The 1980s: Corporate Raiders, Hostile Takeovers and Greenmail'
   url: https://www.primidi.com/private_equity_in_the_1980s/corporate_raiders_hostile_takeovers_and_greenmail
   outlet: Online Historical Finance Resource

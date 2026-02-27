@@ -27,7 +27,6 @@ sources:
   date: '2025-01-01'
   tier: 1
   verified: true
-  tier: 2
 - title: Aryan Nations Compound
   url: https://www.intermountainhistories.org/items/show/706
   outlet: Intermountain Histories

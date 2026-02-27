@@ -76,6 +76,28 @@ def parse_markdown_event(filepath: Path) -> Tuple[Optional[Dict], Optional[str],
     frontmatter_str = parts[1]
     body = parts[2].strip()
 
+    # Check for duplicate keys within source blocks (Hugo strict mode fails on these)
+    fm_lines = frontmatter_str.split('\n')
+    seen_keys = set()
+    for line in fm_lines:
+        stripped = line.strip()
+        indent = len(line) - len(line.lstrip()) if stripped else 0
+        if stripped.startswith('- ') and indent == 0:
+            seen_keys = set()
+            key_match = re.match(r'-\s+(\w+):', stripped)
+            if key_match:
+                seen_keys.add(key_match.group(1))
+            continue
+        if indent == 2:
+            key_match = re.match(r'\s+(\w+):', line)
+            if key_match:
+                key = key_match.group(1)
+                if key in seen_keys:
+                    errors.append(f"Duplicate key '{key}' in source block (Hugo will reject this)")
+                seen_keys.add(key)
+        if indent == 0 and stripped and not stripped.startswith('-'):
+            seen_keys = set()
+
     # Parse YAML
     try:
         frontmatter = yaml.safe_load(frontmatter_str)

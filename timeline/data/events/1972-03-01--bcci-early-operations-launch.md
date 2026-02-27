@@ -20,25 +20,21 @@ sources:
   tier: 2
   outlet: Wikipedia
   date: '2025'
-  outlet: Wikipedia
 - title: The BCCI Affair - Origins and Early Years
   url: 'https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm'
   outlet: Federation of American Scientists
   date: '1992'
   tier: 2
-  outlet: Irp
 - title: BCCI Archival Records
   url: 'https://atom.lib.strath.ac.uk/bank-of-credit-and-commerce-international'
   outlet: University of Strathclyde Archives
   date: '2025'
   tier: 2
-  outlet: Atom
 - title: Congressional Investigation of BCCI
   url: 'https://irp.fas.org/congress/1992_rpt/bcci'
   outlet: U.S. Senate Committee Report
   date: '1992'
   tier: 2
-  outlet: Irp
 capture_lanes:
 - Intelligence Penetration
 - Regulatory Capture

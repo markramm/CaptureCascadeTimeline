@@ -20,13 +20,11 @@ sources:
   outlet: Bill Moyers
   date: '2021-01-08'
   tier: 1
-  outlet: Bill Moyers
 - title: Christian-Right Council for National Policy Linked to Violent Breach of Capitol
   url: 'https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/'
   outlet: Truthout
   date: '2021-01-08'
   tier: 1
-  outlet: Truthout
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

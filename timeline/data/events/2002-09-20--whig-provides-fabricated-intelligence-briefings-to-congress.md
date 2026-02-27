@@ -32,7 +32,6 @@ sources:
   url: https://www.newyorker.com/magazine/2003/10/27/the-stovepipe
   outlet: The New Yorker
   date: '2003-10-27'
-  tier: 1
 - title: 'Dead Certain: The Presidency of George W. Bush'
   url: https://www.amazon.com/Dead-Certain-Presidency-George-Bush/dp/0307394433
   outlet: Crown Publishers

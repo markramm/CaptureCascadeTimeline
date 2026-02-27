@@ -19,13 +19,11 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: Council for National Policy
   url: 'https://persagen.org/docs/council_for_national_policy.html'
   outlet: Persagen
   date: '2024-11-10'
   tier: 2
-  outlet: Persagen
 status: confirmed
 capture_lanes:
 - Regulatory Capture

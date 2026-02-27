@@ -24,7 +24,6 @@ sources:
   date: '2024-01-01'
   tier: 2
   verified: true
-  tier: 2
 - title: Con-men of the labor movement Communists and labor unions
   url: https://www.hagley.org/research/programs/nam-project-news/con-men-labor-movement-communists-and-labor-unions
   outlet: Hagley Museum and Library

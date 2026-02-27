@@ -24,19 +24,16 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: 'The Council for National Policy: Behind the Curtain'
   url: 'https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain'
   outlet: Southern Poverty Law Center
   date: '2024-09-15'
   tier: 1
-  outlet: Southern Poverty Law Center
 - title: Council for National Policy - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/Council_for_National_Policy'
   outlet: SourceWatch
   date: '2024-08-20'
   tier: 2
-  outlet: SourceWatch
 status: confirmed
 capture_lanes:
 - Corporate Capture

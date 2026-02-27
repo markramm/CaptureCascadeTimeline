@@ -21,19 +21,16 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: Records Show State Policy Network Was Created by ALEC
   url: 'https://progressive.org/latest/records-show-state-policy-network-created-alec/'
   outlet: The Progressive
   date: '2024-09-15'
   tier: 1
-  outlet: Progressive
 - title: State Policy Network - SourceWatch
   url: 'https://www.sourcewatch.org/index.php/State_Policy_Network'
   outlet: SourceWatch
   date: '2024-08-20'
   tier: 2
-  outlet: SourceWatch
 status: confirmed
 capture_lanes:
 - Judicial Capture

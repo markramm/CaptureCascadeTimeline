@@ -25,13 +25,11 @@ sources:
   outlet: Insurrection Exposed
   date: '2021-01-15'
   tier: 2
-  outlet: Insurrectionexposed
 - title: Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol
   url: 'https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/'
   outlet: Center for Media and Democracy
   date: '2021-01-08'
   tier: 1
-  outlet: Exposedbycmd
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

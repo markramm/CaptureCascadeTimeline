@@ -21,13 +21,11 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court Supermajority'
   url: 'https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority'
   outlet: ProPublica
   date: '2023-12-20'
   tier: 1
-  outlet: ProPublica
 status: confirmed
 capture_lanes:
 - Judicial Capture

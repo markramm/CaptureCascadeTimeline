@@ -21,13 +21,11 @@ sources:
   outlet: Center for Media and Democracy
   date: '2021-01-08'
   tier: 1
-  outlet: Exposedbycmd
 - title: The Shadow Network (Council for National Policy) Is Not Going Away
   url: 'https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/'
   outlet: Bill Moyers
   date: '2021-01-08'
   tier: 1
-  outlet: Bill Moyers
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

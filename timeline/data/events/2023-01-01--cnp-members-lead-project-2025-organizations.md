@@ -23,13 +23,11 @@ sources:
   outlet: Global Project Against Hate and Extremism
   date: '2024-01-15'
   tier: 1
-  outlet: Globalextremism
 - title: Project 2025 Reaches 100 Coalition Partners
   url: 'https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president'
   outlet: Heritage Foundation
   date: '2023-06-01'
   tier: 2
-  outlet: Heritage Foundation
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

@@ -40,7 +40,6 @@ sources:
   url: https://ir.lawnet.fordham.edu/ulj/vol31/iss6/7/
   outlet: Fordham Urban Law Journal
   date: '2013'
-  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

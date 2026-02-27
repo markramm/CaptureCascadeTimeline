@@ -51,13 +51,11 @@ sources:
   outlet: Poynter Institute
   date: '2024-09-15'
   tier: 1
-  outlet: Poynter Institute
 - title: 'The Fairness Doctrine: How We Lost It and Why We Need It Back'
   url: 'https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/'
   outlet: Sisyphus Literary Magazine
   date: '2024-08-20'
   tier: 2
-  outlet: Sisyphuslitmag
 status: confirmed
 capture_lanes:
 - Regulatory Capture

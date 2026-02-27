@@ -23,13 +23,11 @@ sources:
   outlet: Rev
   date: '2020-08-21'
   tier: 2
-  outlet: Rev
 - title: Remarks by President Trump at the 2020 Council for National Policy Meeting
   url: 'https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-2020-council-national-policy-meeting/'
   outlet: Trump White House Archives
   date: '2020-08-21'
   tier: 1
-  outlet: Trumpwhitehouse
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -22,7 +22,6 @@ sources:
   url: https://www.politifact.com/factchecks/2018/oct/18/donald-trump/donald-trumps-claim-no-financial-interests-saudi-a
   outlet: PolitiFact
   date: '2018-10-18'
-  tier: 1
 - title: 'Saudi rentals at Trump World Tower raise conflict-of-interest concerns:
     Report'
   url: https://www.middleeasteye.net/news/foreign-counties-lease-trump-world-tower-emoluments-concerns-heighten

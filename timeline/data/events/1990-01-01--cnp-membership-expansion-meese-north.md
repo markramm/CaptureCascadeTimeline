@@ -20,13 +20,11 @@ sources:
   outlet: Goodreads
   date: '2019-10-01'
   tier: 2
-  outlet: Goodreads
 - title: Council for National Policy
   url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 status: confirmed
 capture_lanes:
 - Judicial Capture

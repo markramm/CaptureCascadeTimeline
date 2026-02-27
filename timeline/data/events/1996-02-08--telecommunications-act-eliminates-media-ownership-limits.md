@@ -25,7 +25,6 @@ sources:
   date: '2024-01-01'
   tier: 2
   verified: true
-  tier: 2
 - title: Telecommunications Act of 1996
   url: https://www.britannica.com/topic/Telecommunications-Act
   outlet: Encyclopaedia Britannica

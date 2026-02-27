@@ -32,13 +32,11 @@ sources:
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
-  outlet: Wikipedia
 - title: 'Proposition 13: Everything You Thought You Knew, and Things You Didn''t'
   url: 'https://aoausa.com/proposition-13-everything-you-thought-you-knew-and-things-you-didnt-from-the-howard-jarvis-taxpayers-association/'
   outlet: Howard Jarvis Taxpayers Association
   date: '2024-06-15'
   tier: 2
-  outlet: Aoausa
 status: confirmed
 capture_lanes:
 - Financial Capture

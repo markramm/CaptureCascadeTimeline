@@ -23,7 +23,6 @@ sources:
   date: '2002-10-09'
   tier: 1
   verified: true
-  tier: 1
 - title: The West Coast Lockout
   url: https://www.epi.org/publication/webfeatures_snapshots_archive_10302002/
   outlet: Economic Policy Institute

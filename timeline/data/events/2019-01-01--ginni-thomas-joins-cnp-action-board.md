@@ -21,13 +21,11 @@ sources:
   outlet: Documented
   date: '2021-01-15'
   tier: 1
-  outlet: Documented
 - title: How Ginni Thomas and the Shadowy Council of National Policy Advanced the Election Disinformation Campaign
   url: 'https://www.peoplefor.org/rightwingwatch/post/how-ginni-thomas-and-the-shadowy-council-of-national-policy-advanced-a-disinformation-campaign'
   outlet: People For the American Way
   date: '2021-01-15'
   tier: 1
-  outlet: Peoplefor
 status: confirmed
 capture_lanes:
 - Judicial Capture

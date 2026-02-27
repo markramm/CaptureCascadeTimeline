@@ -24,7 +24,6 @@ sources:
   date: '2024'
   tier: 2
   verified: true
-  tier: 2
 - title: 'Watergate: How John Dean Helped Bring Down Nixon'
   url: https://www.history.com/articles/watergate-nixon-john-dean-tapes
   outlet: History.com

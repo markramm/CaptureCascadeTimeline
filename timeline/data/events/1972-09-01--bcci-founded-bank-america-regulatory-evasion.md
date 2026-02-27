@@ -35,7 +35,6 @@ sources:
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/structural-sources-international-crime-policy-lessons-bcci-affair
   outlet: U.S. Department of Justice
   date: '1992-12-01'
-  tier: 1
 - title: 'BCCI: The Inside Story of the World''s Sleaziest Bank'
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/dirty-money-bcci-inside-story-worlds-sleaziest-bank
   outlet: U.S. Department of Justice
