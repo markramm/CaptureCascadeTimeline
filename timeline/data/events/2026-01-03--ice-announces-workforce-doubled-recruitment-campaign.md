@@ -1,12 +1,27 @@
 ---
-id: 2026-01-03--ice-announces-workforce-doubled-recruitment-campaign
-date: '2026-01-03'
-title: ICE Announces Workforce Doubled to 22,000 Agents Through "Defend Your Culture" Recruitment Campaign
-importance: 8
 actors:
 - Kristi Noem
-- ICE
-- Department of Homeland Security
+- Immigration and Customs Enforcement (ICE)
+- U.S. Department of Homeland Security
+capture_lanes:
+- Institutional Capture
+- Media Manipulation
+date: '2026-01-03'
+id: 2026-01-03--ice-announces-workforce-doubled-recruitment-campaign
+importance: 8
+sources:
+- date: '2026-01-03'
+  outlet: Department of Homeland Security
+  tier: 1
+  title: ICE Announces Historic 120% Manpower Increase, Thanks to Recruitment Campaign
+    that Brought in 12,000 Officers and Agents
+  url: https://www.dhs.gov/news/2026/01/03/ice-announces-historic-120-manpower-increase-thanks-recruitment-campaign-brought
+- date: '2025-10-10'
+  outlet: CNN
+  tier: 1
+  title: Analysis - DHS leans into propaganda with militaristic action videos
+  url: https://www.cnn.com/2025/10/10/politics/ice-videos-dhs-noem-immigration-arrests-analysis
+status: confirmed
 tags:
 - ice
 - recruitment
@@ -16,21 +31,8 @@ tags:
 - workforce-expansion
 - gaming-culture
 - radicalization-pipeline
-sources:
-- title: ICE Announces Historic 120% Manpower Increase, Thanks to Recruitment Campaign that Brought in 12,000 Officers and Agents
-  url: https://www.dhs.gov/news/2026/01/03/ice-announces-historic-120-manpower-increase-thanks-recruitment-campaign-brought
-  outlet: Department of Homeland Security
-  date: '2026-01-03'
-  tier: 1
-- title: Analysis - DHS leans into propaganda with militaristic action videos
-  url: https://www.cnn.com/2025/10/10/politics/ice-videos-dhs-noem-immigration-arrests-analysis
-  outlet: CNN
-  date: '2025-10-10'
-  tier: 1
-status: confirmed
-capture_lanes:
-- Institutional Capture
-- Media Manipulation
+title: ICE Announces Workforce Doubled to 22,000 Agents Through "Defend Your Culture"
+  Recruitment Campaign
 ---
 
 ICE announced its workforce more than doubled from 10,000 to 22,000 agents in less than a year, crediting the unprecedented recruitment campaign launched under the "Stronger Border, Stronger America" initiative. DHS received over 150,000 applications from what it called "patriotic Americans."
