@@ -102,6 +102,7 @@ class StandardizationService:
         # For in-memory databases, keep connection alive
         if db_path == ':memory:':
             self._persistent_conn = sqlite3.connect(db_path)
+            self._persistent_conn.execute("PRAGMA foreign_keys = ON;")
             self._persistent_conn.row_factory = sqlite3.Row
             self._persistent_conn.executescript(SCHEMA_SQL)
             self._persistent_conn.commit()
@@ -114,6 +115,7 @@ class StandardizationService:
             return self._persistent_conn
 
         conn = sqlite3.connect(self.db_path)
+        conn.execute("PRAGMA foreign_keys = ON;")
         conn.row_factory = sqlite3.Row
         return conn
 

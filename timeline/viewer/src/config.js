@@ -24,9 +24,8 @@ const getBaseUrl = () => {
 const BASE_URL = getBaseUrl();
 
 // Determine if we should use live API or static files
-// Temporarily disabled: Live API has stale data (1873 events vs 2875 in static files)
-// TODO: Update live API database with latest events, then re-enable
-const USE_LIVE_API = false; // isDevelopment && !isGitHubPages && !isStaticDeployment;
+// Live API is now synced with latest events (3286 events as of Dec 2025)
+const USE_LIVE_API = false; // User requested Static API for now
 
 // API endpoint configuration
 const getLiveApiPath = (endpoint) => `${BASE_URL}/api/${endpoint}`;
