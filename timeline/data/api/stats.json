@@ -1,107 +1,101 @@
 {
-  "total_events": 4238,
-  "total_tags": 6468,
-  "total_actors": 7667,
-  "total_sources": 14523,
+  "total_events": 4452,
+  "total_tags": 6364,
+  "total_actors": 7821,
+  "total_sources": 15566,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2026-02-15"
+    "end": "2026-03-28"
   },
   "status_counts": {
-    "unknown": 247,
-    "confirmed": 3953,
-    "validated": 24,
-    "disputed": 3,
-    "verified": 1,
-    "reported": 5,
-    "unverified": 1,
-    "predicted": 1,
-    "developing": 1,
-    "contested": 2
+    "reported": 254,
+    "confirmed": 4192,
+    "disputed": 5,
+    "developing": 1
   },
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 573
+      "count": 589
     },
     {
       "name": "institutional-capture",
-      "count": 427
+      "count": 477
     },
     {
       "name": "corruption",
-      "count": 289
-    },
-    {
-      "name": "systematic-corruption",
-      "count": 141
+      "count": 299
     },
     {
       "name": "trump-administration",
-      "count": 139
+      "count": 161
     },
     {
-      "name": "kleptocracy",
-      "count": 134
-    },
-    {
-      "name": "government-contracts",
-      "count": 131
-    },
-    {
-      "name": "surveillance",
-      "count": 127
+      "name": "systematic-corruption",
+      "count": 155
     },
     {
       "name": "supreme-court",
-      "count": 125
+      "count": 137
     },
     {
-      "name": "healthcare",
-      "count": 114
+      "name": "kleptocracy",
+      "count": 136
+    },
+    {
+      "name": "government-contracts",
+      "count": 135
+    },
+    {
+      "name": "surveillance",
+      "count": 131
+    },
+    {
+      "name": "crypto",
+      "count": 115
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1108
+      "count": 1218
     },
     {
       "name": "Trump Administration",
-      "count": 332
+      "count": 340
     },
     {
       "name": "Department of Justice",
-      "count": 280
+      "count": 291
     },
     {
       "name": "U.S. Congress",
-      "count": 202
+      "count": 205
     },
     {
       "name": "Elon Musk",
-      "count": 167
+      "count": 175
     },
     {
       "name": "U.S. Supreme Court",
-      "count": 136
-    },
-    {
-      "name": "Immigration and Customs Enforcement (ICE)",
-      "count": 100
+      "count": 140
     },
     {
       "name": "Pam Bondi",
-      "count": 99
+      "count": 135
     },
     {
-      "name": "FBI",
-      "count": 92
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "count": 115
     },
     {
-      "name": "Ronald Reagan",
-      "count": 71
+      "name": "Federal Bureau of Investigation",
+      "count": 106
+    },
+    {
+      "name": "U.S. Department of Defense",
+      "count": 88
     }
   ],
-  "generated": "2026-02-21T17:49:11.232556"
+  "generated": "2026-03-12T19:37:58.888710"
 }

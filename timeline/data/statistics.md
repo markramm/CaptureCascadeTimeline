@@ -1,43 +1,43 @@
 # Timeline Statistics Report
 
-Generated: 2026-02-21 23:02:31
+Generated: 2026-03-12 19:37:58
 
 ## Overview
-- **Total Events**: 4238
-- **Date Range**: 1142-01-01 to 2026-02-15
-- **Total Sources**: 14709
-- **Unique Tags**: 6160
-- **Unique Actors**: 7641
+- **Total Events**: 4452
+- **Date Range**: 1142-01-01 to 2026-03-28
+- **Total Sources**: 15566
+- **Unique Tags**: 6364
+- **Unique Actors**: 7821
 
 ## Event Status
-- **Reported**: 253
-- **Confirmed**: 3979
+- **Reported**: 254
+- **Confirmed**: 4192
 - **Disputed**: 5
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 575 events
-- institutional-capture: 428 events
-- corruption: 289 events
-- trump-administration: 160 events
-- systematic-corruption: 141 events
+- regulatory-capture: 589 events
+- institutional-capture: 477 events
+- corruption: 299 events
+- trump-administration: 161 events
+- systematic-corruption: 155 events
 - supreme-court: 137 events
+- kleptocracy: 136 events
 - government-contracts: 135 events
-- kleptocracy: 134 events
-- surveillance: 127 events
-- healthcare: 114 events
+- surveillance: 131 events
+- crypto: 115 events
 
 ## Top Actors
-- Donald Trump: 1108 events
-- Trump Administration: 332 events
-- Department of Justice: 280 events
-- U.S. Congress: 202 events
-- Elon Musk: 168 events
-- U.S. Supreme Court: 136 events
-- Federal Bureau of Investigation: 103 events
-- Immigration and Customs Enforcement (ICE): 100 events
-- Pam Bondi: 100 events
-- Securities and Exchange Commission: 74 events
+- Donald Trump: 1218 events
+- Trump Administration: 340 events
+- Department of Justice: 291 events
+- U.S. Congress: 205 events
+- Elon Musk: 175 events
+- U.S. Supreme Court: 140 events
+- Pam Bondi: 135 events
+- Immigration and Customs Enforcement (ICE): 115 events
+- Federal Bureau of Investigation: 106 events
+- U.S. Department of Defense: 88 events
 
 ## Events by Year
 - 1142: 1 events
@@ -264,17 +264,17 @@ Generated: 2026-02-21 23:02:31
 - 2010: 45 events
 - 2011: 37 events
 - 2012: 38 events
-- 2013: 61 events
+- 2013: 62 events
 - 2014: 53 events
 - 2015: 57 events
 - 2016: 93 events
 - 2017: 151 events
 - 2018: 129 events
 - 2019: 134 events
-- 2020: 130 events
-- 2021: 105 events
-- 2022: 92 events
+- 2020: 134 events
+- 2021: 106 events
+- 2022: 95 events
 - 2023: 97 events
 - 2024: 166 events
-- 2025: 1231 events
-- 2026: 167 events
+- 2025: 1251 events
+- 2026: 352 events
