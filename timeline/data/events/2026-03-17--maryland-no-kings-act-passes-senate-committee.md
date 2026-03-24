@@ -11,12 +11,12 @@ tags:
 - civil-rights
 - federalism
 sources:
-- title: Maryland Senate Committee Advances "No Kings Act" Targeting Federal Agent Overreach
+- title: 'Maryland Senate Committee Advances "No Kings Act" Targeting Federal Agent Overreach'
   url: https://www.marylandmatters.org/2026/03/17/senate-committee-advances-no-kings-act-sb-346/
   outlet: Maryland Matters
   date: '2026-03-17'
   tier: 2
-- title: "No Kings Act" Clears Senate Committee, Heads to Full Senate Vote
+- title: '"No Kings Act" Clears Senate Committee, Heads to Full Senate Vote'
   url: https://www.somdchronicle.com/2026/03/17/no-kings-act-clears-senate-committee/
   outlet: Southern Maryland Chronicle
   date: '2026-03-17'

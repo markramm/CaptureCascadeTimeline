@@ -30,7 +30,7 @@ sources:
   outlet: CNN
   date: '2026-03-18'
   tier: 1
-- title: 'Fake hearing' — Democrats blast Bondi Epstein briefing as political theater
+- title: "'Fake hearing' — Democrats blast Bondi Epstein briefing as political theater"
   url: https://www.axios.com/2026/03/18/bondi-epstein-briefing-democrats-walkout-fake-hearing
   outlet: Axios
   date: '2026-03-18'
