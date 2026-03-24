@@ -11,7 +11,7 @@ import { FilterX } from 'lucide-react';
 import useIndexedDB from '../hooks/useIndexedDB';
 import './VirtualTimelineView.css';
 
-const ITEM_HEIGHT = 110; // Pixels per event card - reduced for density
+const ITEM_HEIGHT = 120; // Pixels per event card - inline date+title, summary, tags
 const WINDOW_SIZE = 50; // Events to keep in memory
 
 const VirtualTimelineView = ({
@@ -249,6 +249,25 @@ const VirtualTimelineView = ({
 };
 
 /**
+ * Format date concisely: "M/D/YYYY"
+ */
+const formatDateShort = (dateStr) => {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
+};
+
+/**
+ * Get importance color for left border accent
+ */
+const getImportanceBorderColor = (importance) => {
+  if (importance >= 9) return '#ef4444';
+  if (importance >= 7) return '#f59e0b';
+  if (importance >= 5) return '#3b82f6';
+  return '#475569';
+};
+
+/**
  * Individual event card component
  */
 const TimelineEventCard = ({ event, onClick }) => {
@@ -257,11 +276,11 @@ const TimelineEventCard = ({ event, onClick }) => {
     return null;
   }
 
-  const formattedDate = event.date ? new Date(event.date).toLocaleDateString() : 'Unknown date';
   const title = event.title || 'Untitled Event';
   const summary = event.summary || '';
   const importance = event.importance || 5;
   const tags = event.tags || [];
+  const dateStr = formatDateShort(event.date);
 
   return (
     <div
@@ -270,26 +289,20 @@ const TimelineEventCard = ({ event, onClick }) => {
       role="button"
       tabIndex={0}
       onKeyPress={(e) => e.key === 'Enter' && onClick && onClick()}
+      style={{ borderLeftColor: getImportanceBorderColor(importance) }}
     >
-      <div className="event-header">
-        <div className="event-date">
-          {formattedDate}
-        </div>
-        {importance && (
-          <div className={`event-importance importance-${importance}`}>
-            {importance}/10
-          </div>
-        )}
+      <div className="event-title-row">
+        <span className="event-date">{dateStr}</span>
+        <h3 className="event-title">{title}</h3>
+        <span className={`event-importance importance-${importance}`}>
+          {importance}/10
+        </span>
       </div>
-
-      <h3 className="event-title">
-        {title}
-      </h3>
 
       {summary && (
         <p className="event-summary">
-          {summary.length > 200
-            ? summary.substring(0, 200) + '...'
+          {summary.length > 150
+            ? summary.substring(0, 150) + '...'
             : summary}
         </p>
       )}
