@@ -91,7 +91,7 @@ export const shareEvent = async (event, filters = null) => {
   const staticUrl = generateStaticEventUrl(event.id);
 
   const shareData = {
-    title: `Kleptocracy Timeline: ${event.title}`,
+    title: `Capture Cascade Timeline: ${event.title}`,
     text: event.summary || `${event.title} - ${event.date}`,
     url: interactiveUrl
   };
@@ -127,8 +127,8 @@ export const shareFilteredView = async (filters) => {
   const url = generateShareUrl({ filters });
   
   const shareData = {
-    title: 'Kleptocracy Timeline - Filtered View',
-    text: 'Explore this filtered view of the Kleptocracy Timeline',
+    title: 'Capture Cascade Timeline - Filtered View',
+    text: 'Explore this filtered view of the Capture Cascade Timeline',
     url: url
   };
   

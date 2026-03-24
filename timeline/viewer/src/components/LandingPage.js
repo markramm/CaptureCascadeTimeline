@@ -37,7 +37,7 @@ const LandingPage = ({ onEnterTimeline }) => {
     <div className="landing-page">
       <div className="landing-content">
         <header className="landing-header">
-          <h1>The Kleptocracy Timeline</h1>
+          <h1>Capture Cascade Timeline</h1>
           <p className="tagline">Open Source Intelligence for Democratic Defense</p>
 
           <button className="hero-enter-btn" onClick={onEnterTimeline}>
@@ -251,7 +251,7 @@ const LandingPage = ({ onEnterTimeline }) => {
               the community.
             </p>
             <p className="footer-copyright">
-              © 2025 Kleptocracy Timeline Project | Data: <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> | Code: <a href="https://github.com/markramm/CaptureCascadeTimeline/blob/main/LICENSE-MIT" target="_blank" rel="noopener noreferrer">MIT License</a>
+              © 2025 Capture Cascade Timeline Project | Data: <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> | Code: <a href="https://github.com/markramm/CaptureCascadeTimeline/blob/main/LICENSE-MIT" target="_blank" rel="noopener noreferrer">MIT License</a>
             </p>
           </div>
         </footer>

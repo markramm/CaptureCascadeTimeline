@@ -30,7 +30,7 @@ const ShareDialog = ({ event, filters = null, onClose }) => {
     if (navigator.share) {
       try {
         await navigator.share({
-          title: `Kleptocracy Timeline: ${event.title}`,
+          title: `Capture Cascade Timeline: ${event.title}`,
           text: event.summary || `${event.title} - ${event.date}`,
           url: selectedUrl
         });

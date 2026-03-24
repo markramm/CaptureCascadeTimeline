@@ -1,4 +1,4 @@
-# Kleptocracy Timeline - Timeline Data & Viewer
+# Capture Cascade Timeline - Timeline Data & Viewer
 
 This directory contains the core timeline data and React viewer application.
 
